@@ -646,6 +646,24 @@ Nebst unserer „Heißen Oma“ gibt es heuer einen nach Spezialrezept zubereiteten G
 Sie finden uns  wie immer in der „oberen“ Kirchstraße - gegenüber dem evangelischen Pfarrhaus. Wir freuen uns auf Ihren Besuch!
                                                          </p>            <br />    	</div>    </td></tr>
 
+<tr>    <td id="contentfont" style= "text-align:left;">     	<div align="left"><img src="bilder/svi_mini.jpg"> <strong>D1 - Hallenmeisterschaft</strong><br>   <p>
+
+Ein schweres Programm erwartete uns heute in der Zwischenrunde der Hallenmeisterschaft in Leonberg. Mit Eltingen und Rutesheim hatten wir zwei Bezirksligisten in der Gruppe und auch Pattonville, 
+Weil der Stadt und Kleinsachsenheim hatten in der Vergangenheit gezeigt, dass sie guten Fußball spielen. Mit einer geschlossenen Mannschaftsleistung gelang uns heute in zumeist 
+engen Spielen die ein oder andere Überraschung. Unsere gut stehende Abwehr inkl. Colin zwischen den Pfosten konnte so manche hochkarätige Torchance der Gegner vereiteln und den Sieg 
+oder das Unentschieden über die Zeit bringen. Aufgrund eines Regelverstosses wurden alle Spiele der SGM Weil der Stadt/Malmsheim im Nachhinein mit 0:3 für den jeweiligen Gegner gewertet.<br> 
+Da dadurch unsere 0:2-Niederlage in einen Sieg umgewandelt wurde, konnten wir sogar als Gruppensieger ins Halbfinale einziehen. Hier hoffen wir nun darauf, dass bei der Gruppeneinteilung 
+berücksichtigt wird, dass der SV Illingen ein Halbfinale ausrichtet. Ein Halbfinale zuhause wäre für die Jungs etwas ganz Besonderes.<br><br> 
+ Glückwunsch an unsere Buben, die heute allesamt eine tolle Leistung zeigten. <br>
+ SVI 1 - TSV Kleinsachsenheim 1 3 : 0<br>
+ SVI 1 - SGM Spvgg Weil d.Stadt/Malmsheim 1 0 : 2 (3:0 W.)<br>
+ SVI 1 - TSV Eltingen I 1 : 0<br>
+ SVI 1 - SV Pattonville I 0 : 0<br>
+ SVI 1 - SKV Rutesheim I 1 : 0<br><br>
+ Es spielten: <br>
+ Colin Mitschelen (TS), Salvatore Grillo, Angelo Di Caro, Chris Wöhr, Maximilian Titz, Tom Lindauer., Tom Weiß (1), Tobias Däschner (4) </p>            
+<br />    	</div>    </td></tr>														 
+														 
 <tr>    <td id="contentfont" style= "text-align:left;">     	<div align="left"><img src="bilder/svi_mini.jpg"> <strong>Termine für das Jahr 2014 sind online!</strong><br>   <p>
 
 Erste Termine für das kommende Jahr stehen fest, darunter auch das Jugend-Camp 2014, das wie gewohnt in den Pfingstferien und zwar vom 11.06.14 - 13.06.14 stattfinden wird.<br>
