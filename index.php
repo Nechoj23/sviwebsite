@@ -636,15 +636,7 @@ function MM_showHideLayers() { //v3.0
       <p>Die Abteilung des SVI bedankt sich herzlich bei <strong>Philipp Scheytt </strong>(Mitte) f&uuml;r die gute Arbeit und das tolle Engagement. Nach einem kurzen Comeback als Aktive-Torh&uuml;ter, musste Philipp die Fu&szlig;ballschuhe aufgrund einiger schwerer Verletzungen schnell wieder an den Nagel h&auml;ngen, &uuml;bernahm daf&uuml;r aber den  Posten des scheidenden Wolfgang Auer als 1. Spielleiter. Seit &uuml;ber vier Jahren k&uuml;mmerte er sich ehrenamtlich um alles rund um den Spieltag bei der ersten und der zweiten Mannschaft und legt dieses Amt nun leider nieder.<br>
       Wir w&uuml;nschen Dir f&uuml;r die Zukunft alles Gute und freuen uns immer Dich auf unserem Sportplatz begr&uuml;&szlig;en zu d&uuml;rfen!</p>
       <br />        </div></td>	</tr> -->
-	  <tr>    <td id="contentfont" style= "text-align:left;">     	<div align="left"><img src="bilder/svi_mini.jpg"> <strong>Illinger Weihnachtsmarkt am 14. und 15. Dezember</strong><br>   <p>
-
-Die Fußballabteilung wird sich in Zusammenarbeit mit dem Förderverein Fußball am 14. und 15. Dezember wieder  beim Illinger Weihnachtsmarkt beteiligen. <br>
-In diesem Jahr bieten wir erstmalig frisch zubereiteten Flammkuchen nach „Elsässer Art“  (auch vegetarisch) aus unserem Steinofen an. 
-Nebst unserer „Heißen Oma“ gibt es heuer einen nach Spezialrezept zubereiteten Glühwein, für den ausschließlich hochwertige Weine der
- Weingärtnergenossenschaft Ensingen verwendet werden.  Lassen Sie sich überraschen! Selbstverständlich bieten wir auch wieder unseren 
- Kinderpunsch und diverse alkoholfreie Getränke an.<br>
-Sie finden uns  wie immer in der „oberen“ Kirchstraße - gegenüber dem evangelischen Pfarrhaus. Wir freuen uns auf Ihren Besuch!
-                                                         </p>            <br />    	</div>    </td></tr>
+	  
 
 <tr>    <td id="contentfont" style= "text-align:left;">     	<div align="left"><img src="bilder/svi_mini.jpg"> <strong>D1 - Hallenmeisterschaft</strong><br>   <p>
 
@@ -2404,11 +2396,11 @@ In den drei Tagen konnten die Jungen und das einzige M&auml;dchen ihre F&auml;hi
 
 			<a href="http://ergebnisdienst.fussball.de/spiel/bezirksliga/bezirk-enz-murr/bezirksliga/herren/spieljahr1314/wuerttemberg/-/mandant/35/spiel/01HIJ6MV3K000000VV0AG812VU0P4H9C"><em>mehr Infos zum Spiel</em></a> </td>
 
-      </tr>  <!--
-<tr>        <td id="contentfont" style= "text-align:left; padding-left:50px;">SV Illingen II&nbsp;vs. SC Hohenhaslach II&nbsp; 3:0 (2:0)<br/>           
-	  <span class="Stil20"><em>Torsch&uuml;tzen: 1:0 Denis Herman, 2:0 und 3:0 Matthias Pucci	  </em></span><br><br>		
-	<a href="http://ergebnisdienst.fussball.de/spiel/-/mandant/35/spiel/01HLTRI1F8000000VV0AG812VS2HNECA"><em>mehr Infos zum Spiel</em></a> </td>    </tr> 
--->
+      </tr>  
+<tr>        <td id="contentfont" style= "text-align:left; padding-left:50px;">SV Illingen II&nbsp;vs. TSV Häfnerhaslach II&nbsp; 5:1 (1:1)<br/>           
+	  <span class="Stil20"><em>Torsch&uuml;tzen: 1:0 Matthias Pucci (FE), 2:1 u. 5:1 Marcel Liebendörfer, 3:1 Pasquale Arena, 4:1 Birol Aladag, </em></span><br><br>		
+	<a href="http://ergebnisdienst.fussball.de/spiel/kreisliga-c-5/bezirk-enz-murr-kl/kreisliga-c/herren/spieljahr1314/wuerttemberg/-/mandant/35/spiel/01HLTRI1RS000000VV0AG812VS2HNECA"><em>mehr Infos zum Spiel</em></a> </td>    </tr> 
+
 
 
 	<!-- <tr>
@@ -2498,7 +2490,7 @@ In den drei Tagen konnten die Jungen und das einzige M&auml;dchen ihre F&auml;hi
 
       </tr>
 
-    <!--
+    
 
        <tr>
 
@@ -2506,7 +2498,10 @@ In den drei Tagen konnten die Jungen und das einzige M&auml;dchen ihre F&auml;hi
 
      	</tr> 
 
--->   	<tr>        <td id="contentfont" style= "text-align:left;"><p><b>So 15.12</b><b>. 14.00 Uhr</b>   	&nbsp; <img src="bilder/MannschaftsLogos/svi_logo55px.jpg"alt=" 		" align="middle">   SV Illingen II &nbsp;vs. TSV Häfnerhaslach II 	<img src="bilder/MannschaftsLogos/haefnerhaslach.jpg" alt=" " align="middle"></p></td>      </tr>  </tr>
+   	
+<!--
+<tr>        <td id="contentfont" style= "text-align:left;"><p><b>So 15.12</b><b>. 14.00 Uhr</b>   	&nbsp; <img src="bilder/MannschaftsLogos/svi_logo55px.jpg"alt=" 		" align="middle">   SV Illingen II &nbsp;vs. TSV Häfnerhaslach II 	<img src="bilder/MannschaftsLogos/haefnerhaslach.jpg" alt=" " align="middle"></p></td>      </tr>  </tr>
+-->  
   <!--   <tr>
 
 			<td height="50px" colspan="7">

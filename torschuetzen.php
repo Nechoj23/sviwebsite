@@ -116,7 +116,7 @@
       <td width="424" id="contentFont"><font size="+1">Bisher keine Torschützen</font></td>
     </tr> -->
 		<tr id="contentFont"> 
-      <td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">9 
+      <td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">10 
       Tore</font></p></td>
       <td width="424" id="contentFont"><font size="+1">Matthias Pucci</font></td>
     </tr> 
@@ -140,13 +140,18 @@
       Tore</font></p></td>
       <td width="424" id="contentFont"><font size="+1">Lukas Knödler</font></td>
     </tr> 
+    <tr id="contentFont"> 
+      <td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">4 
+      Tore</font></p></td>
+      <td width="424" id="contentFont"><font size="+1">Marcel Liebendörfer</font></td>
+    </tr> 
 		<tr id="contentFont"> 
       <td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">3 
       Tore</font></p></td>
       <td width="424" id="contentFont"><font size="+1">Christian Reichert</font></td>
     </tr>
 	<tr id="contentFont"> 
-      <td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">2 
+      <td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">3 
       Tore</font></p></td>
       <td width="424" id="contentFont"><font size="+1">Birol Aladag</font></td>
     </tr> 
@@ -166,11 +171,7 @@
       <td width="424" id="contentFont"><font size="+1">Denis Herman</font></td>
     </tr> 
 	
-		<tr id="contentFont"> 
-      <td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">2 
-      Tore</font></p></td>
-      <td width="424" id="contentFont"><font size="+1">Marcel Liebendörfer</font></td>
-    </tr> 
+		
 
 	<tr id="contentFont"> 
       <td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">1 
@@ -213,6 +214,11 @@
       <td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">1 
       Tor</font></p></td>
       <td width="424" id="contentFont"><font size="+1">Tobias Rehfuß</font></td>
+    </tr> 
+    <tr id="contentFont"> 
+      <td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">1 
+      Tor</font></p></td>
+      <td width="424" id="contentFont"><font size="+1">Paquale Arena</font></td>
     </tr> 
 		 
 	

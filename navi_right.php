@@ -25,21 +25,21 @@
 <br />
 <span class="Stil6">
 
-
-<!--&nbsp;&nbsp;14.06.13<br />
-&nbsp;&nbsp;Jugend-Training mit der<br />
-&nbsp;&nbsp;TSG 1899 Hoffenheim<br />
-&nbsp;&nbsp;&nbsp;--------------<br /> -->
-<!--
-&nbsp;&nbsp;03.08.13<br />
-&nbsp;&nbsp;Offizielle Aufstiegsfeier<br />
-&nbsp;&nbsp;der ersten Mannschaft<br />
-&nbsp;&nbsp;im Vereinsheim<br />
-&nbsp;&nbsp;&nbsp;--------------<br /> -->
-&nbsp;&nbsp;14.12.13 - 15.12.13<br />
-&nbsp;&nbsp;Weihnachtsmarkt<br />
+&nbsp;&nbsp;12.01.14<br />
+&nbsp;&nbsp;Hallenspieltag<br />
 &nbsp;&nbsp;in Illingen<br />
-&nbsp;&nbsp;<br /> 
+&nbsp;&nbsp;&nbsp;--------------<br /> 
+
+&nbsp;&nbsp;24.01.14<br />
+&nbsp;&nbsp;Hauptversammlung<br />
+&nbsp;&nbsp;des Fördervereins<br />
+&nbsp;&nbsp;&nbsp;--------------<br />
+
+&nbsp;&nbsp;02.02.14<br />
+&nbsp;&nbsp;Karnevalsfrühschoppen<br />
+&nbsp;&nbsp;in Illingen/Saar<br />
+
+
 
 
  
