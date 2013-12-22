@@ -14,7 +14,7 @@
      
     
     <tr> 
-      <td width="272" class="big"><img src="bilder/AktiveSpieler/thomas.jpg" width="240" height="320"> 
+      <td width="272" class="big"><img src="bilder/c-jugend_1314/marcello.jpg" width="240" height="319"> 
       </td>
       <td width="278" valign="top"><table width="319" class="profil">
           <tr bgcolor="#CCCCCC" class="roww1 entries"> 
@@ -23,15 +23,15 @@
           </tr>
           <tr bgcolor="#FFFFFF" class="roww1 entries"> 
             <td width="113" class="col1"><font color="#0066cc">Name:</font></td>
-            <td width="174"><font color="#0066cc">Thomas Fritsch</font></td>
+            <td width="174"><font color="#0066cc">Marcello Solombrino</font></td>
           </tr>
           <tr bgcolor="#CCCCCC" class="roww2 entries"> 
             <td class="col1"><font color="#0066cc">Geburtsdatum:</font></td>
-            <td><font color="#0066cc">02.09.1971</font></td>
+            <td><font color="#0066cc">09.02.1970</font></td>
           </tr>
           <tr bgcolor="#FFFFFF" class="roww2 entries"> 
             <td height="21" class="col1"><font color="#0066cc">im Verein seit:</font></td>
-            <td><font color="#0066cc">1978</font></td>
+            <td><font color="#0066cc">2005</font></td>
           </tr>
           <tr bgcolor="#CCCCCC" class="roww1 entries"> 
             <td class="col1"><font color="#0066cc">Trainerstationen:</font></td>
@@ -39,22 +39,22 @@
           </tr>
           <tr bgcolor="#FFFFFF" class="roww2 entries"> 
             <td class="col1"><font color="#0066cc">Spielerstationen:</font></td>
-            <td><font color="#0066cc">SV Illingen (595 Spiele)</font></td>
+            <td><font color="#0066cc">&nbsp;</font></td>
           </tr>
 
           <tr bgcolor="#CCCCCC" class="roww2 entries"> 
             <td valign="top" class="col1"><font color="#0066cc">Telefon:</font></td>
-            <td><font color="#0066cc">0171-3207176<br />
-            07042-21600</font></td>
+            <td><font color="#0066cc">0176-84533510</font></td>
           </tr>
           <tr bgcolor="#FFFFFF" class="roww2 entries"> 
             <td class="col1"><font color="#0066cc">E-Mail:</font></td>
-            <td><font color="#0066cc">thomas.fritsch@kabelbw.de</font></td>
+            <td><font color="#0066cc">marcello.solombrino@t-online.de</font></td>
           </tr>
 
           
         </table></td>
     </tr>
+	<!--
 	<tr> 
       <td height="50px" colspan="7"> <hr width="100%" size="1px" noshade style="color:#cccccc; background-color:#CCCCCC;"> 
       </td>
@@ -103,7 +103,7 @@
 
           
         </table></td>
-    </tr>
+    </tr> -->
 	<tr> 
       <td height="50px" colspan="7"> <hr width="100%" size="1px" noshade style="color:#cccccc; background-color:#CCCCCC;"> 
       </td>

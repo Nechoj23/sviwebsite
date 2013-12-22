@@ -151,7 +151,7 @@
       <td width="424" id="contentFont"><font size="+1">Christian Reichert</font></td>
     </tr>
 	<tr id="contentFont"> 
-      <td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">3 
+      <td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">2 
       Tore</font></p></td>
       <td width="424" id="contentFont"><font size="+1">Birol Aladag</font></td>
     </tr> 
@@ -171,8 +171,8 @@
       <td width="424" id="contentFont"><font size="+1">Denis Herman</font></td>
     </tr> 
 	
-		
-
+		<tr id="contentFont">       <td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">1       Tor</font></p></td>      <td width="424" id="contentFont"><font size="+1">Pasquale Arena</font></td>    </tr> 
+<tr id="contentFont">       <td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">1       Tor</font></p></td>      <td width="424" id="contentFont"><font size="+1">Daniel Brenner</font></td>    </tr> 
 	<tr id="contentFont"> 
       <td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">1 
       Tor</font></p></td>
@@ -215,11 +215,7 @@
       Tor</font></p></td>
       <td width="424" id="contentFont"><font size="+1">Tobias Rehfuﬂ</font></td>
     </tr> 
-    <tr id="contentFont"> 
-      <td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">1 
-      Tor</font></p></td>
-      <td width="424" id="contentFont"><font size="+1">Paquale Arena</font></td>
-    </tr> 
+    
 		 
 	
 

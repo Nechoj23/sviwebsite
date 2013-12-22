@@ -14,7 +14,7 @@
      
     
     <tr> 
-      <td width="272" class="big"><a href="bilder/AktiveSpieler/luki3_g.jpg" target="_blank"><img src="bilder/AktiveSpieler/luki3.jpg" width="240" height="320"> 
+      <td width="272" class="big"><!-- <a href="bilder/AktiveSpieler/luki3_g.jpg" target="_blank">--><img src="bilder/AktiveSpieler/dummy.jpg" width="240" height="320"> 
       </td>
       <td width="278" valign="top"><table width="261" class="profil">
           <tr class="roww1 entries"> 
@@ -27,11 +27,11 @@
           </tr>
           <tr class="roww1 entries"> 
             <td bgcolor="#CCCCCC" class="col1"><font color="#0066cc">Spitzname:</font></td>
-            <td bgcolor="#CCCCCC"><font color="#0066cc">Mr. Pit, Luki</font></td>
+            <td bgcolor="#CCCCCC"><font color="#0066cc">Luki</font></td>
           </tr>
           <tr class="roww2 entries"> 
             <td class="col1"><font color="#0066cc">Beruf:</font></td>
-            <td><font color="#0066cc">Student</font></td>
+            <td><font color="#0066cc">Referendar</font></td>
           </tr>
           <tr class="roww1 entries"> 
             <td bgcolor="#CCCCCC" class="col1"><font color="#0066cc">f</font><font color="#0066cc">rüherer 

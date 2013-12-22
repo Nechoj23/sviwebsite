@@ -6,7 +6,7 @@
 
 <?php
 
-	$id=$_GET['id']; 
+        $id=$_GET['id'];
 
 ?>
 
@@ -42,7 +42,7 @@
 
   <META NAME="Image" CONTENT="http://svi-fussball.de/bilder/MannschaftsLogos/svi_logo55px.jpg">
 
-<!--  
+<!--
 
 <meta property="og:title" content="SV Illingen Abteilung Fussball" />
 
@@ -84,7 +84,7 @@
 
  Countdownzaehler
 
-  
+
 
 ------------------------>
 
@@ -238,7 +238,7 @@ newtime = window.setTimeout("getTime();", 1000);
 
 }
 
-  End 
+  End
 
 </script>
 
@@ -258,17 +258,17 @@ newtime = window.setTimeout("getTime();", 1000);
 
 function MM_reloadPage(init) {  //reloads the window if Nav4 resized
 
-	if (init==true) with (navigator) {
+        if (init==true) with (navigator) {
 
-  		if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+                  if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
 
-    		document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; 
+                    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage;
 
-		}
+                }
 
-	}
+        }
 
- 	else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
+         else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
 
 }
 
@@ -278,9 +278,9 @@ MM_reloadPage(true);
 
 function MM_swapImgRestore() { //v3.0
 
-	var i,x,a=document.MM_sr; 
+        var i,x,a=document.MM_sr;
 
-  	for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+          for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
 
 }
 
@@ -288,21 +288,21 @@ function MM_swapImgRestore() { //v3.0
 
 function MM_preloadImages() { //v3.0
 
-  	var d=document; 
+          var d=document;
 
-  	if(d.images){ 
+          if(d.images){
 
-		if(!d.MM_p) d.MM_p=new Array();
+                if(!d.MM_p) d.MM_p=new Array();
 
-    	var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+            var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
 
-    	if (a[i].indexOf("#")!=0){ 
+            if (a[i].indexOf("#")!=0){
 
-			d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];
+                        d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];
 
-		}
+                }
 
-	}
+        }
 
 }
 
@@ -310,25 +310,25 @@ function MM_preloadImages() { //v3.0
 
 function MM_findObj(n, d) { //v4.0
 
-  	var p,i,x;  
+          var p,i,x;
 
-	if(!d) d=document; 
+        if(!d) d=document;
 
-	if((p=n.indexOf("?"))>0&&parent.frames.length) {
+        if((p=n.indexOf("?"))>0&&parent.frames.length) {
 
-    	d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);
+            d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);
 
-	}
+        }
 
-  	if(!(x=d[n])&&d.all) x=d.all[n]; 
+          if(!(x=d[n])&&d.all) x=d.all[n];
 
-	for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+        for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
 
-  	for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+          for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
 
-  	if(!x && document.getElementById) x=document.getElementById(n); 
+          if(!x && document.getElementById) x=document.getElementById(n);
 
-	return x;
+        return x;
 
 }
 
@@ -336,21 +336,21 @@ function MM_findObj(n, d) { //v4.0
 
 function MM_swapImage() { //v3.0
 
-  	var i,j=0,x,a=MM_swapImage.arguments; 
+          var i,j=0,x,a=MM_swapImage.arguments;
 
-	document.MM_sr=new Array; 
+        document.MM_sr=new Array;
 
-	for(i=0;i<(a.length-2);i+=3){
+        for(i=0;i<(a.length-2);i+=3){
 
-		if ((x=MM_findObj(a[i]))!=null){
+                if ((x=MM_findObj(a[i]))!=null){
 
-			document.MM_sr[j++]=x; 
+                        document.MM_sr[j++]=x;
 
-			if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];
+                        if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];
 
-		}
+                }
 
-	}
+        }
 
 }
 
@@ -358,35 +358,35 @@ function MM_swapImage() { //v3.0
 
 function MM_displayStatusMsg(msgStr) { //v1.0
 
-  	status=msgStr;
+          status=msgStr;
 
-  	document.MM_returnValue = true;
+          document.MM_returnValue = true;
 
 }
 
 function MM_showHideLayers() { //v3.0
 
-  	var i,p,v,obj,args=MM_showHideLayers.arguments;
+          var i,p,v,obj,args=MM_showHideLayers.arguments;
 
-  	for (i=0; i<(args.length-2); i+=3) {
+          for (i=0; i<(args.length-2); i+=3) {
 
-		if ((obj=MM_findObj(args[i]))!=null) { 
+                if ((obj=MM_findObj(args[i]))!=null) {
 
-			v=args[i+2];
+                        v=args[i+2];
 
-    		if (obj.style) { 
+                    if (obj.style) {
 
-				obj=obj.style; 
+                                obj=obj.style;
 
-				v=(v=='show')?'visible':(v='hide')?'hidden':v; 
+                                v=(v=='show')?'visible':(v='hide')?'hidden':v;
 
-			}
+                        }
 
-    		obj.visibility=v; 
+                    obj.visibility=v;
 
-		}
+                }
 
-	}
+        }
 
 }
 
@@ -414,11 +414,11 @@ function MM_showHideLayers() { //v3.0
 
 <tr>
 
-  <?php 
+  <?php
 
-		include("head.php");
+                include("head.php");
 
-	  ?>
+          ?>
 
 </tr>
 
@@ -434,11 +434,11 @@ function MM_showHideLayers() { //v3.0
 
 <tr>
 
-  <?php 
+  <?php
 
-		include("navi_left.php");
+                include("navi_left.php");
 
-	  ?>
+          ?>
 
   <!-- NAVIGATION ENDE -->
 
@@ -446,9 +446,9 @@ function MM_showHideLayers() { //v3.0
 
   <?php
 
-		if(!isset($id)){	
+                if(!isset($id)){
 
-	?>
+        ?>
 
   <td width="600" align="left" valign="top" bgcolor="#FFFFFF" id="nurlinks"><div style="position:relative; top:-20px; left:0px;  z-index:3">
 
@@ -466,23 +466,23 @@ function MM_showHideLayers() { //v3.0
 
       </tr>
 
-     <!--   <tr>
+        <tr>
 
        <td id="contentfont" style= "text-align:right;"><br>&nbsp;
 
-       <div align="center"><img src="bilder/weihnachten2012.jpg" width="550" height="316" 
+       <div align="center"><img src="bilder/weihnachten2013.jpg" width="550"
 
-            alt="weihnachten2012" align="top"></a>
+            alt="weihnachten2013" align="top"></a>
 
             <br>&nbsp;            </div></td>
 
-      </tr> 
+      </tr>
 
 <tr>
 
-        	<td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
+                <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
 
-     	</tr>  -->
+             </tr>
 
  <tr>
 
@@ -494,11 +494,11 @@ function MM_showHideLayers() { //v3.0
 
         <td height="20">&nbsp;</td>
 
-      </tr> 
+      </tr>
 
       <!--
 
-        <tr> 
+        <tr>
 
           <td id="contentfont" style= "text-align:right;"><div align="left" z-index:1>
 
@@ -510,7 +510,7 @@ function MM_showHideLayers() { //v3.0
 
                 <param name="wmode" value="transparent">
 
-                <embed src="Flash/foerderverein.swf" width="508" height="110" quality=high pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" wmode="transparent"></embed> 
+                <embed src="Flash/foerderverein.swf" width="508" height="110" quality=high pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" wmode="transparent"></embed>
 
               </object>
 
@@ -522,19 +522,19 @@ function MM_showHideLayers() { //v3.0
 
       <!--
 
-        <tr> 
+        <tr>
 
-          <td id="contentfont" style= "text-align:right;"><div align="left">* 
+          <td id="contentfont" style= "text-align:right;"><div align="left">*
 
           Der Vorbereitungsplan der <strong>Aktiven</strong> f&uuml;r die kommende R&uuml;ckrunde ist online.<br>
 
           &nbsp;&nbsp;</div></td>
 
-        </tr> 
+        </tr>
 
         -->
 
-      
+
 
 
 
@@ -542,23 +542,23 @@ function MM_showHideLayers() { //v3.0
 
     <tr>
 
-        <td id="contentfont" style= "text-align:right;">          
+        <td id="contentfont" style= "text-align:right;">
 
           <div align="left"></div></td>
 
-	</tr>
+        </tr>
 
 -->
 
       <!--   <tr>
 
-        <td id="contentfont" style= "text-align:right;">          
+        <td id="contentfont" style= "text-align:right;">
 
           <div align="left">
 
             *<strong>  Poco-Cup 2010 !</strong><br>
 
-         
+
 
   &nbsp;&nbsp;Am vergangenen Wochenende veranstaltete der SVI wieder seine Jugendturniere zur<br>
 
@@ -574,11 +574,11 @@ function MM_showHideLayers() { //v3.0
 
   &nbsp;&nbsp;zu gewinnen.<br>
 
-  &nbsp;&nbsp;Die kompletten Ergebnisse finden sie hier:<br> 
+  &nbsp;&nbsp;Die kompletten Ergebnisse finden sie hier:<br>
 
-  &nbsp;&nbsp;<a href="ergebnisse_f-jugend.pdf" target="_blank"><em>Ergebnisse F-Jugend</em></a><br> 
+  &nbsp;&nbsp;<a href="ergebnisse_f-jugend.pdf" target="_blank"><em>Ergebnisse F-Jugend</em></a><br>
 
-  &nbsp;&nbsp;<a href="ergebnisse_e-jugend.pdf" target="_blank"><em>Ergebnisse E-Jugend</em></a><br> 
+  &nbsp;&nbsp;<a href="ergebnisse_e-jugend.pdf" target="_blank"><em>Ergebnisse E-Jugend</em></a><br>
 
   &nbsp;&nbsp;<a href="ergebnisse_d-jugend.pdf" target="_blank"><em>Ergebnisse D-Jugend</em></a></div></td>
 
@@ -592,13 +592,13 @@ function MM_showHideLayers() { //v3.0
 
        * <strong>Pokalspiel der ersten Mannschaft!</strong><br>
 
-	   &nbsp;&nbsp;Die erste Mannschaft trifft in der vierten Pokalrunde am Mittwoch (22. September) <br> 
+           &nbsp;&nbsp;Die erste Mannschaft trifft in der vierten Pokalrunde am Mittwoch (22. September) <br>
 
        &nbsp;&nbsp;auf den Bezirksligisten TSV Flacht. Spielbeginn im heimischen Eichwaldpark ist um<br>
 
        &nbsp;&nbsp;19.00 Uhr.<br>
 
-        	</div></td>
+                </div></td>
 
       </tr> -->
 
@@ -612,7 +612,7 @@ function MM_showHideLayers() { //v3.0
 
        * <strong>Saisonauftakt der Jugend!</strong><br>
 
-	   &nbsp;&nbsp;Für einen Teil der Illinger Jugendmannschaften begann am vergangenen Wochenende<br> 
+           &nbsp;&nbsp;Für einen Teil der Illinger Jugendmannschaften begann am vergangenen Wochenende<br>
 
        &nbsp;&nbsp;die Meisterschaftsrunde. Dabei konnte sowohl die B-Jugend als auch die D-Jugend ihr <br>
 
@@ -622,65 +622,71 @@ function MM_showHideLayers() { //v3.0
 
        &nbsp;&nbsp;Alle bisherigen Ergebnisse sowie die nächsten Spieltermine der Jugend finden sie <a href="#Jugend"><em>hier</em></a>.<br>
 
-        	</div></td>
+                </div></td>
 
       </tr>
 
-      -->	
+      -->
  <!--<tr>        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong>Vielen Dank, Philipp!</strong><br>
 
-	  <p><img src="bilder/verabschiedungPhilipp.jpg" width="550"            alt="Danke Philipp" align="top"><br>   </p>	 
+          <p><img src="bilder/verabschiedungPhilipp.jpg" width="550"            alt="Danke Philipp" align="top"><br>   </p>
 
-	  
+
 
       <p>Die Abteilung des SVI bedankt sich herzlich bei <strong>Philipp Scheytt </strong>(Mitte) f&uuml;r die gute Arbeit und das tolle Engagement. Nach einem kurzen Comeback als Aktive-Torh&uuml;ter, musste Philipp die Fu&szlig;ballschuhe aufgrund einiger schwerer Verletzungen schnell wieder an den Nagel h&auml;ngen, &uuml;bernahm daf&uuml;r aber den  Posten des scheidenden Wolfgang Auer als 1. Spielleiter. Seit &uuml;ber vier Jahren k&uuml;mmerte er sich ehrenamtlich um alles rund um den Spieltag bei der ersten und der zweiten Mannschaft und legt dieses Amt nun leider nieder.<br>
       Wir w&uuml;nschen Dir f&uuml;r die Zukunft alles Gute und freuen uns immer Dich auf unserem Sportplatz begr&uuml;&szlig;en zu d&uuml;rfen!</p>
-      <br />        </div></td>	</tr> -->
-	  
+      <br />        </div></td>        </tr> -->
 
-<tr>    <td id="contentfont" style= "text-align:left;">     	<div align="left"><img src="bilder/svi_mini.jpg"> <strong>D1 - Hallenmeisterschaft</strong><br>   <p>
 
-Ein schweres Programm erwartete uns heute in der Zwischenrunde der Hallenmeisterschaft in Leonberg. Mit Eltingen und Rutesheim hatten wir zwei Bezirksligisten in der Gruppe und auch Pattonville, 
-Weil der Stadt und Kleinsachsenheim hatten in der Vergangenheit gezeigt, dass sie guten Fußball spielen. Mit einer geschlossenen Mannschaftsleistung gelang uns heute in zumeist 
-engen Spielen die ein oder andere Überraschung. Unsere gut stehende Abwehr inkl. Colin zwischen den Pfosten konnte so manche hochkarätige Torchance der Gegner vereiteln und den Sieg 
-oder das Unentschieden über die Zeit bringen. Aufgrund eines Regelverstosses wurden alle Spiele der SGM Weil der Stadt/Malmsheim im Nachhinein mit 0:3 für den jeweiligen Gegner gewertet.<br> 
-Da dadurch unsere 0:2-Niederlage in einen Sieg umgewandelt wurde, konnten wir sogar als Gruppensieger ins Halbfinale einziehen. Hier hoffen wir nun darauf, dass bei der Gruppeneinteilung 
-berücksichtigt wird, dass der SV Illingen ein Halbfinale ausrichtet. Ein Halbfinale zuhause wäre für die Jungs etwas ganz Besonderes.<br><br> 
- Glückwunsch an unsere Buben, die heute allesamt eine tolle Leistung zeigten. <br>
- SVI 1 - TSV Kleinsachsenheim 1 3 : 0<br>
- SVI 1 - SGM Spvgg Weil d.Stadt/Malmsheim 1 0 : 2 (3:0 W.)<br>
- SVI 1 - TSV Eltingen I 1 : 0<br>
- SVI 1 - SV Pattonville I 0 : 0<br>
- SVI 1 - SKV Rutesheim I 1 : 0<br><br>
- Es spielten: <br>
- Colin Mitschelen (TS), Salvatore Grillo, Angelo Di Caro, Chris Wöhr, Maximilian Titz, Tom Lindauer., Tom Weiß (1), Tobias Däschner (4) </p>            
-<br />    	</div>    </td></tr>														 
-														 
-<tr>    <td id="contentfont" style= "text-align:left;">     	<div align="left"><img src="bilder/svi_mini.jpg"> <strong>Termine für das Jahr 2014 sind online!</strong><br>   <p>
+<tr>    <td id="contentfont" style= "text-align:left;">             <div align="left"><img src="bilder/svi_mini.jpg"> <strong>Rückblick Weihnachtsmarkt 2013</strong><br>   <p>
 
-Erste Termine für das kommende Jahr stehen fest, darunter auch das Jugend-Camp 2014, das wie gewohnt in den Pfingstferien und zwar vom 11.06.14 - 13.06.14 stattfinden wird.<br>
-<a href="index.php?id=50"><em>Hier</em></a> geht's zu allen Veranstaltungsdaten </p>            
-<br />    	</div>    </td></tr>
+Wir möchten uns auf diesem Wege bei all unseren Gästen für den regen Besuch unseres Standes in der Kirchstraße sehr herzlich bedanken.
+Es hat uns wieder Spaß gemacht, Sie bei uns bewirten zu dürfen. Ein besonderes Dankeschön gilt unseren Helfern (Jugend- und Aktivenspieler,
+viele Eltern unserer Fußballjugend, Jugendtrainer, …).<br>
+Auch möchten wir uns bei den Anwohnern für die Mithilfe und das Entgegenkommen in gewissen Bereichen sehr herzlich bedanken.
+Es hat uns auch sehr gefreut, dass unser „neuer“ Glühwein so gut angekommen ist -  Dank an Huberts Eltern.<br>
+Wir wünschen Ihnen allen auch auf diesem Wege frohe Weihnachten und einen guten Rutsch ins neue Jahr.<br> <br>
+Förderverein Fußball e.V. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                SV Illingen Abt. Fußball
+ </p>
+<br />            </div>    </td></tr>
+<tr>
 
-<tr>    <td id="contentfont" style= "text-align:left;">     	<div align="left"><img src="bilder/svi_mini.jpg"> <strong>Termine für alle Abteilungen</strong><br>   <p>
-* bis zum 15.12.2013 müssen die Schul- und Studienbescheinigungen<br> 
-* bis zum 15.12.2013 müssen die Nachweise über gefahrene Km wegen der Spendenbescheinigung <br>
+         <td id="contentfont" style= "text-align:left;">
+
+            <div align="left"><img src="bilder/svi_mini.jpg"><strong> Vorbereitungsplan der Aktiven online</strong><br>
+
+
+
+
+                <p>Die Illinger Aktiven starten am 22. Januar in die Vorbereitung auf die R&uuml;ckrunde 2013/2014. Den aktuellen Plan finden Sie <a href="vorbereitungsplan_winter_1314.xlsx"><em>hier.</em> </a> </p>
+
+                <br />
+
+                  </div>        </td>
+
+</tr>
+
+
+<tr>    <td id="contentfont" style= "text-align:left;">             <div align="left"><img src="bilder/svi_mini.jpg"> <strong>Termine für alle Abteilungen</strong><br>   <p>
 * bis zum 15.01.2014 die Stundenlisten der Übungsleiter <br>
 * bis zum 15.01.2014 die Stundenlisten der Lizenztrainer <br><br>
-bei der Kassiererin Elfriede Dagenbach abgegeben werden.                                                            </p>            <br />    	</div>    </td></tr>
-<tr>    <td id="contentfont" style= "text-align:left;">     	<div align="left"><img src="bilder/svi_mini.jpg"> <strong>Karnevalsfrühschoppen in Illingen/Saar! </strong><br>   <p> Liebe Sportkameraden,<br><br>wir haben vom Sportverein Kerpen 09 (Illingen/Saar) wieder eine Einladung zum Karnevalsfrühschoppen am Sonntag, 02. Februar 2014 in der „Illipse“ in Illingen/Saar erhalten.    Die Veranstaltung beginnt um 11.11 Uhr und endet gegen 18 Uhr. Es wird ein ca. zweistündiges Programm mit Büttenreden, Gesangsdarbietungen und Gardentänzen geboten; anschließend spielt eine Stimmungsband bis zum Ende der Veranstaltung. Der Eintritt ist frei. Wie vor zwei Jahren gibt es wieder eine Sektbar und einen Bierstand. Unser Bus fährt gegen 08.00 Uhr los und wird gegen 21.00 Uhr  wieder zurück sein. <br>Da auch andere hiesige Vereine eingeladen sind, empfiehlt sich eine baldige Anmeldung. <br>Übrigens: Den Teilnehmern  vor zwei Jahren hat es allesamt sehr gut gefallen.<br> Anmeldung bitte per E-Mail an ctwerner@web.de oder telefonisch unter 07042/23918. <br><br>Werner Conradt                                                            </p>            <br />    	</div>    </td></tr>
+bei der Kassiererin Elfriede Dagenbach abgegeben werden.
 
+<!--                                                           </p>            <br />            </div>    </td></tr>
+<tr>    <td id="contentfont" style= "text-align:left;">             <div align="left"><img src="bilder/svi_mini.jpg"> <strong>Karnevalsfrühschoppen in Illingen/Saar! </strong><br>   <p> Liebe Sportkameraden,<br><br>wir haben vom Sportverein Kerpen 09 (Illingen/Saar) wieder eine Einladung zum Karnevalsfrühschoppen am Sonntag, 02. Februar 2014 in der „Illipse“ in Illingen/Saar erhalten.    Die Veranstaltung beginnt um 11.11 Uhr und endet gegen 18 Uhr. Es wird ein ca. zweistündiges Programm mit Büttenreden, Gesangsdarbietungen und Gardentänzen geboten; anschließend spielt eine Stimmungsband bis zum Ende der Veranstaltung. Der Eintritt ist frei. Wie vor zwei Jahren gibt es wieder eine Sektbar und einen Bierstand. Unser Bus fährt gegen 08.00 Uhr los und wird gegen 21.00 Uhr  wieder zurück sein. <br>Da auch andere hiesige Vereine eingeladen sind, empfiehlt sich eine baldige Anmeldung. <br>Übrigens: Den Teilnehmern  vor zwei Jahren hat es allesamt sehr gut gefallen.<br> Anmeldung bitte per E-Mail an ctwerner@web.de oder telefonisch unter 07042/23918. <br><br>Werner Conradt                                                            </p>            <br />            </div>    </td></tr>
+-->
 <!--
 <tr>
-    <td id="contentfont" style= "text-align:left;"> 
-    	<div align="left"><img src="bilder/svi_mini.jpg"> <strong>D1-Jugend bedankt sich bei Timo Kretzler! </strong><br>
+    <td id="contentfont" style= "text-align:left;">
+            <div align="left"><img src="bilder/svi_mini.jpg"> <strong>D1-Jugend bedankt sich bei Timo Kretzler! </strong><br>
             <br>
             <a href="bilder/d-jugend_pullis_g.jpg"><img src="bilder/d-jugend_pullis.jpg" width="550"
-            
+
                         alt="D-Jugend Pullis" align="top"></a>
-            
+
             <p> Erfreuliches von den D1-Junioren: <br><br>Am 04.11.2013 bekamen wir  endlich unsere lang ersehnten Sweatshirts überreicht, die wir mit finanzieller Unterstützung der<br><br>
-            AXA Versicherung AG<br> 
+            AXA Versicherung AG<br>
             Hauptvertretung<br>
             Timo Kretzler<br>
             Mühlacker Straße <br>
@@ -688,22 +694,22 @@ bei der Kassiererin Elfriede Dagenbach abgegeben werden.                        
             für die gesamte D 1 Mannschaft besorgen konnten. Wir freuen uns sehr, dass wir nun auch für die kalten Tage einheitlich gerüstet sind.
              Bestimmt erwartet uns in der Leistungsstaffel, für die wir uns qualifiziert haben, so manches Mal ein kalter Gegenwind!
             <br></p><br />
-    	</div>
+            </div>
     </td>
 </tr> -->
 
 
-	  
 
-	  
 
-	  
 
-	  <!-- <tr>        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong>Aktive gewinnen "Illingen-Turnier"
 
-	  </strong><br>   
 
- 	  <p><a href="bilder/turniersieg_illingen_saar_g.jpg"><img src="bilder/turniersieg_illingen_saar.JPG" width="600"       	  alt="Turniersieg Illingen/Saar" align="top"></a><br>   </p>	  		  <p>Am letzten Samstag machte sich die Aktive Mannschaft mit einigen Fans als Verstärkung auf nach Illingen/Saar.           Die Busfahrt dauerte fast drei Stunden. 	  <br>Im ersten Spiel konnten wir die Illinger Mannschaft aus Baden mit 4:3 bezwingen. Die erste Halbzeit dominierten wir ganz klar und gingen mit einem 4:0 in die Halbzeit.           In der zweiten 	  Halbzeit lief es nicht mehr so gut für uns und wir konnten unsern Vorsprung nur knapp über die Zeit retten.	  Die Tore für unseren SV schossen Daniel Brenner (2), Fabio Tricarico und unser Neuzugang Hakan Atalay.<br>Im zweiten Spiel gegen die Vertretung aus Illingen/Saar lief es über das gesamte Spile besser und wir konnten mit 4:1 gewinnen. 	  Unsere Torschützen in diesem Spiel waren Hakan Atalay, Fabio Tricarico, Tim Scheuermann und Matthias Hitzler.        	  Damit wurden wir Turniersieger und ließen den Abend bei einem gemütlichen Beisammensein ausklingen.<br>      2015 wird das Illingen Turnier in	  Illingen Baden ausgetragen und wir werden versuchen unseren Titel dort zu verteidigen. </p><br />        </div></td>	</tr>       -->	   <tr> 
+
+          <!-- <tr>        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong>Aktive gewinnen "Illingen-Turnier"
+
+          </strong><br>
+
+           <p><a href="bilder/turniersieg_illingen_saar_g.jpg"><img src="bilder/turniersieg_illingen_saar.JPG" width="600"                 alt="Turniersieg Illingen/Saar" align="top"></a><br>   </p>                            <p>Am letzten Samstag machte sich die Aktive Mannschaft mit einigen Fans als Verstärkung auf nach Illingen/Saar.           Die Busfahrt dauerte fast drei Stunden.           <br>Im ersten Spiel konnten wir die Illinger Mannschaft aus Baden mit 4:3 bezwingen. Die erste Halbzeit dominierten wir ganz klar und gingen mit einem 4:0 in die Halbzeit.           In der zweiten           Halbzeit lief es nicht mehr so gut für uns und wir konnten unsern Vorsprung nur knapp über die Zeit retten.          Die Tore für unseren SV schossen Daniel Brenner (2), Fabio Tricarico und unser Neuzugang Hakan Atalay.<br>Im zweiten Spiel gegen die Vertretung aus Illingen/Saar lief es über das gesamte Spile besser und wir konnten mit 4:1 gewinnen.           Unsere Torschützen in diesem Spiel waren Hakan Atalay, Fabio Tricarico, Tim Scheuermann und Matthias Hitzler.                  Damit wurden wir Turniersieger und ließen den Abend bei einem gemütlichen Beisammensein ausklingen.<br>      2015 wird das Illingen Turnier in          Illingen Baden ausgetragen und wir werden versuchen unseren Titel dort zu verteidigen. </p><br />        </div></td>        </tr>       -->           <tr>
 
 <!-- <tr>
 
@@ -717,7 +723,7 @@ bei der Kassiererin Elfriede Dagenbach abgegeben werden.                        
 
 auch auf zahlreiche Illinger Zuschauer am Spielfeldrand!<br>
 
-Die zweite Mannschaft des SVI startet dagegen erst am 15. September mit einem Heimspiel gegen den FV Markgröningen in die Meisterschafsrunde in der Kreisliga C5. 
+Die zweite Mannschaft des SVI startet dagegen erst am 15. September mit einem Heimspiel gegen den FV Markgröningen in die Meisterschafsrunde in der Kreisliga C5.
 
 Dafür bestreit die <strong>Zweite</strong> bereits am kommenden <strong>Sonntag, 18. August, um 15.00 Uhr</strong>, also zeitgleich zum Gastspiel der ersten Mannschaft in Freudental, die Qualifikationsrunde
 
@@ -727,15 +733,15 @@ für den <strong>Bezirkspokal</strong>. Gegner im heimischen Eichwaldpark ist dab
 
 </p>
 
-    
+
 
 <br />
 
         </div></td>
 
-	</tr>  -->
+        </tr>  -->
 
-	
+
 
 <!-- COUNTDOWN -->
 
@@ -745,7 +751,7 @@ für den <strong>Bezirkspokal</strong>. Gegner im heimischen Eichwaldpark ist dab
 
     <br><br>
 
-    <span class="Stil3 Stil4"><span class="Stil3 Stil1"><strong>Noch</strong></span></span>  &nbsp; 
+    <span class="Stil3 Stil4"><span class="Stil3 Stil1"><strong>Noch</strong></span></span>  &nbsp;
 
       <img src="0d.gif" name=a>
 
@@ -777,7 +783,7 @@ für den <strong>Bezirkspokal</strong>. Gegner im heimischen Eichwaldpark ist dab
 
     </tr> -->
 
- 
+
 
   <!--
 
@@ -795,14 +801,14 @@ Hierbei möchten wir auch nochmals auf unsere Dauerkarten aufmerksam machen, die 
 
         </div></td>
 
-	</tr>           
+        </tr>
 -->
- <!--  
-    <tr> 
+ <!--
+    <tr>
 
         <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong>Dauerkartenverkauf Saison 2013/2014</strong><br>
 
-    
+
 
 <p>Zur neuen Saison k&ouml;nnen ab sofort wieder Dauerkarten erworben werden. Die Karten sind bei Tonis Kiosk oder bei J&uuml;rgen Brummer erhältlich.<br><br>
 
@@ -820,20 +826,20 @@ Hierbei möchten wir auch nochmals auf unsere Dauerkarten aufmerksam machen, die 
 
         </div></td>
 
-	</tr>
--->      	
+        </tr>
+-->
 
-		
 
-    
+
+
 
     <!--
 
-	  <tr>
+          <tr>
 
         <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong>Kelterfest: Förderverein und Abteilung sagen Danke! </strong><br>
 
-    
+
 
 <p>Das hat ja wunderbar gepasst! Pünktlich zum Festbeginn und genau 167 Stunden nach dem grandiosen Aufstieg unserer ersten Mannschaft in die Bezirksliga hat sich das Wetter schlagartig verändert, so dass wir ein rundum gelungenes 40. Dorf- und Kelterfest feiern durften.
 
@@ -853,25 +859,25 @@ Wie gesagt: Es hat alles gepasst!
 
         </div></td>
 
-	</tr> -->
+        </tr> -->
 
 
 
-	
 
-      
 
-    <!--  	<tr>
+
+
+    <!--          <tr>
 
        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"><span id="fbPhotoSnowliftCaption" tabindex="0" aria-live="polite" data-ft="{'type':45}"><strong> Herzliche Einladung zum Illinger Dorf-und Kelterfest am 29. &amp; 30.06.13</strong></span><br>
 
-         <br><a href="bilder/strassenfest2010_g.jpg"><img src="bilder/strassenfest2010.jpg" width="550"  
+         <br><a href="bilder/strassenfest2010_g.jpg"><img src="bilder/strassenfest2010.jpg" width="550"
 
             alt="Dorf- und Kelterfest 2010" align="top"></a><br>
 
        <span tabindex="0" aria-live="polite" data-ft="{'type':45}" id="fbPhotoSnowliftCaption2"><br>
 
-Die Abt. Fu&szlig;ball und der F&ouml;rderverein SV Illingen-Fu&szlig;ball e.V. bieten   auch in diesem Jahr<br> 
+Die Abt. Fu&szlig;ball und der F&ouml;rderverein SV Illingen-Fu&szlig;ball e.V. bieten   auch in diesem Jahr<br>
 
 wieder die hei&szlig;begehrte und frisch zubereitete BEZIRKSLIGA-Pizza in verschiedenen<br>
 
@@ -887,9 +893,9 @@ Unser DJ Uwe kann es kaum erwarten, Ihre pers&ouml;nlichen Musikw&uuml;nsche zu 
 
 <br>
 
-Wir freuen uns auf alle, die mit uns dieses ungew&ouml;hnliche Jahr feiern wollen ...</span><br><br>   
+Wir freuen uns auf alle, die mit uns dieses ungew&ouml;hnliche Jahr feiern wollen ...</span><br><br>
 
-               	</div></td>
+                       </div></td>
 
       </tr>
 
@@ -905,7 +911,7 @@ Wir freuen uns auf alle, die mit uns dieses ungew&ouml;hnliche Jahr feiern wolle
 
        * <strong>F1 verteidigt Titel beim LEWA - Cup in Schwieberdingen!</strong><br>
 
-       &nbsp;&nbsp;Da der diesjährige LEWA - Cup des TSV Schwieberdingen bei den F1-Junioren wetterbedingt<br> 
+       &nbsp;&nbsp;Da der diesjährige LEWA - Cup des TSV Schwieberdingen bei den F1-Junioren wetterbedingt<br>
 
        &nbsp;&nbsp;bereits nach der Vorrunde beendet werden musste, wurden zur Auswertung die Gruppenspiele<br>
 
@@ -919,11 +925,11 @@ Wir freuen uns auf alle, die mit uns dieses ungew&ouml;hnliche Jahr feiern wolle
 
        <br>
 
-       &nbsp;&nbsp;<a href="bilder/F1_turniersieg_in_schwieberdingen_g.jpg"><img src="bilder/F1_turniersieg_in_schwieberdingen.jpg" width="500" height="373" 
+       &nbsp;&nbsp;<a href="bilder/F1_turniersieg_in_schwieberdingen_g.jpg"><img src="bilder/F1_turniersieg_in_schwieberdingen.jpg" width="500" height="373"
 
             alt="Turniersieg F1 Schwieberdingen" align="top"></a><br>
 
-        	</div></td>
+                </div></td>
 
       </tr>
 
@@ -932,7 +938,7 @@ Wir freuen uns auf alle, die mit uns dieses ungew&ouml;hnliche Jahr feiern wolle
 
       <!--  <tr>
 
-        <td id="contentfont" style= "text-align:right;">          
+        <td id="contentfont" style= "text-align:right;">
 
           <div align="left">
 
@@ -946,11 +952,11 @@ Wir freuen uns auf alle, die mit uns dieses ungew&ouml;hnliche Jahr feiern wolle
 
   &nbsp;&nbsp;<a href="index.php?id=17"><em>mehr</em></a>            </div></td>
 
-	</tr> -->
+        </tr> -->
 
       <!--  <tr>
 
-        <td id="contentfont" style= "text-align:right;">          
+        <td id="contentfont" style= "text-align:right;">
 
           <div align="left">
 
@@ -962,9 +968,9 @@ Wir freuen uns auf alle, die mit uns dieses ungew&ouml;hnliche Jahr feiern wolle
 
   &nbsp;&nbsp;<a href="index.php?id=22"><em>mehr</em></a>            </div></td>
 
-	</tr> -->
+        </tr> -->
 
-      <!--   
+      <!--
 
    <tr>
 
@@ -974,7 +980,7 @@ Wir freuen uns auf alle, die mit uns dieses ungew&ouml;hnliche Jahr feiern wolle
 
        * <strong>Aktive Mannschaften beenden ihre Saisons</strong><br>
 
-       &nbsp;&nbsp;Sowohl die erste wie auch die zweite Mannschaft konnte zum Abschluss der Saison 09/10 noch<br> 
+       &nbsp;&nbsp;Sowohl die erste wie auch die zweite Mannschaft konnte zum Abschluss der Saison 09/10 noch<br>
 
        &nbsp;&nbsp;einmal Siege einfahren. Die erste Mannschaft sicherte sich durch einen 2:1-Erfolg in Gündelbach<br>
 
@@ -994,7 +1000,7 @@ Wir freuen uns auf alle, die mit uns dieses ungew&ouml;hnliche Jahr feiern wolle
 
        <br>
 
-       &nbsp;&nbsp;<a href="bilder/zweite_mit_wimpel_g.jpg"><img src="bilder/zweite_mit_wimpel.jpg" width="550" height="345" 
+       &nbsp;&nbsp;<a href="bilder/zweite_mit_wimpel_g.jpg"><img src="bilder/zweite_mit_wimpel.jpg" width="550" height="345"
 
             alt="Zweite Mannschaft mit Meisterwimpel" align="top"></a><br>
 
@@ -1008,13 +1014,13 @@ Wir freuen uns auf alle, die mit uns dieses ungew&ouml;hnliche Jahr feiern wolle
 
      -->
 
-      <!-- 
+      <!--
 
     <tr>
 
         <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong> Jahreshauptversammlung der Abteilung Fu&szlig;ball</strong><br>&nbsp;<br>
 
-            <img src="bilder/jhv2011.jpg" 
+            <img src="bilder/jhv2011.jpg"
 
             alt="Vorschau Jugendcamp 2011" align="top" border="0px">
 
@@ -1024,7 +1030,7 @@ Wir freuen uns auf alle, die mit uns dieses ungew&ouml;hnliche Jahr feiern wolle
 
               Unter Wahlleiter Frank M&uuml;ller standen die folgenden &Auml;mter zur Wahl und wurden durch die folgenden Mitglieder neu besetzt:</p>
 
-            
+
 
             <p>1. Abteilungsleiter:    Christian Gruica<br>
 
@@ -1056,40 +1062,40 @@ Wir freuen uns auf alle, die mit uns dieses ungew&ouml;hnliche Jahr feiern wolle
 
 </div></td>
 
-	</tr>
+        </tr>
 
      -->
 
-      <!--	<tr>
+      <!--        <tr>
 
         <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong> Facebook und Twitter</strong><br>
 
             <p>Wie bereits angek&uuml;ndigt, finden Sie ab sofort zus&auml;tzliche Informationen rund um den Fu&szlig;ball beim SVI auf <a href="http://www.facebook.com/SVIllingen" target="_blank"><em>Facebook</em></a>. Au&szlig;erdem k&ouml;nnen Sie uns nach einer circa einj&auml;hrigen Testphase  auch auf <a href="http://twitter.com/#!/SVIllingen" target="_blank"><em>Twitter</em></a> folgen und damit immer auf dem neuesten Stand bleiben. Die Links zu den jeweiligen Diensten finden Sie als kleine Symbole (<a href="http://www.facebook.com/SVIllingen" target="_blank"><img src="bilder/facebook.gif"></a> und <a href="http://twitter.com/#!/SVIllingen" target="_blank"><img src="bilder/twitter.gif"></a>) rechts oben auf dieser Seite zwischen &quot;Kontakt&quot; und &quot;Impressum&quot;.</p>
 
-            
+
 
             <br />
 
 </div></td>
 
-	</tr> -->
+        </tr> -->
 
       <!--
 
     <div align="center">
 
-    	<h3>Countdown zum neuen Jahr 2005</h3>
+            <h3>Countdown zum neuen Jahr 2005</h3>
 
     </div>
 
     -->
-      <!--  
+      <!--
 
      <tr>
 
         <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong> Gelungene Jugendturniere im Eichwaldpark</strong><br> <br />
 
-        <a href="http://www.facebook.com/SVIllingen" target="_blank"><img src="bilder/pococup11.JPG" 
+        <a href="http://www.facebook.com/SVIllingen" target="_blank"><img src="bilder/pococup11.JPG"
 
             alt="Poco-Cup" align="top" border="0px"></a>
 
@@ -1117,17 +1123,17 @@ Die <strong>Abteilung Fussball bedankt sich</strong> recht herzlich bei allen He
 
   </div></td>
 
-	</tr> -->
+        </tr> -->
 
       <!--  <tr>
 
         <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong> Jahreshauptversammlung der Abt. Fussball</strong><br>
 
-         
+
 
 <p>Am Freitag, den 19. April 2013 findet um 20.00 Uhr im Vereinsheim die diesjährige Jahreshauptversammlung der Abteilung Fussball statt. Wir laden alle Mitglieder hierzu recht herzlich ein! <br />
 
-<a href="index.php?id=17"><em>mehr</em></a> 
+<a href="index.php?id=17"><em>mehr</em></a>
 
 </p>
 
@@ -1135,20 +1141,20 @@ Die <strong>Abteilung Fussball bedankt sich</strong> recht herzlich bei allen He
 
   </div></td>
 
-	</tr> -->
+        </tr> -->
  <!--   <tr>
 
         <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong> Nachtrag Jugend-Camp 2013</strong>
 
-        	<p>Unter der Rubrik &quot;Multimedia&quot; finden Sie weitere Bilder des diesj&auml;hrigen Jugend-Camps.</p>
+                <p>Unter der Rubrik &quot;Multimedia&quot; finden Sie weitere Bilder des diesj&auml;hrigen Jugend-Camps.</p>
 </div></td>
 
-	</tr> -->
+        </tr> -->
  <!--   <tr>
 
         <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong> Torspendenaktion geht zu Ende ...</strong>
 
-        	<p>Unsere&nbsp; erfolgreiche Spendenaktion zur Anschaffung  neuer Jugend-Tore ist zu Ende gegangen.<br>
+                <p>Unsere&nbsp; erfolgreiche Spendenaktion zur Anschaffung  neuer Jugend-Tore ist zu Ende gegangen.<br>
 
 Ein  abschlie&szlig;ender Bericht erfolgt in K&uuml;rze; durch unsere derzeitige hohe Belastung  in einigen Bereichen wurde allerdings vergessen, noch einige neu  hinzugekommenen Spender zu erw&auml;hnen. Dies tun wir hiermit. Wir bedanken uns bei<br><br>
 
@@ -1182,16 +1188,16 @@ Frau von  Zasch</strong><br>
 
 Wir werden  auf dieses Thema nochmals intensiv eingehen; vor allem wollen wir &uuml;ber die  exakte Verwendung des Geldes Bericht erstatten. Danke f&uuml;r&nbsp; Ihre Geduld!</p>
 
-           
+
 
 </div></td>
 
-	</tr> -->
+        </tr> -->
 
 
 <!--
 
-	<tr>
+        <tr>
 
         <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong> E1-Jugend erreichen dritten Platz beim Turnier in Flehingen </strong><br>
 
@@ -1209,16 +1215,16 @@ Für den SVI im Einsatz waren: Ilja Bochonow (5 Tore), Leon Hartig (2), Gabriel D
 
         </div></td>
 
-	</tr> -->
-<!--    
+        </tr> -->
+<!--
 
     <tr>
 
         <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong> Torspendenaktion </strong>(Update: 04.02.13)<br>
 
-      <p><a href="Torspendenaktion.pdf"><img src="bilder/torspendenaktion.jpg" width="550"  
+      <p><a href="Torspendenaktion.pdf"><img src="bilder/torspendenaktion.jpg" width="550"
 
-            alt="Torspendenaktion" align="top"></a><br>   
+            alt="Torspendenaktion" align="top"></a><br>
 
 <p>Torspende-Aktion l&auml;uft weiter ...<br>
 
@@ -1304,7 +1310,7 @@ Wir m&ouml;chten uns hiermit bei nachfolgend (chronologisch)  aufgef&uuml;hrten 
 
         </div></td>
 
-	</tr> 
+        </tr>
 
     -->
 
@@ -1314,11 +1320,11 @@ Wir m&ouml;chten uns hiermit bei nachfolgend (chronologisch)  aufgef&uuml;hrten 
 
         <td id="contentfont" style= "text-align:left;"><div align="left"><img src="bilder/svi_mini.jpg"> <strong>Bericht von der Jahreshauptversammlung der Abt. Fussball</strong><br>
 
-      
+
 
                 <p>Die Fußballabteilung des SV Illingen hielt am Freitag, den 19.04.2013, im Illinger Vereinsheim ihre Jahreshauptversammlung ab.<br>
 
- Dabei wurden sowohl der langjährige erste Vorsitzende Christian Gruica als auch der AH-Spartenleiter Stefan Lindner verabschiedet; sie standen nicht mehr für 
+ Dabei wurden sowohl der langjährige erste Vorsitzende Christian Gruica als auch der AH-Spartenleiter Stefan Lindner verabschiedet; sie standen nicht mehr für
 
  eine Neuwahl zur Verfügung, werden dem Verein aber weiterhin erhalten bleiben. <br><br>
 
@@ -1332,7 +1338,7 @@ Wir m&ouml;chten uns hiermit bei nachfolgend (chronologisch)  aufgef&uuml;hrten 
 
  AH-Spartenleiter: Thomas Bürkle<br>
 
- Den Posten des ersten Spielleiters wird Philipp Scheytt bis zum Ende der laufenden Saison weiter begleiten, danach sein Amt aus privaten Gründen aber abgeben. 
+ Den Posten des ersten Spielleiters wird Philipp Scheytt bis zum Ende der laufenden Saison weiter begleiten, danach sein Amt aus privaten Gründen aber abgeben.
 
  Ein Nachfolger konnte noch nicht bestimmt werden. <br>
 
@@ -1340,11 +1346,11 @@ Wir m&ouml;chten uns hiermit bei nachfolgend (chronologisch)  aufgef&uuml;hrten 
 
 Die Abteilung bedankt sich bei allen bisherigen Amtsträgern, allen voran beim langjährigen Kassier und Abteilungsleiter Christian Gruica, für die geleistete
 
-Arbeit und wünscht den Neugewählten viel Freude und Erfolg bei den anstehenden Aufgaben! 
+Arbeit und wünscht den Neugewählten viel Freude und Erfolg bei den anstehenden Aufgaben!
 
 
 
-		</p>
+                </p>
 
           <br />
 
@@ -1358,9 +1364,9 @@ Arbeit und wünscht den Neugewählten viel Freude und Erfolg bei den anstehenden A
         <td id="contentfont" style= "text-align:left;"><div align="left"><img src="bilder/svi_mini.jpg"> <strong> C-Jugend beim "Illinger Open" am Sonntag!</strong><br>
 
                 <p>Am kommenden Sonntag (20. Oktober) findet in Illingen ein verkaufsoffener Sonntag ("Illinger Open") statt. Die C-Jugend des SVI ist dabei in
-				Zusammenarbeit mit der Metzgerei Lamm ebenfalls mit einem Stand vertreten. Neben unterschiedlichen Getränken werden direkt vom Grill 
-				verschiedene Wurst- und Fleischspezialitäten angeboten. Den Stand finden Sie von 10.00 Uhr bis 18.00 Uhr direkt vor der Metzgerei Lamm. <br>
-				Der Illinger Nachwuchs würde sich über Ihren Besuch und Ihre Unterstützung am Sonntag riesig freuen!
+                                Zusammenarbeit mit der Metzgerei Lamm ebenfalls mit einem Stand vertreten. Neben unterschiedlichen Getränken werden direkt vom Grill
+                                verschiedene Wurst- und Fleischspezialitäten angeboten. Den Stand finden Sie von 10.00 Uhr bis 18.00 Uhr direkt vor der Metzgerei Lamm. <br>
+                                Der Illinger Nachwuchs würde sich über Ihren Besuch und Ihre Unterstützung am Sonntag riesig freuen!
 
 </p>
 
@@ -1380,7 +1386,7 @@ Arbeit und wünscht den Neugewählten viel Freude und Erfolg bei den anstehenden A
 
 </div></td>
 
-	</tr> -->
+        </tr> -->
     <!--
  <tr>
 
@@ -1393,8 +1399,8 @@ Arbeit und wünscht den Neugewählten viel Freude und Erfolg bei den anstehenden A
 
   </div></td>
 
-	</tr> -->
- <!--       
+        </tr> -->
+ <!--
 
     <tr>
 
@@ -1402,13 +1408,13 @@ Arbeit und wünscht den Neugewählten viel Freude und Erfolg bei den anstehenden A
 
     </tr>
 
- -->    
+ -->
 
  <!-- <tr>
 
         <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"><strong> Informationen f&uuml;r alle Teilnehmer des Jugend-Camps 2013</strong><br>
 
-         
+
 
 <p align="left">
 
@@ -1421,7 +1427,7 @@ Arbeit und wünscht den Neugewählten viel Freude und Erfolg bei den anstehenden A
 Wir w&uuml;nschen allen Teilnehmern drei sch&ouml;ne Tage im Illinger Eichwaldpark !</strong><br>
 
 <br>
-Ablauf:<br><br> 
+Ablauf:<br><br>
 
 Mi 22.05.<br>
 
@@ -1445,7 +1451,7 @@ Am Donnerstag u. Freitag k&ouml;nnen die Kinder bereits ab 9.00 Uhr von uns betr
 
 </p>
 
-      <p align="center"><a href="http://www.svi-fussball.de/index.php?id=19"><img src="bilder/jugendcamp_logo_k.jpg" 
+      <p align="center"><a href="http://www.svi-fussball.de/index.php?id=19"><img src="bilder/jugendcamp_logo_k.jpg"
 
             alt="Vorschau Jugendcamp 2011" align="top" border="0px" ></a>            </p>
 
@@ -1453,8 +1459,8 @@ Am Donnerstag u. Freitag k&ouml;nnen die Kinder bereits ab 9.00 Uhr von uns betr
 
   </div></td>
 
-	</tr> -->
-      <!-- 
+        </tr> -->
+      <!--
 
     <tr>
 
@@ -1467,7 +1473,7 @@ Am Donnerstag u. Freitag k&ouml;nnen die Kinder bereits ab 9.00 Uhr von uns betr
 
   </div></td>
 
-	</tr>
+        </tr>
     -->
 
       <!--   <tr>
@@ -1498,19 +1504,19 @@ Am Donnerstag u. Freitag k&ouml;nnen die Kinder bereits ab 9.00 Uhr von uns betr
 
             Den Verein verlassen hat dagegen Matthias Rößler, der zu den Sportfreunden Mühlacker wechselt. </p>
 
-             <a href="bilder/neuzugaenge1112_g.jpg"><img src="bilder/neuzugaenge1112.jpg" width="550" height="291" 
+             <a href="bilder/neuzugaenge1112_g.jpg"><img src="bilder/neuzugaenge1112.jpg" width="550" height="291"
 
             alt="Neuzugänge 11/12" align="top"></a><br>
 
             Externe Neuzugänge (von links nach rechts): Abteilungsleiter Christian Gruica, Fabio Tricarico, Pasquale Arena, Michael Schlosser, Sinan Yilmaz, Trainer Thomas Fritsch (es fehlt: Batuhan Kirpi).
 
-            
+
 
             <br>
 
             <br>
 
-            <a href="bilder/neuzugaenge1112_a-jugend_g.jpg"><img src="bilder/neuzugaenge1112_a-jugend.jpg" width="550" height="269" 
+            <a href="bilder/neuzugaenge1112_a-jugend_g.jpg"><img src="bilder/neuzugaenge1112_a-jugend.jpg" width="550" height="269"
 
             alt="Neuzugänge 11/12" align="top"></a><br>
 
@@ -1531,13 +1537,13 @@ Am Donnerstag u. Freitag k&ouml;nnen die Kinder bereits ab 9.00 Uhr von uns betr
 
 
 
-  			<p>
+                          <p>
 
-  			  Hallo liebe Illinger,<br>
+                            Hallo liebe Illinger,<br>
 
-  			  nun aber schleunigst zu unserem Jugendcampbericht, schlie&szlig;lich liegt diese tolle Veranstaltung schon fast f&uuml;nf Wochen zur&uuml;ck: &quot; Iihh, Mauldascha, des mog I net!&quot; so kommentierte ein Achtj&auml;hriger den Speiseplan w&auml;hrend des diesj&auml;hrigen Jugendcamps des F&ouml;rderverein. Man schaute sich an und dachte sich nichts weiter dabei. Dabei kam es zu doch einer strikten Aufgabentrennung, der FV &uuml;bernahm die Organisation, die Fu&szlig;baller sorgten sich nat&uuml;rlich um die sportlichen Belange. So ein Camp hat immer auch etwas mit Disziplin zu tun. So werden am ersten Tag die noch ungeb&auml;ndigten Spr&ouml;sslinge mitsamt den Eltern empfangen, werden die Gruppen altersgerecht eingeteilt, die Trainingsklamotten verteilt und diverse weitere wichtige, pers&ouml;nliche Dinge abgekl&auml;rt. Die Torh&uuml;ter erhalten ihr gesondertes Programm. Und so schwitzten, k&auml;mpften, spielten und  manchmal fluchten Sie ( innerlich), die Teilnehmer und die Trainer, w&auml;hrend der gemeinsamen drei Tage. Insgesamt 80 Teilnehmer galt es zu betreuen, der J&uuml;ngste war Marco Gutjahr vom TSV Nu&szlig;dorf, geboren im Dezember 2005. Die weiteste Anfahrt hatte Finn Creyaufm&uuml;ller vom VfB Bretten, elf Torh&uuml;ter hatten sich angemeldet, leider nur zwei M&auml;dchen. St&auml;rkste ausw&auml;rtige Fraktion stellte der TSV Kleinglattbach mit 8 Teilnehmern, gefolgt vom FV Ro&szlig;wag mit 7. Oftmals sind es seit Jahren dieselben Namen auf der Liste, ein weiterer Beweis der Beliebtheit unseres Camps. Auch seit Jahren sto&szlig;en wir immer wieder an unsere Grenzen, um die achtzig Kinder k&uuml;mmerten sich achtzehn Trainer, ein Fotograf, vier K&ouml;che mit Auszeichnungen und ein Supervisor, auf gut Deutsch: ein Chef. <br>&Uuml;berhaupt stellten unsere zahlreichen jungen aktiven Spieler das Gros der Trainer, manchmal war der Altersunterschied nicht mehr besonders gro&szlig;. Lediglich beim K&uuml;chenteam war ein gro&szlig;er Erfahrungsschatz vorhanden, schlie&szlig;lich ist das gemeinsame Mittagessen auch ein wichtiger Bestandteil eines Camps. Hier wirbelten die M&auml;nner in den wei&szlig;en Sch&uuml;rzen im Vereinsheim des Musikvereins, welcher uns auch in diesem Jahr wieder vorbildlich unterst&uuml;tzte. Vielen Dank von dieser Seite aus. Und irgendwann kommt auch mal das Ende jeder Veranstaltung. Zum Abschluss wurde es etwas eng, das Musikvereinsheim platzte aus fast allen N&auml;hten. Die Teilnehmer wurden verabschiedet, jeder bekam seine Urkunde mit Abschiedsgeschenken und viele Kids erkundigten sich schon nach dem Termin im n&auml;chsten Jahr. Wir m&ouml;chten uns bei Micha`s Freizeitshop bedanken f&uuml;r die gro&szlig;z&uuml;gige Sachspende, ferner noch bei der Fa. Fontanis f&uuml;r die Getr&auml;nke und sonstiges Outfit. Vor allem aber bei der Sparkasse Illingen, f&uuml;r die gener&ouml;se Unterst&uuml;tzung und bei allen Helfern auf dem Rasen und im Hintergrund. Ach ja, wegen den Maultaschen! Nat&uuml;rlich stimmte unsere Kalkulation nicht, in den M&auml;gen hungriger Kinder verschwinden im Schnitt viereinhalb gro&szlig;e Exemplare dieser schw&auml;bischen Spezialit&auml;t.<br>
+                            nun aber schleunigst zu unserem Jugendcampbericht, schlie&szlig;lich liegt diese tolle Veranstaltung schon fast f&uuml;nf Wochen zur&uuml;ck: &quot; Iihh, Mauldascha, des mog I net!&quot; so kommentierte ein Achtj&auml;hriger den Speiseplan w&auml;hrend des diesj&auml;hrigen Jugendcamps des F&ouml;rderverein. Man schaute sich an und dachte sich nichts weiter dabei. Dabei kam es zu doch einer strikten Aufgabentrennung, der FV &uuml;bernahm die Organisation, die Fu&szlig;baller sorgten sich nat&uuml;rlich um die sportlichen Belange. So ein Camp hat immer auch etwas mit Disziplin zu tun. So werden am ersten Tag die noch ungeb&auml;ndigten Spr&ouml;sslinge mitsamt den Eltern empfangen, werden die Gruppen altersgerecht eingeteilt, die Trainingsklamotten verteilt und diverse weitere wichtige, pers&ouml;nliche Dinge abgekl&auml;rt. Die Torh&uuml;ter erhalten ihr gesondertes Programm. Und so schwitzten, k&auml;mpften, spielten und  manchmal fluchten Sie ( innerlich), die Teilnehmer und die Trainer, w&auml;hrend der gemeinsamen drei Tage. Insgesamt 80 Teilnehmer galt es zu betreuen, der J&uuml;ngste war Marco Gutjahr vom TSV Nu&szlig;dorf, geboren im Dezember 2005. Die weiteste Anfahrt hatte Finn Creyaufm&uuml;ller vom VfB Bretten, elf Torh&uuml;ter hatten sich angemeldet, leider nur zwei M&auml;dchen. St&auml;rkste ausw&auml;rtige Fraktion stellte der TSV Kleinglattbach mit 8 Teilnehmern, gefolgt vom FV Ro&szlig;wag mit 7. Oftmals sind es seit Jahren dieselben Namen auf der Liste, ein weiterer Beweis der Beliebtheit unseres Camps. Auch seit Jahren sto&szlig;en wir immer wieder an unsere Grenzen, um die achtzig Kinder k&uuml;mmerten sich achtzehn Trainer, ein Fotograf, vier K&ouml;che mit Auszeichnungen und ein Supervisor, auf gut Deutsch: ein Chef. <br>&Uuml;berhaupt stellten unsere zahlreichen jungen aktiven Spieler das Gros der Trainer, manchmal war der Altersunterschied nicht mehr besonders gro&szlig;. Lediglich beim K&uuml;chenteam war ein gro&szlig;er Erfahrungsschatz vorhanden, schlie&szlig;lich ist das gemeinsame Mittagessen auch ein wichtiger Bestandteil eines Camps. Hier wirbelten die M&auml;nner in den wei&szlig;en Sch&uuml;rzen im Vereinsheim des Musikvereins, welcher uns auch in diesem Jahr wieder vorbildlich unterst&uuml;tzte. Vielen Dank von dieser Seite aus. Und irgendwann kommt auch mal das Ende jeder Veranstaltung. Zum Abschluss wurde es etwas eng, das Musikvereinsheim platzte aus fast allen N&auml;hten. Die Teilnehmer wurden verabschiedet, jeder bekam seine Urkunde mit Abschiedsgeschenken und viele Kids erkundigten sich schon nach dem Termin im n&auml;chsten Jahr. Wir m&ouml;chten uns bei Micha`s Freizeitshop bedanken f&uuml;r die gro&szlig;z&uuml;gige Sachspende, ferner noch bei der Fa. Fontanis f&uuml;r die Getr&auml;nke und sonstiges Outfit. Vor allem aber bei der Sparkasse Illingen, f&uuml;r die gener&ouml;se Unterst&uuml;tzung und bei allen Helfern auf dem Rasen und im Hintergrund. Ach ja, wegen den Maultaschen! Nat&uuml;rlich stimmte unsere Kalkulation nicht, in den M&auml;gen hungriger Kinder verschwinden im Schnitt viereinhalb gro&szlig;e Exemplare dieser schw&auml;bischen Spezialit&auml;t.<br>
 
-  			  Wir mussten also in Windeseile nachliefern, Hebbe sei Dank.</p>
+                            Wir mussten also in Windeseile nachliefern, Hebbe sei Dank.</p>
 
             <p>Wir w&uuml;nschen ein sch&ouml;nes Wochenende<br>
 
@@ -1553,41 +1559,41 @@ Am Donnerstag u. Freitag k&ouml;nnen die Kinder bereits ab 9.00 Uhr von uns betr
 
       <!--   <tr>
 
- 	<td id="contentfont" style= "text-align:left;"> 
+         <td id="contentfont" style= "text-align:left;">
 
-    	<div align="left"><img src="bilder/svi_mini.jpg"><strong> Umbau der Grillh&uuml;tte</strong><br>
+            <div align="left"><img src="bilder/svi_mini.jpg"><strong> Umbau der Grillh&uuml;tte</strong><br>
 
-         
 
-		<p>Der Grill-Container am Rasenplatz Ost wird derzeit renoviert. Im Zuge dieser Erneuerungen wird noch eine <strong>gut erhaltene Sp&uuml;le / Doppelbeckensp&uuml;le mit Unterschrank </strong> oder <strong>eine kleine K&uuml;chenzeile </strong>gesucht. Zudem wird auch noch ein <strong>Zwei-Platten-Kocher</strong> ben&ouml;tigt. Wenn Sie brauchbares Material zur Verf&uuml;gung stellen k&ouml;nnen und wollen, melden Sie sich bei Charly W&ouml;hr (0151-10503855) oder <a href="index.php?id=75"><em>Abteilungsleiter Christian Gruica</em></a>.     
+
+                <p>Der Grill-Container am Rasenplatz Ost wird derzeit renoviert. Im Zuge dieser Erneuerungen wird noch eine <strong>gut erhaltene Sp&uuml;le / Doppelbeckensp&uuml;le mit Unterschrank </strong> oder <strong>eine kleine K&uuml;chenzeile </strong>gesucht. Zudem wird auch noch ein <strong>Zwei-Platten-Kocher</strong> ben&ouml;tigt. Wenn Sie brauchbares Material zur Verf&uuml;gung stellen k&ouml;nnen und wollen, melden Sie sich bei Charly W&ouml;hr (0151-10503855) oder <a href="index.php?id=75"><em>Abteilungsleiter Christian Gruica</em></a>.
 
        </p>
 
-             </div>	</td></tr>
+             </div>        </td></tr>
 
              <tr>
 
-        	<td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
+                <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
 
-     	</tr> -->
+             </tr> -->
 
-      <!--   
+      <!--
 
-         
+
 
 <tr>
 
- 	<td id="contentfont" style= "text-align:left;"> 
+         <td id="contentfont" style= "text-align:left;">
 
-    	<div align="left"><img src="bilder/svi_mini.jpg"><strong> Vorbereitungsplan der Aktiven online</strong><br>
+            <div align="left"><img src="bilder/svi_mini.jpg"><strong> Vorbereitungsplan der Aktiven online</strong><br>
 
-         
 
-		<p>Die Illinger Aktiven starten am 09. Februar in die Vorbereitung auf die R&uuml;ckrunde 2011/2012. Den aktuellen Plan finden Sie <a href="vorbereitung_rueckrunde_1112.xls"><em>hier.</em> </a> </p>
 
-		<br />
+                <p>Die Illinger Aktiven starten am 09. Februar in die Vorbereitung auf die R&uuml;ckrunde 2011/2012. Den aktuellen Plan finden Sie <a href="vorbereitung_rueckrunde_1112.xls"><em>hier.</em> </a> </p>
 
-  		</div>	</td>
+                <br />
+
+                  </div>        </td>
 
 </tr> -->
 
@@ -1595,35 +1601,35 @@ Am Donnerstag u. Freitag k&ouml;nnen die Kinder bereits ab 9.00 Uhr von uns betr
 
  <tr>
 
- 	<td id="contentfont" style= "text-align:left;"> 
+         <td id="contentfont" style= "text-align:left;">
 
-    	<div align="left"><img src="bilder/svi_mini.jpg"><strong> Wir gratulieren ...</strong><br>
+            <div align="left"><img src="bilder/svi_mini.jpg"><strong> Wir gratulieren ...</strong><br>
 
-         
 
-		<p>Wir gratulieren unserem Jugendtrainer und Aktiven Spieler Dominik Kn&ouml;dler zur bestandenen Trainer-Pr&uuml;fung. Dominik reiht sich damit in den Kreis der Illinger &Uuml;bungsleiter mit &quot;Trainer C Breitenfu&szlig;ball&quot;-Lizenz ein. Herzlichen Gl&uuml;ckwunsch!!!</p>
 
-		<br />
+                <p>Wir gratulieren unserem Jugendtrainer und Aktiven Spieler Dominik Kn&ouml;dler zur bestandenen Trainer-Pr&uuml;fung. Dominik reiht sich damit in den Kreis der Illinger &Uuml;bungsleiter mit &quot;Trainer C Breitenfu&szlig;ball&quot;-Lizenz ein. Herzlichen Gl&uuml;ckwunsch!!!</p>
 
-  		</div>
+                <br />
 
-	</td>
+                  </div>
+
+        </td>
 
 </tr>
 
 -->
 
-      <!--	<tr>
+      <!--        <tr>
 
         <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong> Jugend-Camp 2011</strong><br>
 
-     <p align="center"><img src="bilder/jugendcamp2011.jpg" 
+     <p align="center"><img src="bilder/jugendcamp2011.jpg"
 
-            alt="Jugendcamp 2011" align="top" border="0px"></p>      
+            alt="Jugendcamp 2011" align="top" border="0px"></p>
 
 <p>Drei Tage lang befand sich der Illinger Eichwaldpark im Ausnahmezustand und stand dabei ganz
 
-im Zeichen der Jugendarbeit. Insgesamt 70 Kinder und Jugendliche zwischen 5 und 12 
+im Zeichen der Jugendarbeit. Insgesamt 70 Kinder und Jugendliche zwischen 5 und 12
 
 Jahren nahmen am diesj&auml;hrigen Fu&szlig;ball-Jugend-Camp des SV Illingen Abt. Fu&szlig;ball und zugeh&ouml;rigem F&ouml;rderverein teil.<br>
 
@@ -1653,11 +1659,11 @@ In den drei Tagen konnten die Jungen und das einzige M&auml;dchen ihre F&auml;hi
 
   </div></td>
 
-	</tr>
+        </tr>
 
 -->
 
-	
+
 
       <!--
 
@@ -1665,37 +1671,37 @@ In den drei Tagen konnten die Jungen und das einzige M&auml;dchen ihre F&auml;hi
 
         <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong> Jugend-Camp 2011</strong>
 
-        	<p> <img src="bilder/jugendcamp_logo_mini.png"><img src="bilder/jugendcamp_logo_mini.png"><br>
+                <p> <img src="bilder/jugendcamp_logo_mini.png"><img src="bilder/jugendcamp_logo_mini.png"><br>
 
-        	  Nur noch <span class="Stil3 Stil2 Stil4"><strong>2</strong></span> Restpl&auml;tze sind  zu vergeben!!! (Stand 29.05.11)<br>
+                  Nur noch <span class="Stil3 Stil2 Stil4"><strong>2</strong></span> Restpl&auml;tze sind  zu vergeben!!! (Stand 29.05.11)<br>
 
             <strong>Wir empfehlen eine sofortige Anmeldung!</strong></p>
 
-            <p align="center"><a href="http://www.svi-fussball.de/index.php?id=19"><img src="bilder/jugendcamp_logo_k.jpg" 
+            <p align="center"><a href="http://www.svi-fussball.de/index.php?id=19"><img src="bilder/jugendcamp_logo_k.jpg"
 
             alt="Vorschau Jugendcamp 2011" align="top" border="0px"></a></p>
 
-            <p>Vom 
+            <p>Vom
 
             15.06.2011 bis 17.06.2011 veranstaltet der F&ouml;rderverein SV Illingen-Fu&szlig;ball e.V. das Jugend-Camp 2011 auf dem Sportgel&auml;nde des SV Illingen. Teilnehmen k&ouml;nnen Jugendliche von 5 bis 15 Jahren.<br>
 
-            Weitere Informationen finden Sie <a href="http://www.svi-fussball.de/index.php?id=19"><em>hier</em></a>.</p>            
+            Weitere Informationen finden Sie <a href="http://www.svi-fussball.de/index.php?id=19"><em>hier</em></a>.</p>
 
             <br />
 
 </div></td>
 
-	</tr> -->
+        </tr> -->
 
       <!-- <tr>
 
         <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong> Wir suchen Trainer/innen und Betreuer/innen</strong><br>
 
-         
 
-<p>Für die neue Saison suchen wir im Juniorenbereich engagierte <strong> Trainer/innen </strong> und <strong> Betreuer/innen</strong>, die uns helfen wollen, die erfolgreiche Illinger Jugendarbeit fortzuführen. Gesucht werden Trainer besonders f&uuml;r  die <strong> F2-Junioren</strong>. Eine Trainerlizenz ist dabei nicht zwingend n&ouml;tig, eine Aus- oder Weiterbildung wird  in der Regel von der Abteilung gef&ouml;rdert. <br> 
 
-  Bei Interesse wenden Sie sich bitte an 
+<p>Für die neue Saison suchen wir im Juniorenbereich engagierte <strong> Trainer/innen </strong> und <strong> Betreuer/innen</strong>, die uns helfen wollen, die erfolgreiche Illinger Jugendarbeit fortzuführen. Gesucht werden Trainer besonders f&uuml;r  die <strong> F2-Junioren</strong>. Eine Trainerlizenz ist dabei nicht zwingend n&ouml;tig, eine Aus- oder Weiterbildung wird  in der Regel von der Abteilung gef&ouml;rdert. <br>
+
+  Bei Interesse wenden Sie sich bitte an
 
 <a href="index.php?id=48"><em>Jugendleiter Nic Corrado</em></a>. </p>
 
@@ -1703,7 +1709,7 @@ In den drei Tagen konnten die Jungen und das einzige M&auml;dchen ihre F&auml;hi
 
   </div></td>
 
-	</tr> -->
+        </tr> -->
 
       <!--
 
@@ -1711,7 +1717,7 @@ In den drei Tagen konnten die Jungen und das einzige M&auml;dchen ihre F&auml;hi
 
         <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong> Wir suchen Jugendfu&szlig;baller </strong><br>
 
-         
+
 
 <p>Die Fußball-Jugend des SVI ist auch für die neue Saison auf der <strong> Suche nach interessierten, motivierten und talentierten Jugendfußballern </strong> in allen Altersklassen. Besonders suchen wir für die neue Saison Verst&auml;rkung für unsere <strong> C-Jugend (Jahrgang 1997/1998) </strong> und für unsere <strong> A-Jugend (Jahrgang 1993/1994)</strong>.  Bei Interesse meldet Euch bitte bei
 
@@ -1721,7 +1727,7 @@ In den drei Tagen konnten die Jungen und das einzige M&auml;dchen ihre F&auml;hi
 
   </div></td>
 
-	</tr> -->
+        </tr> -->
 
       <!--  <tr>
 
@@ -1729,7 +1735,7 @@ In den drei Tagen konnten die Jungen und das einzige M&auml;dchen ihre F&auml;hi
 
             <p> Im Leben eines Hobbyfußballers gibt es nicht nur die Abseitsregel, sondern auch ein Engagement im sozialen Bereich. Kids erkundigten sich schon nach dem Termin im n&auml;chsten Jahr. Wir m&ouml;chten uns bei Micha`s Freizeitshop bedanken f&uuml;r die gro&szlig;z&uuml;gige Sachspende, ferner noch bei der Fa. Fontanis f&uuml;r die Getr&auml;nke und sonstiges Outfit. Vor allem aber bei der Sparkasse Illingen, f&uuml;r die gener&ouml;se Unterst&uuml;tzung und bei allen Helfern auf dem Rasen und im Hintergrund. Ach ja, wegen den Maultaschen! Nat&uuml;rlich stimmte unsere Kalkulation nicht, in den M&auml;gen hungriger Kinder verschwinden im Schnitt viereinhalb gro&szlig;e Exemplare dieser schw&auml;bischen Spezialit&auml;t.<br>
 
-  			  Wir mussten also in Windeseile nachliefern, Hebbe sei Dank.</p>
+                            Wir mussten also in Windeseile nachliefern, Hebbe sei Dank.</p>
 
             <p>Wir w&uuml;nschen ein sch&ouml;nes Wochenende<br>
 
@@ -1745,77 +1751,57 @@ In den drei Tagen konnten die Jungen und das einzige M&auml;dchen ihre F&auml;hi
 
       <!--   <tr>
 
- 	<td id="contentfont" style= "text-align:left;"> 
+         <td id="contentfont" style= "text-align:left;">
 
-    	<div align="left"><img src="bilder/svi_mini.jpg"><strong> Umbau der Grillh&uuml;tte</strong><br>
+            <div align="left"><img src="bilder/svi_mini.jpg"><strong> Umbau der Grillh&uuml;tte</strong><br>
 
-         
 
-		<p>Der Grill-Container am Rasenplatz Ost wird derzeit renoviert. Im Zuge dieser Erneuerungen wird noch eine <strong>gut erhaltene Sp&uuml;le / Doppelbeckensp&uuml;le mit Unterschrank </strong> oder <strong>eine kleine K&uuml;chenzeile </strong>gesucht. Zudem wird auch noch ein <strong>Zwei-Platten-Kocher</strong> ben&ouml;tigt. Wenn Sie brauchbares Material zur Verf&uuml;gung stellen k&ouml;nnen und wollen, melden Sie sich bei Charly W&ouml;hr (0151-10503855) oder <a href="index.php?id=75"><em>Abteilungsleiter Christian Gruica</em></a>.     
+
+                <p>Der Grill-Container am Rasenplatz Ost wird derzeit renoviert. Im Zuge dieser Erneuerungen wird noch eine <strong>gut erhaltene Sp&uuml;le / Doppelbeckensp&uuml;le mit Unterschrank </strong> oder <strong>eine kleine K&uuml;chenzeile </strong>gesucht. Zudem wird auch noch ein <strong>Zwei-Platten-Kocher</strong> ben&ouml;tigt. Wenn Sie brauchbares Material zur Verf&uuml;gung stellen k&ouml;nnen und wollen, melden Sie sich bei Charly W&ouml;hr (0151-10503855) oder <a href="index.php?id=75"><em>Abteilungsleiter Christian Gruica</em></a>.
 
        </p>
 
-             </div>	</td></tr>
+             </div>        </td></tr>
 
              <tr>
 
-        	<td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
+                <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
 
-     	</tr> -->
-
-      <!--   
-
-         
-
-<tr>
-
- 	<td id="contentfont" style= "text-align:left;"> 
-
-    	<div align="left"><img src="bilder/svi_mini.jpg"><strong> Vorbereitungsplan der Aktiven online</strong><br>
-
-         
-
-		<p>Die Illinger Aktiven starten am 09. Februar in die Vorbereitung auf die R&uuml;ckrunde 2011/2012. Den aktuellen Plan finden Sie <a href="vorbereitung_rueckrunde_1112.xls"><em>hier.</em> </a> </p>
-
-		<br />
-
-  		</div>	</td>
-
-</tr> -->
+             </tr> -->
 
       <!--
 
  <tr>
 
- 	<td id="contentfont" style= "text-align:left;"> 
+         <td id="contentfont" style= "text-align:left;">
 
-    	<div align="left"><img src="bilder/svi_mini.jpg"><strong> Wir gratulieren ...</strong><br>
+            <div align="left"><img src="bilder/svi_mini.jpg"><strong> Wir gratulieren ...</strong><br>
 
-         
 
-		<p>Wir gratulieren unserem Jugendtrainer und Aktiven Spieler Dominik Kn&ouml;dler zur bestandenen Trainer-Pr&uuml;fung. Dominik reiht sich damit in den Kreis der Illinger &Uuml;bungsleiter mit &quot;Trainer C Breitenfu&szlig;ball&quot;-Lizenz ein. Herzlichen Gl&uuml;ckwunsch!!!</p>
 
-		<br />
+                <p>Wir gratulieren unserem Jugendtrainer und Aktiven Spieler Dominik Kn&ouml;dler zur bestandenen Trainer-Pr&uuml;fung. Dominik reiht sich damit in den Kreis der Illinger &Uuml;bungsleiter mit &quot;Trainer C Breitenfu&szlig;ball&quot;-Lizenz ein. Herzlichen Gl&uuml;ckwunsch!!!</p>
 
-  		</div>
+                <br />
 
-	</td>
+                  </div>
+
+        </td>
 
 </tr>
 
 -->
 
-      <!--	<tr>
+      <!--        <tr>
 
         <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong> Jugend-Camp 2011</strong><br>
 
-     <p align="center"><img src="bilder/jugendcamp2011.jpg" 
+     <p align="center"><img src="bilder/jugendcamp2011.jpg"
 
-            alt="Jugendcamp 2011" align="top" border="0px"></p>      
+            alt="Jugendcamp 2011" align="top" border="0px"></p>
 
 <p>Drei Tage lang befand sich der Illinger Eichwaldpark im Ausnahmezustand und stand dabei ganz
 
-im Zeichen der Jugendarbeit. Insgesamt 70 Kinder und Jugendliche zwischen 5 und 12 
+im Zeichen der Jugendarbeit. Insgesamt 70 Kinder und Jugendliche zwischen 5 und 12
 
 Jahren nahmen am diesj&auml;hrigen Fu&szlig;ball-Jugend-Camp des SV Illingen Abt. Fu&szlig;ball und zugeh&ouml;rigem F&ouml;rderverein teil.<br>
 
@@ -1845,7 +1831,7 @@ In den drei Tagen konnten die Jungen und das einzige M&auml;dchen ihre F&auml;hi
 
   </div></td>
 
-	</tr>
+        </tr>
 
 -->
 
@@ -1855,37 +1841,37 @@ In den drei Tagen konnten die Jungen und das einzige M&auml;dchen ihre F&auml;hi
 
         <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong> Jugend-Camp 2011</strong>
 
-        	<p> <img src="bilder/jugendcamp_logo_mini.png"><img src="bilder/jugendcamp_logo_mini.png"><br>
+                <p> <img src="bilder/jugendcamp_logo_mini.png"><img src="bilder/jugendcamp_logo_mini.png"><br>
 
-        	  Nur noch <span class="Stil3 Stil2 Stil4"><strong>2</strong></span> Restpl&auml;tze sind  zu vergeben!!! (Stand 29.05.11)<br>
+                  Nur noch <span class="Stil3 Stil2 Stil4"><strong>2</strong></span> Restpl&auml;tze sind  zu vergeben!!! (Stand 29.05.11)<br>
 
             <strong>Wir empfehlen eine sofortige Anmeldung!</strong></p>
 
-            <p align="center"><a href="http://www.svi-fussball.de/index.php?id=19"><img src="bilder/jugendcamp_logo_k.jpg" 
+            <p align="center"><a href="http://www.svi-fussball.de/index.php?id=19"><img src="bilder/jugendcamp_logo_k.jpg"
 
             alt="Vorschau Jugendcamp 2011" align="top" border="0px"></a></p>
 
-            <p>Vom 
+            <p>Vom
 
             15.06.2011 bis 17.06.2011 veranstaltet der F&ouml;rderverein SV Illingen-Fu&szlig;ball e.V. das Jugend-Camp 2011 auf dem Sportgel&auml;nde des SV Illingen. Teilnehmen k&ouml;nnen Jugendliche von 5 bis 15 Jahren.<br>
 
-            Weitere Informationen finden Sie <a href="http://www.svi-fussball.de/index.php?id=19"><em>hier</em></a>.</p>            
+            Weitere Informationen finden Sie <a href="http://www.svi-fussball.de/index.php?id=19"><em>hier</em></a>.</p>
 
             <br />
 
 </div></td>
 
-	</tr> -->
+        </tr> -->
 
       <!-- <tr>
 
         <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong> Wir suchen Trainer/innen und Betreuer/innen</strong><br>
 
-         
 
-<p>Für die neue Saison suchen wir im Juniorenbereich engagierte <strong> Trainer/innen </strong> und <strong> Betreuer/innen</strong>, die uns helfen wollen, die erfolgreiche Illinger Jugendarbeit fortzuführen. Gesucht werden Trainer besonders f&uuml;r  die <strong> F2-Junioren</strong>. Eine Trainerlizenz ist dabei nicht zwingend n&ouml;tig, eine Aus- oder Weiterbildung wird  in der Regel von der Abteilung gef&ouml;rdert. <br> 
 
-  Bei Interesse wenden Sie sich bitte an 
+<p>Für die neue Saison suchen wir im Juniorenbereich engagierte <strong> Trainer/innen </strong> und <strong> Betreuer/innen</strong>, die uns helfen wollen, die erfolgreiche Illinger Jugendarbeit fortzuführen. Gesucht werden Trainer besonders f&uuml;r  die <strong> F2-Junioren</strong>. Eine Trainerlizenz ist dabei nicht zwingend n&ouml;tig, eine Aus- oder Weiterbildung wird  in der Regel von der Abteilung gef&ouml;rdert. <br>
+
+  Bei Interesse wenden Sie sich bitte an
 
 <a href="index.php?id=48"><em>Jugendleiter Nic Corrado</em></a>. </p>
 
@@ -1893,7 +1879,7 @@ In den drei Tagen konnten die Jungen und das einzige M&auml;dchen ihre F&auml;hi
 
   </div></td>
 
-	</tr> -->
+        </tr> -->
 
       <!--
 
@@ -1901,7 +1887,7 @@ In den drei Tagen konnten die Jungen und das einzige M&auml;dchen ihre F&auml;hi
 
         <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong> Wir suchen Jugendfu&szlig;baller </strong><br>
 
-         
+
 
 <p>Die Fußball-Jugend des SVI ist auch für die neue Saison auf der <strong> Suche nach interessierten, motivierten und talentierten Jugendfußballern </strong> in allen Altersklassen. Besonders suchen wir für die neue Saison Verst&auml;rkung für unsere <strong> C-Jugend (Jahrgang 1997/1998) </strong> und für unsere <strong> A-Jugend (Jahrgang 1993/1994)</strong>.  Bei Interesse meldet Euch bitte bei
 
@@ -1911,7 +1897,7 @@ In den drei Tagen konnten die Jungen und das einzige M&auml;dchen ihre F&auml;hi
 
   </div></td>
 
-	</tr> -->
+        </tr> -->
 
       <!--  <tr>
 
@@ -1923,7 +1909,7 @@ In den drei Tagen konnten die Jungen und das einzige M&auml;dchen ihre F&auml;hi
 
               Die Fußballabteilung bedankt sich auf diesem Wege nochmals bei allen Spendern und ihrem "Schultes", wünscht dem Illinger Jugendspieler wieder viel Spaß bei seinem Hobby und wird sich auch in Zukunft nicht nur mit Streukalk und Abseitsregel beschäftigen.</p>
 
-             <a href="bilder/spendenuebergabe_olgaele_g.jpg"><img src="bilder/spendenuebergabe_olgaele.jpg" width="500" height="375" 
+             <a href="bilder/spendenuebergabe_olgaele_g.jpg"><img src="bilder/spendenuebergabe_olgaele.jpg" width="500" height="375"
 
             alt="Spedenuebergabe Olgaele" align="top"></a> <br>
 
@@ -1931,19 +1917,19 @@ In den drei Tagen konnten die Jungen und das einzige M&auml;dchen ihre F&auml;hi
 
              Christian Gruica.
 
-            
+
 
             <br>
 
-            
 
-            
+
+
 
             <br />
 
 </div></td>
 
-	</tr>
+        </tr>
 
 -->
 
@@ -1957,13 +1943,13 @@ In den drei Tagen konnten die Jungen und das einzige M&auml;dchen ihre F&auml;hi
 
             Wenn Sie Interesse haben, würden wir uns freuen, wenn Sie sich an unseren <a href="index.php?id=48"><em>Jugendleiter Nic Corrado</em></a> wenden würden.</p>
 
-            
+
 
             <br />
 
 </div></td>
 
-	</tr>
+        </tr>
 
 -->
 
@@ -1973,9 +1959,9 @@ In den drei Tagen konnten die Jungen und das einzige M&auml;dchen ihre F&auml;hi
 
             <p> Die Illinger C-Jugend nahm in diesem Jahr in Zusammenarbeit mit der Metzgerei Lamm am Illinger Open teil. Am Stand direkt vor der Metzgerei wurden die zahlreichen Gäste
 
-			mit Getränken und einem breiten Fleischangebot frisch vom Grill versorgt. <br>
+                        mit Getränken und einem breiten Fleischangebot frisch vom Grill versorgt. <br>
 
-			Die C-Jugend bedankt sich recht herzlich bei den helfenden Eltern, bei der Metzgerei Lamm für die Unterstützung und besonders auch bei Tanja Corrado für ihren großen Einsatz !
+                        Die C-Jugend bedankt sich recht herzlich bei den helfenden Eltern, bei der Metzgerei Lamm für die Unterstützung und besonders auch bei Tanja Corrado für ihren großen Einsatz !
 
           </p>
 
@@ -1983,9 +1969,9 @@ In den drei Tagen konnten die Jungen und das einzige M&auml;dchen ihre F&auml;hi
 
 </div></td>
 
-	</tr> -->
+        </tr> -->
 
-    
+
 
       <!--
 
@@ -1999,23 +1985,23 @@ In den drei Tagen konnten die Jungen und das einzige M&auml;dchen ihre F&auml;hi
 
             </p>
 
-            
+
 
             <br />
 
 </div></td>
 
-	</tr>
+        </tr>
 
     -->
 
-      
 
-    
 
-  
 
-        
+
+
+
+
 
   <!--  <tr>
 
@@ -2025,13 +2011,13 @@ In den drei Tagen konnten die Jungen und das einzige M&auml;dchen ihre F&auml;hi
 
               Unsere Rubrik &quot;Historie&quot; hat wieder Zuwachs bekommen. Dieter Heinz lie&szlig; uns dieses Schmuckst&uuml;ck aus dem Jahre 1979 zukommen. Viele weitere Bilder ehemaliger SVI-Mannschaften finden Sie <a href="index.php?id=22"><em>hier</em></a>.</p>
 
-            
+
 
             <br />
 
 </div></td>
 
-	</tr> -->
+        </tr> -->
 
       <!--
 
@@ -2045,7 +2031,7 @@ In den drei Tagen konnten die Jungen und das einzige M&auml;dchen ihre F&auml;hi
 
 </div></td>
 
-	</tr>
+        </tr>
 
       -->
 
@@ -2071,13 +2057,13 @@ In den drei Tagen konnten die Jungen und das einzige M&auml;dchen ihre F&auml;hi
 
 </div></td>
 
-	</tr> -->
+        </tr> -->
 
-       
 
-    
 
-       
+
+
+
 
       <tr>
 
@@ -2097,21 +2083,21 @@ In den drei Tagen konnten die Jungen und das einzige M&auml;dchen ihre F&auml;hi
 
       </tr>
 
-      <!--  
+      <!--
 
-        <tr> 
+        <tr>
 
           <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
 
         </tr>
 
-        <tr> 
+        <tr>
 
           <td id="contentfont" style= "text-align:right;"><div align="center"><strong>&nbsp;WINTERPAUSE</strong></div></td>
 
         </tr>
 
-		<tr> 
+                <tr>
 
           <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
 
@@ -2119,7 +2105,7 @@ In den drei Tagen konnten die Jungen und das einzige M&auml;dchen ihre F&auml;hi
 
 -->
 
-      
+
 
 
 
@@ -2127,25 +2113,25 @@ In den drei Tagen konnten die Jungen und das einzige M&auml;dchen ihre F&auml;hi
 
 <!--
 
-     
+
 
  <tr>
 
         <td id="ueber2"><div><strong>* Vorbereitung:</strong></font></div></td>
 
-      </tr>  
+      </tr>
 
- 
 
-      
 
-  <tr> 
+
+
+  <tr>
 
           <td id="contentfont" style= "text-align:left; padding-left:50px;"><strong> **Vorschau:</strong></td>
 
         </tr>
 
-		  <tr>           <td id="contentfont" style= "text-align:left; padding-left:50px;"><a href="vorbereitungsplan_sommer_2013_31.07..xls"><em>>> zum kompletten Vorbereitungsplan <em>(Stand: 31.07.)</em> <<</em></a></td>        </tr> 
+                  <tr>           <td id="contentfont" style= "text-align:left; padding-left:50px;"><a href="vorbereitungsplan_sommer_2013_31.07..xls"><em>>> zum kompletten Vorbereitungsplan <em>(Stand: 31.07.)</em> <<</em></a></td>        </tr>
 
    -->  <!-- <tr>
 
@@ -2155,7 +2141,7 @@ In den drei Tagen konnten die Jungen und das einzige M&auml;dchen ihre F&auml;hi
 
                                         <tr>
 
-                        
+
 
                                 <td width="26" id="contentfont6" style= "text-align:right;"><div align="right"><strong>Di</strong></div></td>
 
@@ -2171,9 +2157,9 @@ In den drei Tagen konnten die Jungen und das einzige M&auml;dchen ihre F&auml;hi
 
         </tr> -->
 
-       
 
-		<!-- <tr>
+
+                <!-- <tr>
 
                 <td>
 
@@ -2181,7 +2167,7 @@ In den drei Tagen konnten die Jungen und das einzige M&auml;dchen ihre F&auml;hi
 
                                         <tr>
 
-                        
+
 
                                 <td width="26" id="contentfont6" style= "text-align:right;"><div align="right"><strong>Sa</strong></div></td>
 
@@ -2195,9 +2181,9 @@ In den drei Tagen konnten die Jungen und das einzige M&auml;dchen ihre F&auml;hi
 
                                         </table>                </td>
 
-        </tr> 
+        </tr>
 
-		 <tr>
+                 <tr>
 
                 <td>
 
@@ -2205,7 +2191,7 @@ In den drei Tagen konnten die Jungen und das einzige M&auml;dchen ihre F&auml;hi
 
                                         <tr>
 
-                        
+
 
                                 <td width="26" id="contentfont6" style= "text-align:right;"><div align="right"><strong>Sa</strong></div></td>
 
@@ -2219,9 +2205,9 @@ In den drei Tagen konnten die Jungen und das einzige M&auml;dchen ihre F&auml;hi
 
                                         </table>                </td>
 
-        </tr> 
+        </tr>
 
-		 <tr>
+                 <tr>
 
                 <td>
 
@@ -2229,7 +2215,7 @@ In den drei Tagen konnten die Jungen und das einzige M&auml;dchen ihre F&auml;hi
 
                                         <tr>
 
-                        
+
 
                                 <td width="26" id="contentfont6" style= "text-align:right;"><div align="right"><strong>So</strong></div></td>
 
@@ -2243,7 +2229,7 @@ In den drei Tagen konnten die Jungen und das einzige M&auml;dchen ihre F&auml;hi
 
                                         </table>                </td>
 
-        </tr> 
+        </tr>
 
          <tr>
 
@@ -2253,7 +2239,7 @@ In den drei Tagen konnten die Jungen und das einzige M&auml;dchen ihre F&auml;hi
 
                                         <tr>
 
-                        
+
 
                                 <td width="26" id="contentfont6" style= "text-align:right;"><div align="right"><strong>Sa</strong></div></td>
 
@@ -2269,43 +2255,43 @@ In den drei Tagen konnten die Jungen und das einzige M&auml;dchen ihre F&auml;hi
 
         </tr> -->
 
-		
+
 
    <!-- <tr>
 
-        	<td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
+                <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
 
-     	</tr> 
+             </tr>
 
-		 <tr>
+                 <tr>
 
         <td height="50px" colspan="7"><hr width="100%" size="1px" noshade style="color:#cccccc; background-color:#CCCCCC;"></td>
 
       </tr> -->
 
-	
 
-     
+
+
 
       <!--      <tr>
 
-        	<td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
+                <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
 
-     	</tr> 
+             </tr>
 
         <tr>
 
-        	<td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
+                <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
 
-     	</tr> 
+             </tr>
 
-  <!--      <tr> 
+  <!--      <tr>
 
           <td id="contentfont" style= "text-align:left; padding-left:50px;"><strong> **Vorschau:</strong></td>
 
         </tr>
 
-      
+
 
         <tr>
 
@@ -2315,7 +2301,7 @@ In den drei Tagen konnten die Jungen und das einzige M&auml;dchen ihre F&auml;hi
 
                                         <tr>
 
-                        
+
 
                                 <td width="26" id="contentfont6" style= "text-align:right;"><div align="right"><strong>So</strong></div></td>
 
@@ -2333,7 +2319,7 @@ In den drei Tagen konnten die Jungen und das einzige M&auml;dchen ihre F&auml;hi
 
        -->
 
-  
+
 
      <!--  <tr>
 
@@ -2345,7 +2331,7 @@ In den drei Tagen konnten die Jungen und das einzige M&auml;dchen ihre F&auml;hi
 
       </tr> -->
 
-     
+
 
  <!--     <tr>
 
@@ -2355,7 +2341,7 @@ In den drei Tagen konnten die Jungen und das einzige M&auml;dchen ihre F&auml;hi
 
       <tr>
 
-        <td id="contentfont" style= "text-align:left;"><p><b>Sa 09.06</b><b>. 15.00 Uhr</b> &nbsp;<img src="bilder/MannschaftsLogos/svi_logo55px.jpg" alt=" " align="middle"> SV Illingen I&nbsp;vs. 	TSF Ditzingen I
+        <td id="contentfont" style= "text-align:left;"><p><b>Sa 09.06</b><b>. 15.00 Uhr</b> &nbsp;<img src="bilder/MannschaftsLogos/svi_logo55px.jpg" alt=" " align="middle"> SV Illingen I&nbsp;vs.         TSF Ditzingen I
 
       <img src="bilder/MannschaftsLogos/germania.jpg" alt=" " align="middle">
 
@@ -2365,7 +2351,7 @@ In den drei Tagen konnten die Jungen und das einzige M&auml;dchen ihre F&auml;hi
 
       -->
 
-	<!--  <tr>
+        <!--  <tr>
 
         <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
 
@@ -2381,29 +2367,29 @@ In den drei Tagen konnten die Jungen und das einzige M&auml;dchen ihre F&auml;hi
 
         <td id="ueber2"><div><strong>* Meisterschaft:</strong></div></td>
 
-      </tr> 
+      </tr>
 
-	 <!--  <tr>
+         <!--  <tr>
 
-        	<td id="contentfont" style= "text-align:right;"><div align="left">Die Illinger Aktiven befinden sich derzeit in der Vorbereitung auf die Saison 2013/2014 </div></td>
+                <td id="contentfont" style= "text-align:right;"><div align="left">Die Illinger Aktiven befinden sich derzeit in der Vorbereitung auf die Saison 2013/2014 </div></td>
 
-     	</tr> -->
-		  <tr>
+             </tr> -->
+        <!--          <tr>
 
         <td id="contentfont" style= "text-align:left; padding-left:50px;">SV Germania Bietigheim I&nbsp;vs. SV Illingen I&nbsp; 3:2 (2:2)<br/>
 
             <span class="Stil20"><em>Torsch&uuml;tzen: 0:1 Pascal Schöbinger, 2:2 Tobias Häfner</em></span><br><br>
 
-			<a href="http://ergebnisdienst.fussball.de/spiel/bezirksliga/bezirk-enz-murr/bezirksliga/herren/spieljahr1314/wuerttemberg/-/mandant/35/spiel/01HIJ6MV3K000000VV0AG812VU0P4H9C"><em>mehr Infos zum Spiel</em></a> </td>
+                        <a href="http://ergebnisdienst.fussball.de/spiel/bezirksliga/bezirk-enz-murr/bezirksliga/herren/spieljahr1314/wuerttemberg/-/mandant/35/spiel/01HIJ6MV3K000000VV0AG812VU0P4H9C"><em>mehr Infos zum Spiel</em></a> </td>
 
-      </tr>  
-<tr>        <td id="contentfont" style= "text-align:left; padding-left:50px;">SV Illingen II&nbsp;vs. TSV Häfnerhaslach II&nbsp; 5:1 (1:1)<br/>           
-	  <span class="Stil20"><em>Torsch&uuml;tzen: 1:0 Matthias Pucci (FE), 2:1 u. 5:1 Marcel Liebendörfer, 3:1 Pasquale Arena, 4:1 Birol Aladag, </em></span><br><br>		
-	<a href="http://ergebnisdienst.fussball.de/spiel/kreisliga-c-5/bezirk-enz-murr-kl/kreisliga-c/herren/spieljahr1314/wuerttemberg/-/mandant/35/spiel/01HLTRI1RS000000VV0AG812VS2HNECA"><em>mehr Infos zum Spiel</em></a> </td>    </tr> 
+      </tr>  -->
+<tr>        <td id="contentfont" style= "text-align:left; padding-left:50px;">SV Illingen II&nbsp;vs. TSV Häfnerhaslach II&nbsp; 5:1 (1:1)<br/>
+          <span class="Stil20"><em>Torsch&uuml;tzen: 1:0 Matthias Pucci (FE), 2:1 u. 5:1 Marcel Liebendörfer, 3:1 Pasquale Arena, 4:1 Daniel Brenner </em></span><br><br>
+        <a href="http://ergebnisdienst.fussball.de/spiel/kreisliga-c-5/bezirk-enz-murr-kl/kreisliga-c/herren/spieljahr1314/wuerttemberg/-/mandant/35/spiel/01HLTRI1RS000000VV0AG812VS2HNECA"><em>mehr Infos zum Spiel</em></a> </td>    </tr>
 
 
 
-	<!-- <tr>
+        <!-- <tr>
 
         <td id="contentfont" style= "text-align:left; padding-left:50px;">SV Illingen II&nbsp;vs. TSV Enzweihingen I&nbsp; 5:0 (2:0)  <br/>
 
@@ -2411,15 +2397,15 @@ In den drei Tagen konnten die Jungen und das einzige M&auml;dchen ihre F&auml;hi
 
       </tr>  -->
 
-	  <!--<tr>
+          <!--<tr>
 
         <td id="contentfont" style= "text-align:left; padding-left:50px;">SV Illingen II&nbsp;vs. TSV Enzweihingen I&nbsp; 1:3 (0:2)  <br/>
 
             <span class="Stil20"><em>Torsch&uuml;tzen: 0:1 und 0:2 Dominik Knödler, 0:3 Lukas Knödler</em></span></td>
 
-      </tr>  
+      </tr>
 
-	  -->
+          -->
       <tr>
 
         <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
@@ -2435,32 +2421,32 @@ In den drei Tagen konnten die Jungen und das einzige M&auml;dchen ihre F&auml;hi
     <tr>
         <td id="ueber2"><div><strong>* Pokal (1. Runde):</strong></font></div></td>
       </tr>
-      <tr> 
+      <tr>
           <td id="contentfont" style= "text-align:left; padding-left:50px;">SV Illingen II - VfL Gemmrigheim I&nbsp;  0:3 (Wertung)<br/>
             <span class="Stil20"><em>Torsch&uuml;tzen: ---</em></span><br><br>
-        </td></tr>		 <tr>           <td id="contentfont" style= "text-align:left; padding-left:50px;">TSV Nussdorf I - SV Illingen I&nbsp;  4:0 (1:0)<br/>            <span class="Stil20"><em>Torsch&uuml;tzen: ---</em></span><br><br>			<a href="http://ergebnisdienst.fussball.de/spiel/-/mandant/35/spiel/01I40JHCL8000000VV0AG812VS8PNPR0"><em>mehr Infos zum Spiel</em></a>        </td></tr>
+        </td></tr>                 <tr>           <td id="contentfont" style= "text-align:left; padding-left:50px;">TSV Nussdorf I - SV Illingen I&nbsp;  4:0 (1:0)<br/>            <span class="Stil20"><em>Torsch&uuml;tzen: ---</em></span><br><br>                        <a href="http://ergebnisdienst.fussball.de/spiel/-/mandant/35/spiel/01I40JHCL8000000VV0AG812VS8PNPR0"><em>mehr Infos zum Spiel</em></a>        </td></tr>
 
 <tr>
 
-        	<td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
+                <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
 
-     	</tr> 
+             </tr>
 
       <tr>
 
-			<td height="50px" colspan="7"><hr width="100%" size="1px" noshade style="color:#cccccc; background-color:#CCCCCC;"></td>
+                        <td height="50px" colspan="7"><hr width="100%" size="1px" noshade style="color:#cccccc; background-color:#CCCCCC;"></td>
 
-		</tr>     -->
+                </tr>     -->
 
  <!-- <tr>
 
-        <td id="ueber2"><div><strong>* 
+        <td id="ueber2"><div><strong>*
 
           Relegation Kreisliga A / Bezirksliga:</strong></font></div></td>
 
       </tr>
 
-      <tr> 
+      <tr>
 
           <td id="contentfont" style= "text-align:left; padding-left:50px;"><strong> **Ergebnis (3. Runde):</strong></td>
 
@@ -2474,15 +2460,15 @@ In den drei Tagen konnten die Jungen und das einzige M&auml;dchen ihre F&auml;hi
 
             <br>
 
-			<a href="index.php?id=449"><em>mehr Infos zum Spiel</em></a> </td>
+                        <a href="index.php?id=449"><em>mehr Infos zum Spiel</em></a> </td>
 
       </tr>
 
      -->
 
-         
 
-	
+
+
 
     <tr>
 
@@ -2490,26 +2476,26 @@ In den drei Tagen konnten die Jungen und das einzige M&auml;dchen ihre F&auml;hi
 
       </tr>
 
-    
+
 
        <tr>
 
-        	<td id="contentfont" style= "text-align:right;"><div align="left">Die beiden aktiven Mannschaften befinden sich derzeit in der Winterpause !</div></td>
+                <td id="contentfont" style= "text-align:right;"><div align="left">Die beiden aktiven Mannschaften befinden sich derzeit in der Winterpause !</div></td>
 
-     	</tr> 
+             </tr>
 
-   	
+
 <!--
-<tr>        <td id="contentfont" style= "text-align:left;"><p><b>So 15.12</b><b>. 14.00 Uhr</b>   	&nbsp; <img src="bilder/MannschaftsLogos/svi_logo55px.jpg"alt=" 		" align="middle">   SV Illingen II &nbsp;vs. TSV Häfnerhaslach II 	<img src="bilder/MannschaftsLogos/haefnerhaslach.jpg" alt=" " align="middle"></p></td>      </tr>  </tr>
--->  
+<tr>        <td id="contentfont" style= "text-align:left;"><p><b>So 15.12</b><b>. 14.00 Uhr</b>           &nbsp; <img src="bilder/MannschaftsLogos/svi_logo55px.jpg"alt="                 " align="middle">   SV Illingen II &nbsp;vs. TSV Häfnerhaslach II         <img src="bilder/MannschaftsLogos/haefnerhaslach.jpg" alt=" " align="middle"></p></td>      </tr>  </tr>
+-->
   <!--   <tr>
 
-			<td height="50px" colspan="7">
+                        <td height="50px" colspan="7">
 
-				<hr width="100%" size="1px" noshade style="color:#cccccc; background-color:#CCCCCC;">			</td>
+                                <hr width="100%" size="1px" noshade style="color:#cccccc; background-color:#CCCCCC;">                        </td>
 
-		</tr> 
-    <tr> 
+                </tr>
+    <tr>
 
           <td id="ueber2">
 
@@ -2519,86 +2505,86 @@ In den drei Tagen konnten die Jungen und das einzige M&auml;dchen ihre F&auml;hi
 
       <tr>
 
-        	<td>
-            			<table id="inner_table" width="550" class="profil" >
-          				<tr>                       
-            			<td width="26" id="contentfont6" style= "text-align:right;"><div align="right"><strong>Mi</strong></div></td>
-            			<td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>04.09.13</strong></div></td>
-            			<td width="69" id="contentfont6" style= "text-align:right;"><div align="left"><strong>19.00 Uhr</strong></div></td>
-            			<td width="339" id="contentfont6" style= "text-align:right;"><div align="left">SV Illingen II - VfL Gemmrigheim I <strong> !! ABGESAGT !!</strong></div></td>
-          				</tr>
-        				</table>        	</td>
-      	</tr>
-		   <tr>
+                <td>
+                                    <table id="inner_table" width="550" class="profil" >
+                                          <tr>
+                                    <td width="26" id="contentfont6" style= "text-align:right;"><div align="right"><strong>Mi</strong></div></td>
+                                    <td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>04.09.13</strong></div></td>
+                                    <td width="69" id="contentfont6" style= "text-align:right;"><div align="left"><strong>19.00 Uhr</strong></div></td>
+                                    <td width="339" id="contentfont6" style= "text-align:right;"><div align="left">SV Illingen II - VfL Gemmrigheim I <strong> !! ABGESAGT !!</strong></div></td>
+                                          </tr>
+                                        </table>                </td>
+              </tr>
+                   <tr>
 
-        	<td>
-            			<table id="inner_table" width="550" class="profil" >
-          				<tr>                       
-            			<td width="26" id="contentfont6" style= "text-align:right;"><div align="right"><strong>Mi</strong></div></td>
-            			<td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>04.09.13</strong></div></td>
-            			<td width="69" id="contentfont6" style= "text-align:right;"><div align="left"><strong>19.00 Uhr</strong></div></td>
-            			<td width="339" id="contentfont6" style= "text-align:right;"><div align="left">TSV Nussdorf I - SV Illingen I</div></td>
-          				</tr>
-        				</table>        	</td>
-      	</tr>
+                <td>
+                                    <table id="inner_table" width="550" class="profil" >
+                                          <tr>
+                                    <td width="26" id="contentfont6" style= "text-align:right;"><div align="right"><strong>Mi</strong></div></td>
+                                    <td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>04.09.13</strong></div></td>
+                                    <td width="69" id="contentfont6" style= "text-align:right;"><div align="left"><strong>19.00 Uhr</strong></div></td>
+                                    <td width="339" id="contentfont6" style= "text-align:right;"><div align="left">TSV Nussdorf I - SV Illingen I</div></td>
+                                          </tr>
+                                        </table>                </td>
+              </tr>
             -->
 <!--
      <tr>
 
-        	<td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
+                <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
 
-     	</tr> 
+             </tr>
 
-    
+
 
 
 
   <tr>
 
-			<td height="50px" colspan="7">
+                        <td height="50px" colspan="7">
 
-				<hr width="100%" size="1px" noshade style="color:#cccccc; background-color:#CCCCCC;">			</td>
+                                <hr width="100%" size="1px" noshade style="color:#cccccc; background-color:#CCCCCC;">                        </td>
 
-		</tr> 
+                </tr>
 
-		 <tr>
+                 <tr>
 
         <td id="ueber2"><div><strong>* Vorbereitung:</strong></font></div></td>
 
-      </tr>  
+      </tr>
 
- 
 
-      
 
-  <tr> 
+
+
+  <tr>
 
           <td id="contentfont" style= "text-align:left; padding-left:50px;"><strong> **Vorschau:</strong></td>
 
         </tr>
 
-		  <tr>           <td id="contentfont" style= "text-align:left; padding-left:50px;"><a href="vorbereitungsplan_sommer_2013_31.07..xls"><em>>> zum kompletten Vorbereitungsplan <em>(Stand: 31.07.)</em> <<</em></a></td>        </tr> 
+                  <tr>           <td id="contentfont" style= "text-align:left; padding-left:50px;"><a href="vorbereitungsplan_sommer_2013_31.07..xls"><em>>> zum kompletten Vorbereitungsplan <em>(Stand: 31.07.)</em> <<</em></a></td>        </tr>
 
-   
 
-		 <tr>
+
+                 <tr>
 
         <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
 
-      </tr> 
+      </tr>
 
-     <tr> 
+     <tr>
 
           <td id="contentfont" style= "text-align:left; padding-left:50px;"><strong> **Ergebnisse:</strong></td>
 
         </tr> -->
 
-     <!-- <tr> 
+     <!-- <tr>
 
           <td id="contentfont" style= "text-align:left; padding-left:50px;"> *** 1. Mannschaft:</td>
 
         </tr>
-		 <tr> 
+                 <tr>
 
           <td id="contentfont" style= "text-align:left; padding-left:50px;">SV Illingen I - SV Salamander Kornwestheim II &nbsp;  7:2 (4:2)<br/>
 
@@ -2606,7 +2592,7 @@ In den drei Tagen konnten die Jungen und das einzige M&auml;dchen ihre F&auml;hi
 
         </tr>
 
-		<tr> 
+                <tr>
 
           <td id="contentfont" style= "text-align:left; padding-left:50px;">SV Illingen I - TSV Höfingen I &nbsp;  3:4 (1:2)<br/>
 
@@ -2614,7 +2600,7 @@ In den drei Tagen konnten die Jungen und das einzige M&auml;dchen ihre F&auml;hi
 
         </tr>
 
-        <tr> 
+        <tr>
 
           <td id="contentfont" style= "text-align:left; padding-left:50px;">Fvgg 08 Mühlacker - SV Illingen I &nbsp;  2:5 (1:2)<br/>
 
@@ -2622,7 +2608,7 @@ In den drei Tagen konnten die Jungen und das einzige M&auml;dchen ihre F&auml;hi
 
         </tr>
 
-		<tr> 
+                <tr>
 
           <td id="contentfont" style= "text-align:left; padding-left:50px;">SV Illingen I - FV Löchgau I &nbsp;  0:4 (0:2)<br/>
 
@@ -2630,7 +2616,7 @@ In den drei Tagen konnten die Jungen und das einzige M&auml;dchen ihre F&auml;hi
 
         </tr>
 
-           <tr> 
+           <tr>
 
           <td id="contentfont" style= "text-align:left; padding-left:50px;">Spfr. Mühlacker - SV Illingen I &nbsp;  6:5 (1:4)<br/>
 
@@ -2638,7 +2624,7 @@ In den drei Tagen konnten die Jungen und das einzige M&auml;dchen ihre F&auml;hi
 
         </tr>
 
-		<tr> 
+                <tr>
 
           <td id="contentfont" style= "text-align:left; padding-left:50px;">SV Illingen I - 1. FC Nussbaum&nbsp;  4:1 (2:1)<br/>
 
@@ -2646,32 +2632,32 @@ In den drei Tagen konnten die Jungen und das einzige M&auml;dchen ihre F&auml;hi
 
         </tr> -->
 
-		<!--<tr> 
+                <!--<tr>
 
           <td id="contentfont" style= "text-align:left; padding-left:50px;"> *** 2. Mannschaft:</td>
 
         </tr> -->
 
-		<!-- <tr> 
+                <!-- <tr>
 
           <td id="contentfont" style= "text-align:left; padding-left:50px;">Sportfreunde Mühlacker II - SV Illingen II &nbsp;  2:3 (1:1)<br/>
 
             <span class="Stil20"><em>Torsch&uuml;tzen: 2x Martin Gruica, Tim Scheuermann</em></span> </td>
         </tr>
-		    <tr> 
+                    <tr>
           <td id="contentfont" style= "text-align:left; padding-left:50px;">TSV Weissach II - SV Illingen II &nbsp;  1:6 <br/>
 
             <span class="Stil20"><em>Torsch&uuml;tzen: 2x Marcel Liebendörfer, 2x Michali Gatsas, 2x Pasquale Arena</em></span> </td>
         </tr>
 
-		<tr> 
+                <tr>
 
           <td id="contentfont" style= "text-align:left; padding-left:50px;">SV Illingen II - SV Hellas Bietigheim II&nbsp;  5:7 <br/>
 
             <span class="Stil20"><em>Torsch&uuml;tzen: 2x Marcel Liebendörfer, 2x Daniel Graci, Marco Klein</em></span> </td>
 
         </tr>
-		<tr> 
+                <tr>
 
           <td id="contentfont" style= "text-align:left; padding-left:50px;">SV Illingen II - TSV Enzweihingen&nbsp;  5:1 <br/>
 
@@ -2679,25 +2665,25 @@ In den drei Tagen konnten die Jungen und das einzige M&auml;dchen ihre F&auml;hi
 
         </tr> -->
 
-   <!-- 
+   <!--
 
               <tr>
 
-        <td id="ueber2"><div><strong>* 
+        <td id="ueber2"><div><strong>*
 
           Testspiele:</strong></font></div></td>
 
       </tr>
 
-         <tr> 
+         <tr>
 
           <td id="contentfont" style= "text-align:left; padding-left:50px;">Spvgg Zaisersweiher I - SV Illingen  I&nbsp; 3:3 (3:0)<br/>
 
             <span class="Stil20"><em>Torsch&uuml;tzen: 3:1 Marcel Liebend&ouml;rfer, 3:2 Daniel Brenner, 3:3 Matthias Pucci</em></span></td>
 
-        </tr> 
+        </tr>
 
-        <tr> 
+        <tr>
 
           <td id="contentfont" style= "text-align:left; padding-left:50px;">SV Freudental I - SV Illingen  I&nbsp; 3:1 (1:0)<br/>
 
@@ -2705,7 +2691,7 @@ In den drei Tagen konnten die Jungen und das einzige M&auml;dchen ihre F&auml;hi
 
         </tr>
 
-        <tr> 
+        <tr>
 
           <td id="contentfont" style= "text-align:left; padding-left:50px;">SV Illingen I - TSV Korntal I&nbsp; 1:5 (1:0)<br/>
 
@@ -2713,7 +2699,7 @@ In den drei Tagen konnten die Jungen und das einzige M&auml;dchen ihre F&auml;hi
 
         </tr>
 
-		<tr> 
+                <tr>
 
           <td id="contentfont" style= "text-align:left; padding-left:50px;">TSV Ensingen I - SV Illingen I&nbsp; 3:4 (0:2)<br/>
 
@@ -2721,7 +2707,7 @@ In den drei Tagen konnten die Jungen und das einzige M&auml;dchen ihre F&auml;hi
 
         </tr>
 
-          <tr> 
+          <tr>
 
           <td id="contentfont" style= "text-align:left; padding-left:50px;">SV Illingen I - Spvgg Möhringen&nbsp; 8:1 (6:0)<br/>
 
@@ -2729,7 +2715,7 @@ In den drei Tagen konnten die Jungen und das einzige M&auml;dchen ihre F&auml;hi
 
         </tr>
 
-      <tr> 
+      <tr>
 
           <td id="contentfont" style= "text-align:left; padding-left:50px;">SV Illingen I - FV Niefern&nbsp; 5:4 (3:3)<br/>
 
@@ -2738,15 +2724,15 @@ In den drei Tagen konnten die Jungen und das einzige M&auml;dchen ihre F&auml;hi
         </tr>
 
       -->
-      <!--     
+      <!--
 
-		<tr> 
+                <tr>
 
          <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
 
         </tr>
 
-<tr> 
+<tr>
 
          <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
 
@@ -2760,7 +2746,7 @@ In den drei Tagen konnten die Jungen und das einzige M&auml;dchen ihre F&auml;hi
 
       </tr>
 
-	  <tr>
+          <tr>
 
         <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
 
@@ -2772,69 +2758,69 @@ In den drei Tagen konnten die Jungen und das einzige M&auml;dchen ihre F&auml;hi
 
       </tr>
 
-	     <tr>    
+             <tr>
 
           <td id="contentfont"><div align="left">&nbsp;</td>
 
-        </tr> 
-		
+        </tr>
+<!--
    <tr>
 
         <td id="ueber2"> * Meisterschaft: </td>
 
-      </tr> 	  
+      </tr>
 
-	  <tr>
+          <tr>
 
         <td id="ueber3"><div>&nbsp;&nbsp;&nbsp;&nbsp;<strong>** A-Jugend:</strong></div></td>
 
       </tr>
 
-	   <tr>
+           <tr>
 
         <td id="contentfont" style= "text-align:left; padding-left:50px;"> Spvgg Warmbronn  - SV Illingen &nbsp;3:2  <br/>
    <span class="Stil20"><em>Torsch&uuml;tzen: </em></span></td>
    </tr>
       <tr>
         <td id="contentfont"><div align="left">&nbsp;</div></td>
-      </tr> 
+      </tr>
     <tr>
         <td id="ueber3"><div>&nbsp;&nbsp;&nbsp;&nbsp;<strong>** B-Jugend:</strong></div></td>
       </tr>
-	   <tr>
+           <tr>
         <td id="contentfont" style= "text-align:left; padding-left:50px;"> TSV Eltingen II - SV Illingen&nbsp; 2:0   <br/>
             <span class="Stil20"><em>Torsch&uuml;tzen: ---</em></span></td>
-      </tr><!--
+      </tr> --><!--
  <tr>
 
         <td id="contentfont"><div align="left">&nbsp;</div></td>
 
-      </tr> 
+      </tr>
 
-    <tr> 
+    <tr>
 
         <td id="ueber3"><div>&nbsp;&nbsp;&nbsp;&nbsp;<strong>** C-Jugend:</strong></div></td>
 
       </tr>
 
-	   <tr>
+           <tr>
 
         <td id="contentfont" style= "text-align:left; padding-left:50px;"> TSV Phönix Lomersheim - SV Illingen&nbsp; <em>ausgefallen</em>  <br/>
 
             <span class="Stil20"><em>Torsch&uuml;tzen: --- </em></span></td>
 
-      </tr> 	--> 
+      </tr>         -->
  <!-- <tr>
 
         <td id="contentfont"><div align="left">&nbsp;</div></td>
 
-      </tr>	 
+      </tr>
 
   <tr>
 
         <td id="ueber3"><div>&nbsp;&nbsp;&nbsp;&nbsp;<strong>** D-Jugend:</strong></div></td>
 
-      </tr> 
+      </tr>
 
      <tr>
 
@@ -2850,7 +2836,7 @@ In den drei Tagen konnten die Jungen und das einzige M&auml;dchen ihre F&auml;hi
 
             <span class="Stil20"><em>Torsch&uuml;tzen: ---</em></span></td>
 
-      </tr> 
+      </tr>
       <tr>
 
           <td id="contentfont"><div align="left">&nbsp;</div></td>
@@ -2865,53 +2851,53 @@ In den drei Tagen konnten die Jungen und das einzige M&auml;dchen ihre F&auml;hi
 
       <tr>
 
-        <td id="contentfont" style= "text-align:left; padding-left:50px;">	 SV Illingen - SG TSV Oberriexingen / TSV Unterriexingen	I&nbsp; 4:12  <br/>
+        <td id="contentfont" style= "text-align:left; padding-left:50px;">         SV Illingen - SG TSV Oberriexingen / TSV Unterriexingen        I&nbsp; 4:12  <br/>
 
             <span class="Stil20"><em>Torsch&uuml;tzen:  </em></span></td>
 
       </tr> -->
 
- 
 
-     
+
+
       <!--
 
-        <tr> 
+        <tr>
 
           <td id="ueber3"><div>&nbsp;&nbsp;&nbsp;&nbsp;<strong>** F1-Jugend:</strong></td>
 
         </tr>
 
-        <tr> 
+        <tr>
 
           <td id="contentfont" style= "text-align:left; padding-left:50px;">Feld-Spieltag in Vaihingen / Enz:</td>
 
         </tr>
-        <tr> 
+        <tr>
 
           <td id="contentfont" style= "text-align:left; padding-left:50px;">SV Illingen - VfB Vaihingen I&nbsp; 0:4</td>
 
         </tr>
 
-        <tr> 
+        <tr>
 
           <td id="contentfont" style= "text-align:left; padding-left:50px;">SV Illingen - VfR Sersheim I&nbsp; 3:4</td>
 
         </tr>
 
-           <tr> 
+           <tr>
 
           <td id="contentfont" style= "text-align:left; padding-left:50px;">SV Illingen - TSV Hochdorf / Enz&nbsp; 7:2</td>
 
         </tr>
-        <tr> 
+        <tr>
 
-          <td id="contentfont" style= "text-align:left; padding-left:50px;"><span class="Stil20">Es spielten: 
+          <td id="contentfont" style= "text-align:left; padding-left:50px;"><span class="Stil20">Es spielten:
 
-Lukas Zimmermann, Can Staiger (4), Aaron Petersen, Tobias Spechtenhauser (5), Daniel Krepp, Mika Köppl, Ilja Bochonow (1)</span>         
+Lukas Zimmermann, Can Staiger (4), Aaron Petersen, Tobias Spechtenhauser (5), Daniel Krepp, Mika Köppl, Ilja Bochonow (1)</span>
 
           </tr>
-           <tr> 
+           <tr>
 
           <td id="contentfont"><div align="left">&nbsp;</td>
 
@@ -2920,228 +2906,228 @@ Lukas Zimmermann, Can Staiger (4), Aaron Petersen, Tobias Spechtenhauser (5), Da
 -->
 
 
-
+<!--
 <tr>
 
-        	<td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
+                <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
 
-     	</tr> 
+             </tr>
 
       <tr>
 
-			<td height="50px" colspan="7"><hr width="100%" size="1px" noshade style="color:#cccccc; background-color:#CCCCCC;"></td>
+                        <td height="50px" colspan="7"><hr width="100%" size="1px" noshade style="color:#cccccc; background-color:#CCCCCC;"></td>
 
-      </tr> 
+      </tr> -->
 
-      
 
-      <!--<tr> 
 
-      <td id="ueber2"><div><strong>* 
+      <!--<tr>
+
+      <td id="ueber2"><div><strong>*
 
             Trainingsstarts:</strong>
 
-        
+
 
           </div></td>
 
-        </tr> 
+        </tr>
 
          <tr>
 
-        	<td>
+                <td>
 
-            			<table id="inner_table" width="550" class="profil" >
+                                    <table id="inner_table" width="550" class="profil" >
 
-          				<tr>
+                                          <tr>
 
                         <td width="120" id="contentfont6" style= "text-align:right;"><div align="left"><strong>A-Jugend</strong></div></td>
 
-            			<td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>Dienstag</strong></div></td>
+                                    <td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>Dienstag</strong></div></td>
 
-            			<td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>30.08.11</strong></div></td>
+                                    <td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>30.08.11</strong></div></td>
 
-            			<td width="338" id="contentfont6" style= "text-align:right;"><div align="left"><strong>19.00Uhr</strong></div></td>
+                                    <td width="338" id="contentfont6" style= "text-align:right;"><div align="left"><strong>19.00Uhr</strong></div></td>
 
-          				</tr>
+                                          </tr>
 
-        				</table>			</td>
+                                        </table>                        </td>
 
-      	</tr>
+              </tr>
 
           <tr>
 
-        	<td>
+                <td>
 
-            			<table id="inner_table" width="550" class="profil" >
+                                    <table id="inner_table" width="550" class="profil" >
 
-          				<tr>
+                                          <tr>
 
                         <td width="120" id="contentfont6" style= "text-align:right;"><div align="left"><strong>B-Jugend</strong></div></td>
 
-            			<td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>Mittwoch</strong></div></td>
+                                    <td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>Mittwoch</strong></div></td>
 
-            			<td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>17.08.11</strong></div></td>
+                                    <td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>17.08.11</strong></div></td>
 
-            			<td width="338" id="contentfont6" style= "text-align:right;"><div align="left"><strong>18.30Uhr</strong></div></td>
+                                    <td width="338" id="contentfont6" style= "text-align:right;"><div align="left"><strong>18.30Uhr</strong></div></td>
 
-          				</tr>
+                                          </tr>
 
-        				</table>			</td>
+                                        </table>                        </td>
 
-      	</tr>
+              </tr>
 
           <tr>
 
-        	<td>
+                <td>
 
-            			<table id="inner_table" width="550" class="profil" >
+                                    <table id="inner_table" width="550" class="profil" >
 
-          				<tr>
+                                          <tr>
 
                         <td width="120" id="contentfont6" style= "text-align:right;"><div align="left"><strong>C-Jugend</strong></div></td>
 
-            			<td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>Montag</strong></div></td>
+                                    <td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>Montag</strong></div></td>
 
-            			<td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>15.08.11</strong></div></td>
+                                    <td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>15.08.11</strong></div></td>
 
-            			<td width="338" id="contentfont6" style= "text-align:right;"><div align="left"><strong>17.30Uhr</strong></div></td>
+                                    <td width="338" id="contentfont6" style= "text-align:right;"><div align="left"><strong>17.30Uhr</strong></div></td>
 
-          				</tr>
+                                          </tr>
 
-        				</table>			</td>
+                                        </table>                        </td>
 
-      	</tr>
+              </tr>
 
           <tr>
 
-        	<td>
+                <td>
 
-            			<table id="inner_table" width="550" class="profil" >
+                                    <table id="inner_table" width="550" class="profil" >
 
-          				<tr>
+                                          <tr>
 
                         <td width="120" id="contentfont6" style= "text-align:right;"><div align="left"><strong>D-Jugend</strong></div></td>
 
-            			<td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>Montag</strong></div></td>
+                                    <td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>Montag</strong></div></td>
 
-            			<td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>29.08.11</strong></div></td>
+                                    <td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>29.08.11</strong></div></td>
 
-            			<td width="338" id="contentfont6" style= "text-align:right;"><div align="left"><strong>17.30Uhr</strong></div></td>
+                                    <td width="338" id="contentfont6" style= "text-align:right;"><div align="left"><strong>17.30Uhr</strong></div></td>
 
-          				</tr>
+                                          </tr>
 
-        				</table>			</td>
+                                        </table>                        </td>
 
-      	</tr>  <tr>
+              </tr>  <tr>
 
-        	<td>
+                <td>
 
-            			<table id="inner_table" width="550" class="profil" >
+                                    <table id="inner_table" width="550" class="profil" >
 
-          				<tr>
+                                          <tr>
 
                         <td width="120" id="contentfont6" style= "text-align:right;"><div align="left"><strong>E1-Jugend</strong></div></td>
 
-            			<td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>Montag</strong></div></td>
+                                    <td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>Montag</strong></div></td>
 
-            			<td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>05.09.11</strong></div></td>
+                                    <td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>05.09.11</strong></div></td>
 
-            			<td width="338" id="contentfont6" style= "text-align:right;"><div align="left"><strong>17.00Uhr</strong></div></td>
+                                    <td width="338" id="contentfont6" style= "text-align:right;"><div align="left"><strong>17.00Uhr</strong></div></td>
 
-          				</tr>
+                                          </tr>
 
-        				</table>			</td>
+                                        </table>                        </td>
 
-      	</tr>  <tr>
+              </tr>  <tr>
 
-        	<td>
+                <td>
 
-            			<table id="inner_table" width="550" class="profil" >
+                                    <table id="inner_table" width="550" class="profil" >
 
-          				<tr>
+                                          <tr>
 
                         <td width="120" id="contentfont6" style= "text-align:right;"><div align="left"><strong>E2-Jugend</strong></div></td>
 
-            			<td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>Montag</strong></div></td>
+                                    <td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>Montag</strong></div></td>
 
-            			<td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>29.08.11</strong></div></td>
+                                    <td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>29.08.11</strong></div></td>
 
-            			<td width="338" id="contentfont6" style= "text-align:right;"><div align="left"><strong>17.30Uhr</strong></div></td>
+                                    <td width="338" id="contentfont6" style= "text-align:right;"><div align="left"><strong>17.30Uhr</strong></div></td>
 
-          				</tr>
+                                          </tr>
 
-        				</table>			</td>
+                                        </table>                        </td>
 
-      	</tr>
+              </tr>
 
           <tr>
 
-        	<td>
+                <td>
 
-            			<table id="inner_table" width="550" class="profil" >
+                                    <table id="inner_table" width="550" class="profil" >
 
-          				<tr>
+                                          <tr>
 
                         <td width="120" id="contentfont6" style= "text-align:right;"><div align="left"><strong>F1-Jugend</strong></div></td>
 
-            			<td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>Dienstag</strong></div></td>
+                                    <td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>Dienstag</strong></div></td>
 
-            			<td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>06.09.11</strong></div></td>
+                                    <td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>06.09.11</strong></div></td>
 
-            			<td width="338" id="contentfont6" style= "text-align:right;"><div align="left"><strong>17.30Uhr</strong></div></td>
+                                    <td width="338" id="contentfont6" style= "text-align:right;"><div align="left"><strong>17.30Uhr</strong></div></td>
 
-          				</tr>
+                                          </tr>
 
-        				</table>			</td>
+                                        </table>                        </td>
 
-      	</tr>   <tr>
+              </tr>   <tr>
 
-        	<td>
+                <td>
 
-            			<table id="inner_table" width="550" class="profil" >
+                                    <table id="inner_table" width="550" class="profil" >
 
-          				<tr>
+                                          <tr>
 
                         <td width="120" id="contentfont6" style= "text-align:right;"><div align="left"><strong>F2-Jugend</strong></div></td>
 
-            			<td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>Dienstag</strong></div></td>
+                                    <td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>Dienstag</strong></div></td>
 
-            			<td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>06.09.11</strong></div></td>
+                                    <td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>06.09.11</strong></div></td>
 
-            			<td width="338" id="contentfont6" style= "text-align:right;"><div align="left"><strong>17.30Uhr</strong></div></td>
+                                    <td width="338" id="contentfont6" style= "text-align:right;"><div align="left"><strong>17.30Uhr</strong></div></td>
 
-          				</tr>
+                                          </tr>
 
-        				</table>			</td>
+                                        </table>                        </td>
 
-      	</tr>   <tr>
+              </tr>   <tr>
 
-        	<td>
+                <td>
 
-            			<table id="inner_table" width="550" class="profil" >
+                                    <table id="inner_table" width="550" class="profil" >
 
-          				<tr>
+                                          <tr>
 
                         <td width="120" id="contentfont6" style= "text-align:right;"><div align="left"><strong>Bambini</strong></div></td>
 
-            			<td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>Dienstag</strong></div></td>
+                                    <td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>Dienstag</strong></div></td>
 
-            			<td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>06.09.11</strong></div></td>
+                                    <td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>06.09.11</strong></div></td>
 
-            			<td width="338" id="contentfont6" style= "text-align:right;"><div align="left"><strong>17.30Uhr</strong></div></td>
+                                    <td width="338" id="contentfont6" style= "text-align:right;"><div align="left"><strong>17.30Uhr</strong></div></td>
 
-          				</tr>
+                                          </tr>
 
-        				</table>			</td>
+                                        </table>                        </td>
 
-      	</tr> 
+              </tr>
 
-         <tr> 
+         <tr>
 
           <td id="contentfont"><div align="left">&nbsp;</td>
 
-        </tr> 
+        </tr>
 
       -->
 
@@ -3151,45 +3137,43 @@ Lukas Zimmermann, Can Staiger (4), Aaron Petersen, Tobias Spechtenhauser (5), Da
 
       </tr> -->
 
- 
+
 
   <tr>
 
-        <td id="ueber2"><div><strong>* 
+        <td id="ueber2"><div><strong>*
 
-          Meisterschaftsvorschau:</strong> </div></td>   
+          Meisterschaftsvorschau:</strong> </div></td>
 
-      </tr> 
-<!--
+      </tr>
+
      <tr>
 
         <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
 
-      </tr> 
+      </tr>
 
-   <tr> 
+   <tr>
 
-          <td id="contentfont" style= "text-align:right;"><div align="left">Alle Illinger Jugenden befinden sich derzeit in der 
+          <td id="contentfont" style= "text-align:right;"><div align="left">Alle Illinger Jugenden befinden sich derzeit in der   Winterpause!</div></td>
 
-		  Sommerpause bzw. in der Vorbereitung auf die neue Saison 2013/2014 !</div></td>
+        </tr>
+<!--                <tr>                <td>                                 <table id="inner_table" width="550" class="profil" >                                          <tr>   <td width="83" id="contentfont6" style= "text-align:right;"><div align="left"><strong>C-Jugend</strong></div></td>                     <td width="26" id="contentfont6" style= "text-align:right;"><div align="right"><strong>Sa</strong></div></td>                        <td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>14.12.13</strong></div></td>                  <td width="69" id="contentfont6" style= "text-align:right;"><div align="left"><strong>12.30Uhr</strong></div></td>                  <td width="339" id="contentfont6" style= "text-align:right;"><div align="left">        TSV Phönix Lomersheim  - SV Illingen</div> </td>                </tr>                </table>                        </td> </tr>                                -->
+<!--        <td id="contentfont"><div align="left">&nbsp;</td>
 
-        </tr>  -->	 
-		<tr>        	<td>         			<table id="inner_table" width="550" class="profil" >          				<tr>   <td width="83" id="contentfont6" style= "text-align:right;"><div align="left"><strong>C-Jugend</strong></div></td>     		<td width="26" id="contentfont6" style= "text-align:right;"><div align="right"><strong>Sa</strong></div></td>        		<td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>14.12.13</strong></div></td>  		<td width="69" id="contentfont6" style= "text-align:right;"><div align="left"><strong>12.30Uhr</strong></div></td>  		<td width="339" id="contentfont6" style= "text-align:right;"><div align="left">	TSV Phönix Lomersheim  - SV Illingen</div> </td>		</tr>		</table>			</td> </tr>				
-<!--	<td id="contentfont"><div align="left">&nbsp;</td>
-	
-		<tr>
+                <tr>
 
-			<td height="50px" colspan="7"><hr width="100%" size="1px" noshade style="color:#cccccc; background-color:#CCCCCC;"></td>
+                        <td height="50px" colspan="7"><hr width="100%" size="1px" noshade style="color:#cccccc; background-color:#CCCCCC;"></td>
 
-		</tr>  
+                </tr>
 
-            <tr> 
+            <tr>
 
           <td id="ueber2">
 
             * Bezirkspokal (2. Runde) :          </td>
 
-        </tr> 
+        </tr>
 
     <tr>
 
@@ -3197,20 +3181,20 @@ Lukas Zimmermann, Can Staiger (4), Aaron Petersen, Tobias Spechtenhauser (5), Da
 
       </tr>
 
-    <tr> 
+    <tr>
 
-         <td id="contentfont" style= "text-align:left; padding-left:50px;">JFC Gerlingen - SV Illingen&nbsp; 1:3 <br/>           
- <span class="Stil20"><em>Torsch&uuml;tzen:</em></span></td> 
+         <td id="contentfont" style= "text-align:left; padding-left:50px;">JFC Gerlingen - SV Illingen&nbsp; 1:3 <br/>
+ <span class="Stil20"><em>Torsch&uuml;tzen:</em></span></td>
 
-      </tr> 
-	  <tr> 
+      </tr>
+          <tr>
 
           <td id="contentfont"><div align="left">&nbsp;</td>
 
         </tr> <tr>        <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;&nbsp;&nbsp;&nbsp;**<strong>B-Jugend</strong>:</div></td>      </tr>
- <tr>           <td id="contentfont" style= "text-align:left; padding-left:50px;">TSV Unterriexingen - SV Illingen&nbsp; 4:2 n.E. <br/>           
- <span class="Stil20"><em>Torsch&uuml;tzen:</em></span></td>      </tr>  
- 	  <tr>           <td id="contentfont"><div align="left">&nbsp;</td>        </tr> 
+ <tr>           <td id="contentfont" style= "text-align:left; padding-left:50px;">TSV Unterriexingen - SV Illingen&nbsp; 4:2 n.E. <br/>
+ <span class="Stil20"><em>Torsch&uuml;tzen:</em></span></td>      </tr>
+           <tr>           <td id="contentfont"><div align="left">&nbsp;</td>        </tr>
 
   <tr>
 
@@ -3218,39 +3202,39 @@ Lukas Zimmermann, Can Staiger (4), Aaron Petersen, Tobias Spechtenhauser (5), Da
 
       </tr>
 
-       <tr> 
+       <tr>
 
           <td id="contentfont" style= "text-align:left; padding-left:50px;">SV Illingen - GSV Pleidelsheim&nbsp; 5:1 <br/>
 
             <span class="Stil20"><em>Torsch&uuml;tzen:</em></span></td>
 
-      </tr>  	   -->
+      </tr>             -->
 <!--
-<tr> 
+<tr>
 
           <td id="contentfont"><div align="left">&nbsp;</td>
 
         </tr>
 
-       
 
- 
 
-        
 
-		<tr>
 
-			<td height="50px" colspan="7"><hr width="100%" size="1px" noshade style="color:#cccccc; background-color:#CCCCCC;"></td>
 
-		</tr>  
 
-         <tr> 
+                <tr>
+
+                        <td height="50px" colspan="7"><hr width="100%" size="1px" noshade style="color:#cccccc; background-color:#CCCCCC;"></td>
+
+                </tr>
+
+         <tr>
 
           <td id="ueber2">
 
             * Bezirkspokal-Vorschau (2. Runde) :          </td>
 
-        </tr> 
+        </tr>
 
  <tr>
 
@@ -3258,73 +3242,73 @@ Lukas Zimmermann, Can Staiger (4), Aaron Petersen, Tobias Spechtenhauser (5), Da
 
       </tr>
 
-	 <tr>
+         <tr>
 
-        	<td>
+                <td>
 
-            			<table id="inner_table" width="550" class="profil" >
+                                    <table id="inner_table" width="550" class="profil" >
 
-          				<tr>
+                                          <tr>
 
-                        
 
-            			<td width="26" id="contentfont6" style= "text-align:right;"><div align="right"><strong>Di</strong></div></td>
 
-            			<td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>08.10.13</strong></div></td>
+                                    <td width="26" id="contentfont6" style= "text-align:right;"><div align="right"><strong>Di</strong></div></td>
 
-            			<td width="69" id="contentfont6" style= "text-align:right;"><div align="left"><strong>18.30 Uhr</strong></div></td>
+                                    <td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>08.10.13</strong></div></td>
 
-            			<td width="339" id="contentfont6" style= "text-align:right;"><div align="left">JFC Gerlingen - SV Illingen</div></td>
+                                    <td width="69" id="contentfont6" style= "text-align:right;"><div align="left"><strong>18.30 Uhr</strong></div></td>
 
-          				</tr>
+                                    <td width="339" id="contentfont6" style= "text-align:right;"><div align="left">JFC Gerlingen - SV Illingen</div></td>
 
-        				</table>        	</td>
+                                          </tr>
 
-      	</tr> 
+                                        </table>                </td>
 
-		<tr> 
+              </tr>
 
-          <td id="contentfont"><div align="left">&nbsp;</td>
-
-        </tr> 
-
-	 <tr>
-
-        <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;&nbsp;&nbsp;&nbsp;**<strong>B-Jugend</strong>:</div></td>
-
-      </tr>
-
-		  <tr>
-
-        	<td>
-
-            			<table id="inner_table" width="550" class="profil" >
-
-          				<tr>
-
-                        
-
-            			<td width="26" id="contentfont6" style= "text-align:right;"><div align="right"><strong>Do</strong></div></td>
-
-            			<td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>10.10.13</strong></div></td>
-
-            			<td width="69" id="contentfont6" style= "text-align:right;"><div align="left"><strong>18.30 Uhr</strong></div></td>
-
-            			<td width="339" id="contentfont6" style= "text-align:right;"><div align="left">	TSV Unterriexingen - SV Illingen</div></td>
-
-          				</tr>
-
-        				</table>        	</td>
-
-      	</tr>
-
-		<tr> 
+                <tr>
 
           <td id="contentfont"><div align="left">&nbsp;</td>
 
         </tr>
 
-	<tr>
+         <tr>
+
+        <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;&nbsp;&nbsp;&nbsp;**<strong>B-Jugend</strong>:</div></td>
+
+      </tr>
+
+                  <tr>
+
+                <td>
+
+                                    <table id="inner_table" width="550" class="profil" >
+
+                                          <tr>
+
+
+
+                                    <td width="26" id="contentfont6" style= "text-align:right;"><div align="right"><strong>Do</strong></div></td>
+
+                                    <td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>10.10.13</strong></div></td>
+
+                                    <td width="69" id="contentfont6" style= "text-align:right;"><div align="left"><strong>18.30 Uhr</strong></div></td>
+
+                                    <td width="339" id="contentfont6" style= "text-align:right;"><div align="left">        TSV Unterriexingen - SV Illingen</div></td>
+
+                                          </tr>
+
+                                        </table>                </td>
+
+              </tr>
+
+                <tr>
+
+          <td id="contentfont"><div align="left">&nbsp;</td>
+
+        </tr>
+
+        <tr>
 
         <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;&nbsp;&nbsp;&nbsp;**<strong>C-Jugend</strong>:</div></td>
 
@@ -3332,107 +3316,107 @@ Lukas Zimmermann, Can Staiger (4), Aaron Petersen, Tobias Spechtenhauser (5), Da
 
         <tr>
 
-        	<td>
+                <td>
 
-            			<table id="inner_table" width="550" class="profil" >
+                                    <table id="inner_table" width="550" class="profil" >
 
-          				<tr>
+                                          <tr>
 
-                        
 
-            			<td width="26" id="contentfont6" style= "text-align:right;"><div align="right"><strong>Di</strong></div></td>
 
-            			<td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>08.10.13</strong></div></td>
+                                    <td width="26" id="contentfont6" style= "text-align:right;"><div align="right"><strong>Di</strong></div></td>
 
-            			<td width="69" id="contentfont6" style= "text-align:right;"><div align="left"><strong>18.30 Uhr</strong></div></td>
+                                    <td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>08.10.13</strong></div></td>
 
-            			<td width="339" id="contentfont6" style= "text-align:right;"><div align="left">SV Illingen - GSV Pleidelsheim</div></td>
+                                    <td width="69" id="contentfont6" style= "text-align:right;"><div align="left"><strong>18.30 Uhr</strong></div></td>
 
-          				</tr>
+                                    <td width="339" id="contentfont6" style= "text-align:right;"><div align="left">SV Illingen - GSV Pleidelsheim</div></td>
 
-        				</table>        	</td>
+                                          </tr>
 
-      	</tr>  -->
+                                        </table>                </td>
+
+              </tr>  -->
 
       <!--      <tr>
 
-        	<td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
+                <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
 
-     	</tr> 
+             </tr>
 
       <tr>
 
-			<td height="50px" colspan="7">
+                        <td height="50px" colspan="7">
 
-				<hr width="100%" size="1px" noshade style="color:#cccccc; background-color:#CCCCCC;">			</td>
+                                <hr width="100%" size="1px" noshade style="color:#cccccc; background-color:#CCCCCC;">                        </td>
 
-		</tr> 
+                </tr>
 
-         <tr> 
+         <tr>
 
           <td id="ueber2">
 
           <a name="a">  * Hallenturniere:   </a>       </td>
 
-        </tr> 
+        </tr>
 
-      <tr> 
+      <tr>
 
           <td id="ueber3">&nbsp;&nbsp;&nbsp;&nbsp;<strong>**E1-Jugend:</strong></td>
 
         </tr>
 
-        <tr> 
+        <tr>
 
           <td id="contentfont"><div>Turnier in Flehingen:</div></td>
 
         </tr>
 
-        <tr> 
+        <tr>
 
           <td id="contentfont"><div>Vorrunde:</div></td>
 
         </tr>
 
-        <tr> 
+        <tr>
 
           <td id="contentfont"><div>SV Illingen - FV Ro&szlig;wag&nbsp; 7:0</div></td>
 
         </tr>
 
-        <tr> 
+        <tr>
 
           <td id="contentfont"><div>SV Illingen - TSV Ober&ouml;wisheim II&nbsp; 7:0</div></td>
 
         </tr>
 
-        <tr> 
+        <tr>
 
           <td id="contentfont"><div>SV Illingen - SV Oberderdingen&nbsp; 2:0</div></td>
 
         </tr>
 
-       
 
-        <tr> 
+
+        <tr>
 
           <td id="contentfont"><div>Halbfinale:</div></td>
 
         </tr>
 
-        <tr> 
+        <tr>
 
           <td id="contentfont"><div>SV Illingen - TSV Ober&ouml;wisheim I&nbsp; 4:0</div></td>
 
         </tr>
 
-        <tr> 
+        <tr>
 
           <td id="contentfont"><div>Finale:</div></td>
 
         </tr>
 
-        <tr> 
+        <tr>
 
           <td id="contentfont"><div>SV Illingen - SC Hohenhaslach I&nbsp; 2:1<br/>
 
@@ -3444,23 +3428,23 @@ Lukas Zimmermann, Can Staiger (4), Aaron Petersen, Tobias Spechtenhauser (5), Da
 
         </tr> -->
 
-      <!-- 
+      <!--
 
-        <tr> 
+        <tr>
 
           <td id="ueber3">&nbsp;&nbsp;&nbsp;&nbsp;<strong><a name="f1-ergebnisse">**F1-Jugend:</a></strong></a></td>
 
         </tr>
 
-       
 
-        <tr> 
+
+        <tr>
 
           <td id="contentfont" style= "text-align:right;"><div align="left">Spieltag in Hochdorf:</div></td>
 
-        </tr> 
+        </tr>
 
-        <tr> 
+        <tr>
 
           <td id="contentfont" style= "text-align:right;"><div align="left">Team A:</div></td>
 
@@ -3468,33 +3452,33 @@ Lukas Zimmermann, Can Staiger (4), Aaron Petersen, Tobias Spechtenhauser (5), Da
 
 
 
-        <tr> 
+        <tr>
 
           <td id="contentfont" style= "text-align:right;"><div align="left">SV Illingen - TSV Nussdorf I&nbsp; 6:0</div></td>
 
         </tr>
 
-        <tr> 
+        <tr>
 
           <td id="contentfont" style= "text-align:right;"><div align="left">SV Illingen - SV Sternenfels I&nbsp; 5:3</div></td>
 
         </tr>
 
-        <tr> 
+        <tr>
 
           <td id="contentfont" style= "text-align:right;"><div align="left">SV Illingen - TSV Ensingen&nbsp; 5:1</div></td>
 
         </tr>
 
-        
 
-     		<tr> 
 
-          <td id="contentfont" style= "text-align:right;"><div align="left">Es spielten: Colin Mitschelen (TW), Angelo Di Caro (1), Berdan &Ouml;zcan (4), Kadir Mat, Maximilian Titz (4), Tom Wei&szlig; (7)</div>          
+                     <tr>
 
-          </tr> 
+          <td id="contentfont" style= "text-align:right;"><div align="left">Es spielten: Colin Mitschelen (TW), Angelo Di Caro (1), Berdan &Ouml;zcan (4), Kadir Mat, Maximilian Titz (4), Tom Wei&szlig; (7)</div>
 
-          <tr> 
+          </tr>
+
+          <tr>
 
           <td id="contentfont" style= "text-align:right;"><div align="left">Team B:</div></td>
 
@@ -3502,47 +3486,47 @@ Lukas Zimmermann, Can Staiger (4), Aaron Petersen, Tobias Spechtenhauser (5), Da
 
 
 
-        <tr> 
+        <tr>
 
           <td id="contentfont" style= "text-align:right;"><div align="left">SV Illingen - TSV Nussdorf II&nbsp; 13:1</div></td>
 
         </tr>
 
-        <tr> 
+        <tr>
 
           <td id="contentfont" style= "text-align:right;"><div align="left">SV Illingen - TSV Ph&ouml;nix Lomersheim I&nbsp; 13:2</div></td>
 
         </tr>
 
-        <tr> 
+        <tr>
 
           <td id="contentfont" style= "text-align:right;"><div align="left">SV Illingen - SV Sternenfels II&nbsp; 9:2</div></td>
 
         </tr>
 
-        
 
-     		<tr> 
 
-          <td id="contentfont" style= "text-align:right;"><div align="left">Es spielten: Tom Lindauer (TW), Daniel D&auml;schner (13), Robin Dittrich (6), Manuel Knittel, Necati Dagasan (4), Samy Lehmann (1), Tobias D&auml;schner (11)</div>          
+                     <tr>
+
+          <td id="contentfont" style= "text-align:right;"><div align="left">Es spielten: Tom Lindauer (TW), Daniel D&auml;schner (13), Robin Dittrich (6), Manuel Knittel, Necati Dagasan (4), Samy Lehmann (1), Tobias D&auml;schner (11)</div>
 
           </tr>  -->
 
       <!--
 
-        
+
 
        <tr>
 
-			<td height="50px" colspan="7">
+                        <td height="50px" colspan="7">
 
-				<hr width="100%" size="1px" noshade style="color:#cccccc; background-color:#CCCCCC;">			</td>
+                                <hr width="100%" size="1px" noshade style="color:#cccccc; background-color:#CCCCCC;">                        </td>
 
-		</tr> -->
+                </tr> -->
 
       <!--
 
-<tr> 
+<tr>
 
           <td id="contentfont" style= "text-align:left; font-size:14pt;; font-weight:bold;">
 
@@ -3550,37 +3534,37 @@ Lukas Zimmermann, Can Staiger (4), Aaron Petersen, Tobias Spechtenhauser (5), Da
 
         </tr>
 
-        <tr> 
+        <tr>
 
           <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;&nbsp;&nbsp;&nbsp;<strong>**F1-Jugend:</strong></td>
 
         </tr>
 
-        <tr> 
+        <tr>
 
           <td id="contentfont" style= "text-align:right;"><div align="left">Vorrunde:</div></td>
 
         </tr>
 
-        <tr> 
+        <tr>
 
           <td id="contentfont" style= "text-align:right;"><div align="left">SV Illingen - VfB Reichenbach I&nbsp; 6:0</div></td>
 
         </tr>
 
-        <tr> 
+        <tr>
 
           <td id="contentfont" style= "text-align:right;"><div align="left">SV Illingen - TSV RSK Esslingen&nbsp; 3:0</div></td>
 
         </tr>
 
-        <tr> 
+        <tr>
 
           <td id="contentfont" style= "text-align:right;"><div align="left">SV Illingen - SSV Ulm&nbsp; 1:1</div></td>
 
         </tr>
 
-        <tr> 
+        <tr>
 
           <td id="contentfont" style= "text-align:right;"><div align="left">SV Illingen - TG Kirchheim&nbsp; 6:0</div></td>
 
@@ -3588,19 +3572,19 @@ Lukas Zimmermann, Can Staiger (4), Aaron Petersen, Tobias Spechtenhauser (5), Da
 
 
 
-        <tr> 
+        <tr>
 
           <td id="contentfont" style= "text-align:right;"><div align="left">Halbfinale:</div></td>
 
         </tr>
 
-        <tr> 
+        <tr>
 
           <td id="contentfont" style= "text-align:right;"><div align="left">SV Illingen - FV L&ouml;chgau&nbsp; 5:6 (nach 9m-Schie&szlig;en)</div></td>
 
         </tr>
 
-        <tr> 
+        <tr>
 
           <td id="contentfont" style= "text-align:right;"><div align="left">Spiel um Platz 3:</div></td>
 
@@ -3608,7 +3592,7 @@ Lukas Zimmermann, Can Staiger (4), Aaron Petersen, Tobias Spechtenhauser (5), Da
 
 
 
-		<tr> 
+                <tr>
 
           <td id="contentfont" style= "text-align:right;"><div align="left">SV Illingen - TSV Neu-Ulm&nbsp; 3:0 (nach 9m-Schie&szlig;en)<br/>
 
@@ -3618,9 +3602,9 @@ Lukas Zimmermann, Can Staiger (4), Aaron Petersen, Tobias Spechtenhauser (5), Da
 
         </tr>
 
-        <tr> 
+        <tr>
 
-		<tr> 
+                <tr>
 
           <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
 
@@ -3630,31 +3614,31 @@ Lukas Zimmermann, Can Staiger (4), Aaron Petersen, Tobias Spechtenhauser (5), Da
 
       <!--
 
-        <tr> 
+        <tr>
 
           <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;&nbsp;&nbsp;&nbsp;<strong>**F1-Team B:</strong></td>
 
         </tr>
 
-        <tr> 
+        <tr>
 
           <td id="contentfont" style= "text-align:right;"><div align="left">SV Illingen Team B - SV Illingen Team A &nbsp;0:3</div></td>
 
         </tr>
 
-        <tr> 
+        <tr>
 
           <td id="contentfont" style= "text-align:right;"><div align="left">SV Illingen Team B - TASV Hessigheim&nbsp; 3:0</div></td>
 
         </tr>
 
-        <tr> 
+        <tr>
 
           <td id="contentfont" style= "text-align:right;"><div align="left">SV Illingen Team B - SpVgg Bissingen&nbsp; 0:3</div></td>
 
         </tr>
 
-        <tr> 
+        <tr>
 
           <td id="contentfont" style= "text-align:right;"><div align="left">SV Illingen Team B - SGV Freiberg&nbsp; 0:4<br/>
 
@@ -3664,39 +3648,39 @@ Lukas Zimmermann, Can Staiger (4), Aaron Petersen, Tobias Spechtenhauser (5), Da
 
         </tr>
 
-		
 
-        <tr> 
 
-		<tr> 
+        <tr>
+
+                <tr>
 
           <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
 
-        </tr> 
+        </tr>
 
 -->
 
       <!--
 
-        <tr> 
+        <tr>
 
           <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;&nbsp;&nbsp;&nbsp;<strong>**F2-Jugend:</strong></td>
 
         </tr>
 
-        <tr> 
+        <tr>
 
           <td id="contentfont" style= "text-align:right;"><div align="left">SV Illingen II - FC Marbach III&nbsp; 5:1</div></td>
 
         </tr>
 
-        <tr> 
+        <tr>
 
           <td id="contentfont" style= "text-align:right;"><div align="left">SV Illingen II - TSV Hochdorf/Enz&nbsp; 2:0</div></td>
 
         </tr>
 
-        <tr> 
+        <tr>
 
           <td id="contentfont" style= "text-align:right;"><div align="left">SV Illingen II - SV Horrheim&nbsp; 3:6<br/>
 
@@ -3706,15 +3690,15 @@ Lukas Zimmermann, Can Staiger (4), Aaron Petersen, Tobias Spechtenhauser (5), Da
 
         </tr>
 
-		
 
-        <tr> 
 
-		<tr> 
+        <tr>
+
+                <tr>
 
           <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
 
-        </tr>  
+        </tr>
 
 
 
@@ -3722,39 +3706,39 @@ Lukas Zimmermann, Can Staiger (4), Aaron Petersen, Tobias Spechtenhauser (5), Da
 
       <!--Bambini-->
 
-      <!-- <tr> 
+      <!-- <tr>
 
           <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;&nbsp;&nbsp;&nbsp;<strong>**Bambini:</strong></td>
 
         </tr>
 
-		<tr> 
+                <tr>
 
-          <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;&nbsp;&nbsp;&nbsp;VfB 
+          <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;&nbsp;&nbsp;&nbsp;VfB
 
               Tamm I - SV Illingen I &nbsp;2:3<br/>
 
-              &nbsp;&nbsp;&nbsp; <span class="Stil2">Torsch&uuml;tzen: 2x Tobias 
+              &nbsp;&nbsp;&nbsp; <span class="Stil2">Torsch&uuml;tzen: 2x Tobias
 
               D&auml;schner, 1x Eigentor</span></div></td>
 
         </tr>
 
-		<tr> 
+                <tr>
 
-          <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;&nbsp;&nbsp;&nbsp;VfB 
+          <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;&nbsp;&nbsp;&nbsp;VfB
 
               Tamm II - SV Illingen II &nbsp;1:4<br/>
 
-              &nbsp;&nbsp;&nbsp; <span class="Stil2">Torsch&uuml;tzen: 2x Luca 
+              &nbsp;&nbsp;&nbsp; <span class="Stil2">Torsch&uuml;tzen: 2x Luca
 
               Corrado, 1x Tobias Spechtenhauser, 1x Can Staiger</span></div></td>
 
         </tr>
 
-       
 
-        <tr> 
+
+        <tr>
 
           <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
 
@@ -3762,43 +3746,43 @@ Lukas Zimmermann, Can Staiger (4), Aaron Petersen, Tobias Spechtenhauser (5), Da
 
         -->
 
-      <!--	<tr>
+      <!--        <tr>
 
-			<td height="50px" colspan="7">
+                        <td height="50px" colspan="7">
 
-				<hr width="100%" size="1px" noshade style="color:#cccccc; background-color:#CCCCCC;">			</td>
+                                <hr width="100%" size="1px" noshade style="color:#cccccc; background-color:#CCCCCC;">                        </td>
 
-		</tr> -->
+                </tr> -->
 
       <!--       <tr>
 
-        	<td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
+                <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
 
-     	</tr> 
+             </tr>
 
       <tr>
 
-			<td height="50px" colspan="7">
+                        <td height="50px" colspan="7">
 
-				<hr width="100%" size="1px" noshade style="color:#cccccc; background-color:#CCCCCC;">			</td>
+                                <hr width="100%" size="1px" noshade style="color:#cccccc; background-color:#CCCCCC;">                        </td>
 
-		</tr> 
+                </tr>
 
-        <tr> 
+        <tr>
 
           <td id="ueber2">
 
             * Vorbereitung:          </td>
 
-        </tr> 
+        </tr>
 
-        <tr> 
+        <tr>
 
           <td id="ueber3"><div>&nbsp;&nbsp;&nbsp;&nbsp;<strong>** B-Jugend:</strong></td>
 
         </tr>
 
-        <tr> 
+        <tr>
 
           <td id="contentfont" style= "text-align:left; padding-left:50px;">TSV &Ouml;tisheim - SV Illingen&nbsp; 1:2 <br/>
 
@@ -3808,17 +3792,17 @@ Lukas Zimmermann, Can Staiger (4), Aaron Petersen, Tobias Spechtenhauser (5), Da
 
         <tr>
 
-        	<td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
+                <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
 
-     	</tr>  
+             </tr>
 
-         <tr> 
+         <tr>
 
           <td id="ueber3"><div>&nbsp;&nbsp;&nbsp;&nbsp;<strong>** C-Jugend:</strong></td>
 
         </tr>
 
-       <tr> 
+       <tr>
 
           <td id="contentfont" style= "text-align:left; padding-left:50px;">TSF Ditzingen II - SV Illingen&nbsp; 2:1 <br/>
 
@@ -3828,11 +3812,11 @@ Lukas Zimmermann, Can Staiger (4), Aaron Petersen, Tobias Spechtenhauser (5), Da
 
         <tr>
 
-        	<td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
+                <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
 
-     	</tr>
+             </tr>
 
-        <tr> 
+        <tr>
 
           <td id="contentfont" style= "text-align:left; padding-left:50px;">GSV Hemmingen - SV Illingen&nbsp; 2:1 <br/>
 
@@ -3842,11 +3826,11 @@ Lukas Zimmermann, Can Staiger (4), Aaron Petersen, Tobias Spechtenhauser (5), Da
 
          <tr>
 
-        	<td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
+                <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
 
-     	</tr>
+             </tr>
 
-         <tr> 
+         <tr>
 
           <td id="contentfont" style= "text-align:left; padding-left:50px;">SV Horrheim  - SV Illingen&nbsp; 3:6 (2:3)<br/>
 
@@ -3856,19 +3840,19 @@ Lukas Zimmermann, Can Staiger (4), Aaron Petersen, Tobias Spechtenhauser (5), Da
 
          <tr>
 
-        	<td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
+                <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
 
-     	</tr>
+             </tr>
 
        -->
 
       <!--  <tr>
 
-        	<td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
+                <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
 
-     	</tr> 
+             </tr>
 
-        <tr> 
+        <tr>
 
           <td id="ueber3"><div>&nbsp;&nbsp;&nbsp;&nbsp;<strong>** D-Jugend:</strong></td>
 
@@ -3876,43 +3860,43 @@ Lukas Zimmermann, Can Staiger (4), Aaron Petersen, Tobias Spechtenhauser (5), Da
 
         <tr>
 
-        	<td>
+                <td>
 
-            			<table id="inner_table" width="550" class="profil" >
+                                    <table id="inner_table" width="550" class="profil" >
 
-          				<tr>
+                                          <tr>
 
-                        
 
-            			<td width="26" id="contentfont6" style= "text-align:right;"><div align="right"><strong>Sa</strong></div></td>
 
-            			<td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>05.03.11</strong></div></td>
+                                    <td width="26" id="contentfont6" style= "text-align:right;"><div align="right"><strong>Sa</strong></div></td>
 
-            			<td width="69" id="contentfont6" style= "text-align:right;"><div align="left"><strong>11.00 Uhr</strong></div></td>
+                                    <td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>05.03.11</strong></div></td>
 
-            			<td width="339" id="contentfont6" style= "text-align:right;"><div align="left">SG VfR Sersheim / FC G&uuml;ndelbach I - SV Illingen  &nbsp;</div></td>
+                                    <td width="69" id="contentfont6" style= "text-align:right;"><div align="left"><strong>11.00 Uhr</strong></div></td>
 
-          				</tr>
+                                    <td width="339" id="contentfont6" style= "text-align:right;"><div align="left">SG VfR Sersheim / FC G&uuml;ndelbach I - SV Illingen  &nbsp;</div></td>
 
-        				</table>        	</td>
+                                          </tr>
 
-      	</tr> -->
+                                        </table>                </td>
 
-      <!-- 	</tr>
+              </tr> -->
 
-       	<tr> 
+      <!--         </tr>
 
-          <td id="contentfont"><div align="left">&nbsp;</td>
-
-        </tr>
-
-       <tr> 
+               <tr>
 
           <td id="contentfont"><div align="left">&nbsp;</td>
 
         </tr>
 
-        <tr> 
+       <tr>
+
+          <td id="contentfont"><div align="left">&nbsp;</td>
+
+        </tr>
+
+        <tr>
 
           <td id="contentfont"><div align="left">&nbsp;</td>
 
@@ -3920,7 +3904,7 @@ Lukas Zimmermann, Can Staiger (4), Aaron Petersen, Tobias Spechtenhauser (5), Da
 
       <!--
 
-		<tr> 
+                <tr>
 
           <td id="contentfont" style= "text-align:right;"><div align="left"></div></td>
 
@@ -3928,23 +3912,23 @@ Lukas Zimmermann, Can Staiger (4), Aaron Petersen, Tobias Spechtenhauser (5), Da
 
 -->
 
-      <!--     <tr> 
+      <!--     <tr>
 
           <td id="contentfont"><div align="left">&nbsp;</td>
 
-        </tr> 
+        </tr>
 
-       
 
-        
 
-		<tr>
 
-			<td height="50px" colspan="7"><hr width="100%" size="1px" noshade style="color:#cccccc; background-color:#CCCCCC;"></td>
 
-		</tr>  
+                <tr>
 
-         <tr> 
+                        <td height="50px" colspan="7"><hr width="100%" size="1px" noshade style="color:#cccccc; background-color:#CCCCCC;"></td>
+
+                </tr>
+
+         <tr>
 
           <td id="ueber2">
 
@@ -3952,39 +3936,39 @@ Lukas Zimmermann, Can Staiger (4), Aaron Petersen, Tobias Spechtenhauser (5), Da
 
         </tr>
 
-        <tr> 
+        <tr>
 
           <td id="ueber3"><div>&nbsp;&nbsp;&nbsp;&nbsp;<strong>** E1-Jugend (1.Spieltag):</strong></td>
 
         </tr>
 
-        <tr> 
+        <tr>
 
           <td id="contentfont" style= "text-align:right;"><div align="left">SV Illingen I - SV Illingen II&nbsp; 8:0</div></td>
 
         </tr>
 
-        <tr> 
+        <tr>
 
           <td id="contentfont" style= "text-align:right;"><div align="left">SV Illingen I - VfB Vaihingen II&nbsp; 6:0</div></td>
 
         </tr>
 
-           <tr> 
+           <tr>
 
           <td id="contentfont" style= "text-align:right;"><div align="left">SV Illingen I - VfB Vaihingen I&nbsp; 1:2</div></td>
 
         </tr>
 
-         <tr> 
+         <tr>
 
-          <td id="contentfont" style= "text-align:right;"><div align="left">SV Illingen I - TSV Kleinsachsenheim I&nbsp; 5:1 </div></td> 
+          <td id="contentfont" style= "text-align:right;"><div align="left">SV Illingen I - TSV Kleinsachsenheim I&nbsp; 5:1 </div></td>
 
-        </tr> 
+        </tr>
 
-        <tr> 
+        <tr>
 
-          <td id="contentfont" style= "text-align:left;"><span class="Stil20">Torschützen: Andreas Zimmermann (2), Maximilian Titz (2), Tobias Däschner (4), Daniel Däschner (12)</span>         
+          <td id="contentfont" style= "text-align:left;"><span class="Stil20">Torschützen: Andreas Zimmermann (2), Maximilian Titz (2), Tobias Däschner (4), Daniel Däschner (12)</span>
 
           </tr> -->
 
@@ -3992,19 +3976,19 @@ Lukas Zimmermann, Can Staiger (4), Aaron Petersen, Tobias Spechtenhauser (5), Da
 
    <tr>
 
-        	<td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
+                <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
 
-     	</tr> 
+             </tr>
 
      <tr>
 
-			<td height="50px" colspan="7">
+                        <td height="50px" colspan="7">
 
-				<hr width="100%" size="1px" noshade style="color:#cccccc; background-color:#CCCCCC;">			</td>
+                                <hr width="100%" size="1px" noshade style="color:#cccccc; background-color:#CCCCCC;">                        </td>
 
-		</tr>  
+                </tr>
 
-      <tr> 
+      <tr>
 
           <td id="ueber2">
 
@@ -4012,43 +3996,43 @@ Lukas Zimmermann, Can Staiger (4), Aaron Petersen, Tobias Spechtenhauser (5), Da
 
        </tr>  -->
 
-      <!--     <tr> 
+      <!--     <tr>
 
           <td id="ueber3"><div>&nbsp;&nbsp;&nbsp;&nbsp;<strong>**A-Jugend:</strong></td>
 
         </tr>
 
-         <tr> 
+         <tr>
 
           <td id="contentfont" style= "text-align:right;"><div align="left">Turnier des SC Oberes Zaberg&auml;u:</div></td>
 
-        </tr> 
+        </tr>
 
-         <tr> 
+         <tr>
 
           <td id="contentfont" style= "text-align:right;"><div align="left">SV Illingen - SC Amorbach 2:0</div></td>
 
-        </tr> 
+        </tr>
 
-        <tr> 
+        <tr>
 
           <td id="contentfont" style= "text-align:right;"><div align="left">SV Illingen - SG Ilsfeld/Beilstein&nbsp; 2:0 </div></td>
 
         </tr>
 
-        <tr> 
+        <tr>
 
           <td id="contentfont" style= "text-align:right;"><div align="left">SV Illingen - SG Stetten/Kleingartach&nbsp; 4:0</div></td>
 
-        <tr> 
+        <tr>
 
           <td id="contentfont" style= "text-align:right;"><div align="left">SV Illingen - VfL Obereisesheim&nbsp; 4:0</div></td>
 
-        </tr> 
+        </tr>
 
 
 
-          <tr> 
+          <tr>
 
           <td id="contentfont"><div align="left">&nbsp;</td>
 
@@ -4056,59 +4040,59 @@ Lukas Zimmermann, Can Staiger (4), Aaron Petersen, Tobias Spechtenhauser (5), Da
 
        -->
 
-      <!-- <tr> 
+      <!-- <tr>
 
           <td id="ueber3">&nbsp;&nbsp;&nbsp;&nbsp;<strong>**E1-Jugend:</a></strong></td>
 
         </tr>
 
-       
 
-        <tr> 
+
+        <tr>
 
           <td id="contentfont" style= "text-align:right;"><div align="left">Blitzturnier in Renningen:</div></td>
 
         </tr>
 
-      
 
-        <tr> 
+
+        <tr>
 
           <td id="contentfont" style= "text-align:right;"><div align="left">SV Illingen - FSV Waiblingen&nbsp; 2:1</div></td>
 
         </tr>
 
-        <tr> 
+        <tr>
 
           <td id="contentfont" style= "text-align:right;"><div align="left">SV Illingen - FSV 08 Bissingen&nbsp; 2:0</div></td>
 
         </tr>
 
-           <tr> 
+           <tr>
 
           <td id="contentfont" style= "text-align:right;"><div align="left">SV Illingen - Spvgg Renningen&nbsp; 4:1</div></td>
 
         </tr>
 
-         <tr> 
+         <tr>
 
           <td id="contentfont" style= "text-align:right;"><div align="left">SV Illingen - SSV Reutlingen&nbsp; 2:2</div></td>
 
         </tr>
 
-       
 
-        <tr> 
+
+        <tr>
 
           <td id="contentfont" style= "text-align:right;"><div align="left">Endplatzierung: 1. Platz</div></td>
 
         </tr>
 
-        
 
-        <tr> 
 
-          <td id="contentfont" style= "text-align:right;"><div align="left"><span class="Stil20">Es spielten: Colin Mitschelen (TS), Tobias Däschner (5), Tom Weiß (2), Daniel Däschner (2), Maximilian Titz (1), Berdan Özcan, Luca Steinmüller, Necati Dagasan</span></div>          
+        <tr>
+
+          <td id="contentfont" style= "text-align:right;"><div align="left"><span class="Stil20">Es spielten: Colin Mitschelen (TS), Tobias Däschner (5), Tom Weiß (2), Daniel Däschner (2), Maximilian Titz (1), Berdan Özcan, Luca Steinmüller, Necati Dagasan</span></div>
 
           </tr> -->
 
@@ -4117,15 +4101,15 @@ Lukas Zimmermann, Can Staiger (4), Aaron Petersen, Tobias Spechtenhauser (5), Da
 
       <tr>
 
-        	<td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
+                <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
 
-     	</tr> 
+             </tr>
 
            <tr>
 
         <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;&nbsp;&nbsp;&nbsp;**<strong>B-Jugend</strong>:</div></td>
 
-       <tr> 
+       <tr>
 
           <td id="contentfont" style= "text-align:left; padding-left:50px;">SV Illingen - SKV Rutesheim &nbsp;2:5 (0:4)<br/>
 
@@ -4137,21 +4121,21 @@ Lukas Zimmermann, Can Staiger (4), Aaron Petersen, Tobias Spechtenhauser (5), Da
 
       <tr>
 
-        	<td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
+                <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
 
-     	</tr> 
+             </tr>
 
-    
 
-       
 
-       
 
-			<td height="50px" colspan="7">
 
-				<hr width="100%" size="1px" noshade style="color:#cccccc; background-color:#CCCCCC;">			</td>
 
-		</tr>  
+
+                        <td height="50px" colspan="7">
+
+                                <hr width="100%" size="1px" noshade style="color:#cccccc; background-color:#CCCCCC;">                        </td>
+
+                </tr>
 
 <tr>
 
@@ -4159,19 +4143,19 @@ Lukas Zimmermann, Can Staiger (4), Aaron Petersen, Tobias Spechtenhauser (5), Da
 
       <!--<td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
 
-     	</tr> 
+             </tr>
 
       <tr>
 
-			<td height="50px" colspan="7">
+                        <td height="50px" colspan="7">
 
-				<hr width="100%" size="1px" noshade style="color:#cccccc; background-color:#CCCCCC;">			</td>
+                                <hr width="100%" size="1px" noshade style="color:#cccccc; background-color:#CCCCCC;">                        </td>
 
-		</tr> -->
+                </tr> -->
 
       <!--
 
-     <tr> 
+     <tr>
 
           <td id="ueber2">
 
@@ -4181,7 +4165,7 @@ Lukas Zimmermann, Can Staiger (4), Aaron Petersen, Tobias Spechtenhauser (5), Da
 
         <tr><td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;&nbsp;&nbsp;&nbsp;**<strong>B-Jugend</strong>:</div></td>
 
-          <tr> 
+          <tr>
 
           <td id="contentfont" style= "text-align:left; padding-left:50px;">SV Illingen - TSV Nussdorf&nbsp;  2:2 <br/>
 
@@ -4189,7 +4173,7 @@ Lukas Zimmermann, Can Staiger (4), Aaron Petersen, Tobias Spechtenhauser (5), Da
 
         </tr>
 
-        <tr> 
+        <tr>
 
           <td id="contentfont" style= "text-align:left; padding-left:50px;">SV Illingen - TSV Ensingen&nbsp;  1:3 <br/>
 
@@ -4197,21 +4181,21 @@ Lukas Zimmermann, Can Staiger (4), Aaron Petersen, Tobias Spechtenhauser (5), Da
 
         </tr>
 
-        
 
-        
 
-      
 
-         <tr> 
+
+
+
+         <tr>
 
           <td id="contentfont"><div align="left">&nbsp;</td>
 
-        </tr> 
+        </tr>
 
         <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;&nbsp;&nbsp;&nbsp;**<strong>C-Jugend</strong>:</div></td>
 
-         <tr> 
+         <tr>
 
           <td id="contentfont" style= "text-align:left; padding-left:50px;">SV Illingen - TSF Ditzingen II&nbsp;  1:4 (1:1) <br/>
 
@@ -4219,7 +4203,7 @@ Lukas Zimmermann, Can Staiger (4), Aaron Petersen, Tobias Spechtenhauser (5), Da
 
         </tr>
 
-        <tr> 
+        <tr>
 
           <td id="contentfont" style= "text-align:left; padding-left:50px;">SV Illingen - VfB Vaihingen&nbsp;  3:2 <br/>
 
@@ -4227,19 +4211,19 @@ Lukas Zimmermann, Can Staiger (4), Aaron Petersen, Tobias Spechtenhauser (5), Da
 
         </tr>
 
-       
 
-         <tr> 
+
+         <tr>
 
           <td id="contentfont"><div align="left">&nbsp;</td>
 
-        </tr> 
+        </tr>
 
         <tr><td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;&nbsp;&nbsp;&nbsp;**<strong>D-Jugend</strong>:</div></td>
 
         <tr>
 
-        <tr> 
+        <tr>
 
           <td id="contentfont" style= "text-align:left; padding-left:50px;">SV Illingen - TSV Kleinglattbach&nbsp;  3:1 <br/>
 
@@ -4247,17 +4231,17 @@ Lukas Zimmermann, Can Staiger (4), Aaron Petersen, Tobias Spechtenhauser (5), Da
 
         </tr>
 
-      
 
-         <tr> 
+
+         <tr>
 
           <td id="contentfont"><div align="left">&nbsp;</td>
 
-        </tr> 
+        </tr>
 
         <tr>
 
-			<td height="50px" colspan="7"><hr width="100%" size="1px" noshade style="color:#cccccc; background-color:#CCCCCC;"></td>
+                        <td height="50px" colspan="7"><hr width="100%" size="1px" noshade style="color:#cccccc; background-color:#CCCCCC;"></td>
 
         </tr>  -->
 
@@ -4269,7 +4253,7 @@ Lukas Zimmermann, Can Staiger (4), Aaron Petersen, Tobias Spechtenhauser (5), Da
 
       </tr>
 
-       <tr> 
+       <tr>
 
           <td id="contentfont" style= "text-align:left; padding-left:50px;">TSV Ph&ouml;nix Lomersheim - SV Illingen &nbsp;1:1 (2:2)<br/>
 
@@ -4277,7 +4261,7 @@ Lukas Zimmermann, Can Staiger (4), Aaron Petersen, Tobias Spechtenhauser (5), Da
 
       </tr>
 
-      <tr> 
+      <tr>
 
           <td id="contentfont" style= "text-align:left; padding-left:50px;">TSV Kleinglattbach - SV Illingen &nbsp;0:7 (0:4)<br/>
 
@@ -4285,7 +4269,7 @@ Lukas Zimmermann, Can Staiger (4), Aaron Petersen, Tobias Spechtenhauser (5), Da
 
       </tr>
 
-       <tr> 
+       <tr>
 
           <td id="contentfont" style= "text-align:left; padding-left:50px;">SG Lienzingen / Maulbronn - SV Illingen &nbsp;2:11 (1:6)<br/>
 
@@ -4293,27 +4277,27 @@ Lukas Zimmermann, Can Staiger (4), Aaron Petersen, Tobias Spechtenhauser (5), Da
 
       </tr>
 
-      
 
-        
+
+
 
         <tr>
 
-        	<td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
+                <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
 
-     	</tr> 
+             </tr>
 
           <tr>
 
-        	<td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
+                <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
 
-     	</tr> 
+             </tr>
 
            <tr>
 
         <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;&nbsp;&nbsp;&nbsp;**<strong>B-Jugend</strong>:</div></td>
 
-       <tr> 
+       <tr>
 
           <td id="contentfont" style= "text-align:left; padding-left:50px;">SV Illingen - TSF Ditzingen&nbsp;5:3 (1:2)<br/>
 
@@ -4321,7 +4305,7 @@ Lukas Zimmermann, Can Staiger (4), Aaron Petersen, Tobias Spechtenhauser (5), Da
 
       </tr>
 
-       <tr> 
+       <tr>
 
           <td id="contentfont" style= "text-align:left; padding-left:50px;">SV Illingen - TSV Maulbronn&nbsp;4:3 (2:1)<br/>
 
@@ -4329,21 +4313,21 @@ Lukas Zimmermann, Can Staiger (4), Aaron Petersen, Tobias Spechtenhauser (5), Da
 
       </tr>
 
-       
 
-      
+
+
 
         <tr>
 
-        	<td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
+                <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
 
-     	</tr> 
+             </tr>
 
           <tr>
 
-        	<td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
+                <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
 
-     	</tr> 
+             </tr>
 
            <tr>
 
@@ -4351,7 +4335,7 @@ Lukas Zimmermann, Can Staiger (4), Aaron Petersen, Tobias Spechtenhauser (5), Da
 
         <tr>
 
-       <tr> 
+       <tr>
 
           <td id="contentfont" style= "text-align:left; padding-left:50px;">SV Illingen - SG VfR Sersheim / FC Gündelbach &nbsp;6:8 <br/>
 
@@ -4359,7 +4343,7 @@ Lukas Zimmermann, Can Staiger (4), Aaron Petersen, Tobias Spechtenhauser (5), Da
 
       </tr>
 
-     
+
 
       -->
 
@@ -4391,3022 +4375,3022 @@ Lukas Zimmermann, Can Staiger (4), Aaron Petersen, Tobias Spechtenhauser (5), Da
 
   </div></td>
 
-  <?php 	}
+  <?php         }
 
-			
 
-	 
 
-	
 
-		else{
 
-			switch($id){
 
-					case 10:
 
-					include("trainer.php");
+                else{
 
-					break;
+                        switch($id){
 
-				
+                                        case 10:
 
-				case 11:
+                                        include("trainer.php");
 
-					include("kader1.php");
+                                        break;
 
-					break;
 
-					
 
-				case 12:
+                                case 11:
 
-					include("patronen.php");
+                                        include("kader1.php");
 
-					break;
+                                        break;
 
-					
 
-				case 13:
 
-					include("training.php");
+                                case 12:
 
-					break;
+                                        include("patronen.php");
 
-					
+                                        break;
 
-				case 14:
 
-					include("trainingszeiten.php");
 
-					break;
+                                case 13:
 
-					
+                                        include("training.php");
 
-				case 15:
+                                        break;
 
-					include("ah.php");
 
-					break;
 
-					
+                                case 14:
 
-				case 16:
+                                        include("trainingszeiten.php");
 
-					include("schiedsrichter.php");
+                                        break;
 
-					break;
 
-					
 
-				case 17:
+                                case 15:
 
-					include("vor_hauptversammlung.php");
+                                        include("ah.php");
 
-					break;
+                                        break;
 
-				
 
-				case 18:
 
-					include("verein.php");
+                                case 16:
 
-					break;
+                                        include("schiedsrichter.php");
 
-				
+                                        break;
 
-				case 19:
 
-					include("jugendcamp2014.php");
 
-					break;
+                                case 17:
 
-					
+                                        include("vor_hauptversammlung.php");
 
-				case 20:
+                                        break;
 
-					include("shop.php");
 
-					break;
 
-					
+                                case 18:
 
-				case 21:
+                                        include("verein.php");
 
-					include("kader2.php");
+                                        break;
 
-					break;
 
-					
 
-				case 22:
+                                case 19:
 
-					include("historie.php");
+                                        include("jugendcamp2014.php");
 
-					break;
+                                        break;
 
-					
 
-				case 23:
 
-					include("sportanlage.php");
+                                case 20:
 
-					break;
+                                        include("shop.php");
 
-					
+                                        break;
 
-				case 24:
 
-					include("trainerinfos.php");
 
-					break;
+                                case 21:
 
-					
+                                        include("kader2.php");
 
-				case 25:
+                                        break;
 
-					include("anfahrt.php");
 
-					break;
 
-									
+                                case 22:
 
-				case 27:
+                                        include("historie.php");
 
-					include("neuzugaenge.php");
+                                        break;
 
-					break;
 
-					
 
-				case 28:
+                                case 23:
 
-					include("torschuetzen.php");
+                                        include("sportanlage.php");
 
-					break;
+                                        break;
 
-					
 
-				case 29:
 
-					include("spielbericht.php");
+                                case 24:
 
-					break;
+                                        include("trainerinfos.php");
 
-					
+                                        break;
 
-				case 30:
 
-					include("spielerDesTages.php");
 
-					break;	
+                                case 25:
 
-					
+                                        include("anfahrt.php");
 
-				case 31:
+                                        break;
 
-					include("jugend_a.php");
 
-					break;
 
-					
+                                case 27:
 
-				case 32:
+                                        include("neuzugaenge.php");
 
-					include("jugend_b.php");
+                                        break;
 
-					break;
 
-					
 
-				case 33:
+                                case 28:
 
-					include("jugend_c.php");
+                                        include("torschuetzen.php");
 
-					break;
+                                        break;
 
-					
 
-				case 34:
 
-					include("jugend_d.php");
+                                case 29:
 
-					break;
+                                        include("spielbericht.php");
 
-					
+                                        break;
 
-				case 35:
 
-					include("jugend_e.php");
 
-					break;
+                                case 30:
 
-					
+                                        include("spielerDesTages.php");
 
-				case 36:
+                                        break;
 
-					include("jugend_f.php");
 
-					break;
 
-					
+                                case 31:
 
-				case 37:
+                                        include("jugend_a.php");
 
-					include("jugend_bambinis.php");
+                                        break;
 
-					break;
 
-					
 
-				case 38:
+                                case 32:
 
-					include("hallenmeisterschaft.php");
+                                        include("jugend_b.php");
 
-					break;
+                                        break;
 
-					
 
-				case 39:
 
-					include("orga_jugend.php");
+                                case 33:
 
-					break;
+                                        include("jugend_c.php");
 
-					
+                                        break;
 
-				case 40:
 
-					include("verantwortliche.php");
 
-					break;
+                                case 34:
 
-					
+                                        include("jugend_d.php");
 
-				case 41:
+                                        break;
 
-					include("struktur.php");
 
-					break;
 
-					
+                                case 35:
 
-				case 42:
+                                        include("jugend_e.php");
 
-					include("ausschuss.php");
+                                        break;
 
-					break;
 
-					
 
-				
+                                case 36:
 
-				case 43:
+                                        include("jugend_f.php");
 
-					include("eichwaldcup.php");
+                                        break;
 
-					break;
 
-				
 
-					
+                                case 37:
 
-				case 44:
+                                        include("jugend_bambinis.php");
 
-					include("multimediaArchiv.php");
+                                        break;
 
-					break;
 
-					
 
-				case 45:
+                                case 38:
 
-					include("turniere.php");
+                                        include("hallenmeisterschaft.php");
 
-					break;
+                                        break;
 
-					
 
-				case 46:
 
-					include("ruit2008.php");
+                                case 39:
 
-					break;
+                                        include("orga_jugend.php");
 
-					
+                                        break;
 
-				case 47:
 
-					include("torschuetzen_2te.php");
 
-					break;
+                                case 40:
 
-					
+                                        include("verantwortliche.php");
 
-				case 48:
+                                        break;
 
-					include("jugendleiter.php");
 
-					break;
 
-					
+                                case 41:
 
-				case 49:
+                                        include("struktur.php");
 
-					include("rueckblick_jugend_0910.php");
+                                        break;
 
-					break;
 
-				
 
-				case 50:
+                                case 42:
 
-					include("veranstaltungen.php");
+                                        include("ausschuss.php");
 
-					break;
+                                        break;
 
-					
 
-				case 51:
 
-					include("openair.php");
 
-					break;
 
-					
+                                case 43:
 
-				case 52:
+                                        include("eichwaldcup.php");
 
-					include("kelterfest.php");
+                                        break;
 
-					break;
 
-					
 
-				case 53:
 
-					include("multimedia.php");
 
-					break;
+                                case 44:
 
-					
+                                        include("multimediaArchiv.php");
 
-				case 54:
+                                        break;
 
-					include("fruehlingsfest2007bilder.php");
 
-					break;
 
-				
+                                case 45:
 
-				case 55:
+                                        include("turniere.php");
 
-					include("openAirBilder06.php");
+                                        break;
 
-					break;
 
-				
 
-				case 56:
+                                case 46:
 
-					include("ruit2007.php");
+                                        include("ruit2008.php");
 
-					break;
+                                        break;
 
-				
 
-				case 57:
 
-					include("ddorf2007.php");
+                                case 47:
 
-					break;
+                                        include("torschuetzen_2te.php");
 
-					
+                                        break;
 
-				case 58:
 
-					include("80er_party.php");
 
-					break;
+                                case 48:
 
-					
+                                        include("jugendleiter.php");
 
-				case 59:
+                                        break;
 
-					include("foerderverein.php");
 
-					break;
 
-					
+                                case 49:
 
-				case 60:
+                                        include("rueckblick_jugend_0910.php");
 
-					include("sponsoringHauptsponsor.php");
+                                        break;
 
-					break;
 
-					
 
-				case 61:
+                                case 50:
 
-					include("sponsoringPremiumpartner.php");
+                                        include("veranstaltungen.php");
 
-					break;
+                                        break;
 
-					
 
-				case 62:
 
-					include("sponsoringWerbepartner.php");
+                                case 51:
 
-					break;
+                                        include("openair.php");
 
+                                        break;
 
 
-				case 63:
 
-					include("bambinis.php");
+                                case 52:
 
-					break;					
+                                        include("kelterfest.php");
 
-				
+                                        break;
 
-				case 64:
 
-					include("f-jugend.php");
 
-					break;
+                                case 53:
 
-					
+                                        include("multimedia.php");
 
-				case 65:
+                                        break;
 
-					include("e-jugend.php");
 
-					break;
 
-						
+                                case 54:
 
-				case 66:
+                                        include("fruehlingsfest2007bilder.php");
 
-					include("d-jugend.php");
+                                        break;
 
-					break;	
 
-					
 
-				case 67:
+                                case 55:
 
-					include("c-jugend.php");
+                                        include("openAirBilder06.php");
 
-					break;	
+                                        break;
 
 
 
-				case 68:
+                                case 56:
 
-					include("b-jugend.php");
+                                        include("ruit2007.php");
 
-					break;		
+                                        break;
 
 
 
-				case 69:
+                                case 57:
 
-					include("a-jugend.php");
+                                        include("ddorf2007.php");
 
-					break;
+                                        break;
 
-					
 
-				case 70:
 
-					include("temp.php");
+                                case 58:
 
-					break;
+                                        include("80er_party.php");
 
+                                        break;
 
 
-				case 71:
 
-					include("temp2.php");
+                                case 59:
 
-					break;
+                                        include("foerderverein.php");
 
-					
+                                        break;
 
-				case 72:
 
-					include("temp3.php");
 
-					break;
+                                case 60:
 
-					
+                                        include("sponsoringHauptsponsor.php");
 
-				case 73:
+                                        break;
 
-					include("temp4.php");
 
-					break;
 
-					
+                                case 61:
 
-				case 74:
+                                        include("sponsoringPremiumpartner.php");
 
-					include("formulare.php");
+                                        break;
 
-					break;
 
-					
 
-				case 75:
+                                case 62:
 
-					include("abteilungsleiter.php");
+                                        include("sponsoringWerbepartner.php");
 
-					break;
+                                        break;
 
-					
 
-				case 76:
 
-					include("kalender.php");
+                                case 63:
 
-					break;
+                                        include("bambinis.php");
 
-					
+                                        break;
 
-				case 77:
 
-					include("jugendkonzept.php");
 
-					break;
+                                case 64:
 
-					
+                                        include("f-jugend.php");
 
-				case 78:
+                                        break;
 
-					include("jugendleiter_alex.php");
 
-					break;
 
-					
+                                case 65:
 
-				case 79:
+                                        include("e-jugend.php");
 
-					include("torspendenaktion.php");
+                                        break;
 
-					break;
 
-					
 
-				case 101:
+                                case 66:
 
-					include("ProfilMarco.php");
+                                        include("d-jugend.php");
 
-					break;
+                                        break;
 
-					
 
-				case 102:
 
-					include("ProfilTommy.php");
+                                case 67:
 
-					break;
+                                        include("c-jugend.php");
 
-				
+                                        break;
 
-				case 103:
 
-					include("ProfilScheytt.php");
 
-					break;
+                                case 68:
 
-				
+                                        include("b-jugend.php");
 
-				case 104:
+                                        break;
 
-					include("ProfilAngeloVe.php");
 
-					break;
 
-					
+                                case 69:
 
-				case 105:
+                                        include("a-jugend.php");
 
-					include("ProfilBjoern.php");
+                                        break;
 
-					break;
 
-				
 
-				case 106:
+                                case 70:
 
-					include("ProfilMarkus.php");
+                                        include("temp.php");
 
-					break;
+                                        break;
 
-				
 
-				case 107:
 
-					include("ProfilLennox.php");
+                                case 71:
 
-					break;
+                                        include("temp2.php");
 
-				
+                                        break;
 
-				case 108:
 
-					include("ProfilAndre.php");
 
-					break;
+                                case 72:
 
-					
+                                        include("temp3.php");
 
-				case 109:
+                                        break;
 
-					include("ProfilSascha.php");
 
-					break;
 
-					
+                                case 73:
 
-				case 110:
+                                        include("temp4.php");
 
-					include("ProfilRichy.php");
+                                        break;
 
-					break;
 
-					
 
-				case 111:
+                                case 74:
 
-					include("ProfilMichaSchlosser.php");
+                                        include("formulare.php");
 
-					break;
+                                        break;
 
-					
 
-				case 112:
 
-					include("ProfilDominik.php");
+                                case 75:
 
-					break;
+                                        include("abteilungsleiter.php");
 
-					
+                                        break;
 
-				case 113:
 
-					include("ProfilOliL.php");
 
-					break;
+                                case 76:
 
-					
+                                        include("kalender.php");
 
-				case 114:
+                                        break;
 
-					include("ProfilAndi.php");
 
-					break;
 
-					
+                                case 77:
 
-				case 115:
+                                        include("jugendkonzept.php");
 
-					include("ProfilMichaSpengler.php");
+                                        break;
 
-					break;
 
-					
 
-				case 116:
+                                case 78:
 
-					include("ProfilJochen.php");
+                                        include("jugendleiter_alex.php");
 
-					break;
+                                        break;
 
-					
 
-				case 117:
 
-					include("ProfilArben.php");
+                                case 79:
 
-					break;
+                                        include("torspendenaktion.php");
 
-					
+                                        break;
 
-				case 118:
 
-					include("ProfilKevin.php");
 
-					break;
+                                case 101:
 
-					
+                                        include("ProfilMarco.php");
 
-				case 119:
+                                        break;
 
-					include("ProfilTobse.php");
 
-					break;
 
-				
+                                case 102:
 
-				case 120:
+                                        include("ProfilTommy.php");
 
-					include("ProfilAJ.php");
+                                        break;
 
-					break;
 
-					
 
-				case 121:
+                                case 103:
 
-					include("ProfilHannes.php");
+                                        include("ProfilScheytt.php");
 
-					break;
+                                        break;
 
-					
 
-				case 122:
 
-					include("ProfilJojo.php");
+                                case 104:
 
-					break;
+                                        include("ProfilAngeloVe.php");
 
-					
+                                        break;
 
-				case 123:
 
-					include("ProfilLuki.php");
 
-					break;
+                                case 105:
 
-					
+                                        include("ProfilBjoern.php");
 
-				case 124:
+                                        break;
 
-					include("ProfilKadir.php");
 
-					break;
 
-					
+                                case 106:
 
-				case 125:
+                                        include("ProfilMarkus.php");
 
-					include("ProfilJohnny.php");
+                                        break;
 
-					break;
 
-					
 
-				case 126:
+                                case 107:
 
-					include("ProfilPucc.php");
+                                        include("ProfilLennox.php");
 
-					break;
+                                        break;
 
-					
 
-				case 127:
 
-					include("ProfilOli.php");
+                                case 108:
 
-					break;
+                                        include("ProfilAndre.php");
 
-					
+                                        break;
 
-				case 128:
 
-					include("ProfilAlex.php");
 
-					break;
+                                case 109:
 
-					
+                                        include("ProfilSascha.php");
 
-				case 129:
+                                        break;
 
-					include("ProfilMatze.php");
 
-					break;
 
-					
+                                case 110:
 
-				case 130:
+                                        include("ProfilRichy.php");
 
-					include("ProfilDamir.php");
+                                        break;
 
-					break;
 
-					
 
-				case 131:
+                                case 111:
 
-					include("ProfilAngeloVi.php");
+                                        include("ProfilMichaSchlosser.php");
 
-					break;
+                                        break;
 
-					
 
-				case 132:
 
-					include("ProfilOliC.php");
+                                case 112:
 
-					break;
+                                        include("ProfilDominik.php");
 
-					
+                                        break;
 
-				case 133:
 
-					include("ProfilGruio.php");
 
-					break;
+                                case 113:
 
-					
+                                        include("ProfilOliL.php");
 
-				case 134:
+                                        break;
 
-					include("ProfilBenni.php");
 
-					break;
 
-					
+                                case 114:
 
-				case 135:
+                                        include("ProfilAndi.php");
 
-					include("ProfilMarcoK.php");
+                                        break;
 
-					break;
 
-					
 
-				case 136:
+                                case 115:
 
-					include("ProfilMark.php");
+                                        include("ProfilMichaSpengler.php");
 
-					break;
+                                        break;
 
-					
 
-				case 137:
 
-					include("ProfilMarcoA.php");
+                                case 116:
 
-					break;
+                                        include("ProfilJochen.php");
 
-					
+                                        break;
 
-				case 138:
 
-					include("ProfilMichaMahler.php");
 
-					break;
+                                case 117:
 
-					
+                                        include("ProfilArben.php");
 
-				case 139:
+                                        break;
 
-					include("ProfilMustafa.php");
 
-					break;
 
-					
+                                case 118:
 
-				case 140:
+                                        include("ProfilKevin.php");
 
-					include("ProfilBernhard.php");
+                                        break;
 
-					break;
 
-					
 
-				case 141:
+                                case 119:
 
-					include("ProfilBenny.php");
+                                        include("ProfilTobse.php");
 
-					break;
+                                        break;
 
-					
 
-				case 142:
 
-					include("ProfilBatu.php");
+                                case 120:
 
-					break;
+                                        include("ProfilAJ.php");
 
-					
+                                        break;
 
-				case 143:
 
-					include("ProfilMichaA.php");
 
-					break;
+                                case 121:
 
-					
+                                        include("ProfilHannes.php");
 
-				case 144:
+                                        break;
 
-					include("ProfilAndreW.php");
 
-					break;
 
-					
+                                case 122:
 
-				case 145:
+                                        include("ProfilJojo.php");
 
-					include("ProfilDani.php");
+                                        break;
 
-					break;
 
-					
 
-				case 146:
+                                case 123:
 
-					include("ProfilPatrick.php");
+                                        include("ProfilLuki.php");
 
-					break;
+                                        break;
 
 
 
-				case 147:
+                                case 124:
 
-					include("ProfilSelim.php");
+                                        include("ProfilKadir.php");
 
-					break;
+                                        break;
 
 
 
-				case 148:
+                                case 125:
 
-					include("ProfilMustafa.php");
+                                        include("ProfilJohnny.php");
 
-					break;		
+                                        break;
 
-					
 
-				case 149:
 
-					include("ProfilZucki.php");
+                                case 126:
 
-					break;	
+                                        include("ProfilPucc.php");
 
-					
+                                        break;
 
-				case 150:
 
-					include("ProfilDamirS.php");
 
-					break;	
+                                case 127:
 
-								
+                                        include("ProfilOli.php");
 
-				
+                                        break;
 
-				case 151:
 
-					include("ProfilSebastian.php");
 
-					break;	
+                                case 128:
 
-					
+                                        include("ProfilAlex.php");
 
-				case 152:
+                                        break;
 
-					include("ProfilPasquale.php");
 
-					break;	
 
-					
+                                case 129:
 
-				case 153:
+                                        include("ProfilMatze.php");
 
-					include("ProfilFabioTricarico.php");
+                                        break;
 
-					break;	
 
-					
 
-				case 154:
+                                case 130:
 
-					include("ProfilSinan.php");
+                                        include("ProfilDamir.php");
 
-					break;		
+                                        break;
 
-					
 
-				case 155:
 
-					include("Profildodonimfuehr.php");
+                                case 131:
 
-					break;	
+                                        include("ProfilAngeloVi.php");
 
-					
+                                        break;
 
-				case 156:
 
-					include("Profilchriswanko.php");
 
-					break;
+                                case 132:
 
-					
+                                        include("ProfilOliC.php");
 
-				case 157:
+                                        break;
 
-					include("Profilbirol.php");
 
-					break;
 
-					
+                                case 133:
 
-				case 158:
+                                        include("ProfilGruio.php");
 
-					include("Profilclaudio.php");
+                                        break;
 
-					break;
 
-				
 
-				case 159:
+                                case 134:
 
-					include("ProfilMarino.php");
+                                        include("ProfilBenni.php");
 
-					break;
+                                        break;
 
-					
 
-				case 160:
 
-					include("ProfilAkin.php");
+                                case 135:
 
-					break;
+                                        include("ProfilMarcoK.php");
 
-					
+                                        break;
 
-				case 161:
 
-					include("ProfilHaefner.php");
 
-					break;
+                                case 136:
 
-					
+                                        include("ProfilMark.php");
 
-				case 162:
+                                        break;
 
-					include("ProfilStotz.php");
 
-					break;
 
-					
+                                case 137:
 
-				case 163:
+                                        include("ProfilMarcoA.php");
 
-					include("ProfilHitzler.php");
+                                        break;
 
-					break;
 
-					
 
-				case 164:
+                                case 138:
 
-					include("ProfilMichali.php");
+                                        include("ProfilMichaMahler.php");
 
-					break;
+                                        break;
 
-					
 
-				case 165:
 
-					include("ProfilTim.php");
+                                case 139:
 
-					break;
+                                        include("ProfilMustafa.php");
 
-					
+                                        break;
 
-				case 166:
 
-					include("ProfilDenis.php");
 
-					break;
+                                case 140:
 
-					
+                                        include("ProfilBernhard.php");
 
-				case 167:
+                                        break;
 
-					include("ProfilDavide.php");
 
-					break;
 
-					
+                                case 141:
 
-				case 168:
+                                        include("ProfilBenny.php");
 
-					include("ProfilHerman.php");
+                                        break;
 
-					break;
-				
-				case 169:
 
-					include("ProfilScheuermann.php");
 
-					break;
-					
-				case 170:
+                                case 142:
 
-					include("ProfilSchoebinger.php");
+                                        include("ProfilBatu.php");
 
-					break;
+                                        break;
 
-				case 171:
 
-					include("ProfilGraci.php");
 
-					break;	
-					
-				case 172:
+                                case 143:
 
-					include("ProfilSimon.php");
+                                        include("ProfilMichaA.php");
 
-					break;
-					
-				case 173:
+                                        break;
 
-					include("ProfilRocca.php");
 
-					break;
-					
-				case 174:
 
-					include("ProfilDustin.php");
+                                case 144:
 
-					break;
-					
-				case 175:
+                                        include("ProfilAndreW.php");
 
-					include("ProfilMarkusV.php");
+                                        break;
 
-					break;
-					
-				case 176:
 
-					include("ProfilArmin.php");
 
-					break;
-					
-				case 177:
+                                case 145:
 
-					include("ProfilBenniF.php");
+                                        include("ProfilDani.php");
 
-					break;
-					
-				case 178:
+                                        break;
 
-					include("ProfilHakan.php");
 
-					break;
-					
-				case 179:
 
-					include("ProfilMunz.php");
+                                case 146:
 
-					break;
+                                        include("ProfilPatrick.php");
 
-				
+                                        break;
 
-				
 
-				case 201:
 
-					include("Profil_a_matthias.php");
+                                case 147:
 
-					break;
+                                        include("ProfilSelim.php");
 
-					
+                                        break;
 
-				case 202:
 
-					include("Profil_a_micha.php");
 
-					break;
+                                case 148:
 
-					
+                                        include("ProfilMustafa.php");
 
+                                        break;
 
 
-				case 203:
 
-					include("Profil_a_sinan.php");
+                                case 149:
 
-					break;
+                                        include("ProfilZucki.php");
 
-					
+                                        break;
 
-				case 204:
 
-					include("Profil_a_niko.php");
 
-					break;
+                                case 150:
 
-					
+                                        include("ProfilDamirS.php");
 
-				case 205:
+                                        break;
 
-					include("Profil_a_marcel.php");
 
-					break;
 
-					
 
-				case 206:
 
-					include("Profil_a_sandro.php");
+                                case 151:
 
-					break;
+                                        include("ProfilSebastian.php");
 
-					
+                                        break;
 
-				case 207:
 
-					include("Profil_a_hakan.php");
 
-					break;
+                                case 152:
 
-					
+                                        include("ProfilPasquale.php");
 
-				case 208:
+                                        break;
 
-					include("Profil_a_tobse.php");
 
-					break;
 
-					
+                                case 153:
 
-				case 209:
+                                        include("ProfilFabioTricarico.php");
 
-					include("Profil_a_carsten.php");
+                                        break;
 
-					break;
 
-				
 
-				case 210:
+                                case 154:
 
-					include("Profil_a_dodo.php");
+                                        include("ProfilSinan.php");
 
-					break;
+                                        break;
 
-					
 
-				case 211:
 
-					include("Profil_a_mauri.php");
+                                case 155:
 
-					break;
+                                        include("Profildodonimfuehr.php");
 
-					
+                                        break;
 
-				case 212:
 
-					include("Profil_a_matze.php");
 
-					break;
+                                case 156:
 
-					
+                                        include("Profilchriswanko.php");
 
-				case 213:
+                                        break;
 
-					include("Profil_a_fabio.php");
 
-					break;
 
-					
+                                case 157:
 
-				case 214:
+                                        include("Profilbirol.php");
 
-					include("Profil_a_andre.php");
+                                        break;
 
-					break;
 
-					
 
-				case 215:
+                                case 158:
 
-					include("Profil_a_orhan.php");
+                                        include("Profilclaudio.php");
 
-					break;
+                                        break;
 
-					
 
-				case 216:
 
-					include("Profil_a_emre.php");
+                                case 159:
 
-					break;
+                                        include("ProfilMarino.php");
 
-					
+                                        break;
 
-				case 217:
 
-					include("Profil_a_oemer.php");
 
-					break;
+                                case 160:
 
-					
+                                        include("ProfilAkin.php");
 
-				case 218:
+                                        break;
 
-					include("Profil_a_alex.php");
 
-					break;
 
-					
+                                case 161:
 
-				case 219:
+                                        include("ProfilHaefner.php");
 
-					include("Profil_a_klaus.php");
+                                        break;
 
-					break;
 
-					
 
-				case 220:
+                                case 162:
 
-					include("Profil_a_nic.php");
+                                        include("ProfilStotz.php");
 
-					break;
+                                        break;
 
-					
 
-				case 221:
 
-					include("Profil_a_ralf.php");
+                                case 163:
 
-					break;
+                                        include("ProfilHitzler.php");
 
-				
+                                        break;
 
-				case 222:
 
-					include("Profil_a_daniel.php");
 
-					break;
+                                case 164:
 
-					
+                                        include("ProfilMichali.php");
 
-				case 223:
+                                        break;
 
-					include("Profil_a_giuseppe.php");
 
-					break;
 
-					
+                                case 165:
 
-				case 224:
+                                        include("ProfilTim.php");
 
-					include("Profil_a_marcelL.php");
+                                        break;
 
-					break;
 
-					
 
-					
+                                case 166:
 
-					
+                                        include("ProfilDenis.php");
 
-				case 260:
+                                        break;
 
-					include("archiv_mancity.php");
 
-					break;
 
-					
+                                case 167:
 
-				case 261:
+                                        include("ProfilDavide.php");
 
-					include("mancity1.php");
+                                        break;
 
-					break;
 
-					
 
-				case 262:
+                                case 168:
 
-					include("mancity2.php");
+                                        include("ProfilHerman.php");
 
-					break;
+                                        break;
 
-					
+                                case 169:
 
-				case 263:
+                                        include("ProfilScheuermann.php");
 
-					include("mancity3.php");
+                                        break;
 
-					break;
+                                case 170:
 
-					
+                                        include("ProfilSchoebinger.php");
 
-				case 264:
+                                        break;
 
-					include("mancity4.php");
+                                case 171:
 
-					break;
+                                        include("ProfilGraci.php");
 
-					
+                                        break;
 
-				case 265:
+                                case 172:
 
-					include("mancity5.php");
+                                        include("ProfilSimon.php");
 
-					break;
+                                        break;
 
-					
+                                case 173:
 
-				case 266:
+                                        include("ProfilRocca.php");
 
-					include("mancity6.php");
+                                        break;
 
-					break;
+                                case 174:
 
-					
+                                        include("ProfilDustin.php");
 
-				case 267:
+                                        break;
 
-					include("mancity7.php");
+                                case 175:
 
-					break;
+                                        include("ProfilMarkusV.php");
 
-					
+                                        break;
 
-				case 268:
+                                case 176:
 
-					include("mancity8.php");
+                                        include("ProfilArmin.php");
 
-					break;
+                                        break;
 
-					
+                                case 177:
 
-				case 269:
+                                        include("ProfilBenniF.php");
 
-					include("mancity9.php");
+                                        break;
 
-					break;
+                                case 178:
 
-					
+                                        include("ProfilHakan.php");
 
-					
+                                        break;
 
-					
+                                case 179:
 
-				case 300:
+                                        include("ProfilMunz.php");
 
-					include("archiv_spielbericht.php");
+                                        break;
 
-					break;
 
-					
 
-				case 301:
 
-					include("spielbericht_loechgau.php");
 
-					break;
+                                case 201:
 
-					
+                                        include("Profil_a_matthias.php");
 
-				case 302:
+                                        break;
 
-					include("spielbericht_haefnerhaslach.php");
 
-					break;
 
-					
+                                case 202:
 
-				case 303:
+                                        include("Profil_a_micha.php");
 
-					include("spielbericht_vaihingen.php");
+                                        break;
 
-					break;
 
-					
 
-				case 304:
 
-					include("spielbericht_sersheim.php");
 
-					break;
+                                case 203:
 
-					
+                                        include("Profil_a_sinan.php");
 
-				case 305:
+                                        break;
 
-					include("spielbericht_grossglattbach.php");
 
-					break;
 
-					
+                                case 204:
 
-				case 306:
+                                        include("Profil_a_niko.php");
 
-					include("spielbericht_nussdorf.php");
+                                        break;
 
-					break;
 
-					
 
-				case 307:
+                                case 205:
 
-					include("spielbericht_hohenhaslach_rr.php");
+                                        include("Profil_a_marcel.php");
 
-					break;
+                                        break;
 
-					
 
-				case 308:
 
-					include("spielbericht_boennigheim.php");
+                                case 206:
 
-					break;
+                                        include("Profil_a_sandro.php");
 
-					
+                                        break;
 
-				case 310:
 
-					include("spielbericht_kircheim_0809h.php");
 
-					break;
+                                case 207:
 
-					
+                                        include("Profil_a_hakan.php");
 
-				case 311:
+                                        break;
 
-					include("spielbericht_lomersheim_0809a.php");
 
-					break;
 
-					
+                                case 208:
 
-				case 312:
+                                        include("Profil_a_tobse.php");
 
-					include("spielbericht_sersheim_0809a.php");
+                                        break;
 
-					break;
 
-					
 
-				case 313:
+                                case 209:
 
-					include("spielbericht_gemmrigheim_0809a.php");
+                                        include("Profil_a_carsten.php");
 
-					break;
+                                        break;
 
-					
 
-				case 314:
 
-					include("spielbericht_wiernsheim_0809a.php");
+                                case 210:
 
-					break;
+                                        include("Profil_a_dodo.php");
 
-					
+                                        break;
 
-				case 315:
 
-					include("spielbericht_haefnerhaslach_0809a.php");
 
-					break;
+                                case 211:
 
-					
+                                        include("Profil_a_mauri.php");
 
-				case 316:
+                                        break;
 
-					include("spielbericht_loechgau_0809a.php");
 
-					break;
 
-					
+                                case 212:
 
-				case 317:
+                                        include("Profil_a_matze.php");
 
-					include("spielbericht_hellas_0809a.php");
+                                        break;
 
-					break;
 
-					
 
-				case 318:
+                                case 213:
 
-					include("spielbericht_boennigheim_0809a.php");
+                                        include("Profil_a_fabio.php");
 
-					break;
+                                        break;
 
-					
 
-				case 319:
 
-					include("spielbericht_rosswag_0809a.php");
+                                case 214:
 
-					break;
+                                        include("Profil_a_andre.php");
 
-					
+                                        break;
 
-				case 320:
 
-					include("spielbericht_nussdorf_0809a.php");
 
-					break;	
+                                case 215:
 
-					
+                                        include("Profil_a_orhan.php");
 
-				case 321:
+                                        break;
 
-					include("spielbericht_guendelbach_0809a.php");
 
-					break;
 
-					
+                                case 216:
 
-				case 322:
+                                        include("Profil_a_emre.php");
 
-					include("spielbericht_bissingen_0809a.php");
+                                        break;
 
-					break;
 
-					
 
-				case 323:
+                                case 217:
 
-					include("spielbericht_kirchheim_0809b.php");
+                                        include("Profil_a_oemer.php");
 
-					break;
+                                        break;
 
-					
 
-				case 324:
 
-					include("spielbericht_sersheim_0809b.php");
+                                case 218:
 
-					break;
+                                        include("Profil_a_alex.php");
 
-					
+                                        break;
 
-				case 325:
 
-					include("spielbericht_gemmrigheim_0809b.php");
 
-					break;
+                                case 219:
 
-					
+                                        include("Profil_a_klaus.php");
 
-				case 326:
+                                        break;
 
-					include("spielbericht_wiernsheim_0809b.php");
 
-					break;
 
+                                case 220:
 
+                                        include("Profil_a_nic.php");
 
-				case 327:
+                                        break;
 
-					include("spielbericht_haefnerhaslach_0809b.php");
 
-					break;
 
-					
+                                case 221:
 
-				case 328:
+                                        include("Profil_a_ralf.php");
 
-					include("spielbericht_loechgau_0809b.php");
+                                        break;
 
-					break;
 
-					
 
-				case 329:
+                                case 222:
 
-					include("spielbericht_lomersheim_0809b.php");
+                                        include("Profil_a_daniel.php");
 
-					break;
+                                        break;
 
-					
 
-				case 330:
 
-					include("spielbericht_hellas_0809b.php");
+                                case 223:
 
-					break;
+                                        include("Profil_a_giuseppe.php");
 
-					
+                                        break;
 
-				case 331:
 
-					include("spielbericht_kaman2_0809b.php");
 
-					break;
+                                case 224:
 
-					
+                                        include("Profil_a_marcelL.php");
 
-				case 332:
+                                        break;
 
-					include("spielbericht_boennigheim_0809b.php");
 
-					break;
 
-					
 
-				case 333:
 
-					include("spielbericht_rosswag_0809b.php");
 
-					break;
 
+                                case 260:
 
+                                        include("archiv_mancity.php");
 
-				case 334:
+                                        break;
 
-					include("spielbericht_nussdorf_0809b.php");
 
-					break;
 
+                                case 261:
 
+                                        include("mancity1.php");
 
-				case 335:
+                                        break;
 
-					include("spielbericht_guendelbach_0809b.php");
 
-					break;
 
-			
+                                case 262:
 
-				case 336:
+                                        include("mancity2.php");
 
-					include("spielbericht_bissingen2_0809b.php");
+                                        break;
 
-					break;
 
-					
 
-				case 337:
+                                case 263:
 
-					include("spielbericht_besigheim_0910a.php");
+                                        include("mancity3.php");
 
-					break;
+                                        break;
 
-			
 
-				case 338:
 
-					include("spielbericht_hellas_0910a.php");
+                                case 264:
 
-					break;
+                                        include("mancity4.php");
 
-				
+                                        break;
 
-				case 339:
 
-					include("spielbericht_boennigheim_0910a.php");
 
-					break;
+                                case 265:
 
-					
+                                        include("mancity5.php");
 
-				case 340:
+                                        break;
 
-					include("spielbericht_loechgau_0910a.php");
 
-					break;
 
-					
+                                case 266:
 
-				case 341:
+                                        include("mancity6.php");
 
-					include("spielbericht_vaihingen_0910a.php");
+                                        break;
 
-					break;
 
-					
 
-				case 342:
+                                case 267:
 
-					include("spielbericht_rosswag_0910a.php");
+                                        include("mancity7.php");
 
-					break;
+                                        break;
 
-					
 
-				case 343:
 
-					include("spielbericht_erligheim_0910a.php");
+                                case 268:
 
-					break;
+                                        include("mancity8.php");
 
-					
+                                        break;
 
-				case 344:
 
-					include("spielbericht_08bissingen_0910a.php");
 
-					break;
+                                case 269:
 
-					
+                                        include("mancity9.php");
 
-				case 345:
+                                        break;
 
-					include("spielbericht_nussdorf_0910a.php");
 
-					break;
 
-					
 
-				case 346:
 
-					include("spielbericht_lomersheim_0910a.php");
 
-					break;
 
-					
+                                case 300:
 
-				case 347:
+                                        include("archiv_spielbericht.php");
 
-					include("spielbericht_bissingen_0910a.php");
+                                        break;
 
-					break;
 
-					
 
-				case 348:
+                                case 301:
 
-					include("spielbericht_gemmrigheim_0910a.php");
+                                        include("spielbericht_loechgau.php");
 
-					break;
+                                        break;
 
-					
 
-				case 349:
 
-					include("spielbericht_iptingen_0910a.php");
+                                case 302:
 
-					break;
+                                        include("spielbericht_haefnerhaslach.php");
 
-					
+                                        break;
 
-				case 350:
 
-					include("spielbericht_sersheim_0910a.php");
 
-					break;
+                                case 303:
 
-					
+                                        include("spielbericht_vaihingen.php");
 
-				case 351:
+                                        break;
 
-					include("spielbericht_guendelbach_0910a.php");
 
-					break;
 
-					
+                                case 304:
 
-				case 352:
+                                        include("spielbericht_sersheim.php");
 
-					include("spielbericht_wiernsheim_0910b.php");
+                                        break;
 
-					break;
 
-					
 
-				case 353:
+                                case 305:
 
-					include("spielbericht_besigheim_0910b.php");
+                                        include("spielbericht_grossglattbach.php");
 
-					break;
+                                        break;
 
-					
 
-				case 354:
 
-					include("spielbericht_vaihingen_0910b.php");
+                                case 306:
 
-					break;
+                                        include("spielbericht_nussdorf.php");
 
-					
+                                        break;
 
-				case 355:
 
-					include("spielbericht_08bissingen_0910b.php");
 
-					break;
+                                case 307:
 
-					
+                                        include("spielbericht_hohenhaslach_rr.php");
 
-				case 356:
+                                        break;
 
-					include("spielbericht_nussdorf_0910b.php");
 
-					break;
 
-					
+                                case 308:
 
-				case 357:
+                                        include("spielbericht_boennigheim.php");
 
-					include("spielbericht_lomersheim_0910b.php");
+                                        break;
 
-					break;
 
-					
 
-				case 358:
+                                case 310:
 
-					include("spielbericht_roßwag_0910b.php");
+                                        include("spielbericht_kircheim_0809h.php");
 
-					break;
+                                        break;
 
-					
 
-				case 359:
 
-					include("spielbericht_bissingen_0910b.php");
+                                case 311:
 
-					break;
+                                        include("spielbericht_lomersheim_0809a.php");
 
-					
+                                        break;
 
-				case 360:
 
-					include("spielbericht_boennigheim_0910b.php");
 
-					break;
+                                case 312:
 
-					
+                                        include("spielbericht_sersheim_0809a.php");
 
-				case 361:
+                                        break;
 
-					include("spielbericht_gemmrigheim_0910b.php");
 
-					break;
 
-					
+                                case 313:
 
-				case 362:
+                                        include("spielbericht_gemmrigheim_0809a.php");
 
-					include("spielbericht_iptingen_0910b.php");
+                                        break;
 
-					break;
 
-					
 
-				case 363:
+                                case 314:
 
-					include("spielbericht_sersheim_0910b.php");
+                                        include("spielbericht_wiernsheim_0809a.php");
 
-					break;
+                                        break;
 
-					
 
-				case 364:
 
-					include("spielbericht_guendelbach_0910b.php");
+                                case 315:
 
-					break;
+                                        include("spielbericht_haefnerhaslach_0809a.php");
 
-					
+                                        break;
 
-				case 365:
 
-					include("spielbericht_boennigheim_1011a.php");
 
-					break;
+                                case 316:
 
-					
+                                        include("spielbericht_loechgau_0809a.php");
 
-				case 366:
+                                        break;
 
-					include("spielbericht_oberriexingen_1011a.php");
 
-					break;
 
-					
+                                case 317:
 
-				case 367:
+                                        include("spielbericht_hellas_0809a.php");
 
-					include("spielbericht_08bissingen_1011a.php");
+                                        break;
 
-					break;
 
-					
 
-				case 368:
+                                case 318:
 
-					include("spielbericht_bissingen_1011a.php");
+                                        include("spielbericht_boennigheim_0809a.php");
 
-					break;
+                                        break;
 
-					
 
-				case 369:
 
-					include("spielbericht_kirchheim_1011a.php");
+                                case 319:
 
-					break;
+                                        include("spielbericht_rosswag_0809a.php");
 
-					
+                                        break;
 
-				case 370:
 
-					include("spielbericht_sersheim_1011a.php");
 
-					break;
+                                case 320:
 
-					
+                                        include("spielbericht_nussdorf_0809a.php");
 
-				case 371:
+                                        break;
 
-					include("spielbericht_freudental_1011a.php");
 
-					break;
 
-					
+                                case 321:
 
-				case 372:
+                                        include("spielbericht_guendelbach_0809a.php");
 
-					include("spielbericht_lomersheim_1011a.php");
+                                        break;
 
-					break;
 
-					
 
-				case 373:
+                                case 322:
 
-					include("spielbericht_wiernsheim_1011a.php");
+                                        include("spielbericht_bissingen_0809a.php");
 
-					break;
+                                        break;
 
-					
 
-				case 374:
 
-					include("spielbericht_gemmrigheim_1011a.php");
+                                case 323:
 
-					break;
+                                        include("spielbericht_kirchheim_0809b.php");
 
-					
+                                        break;
 
-				case 375:
 
-					include("spielbericht_kleinsachsenheim_1011a.php");
 
-					break;
+                                case 324:
 
-					
+                                        include("spielbericht_sersheim_0809b.php");
 
-				case 376:
+                                        break;
 
-					include("spielbericht_rosswag_1011a.php");
 
-					break;
 
-					
+                                case 325:
 
-				case 377:
+                                        include("spielbericht_gemmrigheim_0809b.php");
 
-					include("spielbericht_besigheim_1011a.php");
+                                        break;
 
-					break;
 
-					
 
-				case 378:
+                                case 326:
 
-					include("spielbericht_boennigheim_1011b.php");
+                                        include("spielbericht_wiernsheim_0809b.php");
 
-					break;
+                                        break;
 
-					
 
-				case 379:
 
-					include("spielbericht_oberriexingen_1011b.php");
+                                case 327:
 
-					break;
+                                        include("spielbericht_haefnerhaslach_0809b.php");
 
-					
+                                        break;
 
-				case 380:
 
-					include("spielbericht_08bissingen_1011b.php");
 
-					break;
+                                case 328:
 
-					
+                                        include("spielbericht_loechgau_0809b.php");
 
-				case 381:
+                                        break;
 
-					include("spielbericht_bissingen_1011b.php");
 
-					break;
 
-					
+                                case 329:
 
-				case 382:
+                                        include("spielbericht_lomersheim_0809b.php");
 
-					include("spielbericht_kirchheim_1011b.php");
+                                        break;
 
-					break;
 
-					
 
-				case 383:
+                                case 330:
 
-					include("spielbericht_sersheim_1011b.php");
+                                        include("spielbericht_hellas_0809b.php");
 
-					break;
+                                        break;
 
-					
 
-				case 384:
 
-					include("spielbericht_freudental_1011b.php");
+                                case 331:
 
-					break;
+                                        include("spielbericht_kaman2_0809b.php");
 
-				
+                                        break;
 
-				case 385:
 
-					include("spielbericht_lomersheim_1011b.php");
 
-					break;	
+                                case 332:
 
-				
+                                        include("spielbericht_boennigheim_0809b.php");
 
-				case 386:
+                                        break;
 
-					include("spielbericht_wiernsheim_1011b.php");
 
-					break;
 
-				
+                                case 333:
 
-				case 387:
+                                        include("spielbericht_rosswag_0809b.php");
 
-					include("spielbericht_gemmrigheim_1011b.php");
+                                        break;
 
-					break;
 
-					
 
-				case 388:
+                                case 334:
 
-					include("spielbericht_kleinsachsenheim_1011b.php");
+                                        include("spielbericht_nussdorf_0809b.php");
 
-					break;
+                                        break;
 
-					
 
-				case 389:
 
-					include("spielbericht_rosswag_1011b.php");
+                                case 335:
 
-					break;
+                                        include("spielbericht_guendelbach_0809b.php");
 
-					
+                                        break;
 
-				case 390:
 
-					include("spielbericht_besigheim_1011b.php");
 
-					break;
+                                case 336:
 
-					
+                                        include("spielbericht_bissingen2_0809b.php");
 
-				case 391:
+                                        break;
 
-					include("spielbericht_relegation_1011.php");
 
-					break;
 
-					
+                                case 337:
 
-				case 392:
+                                        include("spielbericht_besigheim_0910a.php");
 
-					include("spielbericht_besigheim_1112a.php");
+                                        break;
 
-					break;
 
-					
 
-				case 393:
+                                case 338:
 
-					include("spielbericht_wiernsheim_1112a.php");
+                                        include("spielbericht_hellas_0910a.php");
 
-					break;
+                                        break;
 
-					
 
-				case 394:
 
-					include("spielbericht_freudental_1112a.php");
+                                case 339:
 
-					break;
+                                        include("spielbericht_boennigheim_0910a.php");
 
-					
+                                        break;
 
-				case 395:
 
-					include("spielbericht_bissingen_1112a.php");
 
-					break;
+                                case 340:
 
-					
+                                        include("spielbericht_loechgau_0910a.php");
 
-				case 396:
+                                        break;
 
-					include("spielbericht_kleinglattbach_1112a.php");
 
-					break;
 
-					
+                                case 341:
 
-				case 397:
+                                        include("spielbericht_vaihingen_0910a.php");
 
-					include("spielbericht_oberriexingen_1112a.php");
+                                        break;
 
-					break;
 
-				
 
-				case 398:
+                                case 342:
 
-					include("spielbericht_kirchheim_1112a.php");
+                                        include("spielbericht_rosswag_0910a.php");
 
-					break;
+                                        break;
 
-					
 
-				case 399:
 
-					include("spielbericht_boennigheim_1112a.php");
+                                case 343:
 
-					break;
+                                        include("spielbericht_erligheim_0910a.php");
 
-					
+                                        break;
 
-				case 400:
 
-					include("spielbericht_unterriexingen_1112a.php");
 
-					break;
+                                case 344:
 
-					
+                                        include("spielbericht_08bissingen_0910a.php");
 
-				case 401:
+                                        break;
 
-					include("spielbericht_rosswag_1112a.php");
 
-					break;
 
-					
+                                case 345:
 
-				case 402:
+                                        include("spielbericht_nussdorf_0910a.php");
 
-					include("spielbericht_nussdorf_1112a.php");
+                                        break;
 
-					break;
 
-					
 
-				case 403:
+                                case 346:
 
-					include("spielbericht_gemmrigheim_1112a.php");
+                                        include("spielbericht_lomersheim_0910a.php");
 
-					break;
+                                        break;
 
-					
 
-				case 404:
 
-					include("spielbericht_sersheim_1112a.php");
+                                case 347:
 
-					break;
+                                        include("spielbericht_bissingen_0910a.php");
 
-				
+                                        break;
 
-				case 405:
 
-					include("spielbericht_besigheim_1112b.php");
 
-					break;
+                                case 348:
 
-				
+                                        include("spielbericht_gemmrigheim_0910a.php");
 
-				case 406:
+                                        break;
 
-					include("spielbericht_wiernsheim_1112b.php");
 
-					break;
 
-				
+                                case 349:
 
-				case 407:
+                                        include("spielbericht_iptingen_0910a.php");
 
-					include("spielbericht_freudental_1112b.php");
+                                        break;
 
-					break;
 
-					
 
-				case 408:
+                                case 350:
 
-					include("spielbericht_bissingen_1112b.php");
+                                        include("spielbericht_sersheim_0910a.php");
 
-					break;
+                                        break;
 
-					
 
-				case 409:
 
-					include("spielbericht_kleinglattbach_1112b.php");
+                                case 351:
 
-					break;
+                                        include("spielbericht_guendelbach_0910a.php");
 
-					
+                                        break;
 
-				case 410:
 
-					include("spielbericht_oberriexingen_1112b.php");
 
-					break;
+                                case 352:
 
-					
+                                        include("spielbericht_wiernsheim_0910b.php");
 
-				case 411:
+                                        break;
 
-					include("spielbericht_kirchheim_1112b.php");
 
-					break;
 
-				
+                                case 353:
 
-				case 412:
+                                        include("spielbericht_besigheim_0910b.php");
 
-					include("spielbericht_boennigheim_1112b.php");
+                                        break;
 
-					break;
 
-					
 
-				case 413:
+                                case 354:
 
-					include("spielbericht_unterriexingen_1112b.php");
+                                        include("spielbericht_vaihingen_0910b.php");
 
-					break;
+                                        break;
 
-					
 
-				case 414:
 
-					include("spielbericht_rosswag_1112b.php");
+                                case 355:
 
-					break;
+                                        include("spielbericht_08bissingen_0910b.php");
 
-					
+                                        break;
 
-				case 415:
 
-					include("spielbericht_nussdorf_1112b.php");
 
-					break;
+                                case 356:
 
-					
+                                        include("spielbericht_nussdorf_0910b.php");
 
-				case 416:
+                                        break;
 
-					include("spielbericht_gemmrigheim_1112b.php");
 
-					break;
 
-					
+                                case 357:
 
-				case 417:
+                                        include("spielbericht_lomersheim_0910b.php");
 
-					include("spielbericht_sersheim_1112b.php");
+                                        break;
 
-					break;
 
-					
 
-				case 418:
+                                case 358:
 
-					include("spielbericht_ludwigsburg_1112.php");
+                                        include("spielbericht_roßwag_0910b.php");
 
-					break;
+                                        break;
 
-					
 
-				case 419:
 
-					include("spielbericht_gemmrigheim_1213a.php");
+                                case 359:
 
-					break;
+                                        include("spielbericht_bissingen_0910b.php");
 
-					
+                                        break;
 
-				case 420:
 
-					include("spielbericht_08bissingen_1213a.php");
 
-					break;
+                                case 360:
 
-					
+                                        include("spielbericht_boennigheim_0910b.php");
 
-				case 421:
+                                        break;
 
-					include("spielbericht_soenmez_1213a.php");
 
-					break;
 
-					
+                                case 361:
 
-				case 422:
+                                        include("spielbericht_gemmrigheim_0910b.php");
 
-					include("spielbericht_besigheim_1213a.php");
+                                        break;
 
-					break;
 
-					
 
-				case 423:
+                                case 362:
 
-					include("spielbericht_kleinglattbach_1213a.php");
+                                        include("spielbericht_iptingen_0910b.php");
 
-					break;
+                                        break;
 
-					
 
-				case 424:
 
-					include("spielbericht_bietigheim_1213a.php");
+                                case 363:
 
-					break;
+                                        include("spielbericht_sersheim_0910b.php");
 
-					
+                                        break;
 
-				case 425:
 
-					include("spielbericht_sersheim_1213a.php");
 
-					break;
+                                case 364:
 
-					
+                                        include("spielbericht_guendelbach_0910b.php");
 
-				case 426:
+                                        break;
 
-					include("spielbericht_iptingen_1213a.php");
 
-					break;
 
-					
+                                case 365:
 
-				case 427:
+                                        include("spielbericht_boennigheim_1011a.php");
 
-					include("spielbericht_horrheim_1213a.php");
+                                        break;
 
-					break;
 
-					
 
-				case 428:
+                                case 366:
 
-					include("spielbericht_boennigheim_1213a.php");
+                                        include("spielbericht_oberriexingen_1011a.php");
 
-					break;
+                                        break;
 
-					
 
-				case 429:
 
-					include("spielbericht_unterriexingen_1213a.php");
+                                case 367:
 
-					break;
+                                        include("spielbericht_08bissingen_1011a.php");
 
-					
+                                        break;
 
-				case 430:
 
-					include("spielbericht_kirchheim_1213a.php");
 
-					break;
+                                case 368:
 
-					
+                                        include("spielbericht_bissingen_1011a.php");
 
-				case 431:
+                                        break;
 
-					include("spielbericht_nussdorf_1213a.php");
 
-					break;
 
-					
+                                case 369:
 
-				case 432:
+                                        include("spielbericht_kirchheim_1011a.php");
 
-					include("spielbericht_soenmez_1213b.php");
+                                        break;
 
-					break;
 
-					
 
-				case 433:
+                                case 370:
 
-					include("spielbericht_kleinglattbach_1213b.php");
+                                        include("spielbericht_sersheim_1011a.php");
 
-					break;
+                                        break;
 
-				
 
-				case 434:
 
-					include("spielbericht_besigheim_1213b.php");
+                                case 371:
 
-					break;
+                                        include("spielbericht_freudental_1011a.php");
 
-					
+                                        break;
 
-				case 435:
 
-					include("spielbericht_germania_1213b.php");
 
-					break;
+                                case 372:
 
-					
+                                        include("spielbericht_lomersheim_1011a.php");
 
-				case 436:
+                                        break;
 
-					include("spielbericht_oberriexingen_1213a.php");
 
-					break;
 
-					
+                                case 373:
 
-				case 437:
+                                        include("spielbericht_wiernsheim_1011a.php");
 
-					include("spielbericht_08bissingen_1213b.php");
+                                        break;
 
-					break;
 
-					
 
-				case 438:
+                                case 374:
 
-					include("spielbericht_sersheim_1213b.php");
+                                        include("spielbericht_gemmrigheim_1011a.php");
 
-					break;
+                                        break;
 
-					
 
-				case 439:
 
-					include("spielbericht_gemmrigheim_1213b.php");
+                                case 375:
 
-					break;
+                                        include("spielbericht_kleinsachsenheim_1011a.php");
 
-					
+                                        break;
 
-				case 440:
 
-					include("spielbericht_iptingen_1213b.php");
 
-					break;
+                                case 376:
 
-					
+                                        include("spielbericht_rosswag_1011a.php");
 
-				case 441:
+                                        break;
 
-					include("spielbericht_horrheim_1213b.php");
 
-					break;
 
-					
+                                case 377:
 
-				case 442:
+                                        include("spielbericht_besigheim_1011a.php");
 
-					include("spielbericht_boennigheim_1213b.php");
+                                        break;
 
-					break;
 
-					
 
-				case 443:
+                                case 378:
 
-					include("spielbericht_unterriexingen_1213b.php");
+                                        include("spielbericht_boennigheim_1011b.php");
 
-					break;
+                                        break;
 
-					
 
-				case 444:
 
-					include("spielbericht_kirchheim_1213b.php");
+                                case 379:
 
-					break;
+                                        include("spielbericht_oberriexingen_1011b.php");
 
-					
+                                        break;
 
-				case 445:
 
-					include("spielbericht_oberriexingen_1213b.php");
 
-					break;
+                                case 380:
 
-					
+                                        include("spielbericht_08bissingen_1011b.php");
 
-				case 446:
+                                        break;
 
-					include("spielbericht_nussdorf_1213b.php");
 
-					break;
 
-					
+                                case 381:
 
-				case 447:
+                                        include("spielbericht_bissingen_1011b.php");
 
-					include("spielbericht_korntal_1213.php");
+                                        break;
 
-					break;
 
-					
 
-				case 448:
+                                case 382:
 
-					include("spielbericht_neckarweihingen_1213.php");
+                                        include("spielbericht_kirchheim_1011b.php");
 
-					break;
+                                        break;
 
-					
 
-				case 449:
 
-					include("spielbericht_schwieberdingen_1213.php");
+                                case 383:
 
-					break;
+                                        include("spielbericht_sersheim_1011b.php");
 
-					
-				case 500:
+                                        break;
 
-					include("Profil_c_samed.php");
 
-					break;
 
-					
+                                case 384:
 
-				case 501:
+                                        include("spielbericht_freudental_1011b.php");
 
-					include("Profil_c_marco.php");
+                                        break;
 
-					break;
 
-					
 
-				case 502:
+                                case 385:
 
-					include("Profil_c_maurice.php");
+                                        include("spielbericht_lomersheim_1011b.php");
 
-					break;
+                                        break;
 
-					
 
-				case 503:
 
-					include("Profil_c_giuliano.php");
+                                case 386:
 
-					break;
+                                        include("spielbericht_wiernsheim_1011b.php");
 
-					
+                                        break;
 
-				case 504:
 
-					include("Profil_c_sebastian.php");
 
-					break;
+                                case 387:
 
-					
+                                        include("spielbericht_gemmrigheim_1011b.php");
 
-				case 505:
+                                        break;
 
-					include("Profil_c_andrea.php");
 
-					break;
 
-					
+                                case 388:
 
-				case 506:
+                                        include("spielbericht_kleinsachsenheim_1011b.php");
 
-					include("Profil_c_nando.php");
+                                        break;
 
-					break;
 
-					
 
-				case 508:
+                                case 389:
 
-					include("Profil_c_nick.php");
+                                        include("spielbericht_rosswag_1011b.php");
 
-					break;
+                                        break;
 
-					
 
-				case 509:
 
-					include("Profil_c_yusuf.php");
+                                case 390:
 
-					break;
+                                        include("spielbericht_besigheim_1011b.php");
 
-					
+                                        break;
 
-				case 510:
 
-					include("Profil_c_danny.php");
 
-					break;
+                                case 391:
 
-					
+                                        include("spielbericht_relegation_1011.php");
 
-				case 511:
+                                        break;
 
-					include("Profil_c_flo.php");
 
-					break;
 
-					
+                                case 392:
 
-				case 512:
+                                        include("spielbericht_besigheim_1112a.php");
 
-					include("Profil_c_ornucan.php");
+                                        break;
 
-					break;
 
-					
 
-				case 513:
+                                case 393:
 
-					include("Profil_c_luca.php");
+                                        include("spielbericht_wiernsheim_1112a.php");
 
-					break;
+                                        break;
 
-					
 
-				case 514:
 
-					include("Profil_c_lukas.php");
+                                case 394:
 
-					break;
+                                        include("spielbericht_freudental_1112a.php");
 
-					
+                                        break;
 
-				case 515:
 
-					include("Profil_c_mark.php");
 
-					break;
+                                case 395:
 
-					
+                                        include("spielbericht_bissingen_1112a.php");
 
-				case 516:
+                                        break;
 
-					include("Profil_c_tim.php");
 
-					break;
 
-					
+                                case 396:
 
-				case 517:
+                                        include("spielbericht_kleinglattbach_1112a.php");
 
-					include("Profil_c_yannis.php");
+                                        break;
 
-					break;
 
-					
 
-				case 530:
+                                case 397:
 
-					include("Profil_d_simon.php");
+                                        include("spielbericht_oberriexingen_1112a.php");
 
-					break;
+                                        break;
 
-					
 
-				case 531:
 
-					include("Profil_d_nils.php");
+                                case 398:
 
-					break;
+                                        include("spielbericht_kirchheim_1112a.php");
 
-					
+                                        break;
 
-				case 532:
 
-					include("Profil_d_timk.php");
 
-					break;
+                                case 399:
 
-					
+                                        include("spielbericht_boennigheim_1112a.php");
 
-				case 533:
+                                        break;
 
-					include("Profil_d_daniel.php");
 
-					break;
 
-					
+                                case 400:
 
-				case 534:
+                                        include("spielbericht_unterriexingen_1112a.php");
 
-					include("Profil_d_andreasp.php");
+                                        break;
 
-					break;
 
-					
 
-				case 535:
+                                case 401:
 
-					include("Profil_d_tobias.php");
+                                        include("spielbericht_rosswag_1112a.php");
 
-					break;
+                                        break;
 
-				
 
-				case 536:
 
-					include("Profil_d_riccardo.php");
+                                case 402:
 
-					break;
+                                        include("spielbericht_nussdorf_1112a.php");
 
-					
+                                        break;
 
-				case 537:
 
-					include("Profil_d_janik.php");
 
-					break;
+                                case 403:
 
-					
+                                        include("spielbericht_gemmrigheim_1112a.php");
 
-				case 538:
+                                        break;
 
-					include("Profil_d_davide.php");
 
-					break;
 
-					
+                                case 404:
 
-				case 539:
+                                        include("spielbericht_sersheim_1112a.php");
 
-					include("Profil_d_mike.php");
+                                        break;
 
-					break;
 
-				
 
-				case 540:
+                                case 405:
 
-					include("Profil_d_erik.php");
+                                        include("spielbericht_besigheim_1112b.php");
 
-					break;
+                                        break;
 
-					
 
-				case 541:
 
-					include("Profil_d_timz.php");
+                                case 406:
 
-					break;
+                                        include("spielbericht_wiernsheim_1112b.php");
 
-					
+                                        break;
 
-				case 542:
 
-					include("Profil_d_kai.php");
 
-					break;
+                                case 407:
 
-					
+                                        include("spielbericht_freudental_1112b.php");
 
-				case 543:
+                                        break;
 
-					include("Profil_d_delmin.php");
 
-					break;
 
-					
+                                case 408:
 
-				case 544:
+                                        include("spielbericht_bissingen_1112b.php");
 
-					include("Profil_d_philipp.php");
+                                        break;
 
-					break;
 
-					
 
-				case 545:
+                                case 409:
 
-					include("Profil_d_onesime.php");
+                                        include("spielbericht_kleinglattbach_1112b.php");
 
-					break;
+                                        break;
 
-					
 
-				case 546:
 
-					include("Profil_d_kevin.php");
+                                case 410:
 
-					break;
+                                        include("spielbericht_oberriexingen_1112b.php");
 
-					
+                                        break;
 
-				case 547:
 
-					include("Profil_d_maik.php");
 
-					break;
+                                case 411:
 
-					
+                                        include("spielbericht_kirchheim_1112b.php");
 
-				case 548:
+                                        break;
 
-					include("Profil_d_david.php");
 
-					break;
 
-					
+                                case 412:
 
-				case 549:
+                                        include("spielbericht_boennigheim_1112b.php");
 
-					include("Profil_d_andreasz.php");
+                                        break;
 
-					break;
 
-					
 
-				case 550:
+                                case 413:
 
-					include("Profil_d_marcello.php");
+                                        include("spielbericht_unterriexingen_1112b.php");
 
-					break;
+                                        break;
 
-					
 
-				case 551:
 
-					include("Profil_d_dodo.php");
+                                case 414:
 
-					break;
+                                        include("spielbericht_rosswag_1112b.php");
 
-					
+                                        break;
 
-				case 552:
 
-					include("Profil_d_leandro.php");
 
-					break;
-				
+                                case 415:
 
+                                        include("spielbericht_nussdorf_1112b.php");
 
-				/*case 91:
+                                        break;
 
-					include("chat.php");
 
-					break;*/
 
-					
+                                case 416:
 
-				case 92:
+                                        include("spielbericht_gemmrigheim_1112b.php");
 
-					include("impressum.php");
+                                        break;
 
-					break;
 
-					
 
-				/*case 99:
+                                case 417:
 
-					include("tagebuch.php");
+                                        include("spielbericht_sersheim_1112b.php");
 
-					break;*/			
+                                        break;
 
-			}
 
-		}
 
-		
+                                case 418:
 
-					
+                                        include("spielbericht_ludwigsburg_1112.php");
 
-	?>
+                                        break;
+
+
+
+                                case 419:
+
+                                        include("spielbericht_gemmrigheim_1213a.php");
+
+                                        break;
+
+
+
+                                case 420:
+
+                                        include("spielbericht_08bissingen_1213a.php");
+
+                                        break;
+
+
+
+                                case 421:
+
+                                        include("spielbericht_soenmez_1213a.php");
+
+                                        break;
+
+
+
+                                case 422:
+
+                                        include("spielbericht_besigheim_1213a.php");
+
+                                        break;
+
+
+
+                                case 423:
+
+                                        include("spielbericht_kleinglattbach_1213a.php");
+
+                                        break;
+
+
+
+                                case 424:
+
+                                        include("spielbericht_bietigheim_1213a.php");
+
+                                        break;
+
+
+
+                                case 425:
+
+                                        include("spielbericht_sersheim_1213a.php");
+
+                                        break;
+
+
+
+                                case 426:
+
+                                        include("spielbericht_iptingen_1213a.php");
+
+                                        break;
+
+
+
+                                case 427:
+
+                                        include("spielbericht_horrheim_1213a.php");
+
+                                        break;
+
+
+
+                                case 428:
+
+                                        include("spielbericht_boennigheim_1213a.php");
+
+                                        break;
+
+
+
+                                case 429:
+
+                                        include("spielbericht_unterriexingen_1213a.php");
+
+                                        break;
+
+
+
+                                case 430:
+
+                                        include("spielbericht_kirchheim_1213a.php");
+
+                                        break;
+
+
+
+                                case 431:
+
+                                        include("spielbericht_nussdorf_1213a.php");
+
+                                        break;
+
+
+
+                                case 432:
+
+                                        include("spielbericht_soenmez_1213b.php");
+
+                                        break;
+
+
+
+                                case 433:
+
+                                        include("spielbericht_kleinglattbach_1213b.php");
+
+                                        break;
+
+
+
+                                case 434:
+
+                                        include("spielbericht_besigheim_1213b.php");
+
+                                        break;
+
+
+
+                                case 435:
+
+                                        include("spielbericht_germania_1213b.php");
+
+                                        break;
+
+
+
+                                case 436:
+
+                                        include("spielbericht_oberriexingen_1213a.php");
+
+                                        break;
+
+
+
+                                case 437:
+
+                                        include("spielbericht_08bissingen_1213b.php");
+
+                                        break;
+
+
+
+                                case 438:
+
+                                        include("spielbericht_sersheim_1213b.php");
+
+                                        break;
+
+
+
+                                case 439:
+
+                                        include("spielbericht_gemmrigheim_1213b.php");
+
+                                        break;
+
+
+
+                                case 440:
+
+                                        include("spielbericht_iptingen_1213b.php");
+
+                                        break;
+
+
+
+                                case 441:
+
+                                        include("spielbericht_horrheim_1213b.php");
+
+                                        break;
+
+
+
+                                case 442:
+
+                                        include("spielbericht_boennigheim_1213b.php");
+
+                                        break;
+
+
+
+                                case 443:
+
+                                        include("spielbericht_unterriexingen_1213b.php");
+
+                                        break;
+
+
+
+                                case 444:
+
+                                        include("spielbericht_kirchheim_1213b.php");
+
+                                        break;
+
+
+
+                                case 445:
+
+                                        include("spielbericht_oberriexingen_1213b.php");
+
+                                        break;
+
+
+
+                                case 446:
+
+                                        include("spielbericht_nussdorf_1213b.php");
+
+                                        break;
+
+
+
+                                case 447:
+
+                                        include("spielbericht_korntal_1213.php");
+
+                                        break;
+
+
+
+                                case 448:
+
+                                        include("spielbericht_neckarweihingen_1213.php");
+
+                                        break;
+
+
+
+                                case 449:
+
+                                        include("spielbericht_schwieberdingen_1213.php");
+
+                                        break;
+
+
+                                case 500:
+
+                                        include("Profil_c_samed.php");
+
+                                        break;
+
+
+
+                                case 501:
+
+                                        include("Profil_c_marco.php");
+
+                                        break;
+
+
+
+                                case 502:
+
+                                        include("Profil_c_maurice.php");
+
+                                        break;
+
+
+
+                                case 503:
+
+                                        include("Profil_c_giuliano.php");
+
+                                        break;
+
+
+
+                                case 504:
+
+                                        include("Profil_c_sebastian.php");
+
+                                        break;
+
+
+
+                                case 505:
+
+                                        include("Profil_c_andrea.php");
+
+                                        break;
+
+
+
+                                case 506:
+
+                                        include("Profil_c_nando.php");
+
+                                        break;
+
+
+
+                                case 508:
+
+                                        include("Profil_c_nick.php");
+
+                                        break;
+
+
+
+                                case 509:
+
+                                        include("Profil_c_yusuf.php");
+
+                                        break;
+
+
+
+                                case 510:
+
+                                        include("Profil_c_danny.php");
+
+                                        break;
+
+
+
+                                case 511:
+
+                                        include("Profil_c_flo.php");
+
+                                        break;
+
+
+
+                                case 512:
+
+                                        include("Profil_c_ornucan.php");
+
+                                        break;
+
+
+
+                                case 513:
+
+                                        include("Profil_c_luca.php");
+
+                                        break;
+
+
+
+                                case 514:
+
+                                        include("Profil_c_lukas.php");
+
+                                        break;
+
+
+
+                                case 515:
+
+                                        include("Profil_c_mark.php");
+
+                                        break;
+
+
+
+                                case 516:
+
+                                        include("Profil_c_tim.php");
+
+                                        break;
+
+
+
+                                case 517:
+
+                                        include("Profil_c_yannis.php");
+
+                                        break;
+
+
+
+                                case 530:
+
+                                        include("Profil_d_simon.php");
+
+                                        break;
+
+
+
+                                case 531:
+
+                                        include("Profil_d_nils.php");
+
+                                        break;
+
+
+
+                                case 532:
+
+                                        include("Profil_d_timk.php");
+
+                                        break;
+
+
+
+                                case 533:
+
+                                        include("Profil_d_daniel.php");
+
+                                        break;
+
+
+
+                                case 534:
+
+                                        include("Profil_d_andreasp.php");
+
+                                        break;
+
+
+
+                                case 535:
+
+                                        include("Profil_d_tobias.php");
+
+                                        break;
+
+
+
+                                case 536:
+
+                                        include("Profil_d_riccardo.php");
+
+                                        break;
+
+
+
+                                case 537:
+
+                                        include("Profil_d_janik.php");
+
+                                        break;
+
+
+
+                                case 538:
+
+                                        include("Profil_d_davide.php");
+
+                                        break;
+
+
+
+                                case 539:
+
+                                        include("Profil_d_mike.php");
+
+                                        break;
+
+
+
+                                case 540:
+
+                                        include("Profil_d_erik.php");
+
+                                        break;
+
+
+
+                                case 541:
+
+                                        include("Profil_d_timz.php");
+
+                                        break;
+
+
+
+                                case 542:
+
+                                        include("Profil_d_kai.php");
+
+                                        break;
+
+
+
+                                case 543:
+
+                                        include("Profil_d_delmin.php");
+
+                                        break;
+
+
+
+                                case 544:
+
+                                        include("Profil_d_philipp.php");
+
+                                        break;
+
+
+
+                                case 545:
+
+                                        include("Profil_d_onesime.php");
+
+                                        break;
+
+
+
+                                case 546:
+
+                                        include("Profil_d_kevin.php");
+
+                                        break;
+
+
+
+                                case 547:
+
+                                        include("Profil_d_maik.php");
+
+                                        break;
+
+
+
+                                case 548:
+
+                                        include("Profil_d_david.php");
+
+                                        break;
+
+
+
+                                case 549:
+
+                                        include("Profil_d_andreasz.php");
+
+                                        break;
+
+
+
+                                case 550:
+
+                                        include("Profil_d_marcello.php");
+
+                                        break;
+
+
+
+                                case 551:
+
+                                        include("Profil_d_dodo.php");
+
+                                        break;
+
+
+
+                                case 552:
+
+                                        include("Profil_d_leandro.php");
+
+                                        break;
+
+
+
+                                /*case 91:
+
+                                        include("chat.php");
+
+                                        break;*/
+
+
+
+                                case 92:
+
+                                        include("impressum.php");
+
+                                        break;
+
+
+
+                                /*case 99:
+
+                                        include("tagebuch.php");
+
+                                        break;*/
+
+                        }
+
+                }
+
+
+
+
+
+        ?>
 
   <!-- CONTENT ENDE -->
 
   <!-- NAVIGATION RECHTS -->
 
-  <?php 
+  <?php
 
-		include("navi_right.php");
+                include("navi_right.php");
 
-	  ?>
+          ?>
 
   <!-- NAVIGATION RECHTS ENDE -->
 

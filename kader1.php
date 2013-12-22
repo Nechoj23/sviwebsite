@@ -204,7 +204,7 @@
           Geb.: 01.02.1988</div></td> -->
    
       
-        <td height="20" bgcolor="#FFFFFF"><div align="left"><a href="index.php?id=123"><img src="bilder/AktiveSpieler/luki3_k.jpg" width="90" height="120" /></a> <br />
+        <td height="20" bgcolor="#FFFFFF"><div align="left"><a href="index.php?id=123"><img src="bilder/AktiveSpieler/dummy_klein.jpg" width="90" height="120" /></a> <br />
                 <strong>Lukas Kn&ouml;dler</strong><br />
           Geb.: 05.06.1987</div></td>
     <td height="20" bgcolor="#FFFFFF"><div align="left"><a href="index.php?id=224"><img src="bilder/AktiveSpieler/marcelLiebendoerfer_k.jpg" width="90" height="120" /></a> <br />
@@ -331,14 +331,14 @@
         </div></td>
       </tr>
         <tr>
-        <td height="20" bgcolor="#FFFFFF"><div align="left"><img src="bilder/AktiveSpieler/thomas_k.jpg" width="90" height="120" /> <br />
-                <strong>Thomas Fritsch</strong><br />
+        <td height="20" bgcolor="#FFFFFF"><div align="left"><img src="bilder/c-jugend_1314/marcello_k.jpg" width="90" height="120" /> <br />
+                <strong>Marcello Solombrino</strong><br />
           Trainer 1. Mannschaft<br />
-          Geb.: 02.09.1971&nbsp;</div></td>
-          <td height="20" bgcolor="#FFFFFF"><div align="left"><img src="bilder/AktiveSpieler/tobseHaefner_k.jpg" width="90" height="120" /><br />
+          Geb.: 09.02.1970&nbsp;</div></td>
+       <!--   <td height="20" bgcolor="#FFFFFF"><div align="left"><img src="bilder/AktiveSpieler/tobseHaefner_k.jpg" width="90" height="120" /><br />
                 <strong>Tobias Häfner</strong><br />
           Co-Trainer 1. Mannschaft<br />
-          Geb.: 04.09.1987</div></td>
+          Geb.: 04.09.1987</div></td> -->
 
      <td height="20" bgcolor="#FFFFFF"><div align="left"><img src="bilder/a_jugend/nic_k.jpg" width="90" height="120" /> <br />
                 <strong>Nic Corrado</strong><br />
@@ -350,20 +350,14 @@
           Geb.: 31.10.1987</div></td> -->
          <td height="20" bgcolor="#FFFFFF"><div align="left"><img src="bilder/AktiveSpieler/matze_k.jpg" width="90" height="120" /> <br />
                 <strong>Matthias Spengler</strong><br />
-          2. Spielleiter/Betreuer<br />
+          2. Spielleiter<br />
           Geb.: 27.11.1981</div></td>
-      </tr>
-     <tr>
-        <td colspan="7"><div align="center">&nbsp;</div></td>
-      </tr>
-      <tr>
-       
-     <td height="20" bgcolor="#FFFFFF"><div align="left"><img src="bilder/AktiveSpieler/michaSp_k.jpg" width="90" height="120" /> <br />
+		     <td height="20" bgcolor="#FFFFFF"><div align="left"><img src="bilder/AktiveSpieler/michaSp_k.jpg" width="90" height="120" /> <br />
                 <strong>Michael Spengler</strong><br />
-                2. Spielleiter/Betreuer<br />
+                2. Spielleiter<br />
           Geb.: 28.11.1981 </div></td>
-      
       </tr>
+ 
     
       <tr>
         <td colspan="7"><div align="center">&nbsp;</div></td>
