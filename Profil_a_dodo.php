@@ -15,7 +15,7 @@
      
     
     <tr> 
-      <td width="272" class="big"><a href="bilder/AktiveSpieler/dodo_g.jpg" target="_blank"><img src="bilder/AktiveSpieler/dodo.jpg" width="240" height="320"> 
+      <td width="272" class="big"><!--<a href="bilder/AktiveSpieler/dodo_g.jpg" target="_blank"> --><img src="bilder/AktiveSpieler/dummy.jpg" width="240" height="320"> 
       </td>
       <td width="278" valign="top"><table width="261" class="profil">
           <tr class="roww1 entries"> 

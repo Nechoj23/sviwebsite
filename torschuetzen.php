@@ -22,15 +22,39 @@
       Tore</font></p></td>
       <td width="424" id="contentFont"><font size="+1">Tobias Häfner</font></td>
     </tr>
+		<tr id="contentFont">       <td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">4       
+	Tore</font></p></td>     
+	<td width="424" id="contentFont"><font size="+1">Hakan Atalay</font></td>   
+	</tr> 
 	<tr id="contentFont"> 
       <td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">4 
       Tore</font></p></td>
       <td width="424" id="contentFont"><font size="+1">Dominik Knödler</font></td>
     </tr> 
 	<tr id="contentFont"> 
-      <td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">3 
+      <td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">4 
       Tore</font></p></td>
       <td width="424" id="contentFont"><font size="+1">Pasquale Arena</font></td>
+    </tr> 
+			<tr id="contentFont"> 
+      <td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">3 
+      Tore</font></p></td>
+      <td width="424" id="contentFont"><font size="+1">Tim Scheuermann</font></td>
+    </tr> 
+		
+	
+	<tr id="contentFont"> 
+      <td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">3 
+      Tore</font></p></td>
+      <td width="424" id="contentFont"><font size="+1">Fabio Tricarico</font></td>
+    </tr> 
+	
+
+	
+	<tr id="contentFont"> 
+      <td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">2 
+      Tore</font></p></td>
+      <td width="424" id="contentFont"><font size="+1">Daniel Brenner</font></td>
     </tr> 
 	
 	<tr id="contentFont"> 
@@ -39,21 +63,7 @@
       <td width="424" id="contentFont"><font size="+1">Marco Munz</font></td>
     </tr> 
 		 
-		<tr id="contentFont"> 
-      <td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">2 
-      Tore</font></p></td>
-      <td width="424" id="contentFont"><font size="+1">Tim Scheuermann</font></td>
-    </tr> 
-		<tr id="contentFont"> 
-      <td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">2 
-      Tore</font></p></td>
-      <td width="424" id="contentFont"><font size="+1">Fabio Tricarico</font></td>
-    </tr> 
-		<tr id="contentFont"> 
-      <td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">1 
-      Tor</font></p></td>
-      <td width="424" id="contentFont"><font size="+1">Daniel Brenner</font></td>
-    </tr> 
+
 	
 		<tr id="contentFont"> 
       <td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">1 
@@ -163,6 +173,11 @@
 	<tr id="contentFont"> 
       <td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">2 
       Tore</font></p></td>
+      <td width="424" id="contentFont"><font size="+1">Michali Gatsas</font></td>
+    </tr>
+	<tr id="contentFont"> 
+      <td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">2 
+      Tore</font></p></td>
       <td width="424" id="contentFont"><font size="+1">Daniel Graci</font></td>
     </tr> 
 			<tr id="contentFont"> 
@@ -178,11 +193,7 @@
       Tor</font></p></td>
       <td width="424" id="contentFont"><font size="+1">Davor Brekalo</font></td>
     </tr> 
-	<tr id="contentFont"> 
-      <td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">1 
-      Tor</font></p></td>
-      <td width="424" id="contentFont"><font size="+1">Michali Gatsas</font></td>
-    </tr>
+	
 	<tr id="contentFont"> 
       <td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">1 
       Tor</font></p></td>

@@ -44,7 +44,7 @@
 
           <tr bgcolor="#CCCCCC" class="roww2 entries"> 
             <td valign="top" class="col1"><font color="#0066cc">Telefon:</font></td>
-            <td><font color="#0066cc">0176-84533510</font></td>
+            <td><font color="#0066cc">0157-56195648</font></td>
           </tr>
           <tr bgcolor="#FFFFFF" class="roww2 entries"> 
             <td class="col1"><font color="#0066cc">E-Mail:</font></td>

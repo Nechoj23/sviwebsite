@@ -34,17 +34,12 @@
        
 		<tr valign="top"> 
           <td width="46">&nbsp;</td>
-      <td width="509" id="contentFont"><a href="vorbereitungsplan_winter_1314.xlsx"><em>Der neue Vorbereitungsplan für die Rückrunde der Saison 2013/2014</em></a> (Stand: 19.12.13)</td>
+      <td width="509" id="contentFont"><a href="vorbereitungsplan_winter_1314.xlsx"><em>Der neue Vorbereitungsplan für die Rückrunde der Saison 2013/2014</em></a> (Stand: 30.01.14)</td>
       <td width="45">&nbsp;</td>
         </tr>
         
-        <tr valign="top"> 
-          	<td width="46">&nbsp;</td>
-     		<td width="509" id="contentFont">In der Vorbereitung sind zu jedem Training zus&auml;tzlich Laufschuhe mitzubringen !!!
-      		<td width="45">&nbsp;</td>
-        </tr>
+      
        
-		
 		
 		
 		<tr valign="top">

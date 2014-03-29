@@ -11,7 +11,7 @@
         </tr>
 <tr>
           <td colspan="2" id="contentFont" align="center" valign="top">
-	  	  	<div align="center"><a href="http://sv-illingen-2001.jimdo.com/" target="_blank"><em><font size="+1">zur Homepage der D1-Jugend</font></em></a>  	        </div></td> </tr>
+	  	  	<div align="center"><a href="http://sv-illingen-2001.jimdo.com/" target="_blank"><em><font size="+1"> >> zur Homepage der D1-Jugend <<</font></em></a>  	        </div></td> </tr>
         
 		<tr>
           <td colspan="2" height="50px">
@@ -277,9 +277,9 @@
             <p>Trainer/Betreuer:</p>
 		  </td>
 		  <td width="300" id="contentFont" align="left" valign="top">			  	  
-		      <p>Quali-Staffel 7 (D1) / Quali-Staffel 6 (D2)</p>
-	           <p><a href="http://ergebnisdienst.fussball.de/begegnungen/d-quali-staffel-7/bezirk-enz-murr-kl/d-junioren-kreisstaffel/d-junioren/spieljahr1314/wuerttemberg/-/staffel/01HPDCJMFO000000VV0AG813VUVOAU5J-G/mandant/35" target="_blank"> <em>www.fussball.de</em></a> (D1-Jugend)<br />
-               <a href="http://ergebnisdienst.fussball.de/begegnungen/d-quali-staffel-6/bezirk-enz-murr-kl/d-junioren-kreisstaffel/d-junioren/spieljahr1314/wuerttemberg/-/staffel/01HPDCGUO0000000VV0AG813VUVOAU5J-G/mandant/35"> <em>www.fussball.de</em></a> (D2-Jugend)              </p>
+		      <p>Leistungsstaffel (D1) / Kreisstaffel 11 (D2)</p>
+	           <p><a href="http://ergebnisdienst.fussball.de/begegnungen/leistungsstaffel-1/bezirk-enz-murr-kl/d-junioren-leistungsstaffel/d-junioren/spieljahr1314/wuerttemberg/-/staffel/01JI0J2T9G000000VV0AG813VV89HAB2-G/mandant/35" target="_blank"> <em>www.fussball.de</em></a> (D1-Jugend)<br />
+               <a href="http://ergebnisdienst.fussball.de/begegnungen/kreisstaffel-11/bezirk-enz-murr-kl/d-junioren-kreisstaffel/d-junioren/spieljahr1314/wuerttemberg/-/staffel/01JI0T3BU8000000VV0AG813VV89HAB2-G/mandant/35"> <em>www.fussball.de</em></a> (D2-Jugend)              </p>
                <p><strong>D1-Jugend</strong></p>
             <p> Frank Lindauer<br>
         <!--  Kirchstr. 23<br>
@@ -287,7 +287,7 @@
           Tel: 07042-374723<br>-->
           Telefon: 07042/23536<br>
           Handy: 0162/1077837<br>
-          E-Mail: <a href="mailto:frank.lindauer@behrgroup.com">frank.lindauer@behrgroup.com</a>			</p>
+          E-Mail: <a href="mailto:frank.lindauer@mahle.com">frank.lindauer@mahle.com</a>			</p>
 			
              <p>
                 Jochen Mitschelen<br>
@@ -295,7 +295,7 @@
                 <br>
                 75428 Illingen<br> -->
                 Handy: 0163/3311155<br>
-            E-Mail: <a href="mailto:jo.mitschelen@gmx.de">jo.mitschelen@gmx.de</a> </p>
+            E-Mail: <a href="mailto:jo.mitschelen@gmx.de">jo.mitschelen@gmx.de</a> </p>             <p>                Marcel Liebendörfer<br>                Handy: 0170/3122719<br></p>
 			
 			<p><strong>D2-Jugend</strong></p>	 <p>        Alexander Köppl<br>				Tel:  07042-22923<br>		Handy: 0171-3672714<br />        <a href="mailto:alex_steffi@arcor.de">alex_steffi@arcor.de</a>         </p>			             <p>                Uwe Landsperger <br>              Tel:  07042-820416<br>		Handy: 0173-5444623<br />        <a href="mailto:eu@freenet.de">eu@freenet.de</a> </p>
 			  <p>&nbsp;</p>

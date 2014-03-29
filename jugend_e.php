@@ -37,34 +37,34 @@
         </tr>
 		<tr> 
           <td width="200" id="contentFont" align="right" valign="top">	        
-	 <p>Spielklasse: <br />  </p> 
-       <p>Ergebnisdienste:</p> 
+	 <p>Spielklasse: <br /> <br /> </p> 
+       <p>Ergebnisdienste:<br /><br /></p> 
             <p>Trainer/Betreuer:</p>
 		  </td>
 		  <td width="300" id="contentFont" align="left" valign="top">			  	  
-		    <p>Qualistaffel 16 <br />
-              <!--  E2: Qualistaffel 19</p> -->
+		    <p>E1: Kreisstaffel 20 <br />
+               E2: Kreisstaffel 26</p> 
 		     
-           <p> <a href="http://ergebnisdienst.fussball.de/begegnungen/qualistaffel-16/bezirk-enz-murr-kl/e-junioren-kreisstaffel/e-junioren/spieljahr1314/wuerttemberg/-/staffel/01HPE3DJ24000000VV0AG813VUVOAU5J-G/mandant/35" target="_blank"> 
-          <em>www.fussball.de</em></a> <br />
-          <!--  <a href="http://ergebnisdienst.fussball.de/begegnungen/e-junioren-kreisstaffel-24/bezirk-enz-murr-kl-/e-junioren-kreisstaffeln/e-junioren/spieljahr1213/wuerttemberg/M35S1213W350262" target="_blank"> 
-          <em>www.fussball.de</em></a> (Hauptrunde E1) </p>
-        <p>
+           <p> <a href="http://ergebnisdienst.fussball.de/begegnungen/e-junioren-kreisstaffel-20/bezirk-enz-murr-kl/e-junioren-kreisstaffel/e-junioren/spieljahr1314/wuerttemberg/-/staffel/01JJO0N9VS000000VV0AG813VV89HAB2-G/mandant/35" target="_blank"> 
+          <em>www.fussball.de</em></a> (Hauptrunde E1)<br />
+            <a href="http://ergebnisdienst.fussball.de/begegnungen/e-junioren-kreisstaffel-26/bezirk-enz-murr-kl/e-junioren-kreisstaffel/e-junioren/spieljahr1314/wuerttemberg/-/staffel/01JJO13B8K000000VV0AG813VV89HAB2-G/mandant/35" target="_blank"> 
+          <em>www.fussball.de</em></a> (Hauptrunde E2) </p>
+       <!-- <p>
         <a href="http://ergebnisdienst.fussball.de/begegnungen/qualistaffel-19/bezirk-enz-murr-kl-/e-junioren-kreisstaffeln/e-junioren/spieljahr1213/wuerttemberg/M35S1213W354983" target="_blank">
         <em>www.fussball.de</em></a> (Qualirunde E2)<br />
        <a href="http://ergebnisdienst.fussball.de/begegnungen/e-junioren-kreisstaffel-25/bezirk-enz-murr-kl-/e-junioren-kreisstaffeln/e-junioren/spieljahr1213/wuerttemberg/M35S1213W350263" target="_blank">
         <em>www.fussball.de</em></a> (Hauptrunde E2)  </p> -->
 
-      <!--  <p><strong>E1-Jugend</strong></p>
+      <p><strong>E1-Jugend</strong></p>
         
 	       <p>
-        Markus Pokorny<br>
-				  Tel: 07042-7700760<br>
-				  <a href="mailto:alessio@alice.de">alessio@alice.de</a>			  </p>	
+        Alexander Knapp<br>
+				  Tel: 0179/2327193<br>
+				  <a href="mailto:alexanderknapp@gmx.net">alexanderknapp@gmx.net</a>			  </p>	
                 
                <p>&nbsp;  </p>
 
-		    <p><b>E2-Jugend</b></p> -->
+		    <p><b>E2-Jugend</b></p> 
 
         
             <p>
@@ -73,10 +73,7 @@
 				  75428 Illingen<br> -->
 				  Tel: 07042-820561<br>
 				E-Mail:  <a href="mailto:wolfganglenz@arcor.de">wolfganglenz@arcor.de</a>			  </p>	
-                             <p>
-        Alexander Knapp<br>
-
-				 E-Mail: <a href="mailto:alexanderknapp@gmx.net">alexanderknapp@gmx.net</a>			  </p>	
+               
 			  
        
 		    <p>&nbsp;</p>
@@ -88,15 +85,15 @@
 				Trainingszeiten:
 			</td>
 			<td id="contentFont" align="left" valign="top">
-			<!--	<p><strong>E1-Jugend</strong></p> -->
+			<p><strong>E1-Jugend</strong></p> 
 				<!--<p>Trainingsstart: <b>Montag 05.09.11 17.00 Uhr</b></p> -->
         <p>Dienstag 17.30 Uhr - 19.00 Uhr</p>
         <p>Donnerstag 17.30 Uhr - 19.00 Uhr</p>
         <!--<p><strong>Halle: </strong>Montag 17.30 Uhr - 19.30 Uhr</p>-->
-			 <!-- <p><strong>E2-Jugend</strong></p> -->
+			 <p><strong>E2-Jugend</strong></p> 
 		<!--<p>Trainingsstart: <b>Montag 29.08.11 17.30 Uhr</b></p>	-->	
-        <!--<p>Dienstag 17.30 Uhr - 19.00 Uhr</p>			
-        <p>Donnerstag 17.30 Uhr - 19.00 Uhr </p> -->
+<p>Dienstag 17.30 Uhr - 19.00 Uhr</p>			
+        <p>Donnerstag 17.30 Uhr - 19.00 Uhr </p>
        <!-- <p><strong>Halle: </strong>Mittwoch 15.30 Uhr - 17.30 Uhr</p> -->
         <p>&nbsp;</p>
 <!-- <p>     Torspieler-Training: Mittwoch 17.00 - 18.00 Uhr</p> -->

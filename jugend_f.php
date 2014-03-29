@@ -16,13 +16,13 @@
 		  </td>
         </tr>
 		
-	<!--<tr>
+<tr>
           <td colspan="2" id="contentFont">
 	  	  	<p align="center">
-                <a href="Mannschaftsfotos/1011_f1_g.jpg" target="_blank"> <img src="Mannschaftsfotos/1011_f1.jpg" width="450" height="413"></a><br>
-                F1-Jugend            </p>
+                <img src="Mannschaftsfotos/1314_f.jpg" width="550"><br>
+                          </p>
 		  </td>
-        </tr>-->
+        </tr>
         <!--
 		<tr>
           <td colspan="2" id="contentFont">

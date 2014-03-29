@@ -183,7 +183,7 @@
                 <strong>Daniel Graci</strong><br />
 
           Geb.: 15.11.1994</div></td>
-		    <td height="20" bgcolor="#FFFFFF"><div align="left"><a href="index.php?id=210"><img src="bilder/AktiveSpieler/dodo_k.jpg" width="90" height="120" /></a> <br />
+		    <td height="20" bgcolor="#FFFFFF"><div align="left"><a href="index.php?id=210"><img src="bilder/AktiveSpieler/dummy_klein.jpg" width="90" height="120" /></a> <br />
                 <strong>Dominik Kn&ouml;dler</strong><br />
           Geb.: 01.01.1991</div></td>
 		 
@@ -277,7 +277,7 @@
 	   <td height="20" bgcolor="#FFFFFF"><div align="left"><a href="index.php?id=178"> <img src="bilder/AktiveSpieler/dummy_klein.jpg" width="90" height="120" /></a> <br />
                 <strong>Hakan Atalay</strong><br />
 				&nbsp;<br />
-          Geb.: 29.10.1992</div></td>
+          Geb.: 29.10.1990</div></td>
         <td height="20" bgcolor="#FFFFFF"><div align="left"><a href="index.php?id=149"><img src="bilder/AktiveSpieler/davor_k.jpg" width="90" height="120" /></a> <br />
                 <strong>Davor Brekalo</strong><br />
 			&nbsp;<br />

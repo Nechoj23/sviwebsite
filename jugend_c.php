@@ -266,7 +266,7 @@
 				<!--Dillmannstr. 27<br>
 				75428 Illingen<br> -->
 				Tel: 07042-6969<br>
-				Handy: 0176-84533510<br>
+				Handy: 0157-56195648<br>
 				<a href="mailto:marcello.solombrino@t-online.de">marcello.solombrino@t-online.de</a>			</p>
          <!--  <p> Dominik Kn&ouml;dler<br />
 			 

@@ -11,7 +11,7 @@
 
 <table width="600" border="0" cellpadding="0" cellspacing="0">
     
-    
+    <!--
 	<tr> 
 		<td colspan="3" id="contentTable"> 
 			<div align="left">Veranstaltungen 2013</div>
@@ -117,7 +117,7 @@
 <tr>
           <td colspan="3">&nbsp;</td>
         </tr>
-    
+    -->
     
 	<tr> 
 		<td colspan="3" id="contentTable"> 
@@ -129,25 +129,19 @@
 	</tr>
     
     <tr id="contentFont" bgcolor="#FFFFFF"> 
-	  <td width="44" valign="top" id="contentfont" style= "text-align:right;"><div align="left">So</div></td>   		
-	  <td width="156" valign="top" id="contentfont" style= "text-align:right;"><div align="left""><strong>12.01.14</strong></div></td>
-	  <td width="400" valign="top" id="contentfont" style= "text-align:right;"><div align="left"><strong>Hallenspieltag in Illingen</strong><br />
+	  <td width="44" valign="top" id="contentfont" style= "text-align:right;"><div align="left" class="Stil3">So</div></td>   		
+	  <td width="156" valign="top" id="contentfont" style= "text-align:right;"><div align="left" class="Stil3"><strong>12.01.14</strong></div></td>
+	  <td width="400" valign="top" id="contentfont" style= "text-align:right;"><div align="left" class="Stil3"><strong>Hallenspieltag in Illingen</strong><br />
 	  </div></td>
     </tr>
     
-    <tr id="contentFont" bgcolor="#FFFFFF"> 
+   <!-- <tr id="contentFont" bgcolor="#FFFFFF"> 
 	  <td width="44" valign="top" id="contentfont" style= "text-align:right;"><div align="left">Fr</div></td>   		
 	  <td width="156" valign="top" id="contentfont" style= "text-align:right;"><div align="left""><strong>24.01.14</strong></div></td>
 	  <td width="400" valign="top" id="contentfont" style= "text-align:right;"><div align="left"><strong>Hauptversammlung F&ouml;rderverein</strong><br />
 	  </div></td>
-    </tr>
-    
-    <tr id="contentFont" bgcolor="#FFFFFF"> 
-	  <td width="44" valign="top" id="contentfont" style= "text-align:right;"><div align="left">Sa</div></td>   		
-	  <td width="156" valign="top" id="contentfont" style= "text-align:right;"><div align="left"><strong>02.02.14</strong></div></td>
-	  <td width="400" valign="top" id="contentfont" style= "text-align:right;"><div align="left""><strong>Karnevalsfr&uuml;hschoppen in Illingen/Saar</strong><br />
-	  </div></td>
-    </tr>
+    </tr> -->
+   
     
     <tr id="contentFont" bgcolor="#FFFFFF"> 
 	  <td width="44" valign="top" id="contentfont" style= "text-align:right;"><div align="left">Fr</div></td>   		
@@ -159,7 +153,7 @@
     <tr id="contentFont" bgcolor="#FFFFFF"> 
 	  <td width="44" valign="top" id="contentfont" style= "text-align:right;"><div align="left">Fr</div></td>   		
 	  <td width="156" valign="top" id="contentfont" style= "text-align:right;"><div align="left"><strong>11.04.14</strong></div></td>
-	  <td width="400" valign="top" id="contentfont" style= "text-align:right;"><div align="left""><strong>Hauptversammlung Abteilung Fußball</strong><br />
+	  <td width="400" valign="top" id="contentfont" style= "text-align:right;"><div align="left""><strong>Hauptversammlung Abteilung Fussball</strong><br />
 	  </div></td>
     </tr>
     

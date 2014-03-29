@@ -240,7 +240,7 @@
         <tr> 
           <td width="200" id="contentFont" align="right" valign="top">	        
 		  	  <p>Spielklasse:</p>
-			 <p>Ergebnisdienst:</p>
+			 <p>Ergebnisdienst:<br> <br></p>
 
 			  <p>Trainer/Betreuer:</p>
 		  </td>
@@ -258,7 +258,7 @@
                   <br> Hubert Scheuermann<br>
                   0172-7321751<br />
                   <a href="mailto:h.scheuermann@hausfinanzkontor.de">h.scheuermann@hausfinanzkontor.de</a><br />
-                   <p>
+            </p> <!--      <p>
 				  Tobias Häfner<br>
 				 
 				  Handy: 0157-89270551<br>
@@ -268,8 +268,8 @@
 				  
 				  Handy: 0151-15252610<br>
 				    <a href="mailto:edgar.mantai@t-online.de">edgar.mantai@t-online.de</a> <br>
-				</p>
-		    </p>
+				
+		    </p> -->
                
       </p>
 	      </td>
