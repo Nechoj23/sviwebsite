@@ -28,15 +28,18 @@
 
 
 
-&nbsp;&nbsp;28.03.14<br />
+
+&nbsp;&nbsp;11.04.14<br />
 &nbsp;&nbsp;Hauptversammlung<br />
-&nbsp;&nbsp;SV Illingen<br />&nbsp;&nbsp;(Gesamtverein)<br />
-&nbsp;&nbsp;&nbsp;--------------<br /> &nbsp;&nbsp;11.04.14<br />&nbsp;&nbsp;Hauptversammlung<br />&nbsp;&nbsp;Abteilung Fussball<br />
+&nbsp;&nbsp;Abteilung Fussball<br />
+&nbsp;&nbsp;&nbsp;--------------<br /> 
+&nbsp;&nbsp;April 2014<br />
+&nbsp;&nbsp;Bambini-Spieltag<br />
 &nbsp;&nbsp;&nbsp;--------------<br />
 &nbsp;&nbsp;11.06.14 - 13.06.14<br />
 &nbsp;&nbsp;Jugend-Camp 2014<br />
 &nbsp;&nbsp;im Illinger Eichwaldpark<br />
-&nbsp;&nbsp;&nbsp;<br />
+
 
  
 

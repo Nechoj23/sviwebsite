@@ -52,7 +52,7 @@
 
 	
 	<tr id="contentFont"> 
-      <td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">2 
+      <td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">3 
       Tore</font></p></td>
       <td width="424" id="contentFont"><font size="+1">Daniel Brenner</font></td>
     </tr> 

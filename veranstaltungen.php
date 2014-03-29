@@ -144,10 +144,9 @@
    
     
     <tr id="contentFont" bgcolor="#FFFFFF"> 
-	  <td width="44" valign="top" id="contentfont" style= "text-align:right;"><div align="left">Fr</div></td>   		
-	  <td width="156" valign="top" id="contentfont" style= "text-align:right;"><div align="left"><strong>28.03.14</strong></div></td>
-	  <td width="400" valign="top" id="contentfont" style= "text-align:right;"><div align="left""><strong>Hauptversammlung SV Illingen (Gesamtverein)</strong><br />
-	  </div></td>
+	  <td width="44" valign="top" id="contentfont" style= "text-align:right;"><div align="left" class="Stil3">Fr</div></td>   		
+	  <td width="156" valign="top" id="contentfont" style= "text-align:right;"><div align="left" class="Stil3"><strong>28.03.14</strong></div></td>
+	  <td width="400" valign="top" id="contentfont" style= "text-align:right;"><div align="left"class="Stil3"><strong>Hauptversammlung SV Illingen (Gesamtverein)</strong></div></td>
     </tr>
     
     <tr id="contentFont" bgcolor="#FFFFFF"> 
