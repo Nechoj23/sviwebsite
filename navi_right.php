@@ -27,19 +27,17 @@
 
 
 
-
-
-&nbsp;&nbsp;11.04.14<br />
-&nbsp;&nbsp;Hauptversammlung<br />
-&nbsp;&nbsp;Abteilung Fussball<br />
-&nbsp;&nbsp;&nbsp;--------------<br /> 
-&nbsp;&nbsp;April 2014<br />
-&nbsp;&nbsp;Bambini-Spieltag<br />
-&nbsp;&nbsp;&nbsp;--------------<br />
 &nbsp;&nbsp;11.06.14 - 13.06.14<br />
 &nbsp;&nbsp;Jugend-Camp 2014<br />
 &nbsp;&nbsp;im Illinger Eichwaldpark<br />
-
+&nbsp;&nbsp;&nbsp;--------------<br />
+&nbsp;&nbsp;28.06.14 - 29.06.14<br />
+&nbsp;&nbsp;Dorf- und Kelterfest<br />
+&nbsp;&nbsp;in Illingen<br />
+&nbsp;&nbsp;&nbsp;--------------<br /> 
+&nbsp;&nbsp;11.09.14 - 14.09.14<br />
+&nbsp;&nbsp;Sportwochenende<br />
+&nbsp;&nbsp;im Illinger Eichwaldpark<br />
 
  
 
