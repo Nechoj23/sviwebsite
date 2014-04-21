@@ -1827,7 +1827,7 @@ In den drei Tagen konnten die Jungen und das einzige M&auml;dchen ihre F&auml;hi
 
                 <p> 
 
-                  <strong>Update </strong>(Stand 15.04.14): Nur noch  <span class="Stil3 Stil2 Stil4"><strong><font size="+2">10</font></strong></span>&nbsp;freie Plätze !!!<br>
+                  <strong>Update </strong>(Stand 19.04.14): Nur noch  <span class="Stil3 Stil2 Stil4"><strong><font size="+2">7</font></strong></span>&nbsp;freie Plätze !!!<br>
                   <br>
 
 				  
