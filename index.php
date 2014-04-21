@@ -7405,11 +7405,11 @@ Lukas Zimmermann, Can Staiger (4), Aaron Petersen, Tobias Spechtenhauser (5), Da
 
 
 
-                                /*case 91:
+                                case 91:
 
-                                        include("chat.php");
+                                        include("clubheim.php");
 
-                                        break;*/
+                                        break;
 
 
 

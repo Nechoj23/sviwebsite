@@ -83,39 +83,7 @@
         </tr>
         
 	
-		<!--
-        <tr id="contentFont">
-          <td id="contentFont" colspan="3" style="text-align:center; "><p align="left"> 
-          <strong>Leistungen:</strong><br>
-          geleitet von lizensierten Trainern<br>
-          breitensportlich orientiertes DFB &amp; Mc Donald's Fu&szlig;ball-Abzeichen<br>
-          inkl. vollst&auml;ndiger Verpflegung der Teilnehmer<br>
-          3x Mittagessen inkl. Getränke für den ganzen Tag<br>
-          Training in Gruppen<br>
-          Vollbetreuung<br>
-          T-Shirt<br>
-          Urkunde<br>
-          theoretischer Unterricht<br>
-          Videovorf&uuml;hrung<br>
-          Spielerbewertung<br>
-          Abschlussveranstaltung mit den Eltern </p>
-        </td>
-        </tr>
-		<tr id="contentFont">
-          <td id="contentFont" colspan="3" style="text-align:center; "><p align="left"> 
-          <strong>Wettbewerbe:</strong><br>
-          Dribbelpark<br>
-          Jonglierk&ouml;nig</p>
-				</td>
-        </tr>
-		<tr id="contentFont">
-          <td id="contentFont" colspan="3" style="text-align:center; "><p align="left"> 
-          <strong>Teilnahmegeb&uuml;hr:</strong><br>
-          Einzelanmeldung &nbsp; &nbsp; &nbsp; 75,00 Euro<br>
-          Geschwister &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;60,00 Euro</p>
-				</td>
-        </tr>
-        -->
+		
 		<tr>
 			<td height="50px" colspan="3">
 				<hr width="100%" size="1px" noshade style="color:#cccccc; background-color:#CCCCCC;">			</td>
