@@ -18,7 +18,7 @@
       <td width="424" id="contentFont"><font size="+1">Bisher keine Torschützen</font></td>
     </tr> -->
 	<tr id="contentFont"> 
-      <td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">10 
+      <td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">11 
       Tore</font></p></td>
       <td width="424" id="contentFont"><font size="+1">Tobias Häfner</font></td>
     </tr>	<tr id="contentFont">       
