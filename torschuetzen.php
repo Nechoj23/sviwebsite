@@ -21,10 +21,21 @@
       <td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">11 
       Tore</font></p></td>
       <td width="424" id="contentFont"><font size="+1">Tobias Häfner</font></td>
-    </tr>	<tr id="contentFont">       
+    </tr>
+
+<tr id="contentFont"> 
+      <td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">5 
+      Tore</font></p></td>
+      <td width="424" id="contentFont"><font size="+1">Pasquale Arena</font></td>
+    </tr> 	<tr id="contentFont">       
 	<td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">5       
 	Tore</font></p></td>     
 	<td width="424" id="contentFont"><font size="+1">Dominik Knödler</font></td>    </tr>
+	<tr id="contentFont"> 
+      <td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">5
+      Tore</font></p></td>
+      <td width="424" id="contentFont"><font size="+1">Tim Scheuermann</font></td>
+    </tr> 
 		<tr id="contentFont"> 
       <td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">5 
       Tore</font></p></td>
@@ -40,16 +51,8 @@
 	<td width="424" id="contentFont"><font size="+1">Hakan Atalay</font></td>   
 	</tr> 
 	 
-	<tr id="contentFont"> 
-      <td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">4 
-      Tore</font></p></td>
-      <td width="424" id="contentFont"><font size="+1">Pasquale Arena</font></td>
-    </tr> 
-			<tr id="contentFont"> 
-      <td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">4
-      Tore</font></p></td>
-      <td width="424" id="contentFont"><font size="+1">Tim Scheuermann</font></td>
-    </tr> 
+	
+			
 	
 
 	<tr id="contentFont"> 
@@ -135,6 +138,11 @@
       Tore</font></p></td>
       <td width="424" id="contentFont"><font size="+1">Tim Scheuermann</font></td>
     </tr> 
+		<tr id="contentFont"> 
+      <td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">5 
+      Tore</font></p></td>
+      <td width="424" id="contentFont"><font size="+1">Christian Reichert</font></td>
+    </tr>
 	<tr id="contentFont"> 
       <td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">5 
       Tore</font></p></td>
@@ -155,11 +163,7 @@
       Tore</font></p></td>
       <td width="424" id="contentFont"><font size="+1">Marcel Liebendörfer</font></td>
     </tr> 	<tr id="contentFont">       <td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">3       Tore</font></p></td>      <td width="424" id="contentFont"><font size="+1">Birol Aladag</font></td>    </tr> 
-		<tr id="contentFont"> 
-      <td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">4 
-      Tore</font></p></td>
-      <td width="424" id="contentFont"><font size="+1">Christian Reichert</font></td>
-    </tr>
+	
 	<tr id="contentFont"> 
       <td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">3 
       Tore</font></p></td>
@@ -180,6 +184,11 @@
       <td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">2 
       Tore</font></p></td>
       <td width="424" id="contentFont"><font size="+1">Denis Herman</font></td>
+    </tr> 
+		<tr id="contentFont"> 
+      <td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">2 
+      Tore</font></p></td>
+      <td width="424" id="contentFont"><font size="+1">Marco Klein</font></td>
     </tr> 
 		<tr id="contentFont"> 
       <td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">2 
@@ -214,13 +223,14 @@
 		<tr id="contentFont"> 
       <td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">1 
       Tor</font></p></td>
-      <td width="424" id="contentFont"><font size="+1">Michael Köppl</font></td>
+      <td width="424" id="contentFont"><font size="+1">Jonathan Kammerlohr</font></td>
     </tr> 
 		<tr id="contentFont"> 
       <td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">1 
       Tor</font></p></td>
-      <td width="424" id="contentFont"><font size="+1">Marco Klein</font></td>
+      <td width="424" id="contentFont"><font size="+1">Michael Köppl</font></td>
     </tr> 
+	
 	
 	
 	

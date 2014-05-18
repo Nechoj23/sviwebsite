@@ -195,6 +195,9 @@
           
       <td id="contentFont" width="166" align="left" valign="top"> <u>1. Jugendleiter:</u>	
       </td>
+	
+           <td id="contentFont" width="135" align="left" valign="top">
+				  unbesetzt</td>
           
       <td id="contentFont" width="135" align="left" valign="top">&nbsp; </td>
           
@@ -202,16 +205,7 @@
         </tr>
 		<tr id="contentFont">
           
-      <td id="contentFont" width="166" align="right" valign="top"><!--<img src="bilder/abteilung/nic_k.jpg" width="75" height="100"> 
-     --> </td>
-          <td id="contentFont" width="135" align="left" valign="top">
-      Alessandro Greco<!--<br>
-				  Goethestr. 50<br>
-		  75428 Illingen		 --> </td>
-<td id="contentFont" width="140" align="left" valign="top">
-	    
-0172-7749380<br>
-		  <a href="mailto:sandrogr@t-online.de"><img src="MailSymbol2.jpg" width="15" height="10" border="0"></a>		  </td>
+</td>
         </tr>
 
 <tr id="contentFont">
