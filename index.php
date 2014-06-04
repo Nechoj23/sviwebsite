@@ -1823,11 +1823,50 @@ In den drei Tagen konnten die Jungen und das einzige M&auml;dchen ihre F&auml;hi
 -->
  <tr>
 
+        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong> D-Jugend feiert 
+		Vizemeisterschaft in der Leistungsstaffel</strong>
+
+               
+
+           
+
+            <p>Nachdem die Illinger Jungs in der Qualirunde auf Anhieb den Sprung in 
+die Leistungsstaffel schafften, erreichten sie dort nun die Vizemeisterschaft! <br>
+Gegen die Mannschaften aus Kirchheim, Ossweil, Remseck, die SGM 
+Sternenfels/Zaisersweiher und Bissingen spielte man eine Hin-und Rückrunde.
+In insgesamt 10 Spielen gingen die Jungs aus Illingen 6 x als Sieger vom 
+Platz, erreichten 2 Unentschieden und mußten nur 2 knappe Niederlagen 
+hinnehmen. <br>
+Vielen Dank an die treuen Fans, die zu jedem der Spiele uns sehr 
+zahlreich anfeuerten! <br>
+Ein toller Erfolg auch für die Trainer Frank und Jochen mit diesem sehr 
+erfolgreichen ersten Jahr im Traineramt.
+
+            </p> <br>
+	  <a href="bilder/d-jugend_vize_g.jpg"><img src="bilder/d-jugend_vize.jpg" width="500" height="325"
+
+            alt="D-Jugend Vizemeisterschaft" align="top"></a> <br>
+			Auf dem Bild von links: <br>
+Hintere Reihe: Frank Lindauer, Colin Mitschelen, Maxi Titz, Tom 
+Tessmann, Tom Lindauer,Tobias Däschner, Jochen Mitschelen. <br>
+Vorne: Salvatore Grillo, Necati Dagasan, Max Schurlik, Luca Corrado, 
+Paul Espenner, Angelo di Caro und Andre Schnitz
+
+
+
+
+            <br /> <br />
+
+</div></td>
+
+        </tr> 
+ <tr>
+
         <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong> Jugend-Camp 2014</strong>
 
                 <p> 
 
-                  <strong>Update </strong>(Stand 18.05.14): Nur noch  <span class="Stil3 Stil2 Stil4"><strong><font size="+2">3</font></strong></span>&nbsp;freie Plätze !!!<br>
+                  <strong>Update </strong>(Stand 31.05.14): Nur noch  <span class="Stil3 Stil2 Stil4"><strong><font size="+2">2</font></strong></span>&nbsp;freie Plätze !!!<br>
                   <br>
 
 				  
@@ -2400,10 +2439,10 @@ In den drei Tagen konnten die Jungen und das einzige M&auml;dchen ihre F&auml;hi
 			 
 <tr>
 	<td id="contentfont" style= "text-align:left; padding-left:50px;">
-    	SV Salamander Kornwestheim I vs. SV Illingen I&nbsp; 4:1 (1:1)<br/>
-		<span class="Stil20"><em>Torsch&uuml;tzen: 1:1 Tim Scheuermann</em></span><br>
+    	SV Illingen I vs. VfR Großbottwar I&nbsp; 4:2 (2:1)<br/>
+		<span class="Stil20"><em>Torsch&uuml;tzen: 1:0 Fabio Tricarico, 2:1 Oliver Rapp, 3:1 Pasquale Arena, 4:2 Daniel Brenner</em></span><br>
 		<br>
-		<a href="http://ergebnisdienst.fussball.de/spiel/bezirksliga/bezirk-enz-murr/bezirksliga/herren/spieljahr1314/wuerttemberg/-/mandant/35/spiel/01HIJ6MNDO000000VV0AG812VU0P4H9C" target="_blank"><em>mehr Infos zum Spiel</em>
+		<a href="http://ergebnisdienst.fussball.de/spiel/bezirksliga/bezirk-enz-murr/bezirksliga/herren/spieljahr1314/wuerttemberg/-/mandant/35/spiel/01HIJ6MN18000000VV0AG812VU0P4H9C" target="_blank"><em>mehr Infos zum Spiel</em>
     	</a> 
 	</td>
 </tr>  	
@@ -2411,9 +2450,9 @@ In den drei Tagen konnten die Jungen und das einzige M&auml;dchen ihre F&auml;hi
  <tr>
         <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
       </tr>
-	 <tr>	<td id="contentfont" style= "text-align:left; padding-left:50px;"> TSV Häfnerhaslach II vs. SV Illingen II&nbsp; 2:2 (1:1)<br/>		
-<span class="Stil20"><em>Torsch&uuml;tzen: 0:1 Tobias Rehfuß, 2:2 Matthias Pucci</em></span><br>	<br>
-<a href="http://ergebnisdienst.fussball.de/spiel/kreisliga-c-5/bezirk-enz-murr-kl/kreisliga-c/herren/spieljahr1314/wuerttemberg/-/mandant/35/spiel/01HLTRI77K000000VV0AG812VS2HNECA" target="_blank"><em>mehr Infos zum Spiel</em>
+	 <tr>	<td id="contentfont" style= "text-align:left; padding-left:50px;"> SV Illingen II vs. TSV Großglattbach II&nbsp; 4:1 (4:0)<br/>		
+<span class="Stil20"><em>Torsch&uuml;tzen: 1:0 und 3:0 Matthias Pucci, 2:0 und 4:0 Lukas Strauß</em></span><br>	<br>
+<a href="http://ergebnisdienst.fussball.de/spiel/kreisliga-c-5/bezirk-enz-murr-kl/kreisliga-c/herren/spieljahr1314/wuerttemberg/-/mandant/35/spiel/01HLTRI64S000000VV0AG812VS2HNECA" target="_blank"><em>mehr Infos zum Spiel</em>
     	</a> 	</td></tr>  	
       <tr>
         <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
@@ -2479,12 +2518,6 @@ In den drei Tagen konnten die Jungen und das einzige M&auml;dchen ihre F&auml;hi
  <tr>                <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>             </tr>
 		  	 
 	
-	     <tr>        <td id="contentfont" style= "text-align:left;"><p><b>So 01.06</b><b>. 13.15 Uhr</b>          
-	 &nbsp; <img src="bilder/MannschaftsLogos/svi_logo55px.jpg"alt=" " align="middle">   SV Illingen II&nbsp;vs. TSV Großglattbach II		
-	 <img src="bilder/MannschaftsLogos/grossglattbach.jpg" alt=" " align="middle">  </p></td>      </tr>  
-	   <tr>        <td id="contentfont" style= "text-align:left;"><p><b>So 01.06</b><b>. 15.00 Uhr</b>          
-	 &nbsp; <img src="bilder/MannschaftsLogos/svi_logo55px.jpg"alt=" " align="middle">   SV Illingen I&nbsp;vs. VfR Großbottwar I		
-	 <!-- <img src="bilder/MannschaftsLogos/svi_logo55px.jpg" alt=" " align="middle"> --> </p></td>      </tr>  
 	     	 
 	  <tr>        <td id="contentfont" style= "text-align:left;"><p><b>Sa 07.06</b><b>. 13.15 Uhr</b>          
 	 &nbsp;<img src="bilder/MannschaftsLogos/hohenhaslach.jpg"alt=" " align="middle">   SC Hohenhaslach II&nbsp;vs. SV Illingen II		
@@ -2740,7 +2773,7 @@ In den drei Tagen konnten die Jungen und das einzige M&auml;dchen ihre F&auml;hi
 
       </tr>
 
-        <tr>
+     <!--   <tr>
 
         <td id="ueber3"><div>&nbsp;&nbsp;&nbsp;&nbsp;<strong>** A-Jugend:</strong></div></td>
 
@@ -2750,9 +2783,9 @@ In den drei Tagen konnten die Jungen und das einzige M&auml;dchen ihre F&auml;hi
         <td id="contentfont" style= "text-align:left; padding-left:50px;">SV Illingen - Spvgg Warmbronn&nbsp; 5:0<br/>
    <span class="Stil20"><em>Torsch&uuml;tzen: </em></span></td>
    </tr> 
-  
+   -->
       
-      <tr>
+     <!-- <tr>
         <td id="contentfont"><div align="left">&nbsp;</div></td>
       </tr> 
 <tr>
@@ -2762,8 +2795,8 @@ In den drei Tagen konnten die Jungen und das einzige M&auml;dchen ihre F&auml;hi
         <td id="contentfont" style= "text-align:left; padding-left:50px;">SV Illingen - TSV Eltingen II&nbsp;  1:1<br/>
             <span class="Stil20"><em>Torsch&uuml;tzen: </em></span></td>
       </tr> 
-	    
- <tr>
+	    -->
+ <!-- <tr>
 
         <td id="contentfont"><div align="left">&nbsp;</div></td>
 
@@ -2781,14 +2814,14 @@ In den drei Tagen konnten die Jungen und das einzige M&auml;dchen ihre F&auml;hi
 
             <span class="Stil20"><em>Torsch&uuml;tzen: ---</em></span></td>
 
-      </tr>  
+      </tr>   
           
  <tr>
 
         <td id="contentfont"><div align="left">&nbsp;</div></td>
 
       </tr>
-
+-->
   <tr>
 
         <td id="ueber3"><div>&nbsp;&nbsp;&nbsp;&nbsp;<strong>** D-Jugend:</strong></div></td>
@@ -2797,20 +2830,20 @@ In den drei Tagen konnten die Jungen und das einzige M&auml;dchen ihre F&auml;hi
 
     <tr>
 
-        <td id="contentfont" style= "text-align:left; padding-left:50px;">SV Illingen I - FV Kirchheim &nbsp;  3:1 (2:1)  <br/>
+        <td id="contentfont" style= "text-align:left; padding-left:50px;">FSV Ossweil I - SV Illingen I &nbsp;  1:2 (0:2)  <br/>
 
-            <span class="Stil20"><em>Torsch&uuml;tzen: 2x Tobias Däschner, Maximilian Titz</em></span></td>
+            <span class="Stil20"><em>Torsch&uuml;tzen: Paul Espenner, Tobias Däschner</em></span></td>
 
       </tr>
 	     
 
- <!-- <tr>
+  <tr>
 
-        <td id="contentfont" style= "text-align:left; padding-left:50px;">SV Illingen II - TSV Höfingen&nbsp;  2:4 <br/>
+        <td id="contentfont" style= "text-align:left; padding-left:50px;">SV Illingen II - SG SC / 07 Ludwigsburg II&nbsp;  3:0 <br/>
 
             <span class="Stil20"><em>Torsch&uuml;tzen: </em></span></td>
 
-      </tr>    -->
+      </tr>    
       <tr>
 
           <td id="contentfont"><div align="left">&nbsp;</div></td>
@@ -2825,7 +2858,7 @@ In den drei Tagen konnten die Jungen und das einzige M&auml;dchen ihre F&auml;hi
 
 <tr>
 
-        <td id="contentfont" style= "text-align:left; padding-left:50px;"> FC Gündelbach - SV Illingen I&nbsp; 0:4  <br/>
+        <td id="contentfont" style= "text-align:left; padding-left:50px;"> SV Illingen I - SG SV Sternenfels / Spvgg Zaisersweiher&nbsp; 7:7  <br/>
 
             <span class="Stil20"><em>Torsch&uuml;tzen:  </em></span></td>
 
@@ -2833,7 +2866,7 @@ In den drei Tagen konnten die Jungen und das einzige M&auml;dchen ihre F&auml;hi
 	
 	    <tr>
 
-        <td id="contentfont" style= "text-align:left; padding-left:50px;">SG TSV Ensingen / SV Horrheim - SV Illingen II&nbsp; 3:5  <br/>
+        <td id="contentfont" style= "text-align:left; padding-left:50px;">SV Illingen II - TSV Wiernsheim II&nbsp; 2:4  <br/>
 
             <span class="Stil20"><em>Torsch&uuml;tzen:  </em></span></td>
 
@@ -3123,16 +3156,16 @@ Lukas Zimmermann, Can Staiger (4), Aaron Petersen, Tobias Spechtenhauser (5), Da
 
       </tr>
 
-<!--
+
    <tr>
 
-          <td id="contentfont" style= "text-align:right;"><div align="left">Alle Illinger Jugenden befinden sich derzeit in der   Winterpause bzw. bereiten sich auf die kommende Rückrunde vor!</div></td>
+          <td id="contentfont" style= "text-align:right;"><div align="left">Alle Illinger Jugenden haben inzwischen ihre Meisterschaftsrunden 2013/2014 beendet!</div></td>
 
-        </tr> -->
+        </tr> 
 
    						
 			
-			
+			<!--
 				 
 		  <tr>                <td>                                 <table id="inner_table" width="550" class="profil" >  
                                         <tr>   <td width="83" id="contentfont6" style= "text-align:right;">
@@ -3180,7 +3213,7 @@ Lukas Zimmermann, Can Staiger (4), Aaron Petersen, Tobias Spechtenhauser (5), Da
 										<td width="339" id="contentfont6" style= "text-align:right;">
 										<div align="left">  SV Illingen I -  SG SV Sternenfels / Spvgg Zaisersweiher</div> </td>                </tr> </table>				 
 				 
-					 
+					 -->
 				
         <!--        <tr>
 
