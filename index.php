@@ -1821,6 +1821,34 @@ In den drei Tagen konnten die Jungen und das einzige M&auml;dchen ihre F&auml;hi
         </tr>
 
 -->
+
+	 <tr>
+
+        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong>Jugend-Camp 2014 vom 11.6. bis 13.6.</strong>
+
+                <p> 
+Information für die Eltern: <br><br>
+Bitte bringen Sie Ihr(e) Kind(er) am Mittwoch, den 11. Juni in der Zeit zwischen 09.00 Uhr und 09.30 Uhr zwecks Gruppeneinteilung und T-Shirt-Übergabe zum Vereinsgelände. 
+Das erste Training beginnt gegen 10.00 Uhr.<br>
+An den beiden folgenden Tagen startet das Training jeweils um 09.30 Uhr. Trainingsende ist immer um 16.00 Uhr. Die Kinder dürfen auch 
+schon ab ca. 08.45 Uhr zu uns gebracht werden.<br>
+Am letzten Tag (Freitag, 13. Juni) findet die Abschlussveranstaltung (gemeinsam mit den Eltern) ab 15.00 Uhr statt.<br><br>
+Wichtiger Hinweis:<br>
+Zur Sicherheit Ihrer Kinder ist der Parkplatz vor dem Clubheim für Fahrzeuge gesperrt. Bitte parken Sie am großen Parkplatz beim Musikerheim in der Wilhelmstraße (gegenüber Tankstelle Walz).
+Eine Anfahrtsbeschreibung finden Sie <a href="http://www.svi-fussball.de/index.php?id=25"><em>hier.</em></a><br><br>
+Wir wünschen Ihren Kindern drei erfolgreiche Tage beim SV Illingen!</p> <br> 
+
+            <p align="center"><a href="http://www.svi-fussball.de/index.php?id=19"><img src="bilder/jugendcamp_logo_k.jpg"
+
+            alt="Vorschau Jugendcamp 2014" align="top" border="0px"></a></p>
+
+
+
+            <br />
+
+</div></td>
+
+        </tr>
  <tr>
 
         <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong> D-Jugend feiert 
@@ -1860,7 +1888,7 @@ Paul Espenner, Angelo di Caro und Andre Schnitz
 </div></td>
 
         </tr> 
- <tr>
+<!-- <tr>
 
         <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong> Jugend-Camp 2014</strong>
 
@@ -1886,7 +1914,8 @@ Paul Espenner, Angelo di Caro und Andre Schnitz
 
 </div></td>
 
-        </tr>
+        </tr> -->
+	
 <!--
      <tr>
 
