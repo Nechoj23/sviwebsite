@@ -169,10 +169,10 @@
    
      
     <tr id="contentFont" bgcolor="#FFFFFF"> 
-	  <td width="44" valign="top" id="contentfont" style= "text-align:right;"><div align="left">Mi-Fr</div></td>   		
-	  <td width="156" valign="top" id="contentfont" style= "text-align:right;"><div align="left"><strong>11.06.14 - 13.06.14</strong><br />
+	  <td width="44" valign="top" id="contentfont" style= "text-align:right;"><div align="left" class="Stil3">Mi-Fr</div></td>   		
+	  <td width="156" valign="top" id="contentfont" style= "text-align:right;"><div align="left" class="Stil3"><strong>11.06.14 - 13.06.14</strong><br />
 	  </div></td>
-	  <td width="400" valign="top" id="contentfont" style= "text-align:right;"><div align="left"><strong><a href="index.php?id=19">Jugend-Fu&szlig;ball-Camp 2014 im Eichwaldpark Illingen</a></strong><br />
+	  <td width="400" valign="top" id="contentfont" style= "text-align:right;"><div align="left" class="Stil3"><strong>Jugend-Fu&szlig;ball-Camp 2014 im Eichwaldpark Illingen</strong><br />
 	  </div></td>
     </tr>
     

@@ -1822,63 +1822,28 @@ In den drei Tagen konnten die Jungen und das einzige M&auml;dchen ihre F&auml;hi
 
 -->
 
-	 <tr>
 
-        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong>Jugend-Camp 2014 vom 11.6. bis 13.6.</strong>
-
-                <p> 
-Information für die Eltern: <br><br>
-Bitte bringen Sie Ihr(e) Kind(er) am Mittwoch, den 11. Juni in der Zeit zwischen 09.00 Uhr und 09.30 Uhr zwecks Gruppeneinteilung und T-Shirt-Übergabe zum Vereinsgelände. 
-Das erste Training beginnt gegen 10.00 Uhr.<br>
-An den beiden folgenden Tagen startet das Training jeweils um 09.30 Uhr. Trainingsende ist immer um 16.00 Uhr. Die Kinder dürfen auch 
-schon ab ca. 08.45 Uhr zu uns gebracht werden.<br>
-Am letzten Tag (Freitag, 13. Juni) findet die Abschlussveranstaltung (gemeinsam mit den Eltern) ab 15.00 Uhr statt.<br><br>
-Wichtiger Hinweis:<br>
-Zur Sicherheit Ihrer Kinder ist der Parkplatz vor dem Clubheim für Fahrzeuge gesperrt. Bitte parken Sie am großen Parkplatz beim Musikerheim in der Wilhelmstraße (gegenüber Tankstelle Walz).
-Eine Anfahrtsbeschreibung finden Sie <a href="http://www.svi-fussball.de/index.php?id=25"><em>hier.</em></a><br><br>
-Wir wünschen Ihren Kindern drei erfolgreiche Tage beim SV Illingen!</p> <br> 
-
-            <p align="center"><a href="http://www.svi-fussball.de/index.php?id=19"><img src="bilder/jugendcamp_logo_k.jpg"
-
-            alt="Vorschau Jugendcamp 2014" align="top" border="0px"></a></p>
-
-
-
-            <br />
-
-</div></td>
-
-        </tr>
  <tr>
 
-        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong> D-Jugend feiert 
-		Vizemeisterschaft in der Leistungsstaffel</strong>
+        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong> Zweite Mannschaft feiert
+		Meisterschaft und Aufstieg!</strong>
 
                
 
            
 
-            <p>Nachdem die Illinger Jungs in der Qualirunde auf Anhieb den Sprung in 
-die Leistungsstaffel schafften, erreichten sie dort nun die Vizemeisterschaft! <br>
-Gegen die Mannschaften aus Kirchheim, Ossweil, Remseck, die SGM 
-Sternenfels/Zaisersweiher und Bissingen spielte man eine Hin-und Rückrunde.
-In insgesamt 10 Spielen gingen die Jungs aus Illingen 6 x als Sieger vom 
-Platz, erreichten 2 Unentschieden und mußten nur 2 knappe Niederlagen 
-hinnehmen. <br>
-Vielen Dank an die treuen Fans, die zu jedem der Spiele uns sehr 
-zahlreich anfeuerten! <br>
-Ein toller Erfolg auch für die Trainer Frank und Jochen mit diesem sehr 
-erfolgreichen ersten Jahr im Traineramt.
+            <p>Die zweite Mannschaft des SVI sicherte sich durch einen 1:7-Auswärtserfolg beim SC Hohenhaslach II am letzten Spieltag die 
+			Meisterschaft in der Kreisliga C5. Dank einer überragenden Rückrunde ohne eine einzige Niederlage setzte sich das Team von Trainer
+			Nic Corrado letztlich mit insgesamt 50 Punkten aus 20 Saisonspielen an die Spitze der Tabelle und steigt somit in die Kreisliga B auf.<br>
+			Herzlichen Glückwunsch an die gesamte Mannschaft und das Trainer- und Betreuerteam!
+			
 
-            </p> <br>
-	  <a href="bilder/d-jugend_vize_g.jpg"><img src="bilder/d-jugend_vize.jpg" width="500" height="325"
+            </p> 
+	  <a href="bilder/meisterschaft_zweite_g.jpg"><img src="bilder/meisterschaft_zweite.jpg" width="500" height="333"
 
-            alt="D-Jugend Vizemeisterschaft" align="top"></a> <br>
-			Auf dem Bild von links: <br>
-Hintere Reihe: Frank Lindauer, Colin Mitschelen, Maxi Titz, Tom 
-Tessmann, Tom Lindauer,Tobias Däschner, Jochen Mitschelen. <br>
-Vorne: Salvatore Grillo, Necati Dagasan, Max Schurlik, Luca Corrado, 
-Paul Espenner, Angelo di Caro und Andre Schnitz
+            alt="Meisterschaft Zweite Mannschaft" align="top"></a> <br>
+			<font size="-2">Quelle: VKZ/Bürkle</font> <br>
+
 
 
 
@@ -2468,10 +2433,10 @@ Paul Espenner, Angelo di Caro und Andre Schnitz
 			 
 <tr>
 	<td id="contentfont" style= "text-align:left; padding-left:50px;">
-    	SV Illingen I vs. VfR Großbottwar I&nbsp; 4:2 (2:1)<br/>
-		<span class="Stil20"><em>Torsch&uuml;tzen: 1:0 Fabio Tricarico, 2:1 Oliver Rapp, 3:1 Pasquale Arena, 4:2 Daniel Brenner</em></span><br>
+    	TSV Phönix Lomersheim I vs. SV Illingen I&nbsp; 2:2 (0:1)<br/>
+		<span class="Stil20"><em>Torsch&uuml;tzen: 0:1 und 1:2 Fabio Tricarico</em></span><br>
 		<br>
-		<a href="http://ergebnisdienst.fussball.de/spiel/bezirksliga/bezirk-enz-murr/bezirksliga/herren/spieljahr1314/wuerttemberg/-/mandant/35/spiel/01HIJ6MN18000000VV0AG812VU0P4H9C" target="_blank"><em>mehr Infos zum Spiel</em>
+		<a href="http://ergebnisdienst.fussball.de/spiel/bezirksliga/bezirk-enz-murr/bezirksliga/herren/spieljahr1314/wuerttemberg/-/mandant/35/spiel/01HIJ6MMD8000000VV0AG812VU0P4H9C" target="_blank"><em>mehr Infos zum Spiel</em>
     	</a> 
 	</td>
 </tr>  	
@@ -2479,9 +2444,9 @@ Paul Espenner, Angelo di Caro und Andre Schnitz
  <tr>
         <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
       </tr>
-	 <tr>	<td id="contentfont" style= "text-align:left; padding-left:50px;"> SV Illingen II vs. TSV Großglattbach II&nbsp; 4:1 (4:0)<br/>		
-<span class="Stil20"><em>Torsch&uuml;tzen: 1:0 und 3:0 Matthias Pucci, 2:0 und 4:0 Lukas Strauß</em></span><br>	<br>
-<a href="http://ergebnisdienst.fussball.de/spiel/kreisliga-c-5/bezirk-enz-murr-kl/kreisliga-c/herren/spieljahr1314/wuerttemberg/-/mandant/35/spiel/01HLTRI64S000000VV0AG812VS2HNECA" target="_blank"><em>mehr Infos zum Spiel</em>
+	 <tr>	<td id="contentfont" style= "text-align:left; padding-left:50px;"> SC Hohenhaslach II vs. SV Illingen II&nbsp; 1:7 (1:3)<br/>		
+<span class="Stil20"><em>Torsch&uuml;tzen: 0:1 Michali Gatsas, 0:2 und 1:3 Matthias Pucci, 1:4 und 1:6 Lukas Strauß, 1:5 Andreas Köppl, 1:7 Marco Klein </em></span><br>	<br>
+<a href="http://ergebnisdienst.fussball.de/spiel/kreisliga-c-5/bezirk-enz-murr-kl/kreisliga-c/herren/spieljahr1314/wuerttemberg/-/mandant/35/spiel/01HLTRI5VG000000VV0AG812VS2HNECA" target="_blank"><em>mehr Infos zum Spiel</em>
     	</a> 	</td></tr>  	
       <tr>
         <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
@@ -2544,16 +2509,17 @@ Paul Espenner, Angelo di Caro und Andre Schnitz
 
       </tr>
 
- <tr>                <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>             </tr>
+<!-- <tr>                <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>             </tr> -->
 		  	 
-	
-	     	 
+	 <tr>                <td id="contentfont" style= "text-align:right;"><div align="left">Die beiden aktiven Mannschaften haben jeweils ihre Saison
+	 beendet und befinden sich in der Sommerpause!</div></td>             </tr>
+	  <!--   	 
 	  <tr>        <td id="contentfont" style= "text-align:left;"><p><b>Sa 07.06</b><b>. 13.15 Uhr</b>          
 	 &nbsp;<img src="bilder/MannschaftsLogos/hohenhaslach.jpg"alt=" " align="middle">   SC Hohenhaslach II&nbsp;vs. SV Illingen II		
 	  <img src="bilder/MannschaftsLogos/svi_logo55px.jpg" alt=" " align="middle"> </p></td>      </tr>  
 	<tr>        <td id="contentfont" style= "text-align:left;"><p><b>Sa 07.06</b><b>. 15.00 Uhr</b>          
 	 &nbsp; <img src="bilder/MannschaftsLogos/lomersheim.jpg"alt=" " align="middle">   TSV Phönix Lomersheim I &nbsp;vs. SV Illingen I		
-	  <img src="bilder/MannschaftsLogos/svi_logo55px.jpg" alt=" " align="middle"> </p></td>      </tr>  
+	  <img src="bilder/MannschaftsLogos/svi_logo55px.jpg" alt=" " align="middle"> </p></td>      </tr>   -->
 	  
 	  <!--
   <tr>
@@ -2796,11 +2762,11 @@ Paul Espenner, Angelo di Caro und Andre Schnitz
 
         </tr>
 
-   <tr>
+ <!--  <tr>
 
         <td id="ueber2"> * Meisterschaft: </td>
 
-      </tr>
+      </tr> -->
 
      <!--   <tr>
 
@@ -2851,7 +2817,7 @@ Paul Espenner, Angelo di Caro und Andre Schnitz
 
       </tr>
 -->
-  <tr>
+ <!-- <tr>
 
         <td id="ueber3"><div>&nbsp;&nbsp;&nbsp;&nbsp;<strong>** D-Jugend:</strong></div></td>
 
@@ -2877,9 +2843,9 @@ Paul Espenner, Angelo di Caro und Andre Schnitz
 
           <td id="contentfont"><div align="left">&nbsp;</div></td>
 
-      </tr>
+      </tr> -->
 
-   <tr>
+  <!--  <tr>
 
         <td id="ueber3"><div>&nbsp;&nbsp;&nbsp;&nbsp;<strong>** E-Jugend:</strong></div></td>
 
@@ -2901,7 +2867,7 @@ Paul Espenner, Angelo di Caro und Andre Schnitz
 
       </tr> 
 
-
+-->
 
 
 
@@ -3168,14 +3134,14 @@ Lukas Zimmermann, Can Staiger (4), Aaron Petersen, Tobias Spechtenhauser (5), Da
 
               </tr>
  -->
-         <tr>
+        <!-- <tr>
 
           <td id="contentfont"><div align="left">&nbsp;</td>
 
         </tr>
      <tr>
         <td height="50px" colspan="7"><hr width="100%" size="1px" noshade style="color:#cccccc; background-color:#CCCCCC;"></td>
-      </tr> 
+      </tr>  -->
   <tr>
 
         <td id="ueber2"><div><strong>*
@@ -3188,7 +3154,7 @@ Lukas Zimmermann, Can Staiger (4), Aaron Petersen, Tobias Spechtenhauser (5), Da
 
    <tr>
 
-          <td id="contentfont" style= "text-align:right;"><div align="left">Alle Illinger Jugenden haben inzwischen ihre Meisterschaftsrunden 2013/2014 beendet!</div></td>
+          <td id="contentfont" style= "text-align:right;"><div align="left">Alle Illinger Jugenden haben ihre Meisterschaftsrunden 2013/2014 beendet!</div></td>
 
         </tr> 
 
