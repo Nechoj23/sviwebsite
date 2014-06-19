@@ -1822,7 +1822,41 @@ In den drei Tagen konnten die Jungen und das einzige M&auml;dchen ihre F&auml;hi
 
 -->
 
+ <tr>
 
+        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong> R&uuml;ckblick Jugend-Camp 2014 - eine hei&szlig;e Sache!!</strong>
+        <br><br>
+<a href="bilder/jugendcamp2014.jpg"><img src="bilder/jugendcamp2014_k.jpg" width="550" 
+
+            alt="Jugend-Camp 2014" align="top"></a> <br>
+			
+               
+         
+
+            <p>Unser Jugend-Camp vom 11. bis 13.06.14 war im wahrsten Sinne des Wortes eine richtig hei&szlig;e  Angelegenheit. Bereits am ersten Tag herrschten hochsommerliche Temperaturen &ndash; die  von Micha&lsquo;s Freizeitshop gesponserten Trinkflaschen mussten st&auml;ndig nachgef&uuml;llt  werden. Der f&uuml;r die drei Tage vorgesehene Wasservorrat ging bereits am  Donnerstagabend zur Neige und musste dringend aufgef&uuml;llt werden. Trotz der  hohen Temperaturen entwickelten die Kinder und Jugendlichen aber den von uns  erwarteten und auch erhofften Hei&szlig;hunger. Die mitt&auml;gliche Essensausgabe &ndash; ein  Erlebnis f&uuml;r alle Beteiligten. So wurden an den drei Tagen u.a. 10 kg  Spaghetti,<br>
+9 kg  Rinderhackfleisch, 360 Maultaschen, knapp 100 Schweine- und Putenschnitzel und  30 kg Pommes zubereitet. Den Teilnehmern hat&lsquo;s geschmeckt.<br>
+Das von Dominik Kn&ouml;dler ausgearbeitete Trainingsprogramm  stellte f&uuml;r die Kinder und die Trainer eine echte Herausforderung dar; &bdquo;Mama,  mir ist langweilig&ldquo; war <em><u>nie</u></em> zu  h&ouml;ren. So konnten auch alle Teilnehmer am Ende des dritten Tages das  DFB-Sportabzeichen in Empfang nehmen.<br>
+Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:</p>
+            <ul>
+              <li>bei den Trainern f&uuml;r drei Tage Intensiv-Coaching</li>
+              <li>bei den Helfern in der K&uuml;che bzw. bei der  Essensausgabe</li>
+              <li>bei&nbsp; Andy  und Wolfe f&uuml;r die wunderbaren Pl&auml;tze</li>
+              <li>bei Clubhauswirt Thimo, der uns hat  &bdquo;wurschteln&ldquo; lassen</li>
+              <li>bei Hebbe, der f&uuml;r das Catering zust&auml;ndig war</li>
+              <li>und &uuml;berhaupt bei Allen, die zum Gelingen dieser  Veranstaltung beigetragen haben.            </li>
+            </ul>
+            <p>Ein herzliches Dankesch&ouml;n an die Sponsoren<br>
+              SPARKASSE PFORZHEIM-CALW<br>
+              FONTANIS MINERALBRUNNEN<br>
+              MICHA`S FREIZEITSHOP<br>
+              ENZTALBANK</p>
+            <p>Wir freuen uns schon auf das CAMP 2015!!!</p>
+            Viele weitere Bilder vom Jugend-Camp 2014 finden Sie <a href="index.php?id=53"><em>hier</em></a>.
+            <br /> <br />
+
+</div></td>
+
+        </tr> 
  <tr>
 
         <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong> Zweite Mannschaft feiert
@@ -1842,7 +1876,7 @@ In den drei Tagen konnten die Jungen und das einzige M&auml;dchen ihre F&auml;hi
 	  <a href="bilder/meisterschaft_zweite_g.jpg"><img src="bilder/meisterschaft_zweite.jpg" width="500" height="333"
 
             alt="Meisterschaft Zweite Mannschaft" align="top"></a> <br>
-			<font size="-2">Quelle: VKZ/Bürkle</font> <br>
+			<font size="-2">Quelle: VKZ/Oliver Bürkle</font> <br>
 
 
 
