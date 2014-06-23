@@ -1778,40 +1778,16 @@ In den drei Tagen konnten die Jungen und das einzige M&auml;dchen ihre F&auml;hi
 
 -->
 
-      <!--        <tr>
+             <tr>
 
-        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong> Jugend-Camp 2011</strong><br>
+        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong> Dorf- und Kelterfest 2014 &ndash; wir brauchen dringend Hilfe!</strong><br>
 
-     <p align="center"><img src="bilder/jugendcamp2011.jpg"
+    
 
-            alt="Jugendcamp 2011" align="top" border="0px"></p>
-
-<p>Drei Tage lang befand sich der Illinger Eichwaldpark im Ausnahmezustand und stand dabei ganz
-
-im Zeichen der Jugendarbeit. Insgesamt 70 Kinder und Jugendliche zwischen 5 und 12
-
-Jahren nahmen am diesj&auml;hrigen Fu&szlig;ball-Jugend-Camp des SV Illingen Abt. Fu&szlig;ball und zugeh&ouml;rigem F&ouml;rderverein teil.<br>
-
-In den drei Tagen konnten die Jungen und das einzige M&auml;dchen ihre F&auml;higkeiten in Schusstechnik, Slalomdribbling, Zweikampfverhalten und Spielverst&auml;ndnis bei &uuml;berwiegend trockenem Wetter verbessern und das Erlernte im anschlie&szlig;enden DFB-Fu&szlig;ballabzeichen unter Beweis stellen. Am Freitag durften den Kindern bei der Abschlussveranstaltung in Begleitung der Eltern ihre  erk&auml;mpften Urkunden durch Abteilungsleiter Christian Gruica und Jugendleiter Nic Corrado &uuml;berreicht werden. <br>
-
-  Besonderer Dank gilt an dieser Stelle allen Trainern, die sich als &auml;u&szlig;erst engagierte und hochmotivierte Fu&szlig;balllehrer erwiesen haben und hier namentlich erw&auml;hnt werden sollen: <br>
-
-  Nic Corrado, Dominik Kn&ouml;dler, Tim Scheuermann, Tobias Rehfu&szlig;, Daniel M&uuml;nch, Dominik Schmolck, Christian Wanko, Marcel Liebend&ouml;rfer, Giuseppe Moncada, Michael Corrado, Christian Gruica, Fredy Geist, Thomas Fritsch, Dustin Seidel, Daniel Brenner und Ralf Theuerkauf.<br>
-
-  Vielen Dank auch den Organisatoren:<br>
-
-  Nic Corrado, Dominik Kn&ouml;dler und Werner Conradt <br>
-
-  sowie den zus&auml;tzlichen Helfern rund um die Veranstaltung: <br>
-
-  K&ouml;che Hubert Scheuermann und Dietmar Klose, Wolfgang Auer. Nicht zu vergessen nat&uuml;rlich Herbert Rau, der uns st&auml;ndig mit dem n&ouml;tigen Nachschub versorgt hat.<br>
-
-  Au&szlig;erdem m&ouml;chten wir uns herzlich bei den unterst&uuml;tzenden Unternehmen Sparkasse Pforzheim Calw, Fontanis Mineralbrunnen und Micha's Freizeitshop bedanken.<br>
-
-    <br>
-
-  Weitere Bilder des Jugend-Camps 2011 finden Sie <a href="http://www.facebook.com/SVIllingen" target="_blank"><em>hier</em></a>.<br>
-
+<p>Leider haben wir in unserem &bdquo;Dienstplan&ldquo; noch eine  entscheidende L&uuml;cke. Wir ben&ouml;tigen <strong>dringendst</strong> noch 4 bis 5 Personen, die es sich zutrauen, am Samstagabend  ab 20.45 Uhr in unserem Partyzelt beim Ausschank mitzuhelfen. Wir appellieren an die Eltern  unserer Jugendspieler und die Freundinnen/Frauen unserer Aktiven, ein paar Stunden f&uuml;r  unseren Verein zu investieren. Es ist &ndash; hoffentlich &ndash; wieder  einiges zu tun, aber die Zeit wird wie im Fluge vergehen und man ist trotzdem &bdquo;mitten drin&ldquo;. Bitte melden Sie sich m&ouml;glichst zeitnah bei  Herbert Rau (0171/6828365), Charly W&ouml;hr (0151/10503855) oder Werner Conradt (0171/8831163).<br>
+  <strong>Herzlichen Dank.</strong></p>
+<p><br>
+  
 </p>
 
 <br />
@@ -1820,7 +1796,7 @@ In den drei Tagen konnten die Jungen und das einzige M&auml;dchen ihre F&auml;hi
 
         </tr>
 
--->
+
 
  <tr>
 
