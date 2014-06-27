@@ -854,39 +854,32 @@ Wie gesagt: Es hat alles gepasst!
 
 
 
-    <!--          <tr>
+              <tr>
 
-       <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"><span id="fbPhotoSnowliftCaption" tabindex="0" aria-live="polite" data-ft="{'type':45}"><strong> Herzliche Einladung zum Illinger Dorf-und Kelterfest am 29. &amp; 30.06.13</strong></span><br>
+       <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"><span id="fbPhotoSnowliftCaption" tabindex="0" aria-live="polite" data-ft="{'type':45}"><strong> Herzliche Einladung zum 41. Illinger Dorf- und Kelterfest am 28. &amp; 29.06.!</strong></span><br>
 
          <br><a href="bilder/strassenfest2010_g.jpg"><img src="bilder/strassenfest2010.jpg" width="550"
 
             alt="Dorf- und Kelterfest 2010" align="top"></a><br>
 
        <span tabindex="0" aria-live="polite" data-ft="{'type':45}" id="fbPhotoSnowliftCaption2"><br>
+       </span>
+       Wir laden hiermit zum Besuch unserer &bdquo;Partymeile&ldquo; im  s&uuml;dlichen Bereich des Posthofes herzlich ein. Auch in diesem Jahr bieten wir  unsere &ndash; vor Ihren Augen nach Originalrezept frisch zubereitete &ndash; Pizza in verschiedenen  Variationen an.&nbsp; Unser Partyzelt ist mit  diversen&nbsp; Kultgetr&auml;nken, aber auch mit  alkoholfreien Getr&auml;nken bestens best&uuml;ckt.
+       <span tabindex="0" aria-live="polite" data-ft="{'type':45}"><br>
 
-Die Abt. Fu&szlig;ball und der F&ouml;rderverein SV Illingen-Fu&szlig;ball e.V. bieten   auch in diesem Jahr<br>
+       <strong><br>
 
-wieder die hei&szlig;begehrte und frisch zubereitete BEZIRKSLIGA-Pizza in verschiedenen<br>
+Wir freuen uns auf Ihren Besuch!!!</strong></span><br><br>
+Fu&szlig;ballabteilung SV Illingen <br><br>
+F&ouml;rderverein Fu&szlig;ball e.V.<br>
 
-Variationen an. Neben diversen alkoholfreien Getr&auml;nken wartet im Bierwagen frisch gezapftes Hefeweizen oder Pils
-
-auf durstige Kehlen. Gegen Abend steigt dann die gro&szlig;e<br>
-
-AUFSTIEGS-Party in und um unser Zelt -
-
-nebst allerlei   Drinks sind auch wieder aktuelle Kultgetr&auml;nke (Mionetto-SPR!Z und Hugo) im Angebot.<br>
-
-Unser DJ Uwe kann es kaum erwarten, Ihre pers&ouml;nlichen Musikw&uuml;nsche zu erf&uuml;llen.<br>
-
-<br>
-
-Wir freuen uns auf alle, die mit uns dieses ungew&ouml;hnliche Jahr feiern wollen ...</span><br><br>
+<p><br></p>
 
                        </div></td>
 
       </tr>
 
-   -->
+   
 
       <!--
 
