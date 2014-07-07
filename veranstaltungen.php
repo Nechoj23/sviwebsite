@@ -179,19 +179,22 @@
      
     
     <tr id="contentFont" bgcolor="#FFFFFF"> 
-	  <td width="44" valign="top" id="contentfont" style= "text-align:right;"><div align="left">Sa-So</div></td>   		
-	  <td width="156" valign="top" id="contentfont" style= "text-align:right;"><div align="left"><strong>28.06.14 - 29.06.14</strong><br />
+	  <td width="44" valign="top" id="contentfont" style= "text-align:right;"><div align="left" class="Stil3">Sa-So</div></td>   		
+	  <td width="156" valign="top" id="contentfont" style= "text-align:right;"><div align="left" class="Stil3"><strong>28.06.14 - 29.06.14</strong><br />
 	  </div></td>
-	  <td width="400" valign="top" id="contentfont" style= "text-align:right;"><div align="left"><strong>Dorf- und Kelterfest in Illingen</strong><br />
+	  <td width="400" valign="top" id="contentfont" style= "text-align:right;"><div align="left" class="Stil3"><strong>Dorf- und Kelterfest in Illingen</strong><br />
 	  </div></td>
     </tr>
-    
+
+<!--
     <tr id="contentFont" bgcolor="#FFFFFF"> 
 	  <td width="44" valign="top" id="contentfont" style= "text-align:right;"><div align="left">Do-So</div></td>   		
 	  <td width="156" valign="top" id="contentfont" style= "text-align:right;"><div align="left"><strong>11.09.14 - 14.09.14</strong></div></td>
 	  <td width="400" valign="top" id="contentfont" style= "text-align:right;"><div align="left"><strong>Sportwochenende im Eichwaldpark Illingen</strong><br />
 	  </div></td>
     </tr>
+    -->
+    
 	 <tr id="contentFont" bgcolor="#FFFFFF"> 
 	  <td width="44" valign="top" id="contentfont" style= "text-align:right;"><div align="left"></div></td>   		
 	  <td width="156" valign="top" id="contentfont" style= "text-align:right;"><div align="left"><strong>November 2014</strong><br />

@@ -856,22 +856,14 @@ Wie gesagt: Es hat alles gepasst!
 
               <tr>
 
-       <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"><span id="fbPhotoSnowliftCaption" tabindex="0" aria-live="polite" data-ft="{'type':45}"><strong> Herzliche Einladung zum 41. Illinger Dorf- und Kelterfest am 28. &amp; 29.06.!</strong></span><br>
+       <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"><strong> Herzlichen Dank!</strong><br>
 
-         <br><a href="bilder/strassenfest2010_g.jpg"><img src="bilder/strassenfest2010.jpg" width="550"
-
-            alt="Dorf- und Kelterfest 2010" align="top"></a><br>
-
-       <span tabindex="0" aria-live="polite" data-ft="{'type':45}" id="fbPhotoSnowliftCaption2"><br>
-       </span>
-       Wir laden hiermit zum Besuch unserer &bdquo;Partymeile&ldquo; im  s&uuml;dlichen Bereich des Posthofes herzlich ein. Auch in diesem Jahr bieten wir  unsere &ndash; vor Ihren Augen nach Originalrezept frisch zubereitete &ndash; Pizza in verschiedenen  Variationen an.&nbsp; Unser Partyzelt ist mit  diversen&nbsp; Kultgetr&auml;nken, aber auch mit  alkoholfreien Getr&auml;nken bestens best&uuml;ckt.
-       <span tabindex="0" aria-live="polite" data-ft="{'type':45}"><br>
-
-       <strong><br>
-
-Wir freuen uns auf Ihren Besuch!!!</strong></span><br><br>
-Fu&szlig;ballabteilung SV Illingen <br><br>
-F&ouml;rderverein Fu&szlig;ball e.V.<br>
+        
+         <p>Trotz einiger Regeng&uuml;sse und laufender Fu&szlig;ball-WM k&ouml;nnen wir  auf ein gelungenes Dorf- und Kelterfest 2014 zur&uuml;ckblicken. Unsere Pizza war  wieder ein Renner und das Partyzelt platzte am Samstagabend zu sp&auml;ter Stunde  beinahe aus allen N&auml;hten.<br>
+         Wir m&ouml;chten uns auf diesem Wege bei all  unseren treuen G&auml;sten f&uuml;r den Besuch sehr herzlich bedanken. Ein Dankesch&ouml;n an  alle, die uns bei Auf- und Abbau und nat&uuml;rlich bei der Bewirtung so zahlreich  geholfen habe. Ein besonderes Kompliment an unsere &bdquo;Youngsters&ldquo;, die die letzte  Schicht am Sonntag im Pizzazelt und an der Bar beinahe im Alleingang bew&auml;ltigt  haben, zumal es f&uuml;r manche Jungs der erste Einsatz in dieser Gr&ouml;&szlig;enordnung war.  Alles ist wieder aufger&auml;umt &ndash; wir k&ouml;nnen uns somit auf die kommenden Aufgaben st&uuml;rzen...<br><br>
+           In diesem Sinne: auf ein Neues im Jahre 2015!<br><br>
+           SV Illingen Abt. Fu&szlig;ball&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; F&ouml;rderverein  Fu&szlig;ball e.V.</p>
+         <br>
 
 <p><br></p>
 
@@ -1771,26 +1763,8 @@ In den drei Tagen konnten die Jungen und das einzige M&auml;dchen ihre F&auml;hi
 
 -->
 
-             <tr>
 
-        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong> Dorf- und Kelterfest 2014 &ndash; wir brauchen dringend Hilfe!</strong><br>
-
-    
-
-<p>Leider haben wir in unserem &bdquo;Dienstplan&ldquo; noch eine  entscheidende L&uuml;cke. Wir ben&ouml;tigen <strong>dringendst</strong> noch 4 bis 5 Personen, die es sich zutrauen, am Samstagabend  ab 20.45 Uhr in unserem Partyzelt beim Ausschank mitzuhelfen. Wir appellieren an die Eltern  unserer Jugendspieler und die Freundinnen/Frauen unserer Aktiven, ein paar Stunden f&uuml;r  unseren Verein zu investieren. Es ist &ndash; hoffentlich &ndash; wieder  einiges zu tun, aber die Zeit wird wie im Fluge vergehen und man ist trotzdem &bdquo;mitten drin&ldquo;. Bitte melden Sie sich m&ouml;glichst zeitnah bei  Herbert Rau (0171/6828365), Charly W&ouml;hr (0151/10503855) oder Werner Conradt (0171/8831163).<br>
-  <strong>Herzlichen Dank.</strong></p>
-<p><br>
-  
-</p>
-
-<br />
-
-  </div></td>
-
-        </tr>
-
-
-
+<!--
  <tr>
 
         <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong> R&uuml;ckblick Jugend-Camp 2014 - eine hei&szlig;e Sache!!</strong>
@@ -1826,6 +1800,8 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
 </div></td>
 
         </tr> 
+-->
+<!--
  <tr>
 
         <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong> Zweite Mannschaft feiert
@@ -1856,6 +1832,7 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
 </div></td>
 
         </tr> 
+-->
 <!-- <tr>
 
         <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong> Jugend-Camp 2014</strong>

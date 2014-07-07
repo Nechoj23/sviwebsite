@@ -26,13 +26,12 @@
 <span class="Stil6">
 
 
-&nbsp;&nbsp;28.06.14 - 29.06.14<br />
-&nbsp;&nbsp;Dorf- und Kelterfest<br />
-&nbsp;&nbsp;in Illingen<br />
+&nbsp;&nbsp;31.08.14<br />
+&nbsp;&nbsp;Saisonauftakt der<br />
+&nbsp;&nbsp;Aktiven Mannschaften<br />
 &nbsp;&nbsp;&nbsp;--------------<br /> 
-&nbsp;&nbsp;11.09.14 - 14.09.14<br />
-&nbsp;&nbsp;Sportwochenende<br />
-&nbsp;&nbsp;im Illinger Eichwaldpark<br />
+&nbsp;&nbsp;November<br />
+&nbsp;&nbsp;Hallenspieltag<br />
 &nbsp;&nbsp;&nbsp;--------------<br />
 &nbsp;&nbsp;13.12.14 - 14.12.14<br />
 &nbsp;&nbsp;Weihnachtsmarkt in <br />
