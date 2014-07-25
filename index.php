@@ -2160,18 +2160,7 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
 
       </tr>
 
- <tr>
-                <td>
-                                <table id="inner_table" width="550" class="profil" >
 
-                                        <tr>
-                                <td width="26" id="contentfont6" style= "text-align:right;"><div align="right"><strong>Mi</strong></div></td>
-                                <td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>23.07.14</strong></div></td>
-                                <td width="69" id="contentfont6" style= "text-align:right;"><div align="left"><strong>19.30 Uhr</strong></div></td>
-                                <td width="339" id="contentfont6" style= "text-align:right;"><div align="left">TSV Schwieberdingen I - SV Illingen I</div></td>
-                                        </tr>
-                                        </table>                </td>
-        </tr> 
 		 <tr>
                 <td>
                                 <table id="inner_table" width="550" class="profil" >
@@ -2293,6 +2282,9 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
 		<tr>          <td id="contentfont" style= "text-align:left; padding-left:50px;">TV Flein I - SV Illingen I&nbsp;  3:4 (1:3)<br/>            
 		<span class="Stil20"><em>Torsch&uuml;tzen: Tobias Häfner, Matthias Stocker, Patrick Schüle, Fabio Tricarico</em></span> </td>        </tr> 
 
+
+		<tr>          <td id="contentfont" style= "text-align:left; padding-left:50px;">TSV Schwieberdingen I - SV Illingen I&nbsp;  0:2 (0:1)<br/>            
+		<span class="Stil20"><em>Torsch&uuml;tzen: Fabio Tricarico, Pasquale Arena</em></span> </td>        </tr> 
 
 
 
