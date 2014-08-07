@@ -22,6 +22,8 @@
   Jugend-Camp 2014</strong></font></div></td>
 	  <td width="91" id="contentFont"><div align="left"><img src="bilder/jugendcamp_k.jpg" width="90" height="90"></div></td>
         </tr>
+		
+		
 
 <!--         
      <tr>
@@ -37,6 +39,8 @@
           <td colspan="3">&nbsp;</td>
         </tr>
 --> 
+
+
          
 		<tr>
 			<td height="50px" colspan="3">
