@@ -665,14 +665,11 @@ Förderverein SV Illingen-Fußball 2008 e.V.
 
 <tr>
     <td id="contentfont" style= "text-align:left;">
-            <div align="left"><img src="bilder/svi_mini.jpg"> <strong>E-Jugend bedankt sich bei der Firma ZERTEC </strong><br>
-          <br>
-			  <a href="bilder/e-jugend_taschen_g.jpg"><img src="bilder/e-jugend_taschen.jpg" width="560"
-
-                        alt="DAK" align="top"></a> <br>
-		  <p> 
-Die E-Jugend (Jahrgänge 2003 / 2004) des SV Illingen bedankt sich bei der Firma ZERTEC für die 
-gesponserten Sporttaschen! </p><br />
+            <div align="left"><img src="bilder/svi_mini.jpg"> <strong>Gemeinsamer Trainingsauftakt der A- und B-Jugend</strong><br>
+         
+		  <p> Die A- und B-Jugend starten am Samstag, den 16. August gemeinsam in die Vorbereitung auf die neue Saison. Um 17.00 Uhr ist
+		  ein erstes Training angesetzt, danach wird ab 19.00 Uhr gemeinsam gegrillt.
+</p><br />
 			
             </div>
     </td>
@@ -2166,54 +2163,6 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
                                 <table id="inner_table" width="550" class="profil" >
 
                                         <tr>
-                                <td width="26" id="contentfont6" style= "text-align:right;"><div align="right"><strong>Sa</strong></div></td>
-                                <td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>26.07.14</strong></div></td>
-                                <td width="69" id="contentfont6" style= "text-align:right;"><div align="left"><strong>15.00 Uhr</strong></div></td>
-                                <td width="339" id="contentfont6" style= "text-align:right;"><div align="left">TSV Maulbronn I - SV Illingen II</div></td>
-                                        </tr>
-                                        </table>                </td>
-        </tr> 
-		 <tr>
-                <td>
-                                <table id="inner_table" width="550" class="profil" >
-
-                                        <tr>
-                                <td width="26" id="contentfont6" style= "text-align:right;"><div align="right"><strong>Mi</strong></div></td>
-                                <td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>30.07.14</strong></div></td>
-                                <td width="69" id="contentfont6" style= "text-align:right;"><div align="left"><strong>19.00 Uhr</strong></div></td>
-                                <td width="339" id="contentfont6" style= "text-align:right;"><div align="left">SV Illingen I - Viktoria Enzberg I</div></td>
-                                        </tr>
-                                        </table>                </td>
-        </tr> 
-		 <tr>
-                <td>
-                                <table id="inner_table" width="550" class="profil" >
-
-                                        <tr>
-                                <td width="26" id="contentfont6" style= "text-align:right;"><div align="right"><strong>Sa</strong></div></td>
-                                <td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>02.08.14</strong></div></td>
-                                <td width="69" id="contentfont6" style= "text-align:right;"><div align="left"><strong>15.00 Uhr</strong></div></td>
-                                <td width="339" id="contentfont6" style= "text-align:right;"><div align="left">SV Illingen II - TSV Schwieberdingen II </div></td>
-                                        </tr>
-                                        </table>                </td>
-        </tr> 
-		 <tr>
-                <td>
-                                <table id="inner_table" width="550" class="profil" >
-
-                                        <tr>
-                                <td width="26" id="contentfont6" style= "text-align:right;"><div align="right"><strong>Sa</strong></div></td>
-                                <td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>02.08.14</strong></div></td>
-                                <td width="69" id="contentfont6" style= "text-align:right;"><div align="left"><strong>17.00 Uhr</strong></div></td>
-                                <td width="339" id="contentfont6" style= "text-align:right;"><div align="left">SV Illingen I - Spfr. Mühlacker I</div></td>
-                                        </tr>
-                                        </table>                </td>
-        </tr> 
-		 <tr>
-                <td>
-                                <table id="inner_table" width="550" class="profil" >
-
-                                        <tr>
                                 <td width="26" id="contentfont6" style= "text-align:right;"><div align="right"><strong>So</strong></div></td>
                                 <td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>10.08.14</strong></div></td>
                                 <td width="69" id="contentfont6" style= "text-align:right;"><div align="left"><strong>17.00 Uhr</strong></div></td>
@@ -2221,18 +2170,7 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
                                         </tr>
                                         </table>                </td>
         </tr> 
-				 <tr>
-                <td>
-                                <table id="inner_table" width="550" class="profil" >
-
-                                        <tr>
-                                <td width="26" id="contentfont6" style= "text-align:right;"><div align="right"><strong>So</strong></div></td>
-                                <td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>17.08.14</strong></div></td>
-                                <td width="69" id="contentfont6" style= "text-align:right;"><div align="left"><strong>&nbsp;</strong></div></td>
-                                <td width="339" id="contentfont6" style= "text-align:right;"><div align="left">Pokalspiel</div></td>
-                                        </tr>
-                                        </table>                </td>
-        </tr> 
+		
 		 <tr>
                 <td>
                                 <table id="inner_table" width="550" class="profil" >
@@ -2285,12 +2223,18 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
 
 		<tr>          <td id="contentfont" style= "text-align:left; padding-left:50px;">TSV Schwieberdingen I - SV Illingen I&nbsp;  0:2 (0:1)<br/>            
 		<span class="Stil20"><em>Torsch&uuml;tzen: Fabio Tricarico, Pasquale Arena</em></span> </td>        </tr> 
+						<tr>          <td id="contentfont" style= "text-align:left; padding-left:50px;">TSV Maulbronn I - SV Illingen II&nbsp;  2:4 (1:1)<br/>            
+		<span class="Stil20"><em>Torsch&uuml;tzen: Matthias Hitzler, Marco Klein, Fabio Tricarico, Lukas Strauß</em></span> </td>        </tr> 
+				<tr>          <td id="contentfont" style= "text-align:left; padding-left:50px;">SV Illingen I - Viktoria Enzberg I&nbsp;  5:2 (2:2)<br/>            
+		<span class="Stil20"><em>Torsch&uuml;tzen: Marcel Liebendörfer, Tobias Häfner, Michali Gatsas, Fabio Tricarico, Oliver Rapp</em></span> </td>        </tr> 
 
+				<tr>          <td id="contentfont" style= "text-align:left; padding-left:50px;">SV Illingen II - TSV Schwieberdingen II&nbsp;  3:2 (1:0)<br/>            
+		<span class="Stil20"><em>Torsch&uuml;tzen: Marco Klein, Birol Aladag, Lukas Strauß</em></span> </td>        </tr> 
 
+				<tr>          <td id="contentfont" style= "text-align:left; padding-left:50px;">SV Illingen I - Spfr. Mühlacker I&nbsp;  7:0 (2:0)<br/>            
+		<span class="Stil20"><em>Torsch&uuml;tzen: 3x Fabio Tricarico, Eros Schembri, Pasquale Arena, Tobias Häfner, Eigentor</em></span> </td>        </tr> 
 
-
-
-   <!-- <tr>
+ <tr>
 
                 <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
 
@@ -2300,7 +2244,7 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
 
         <td height="50px" colspan="7"><hr width="100%" size="1px" noshade style="color:#cccccc; background-color:#CCCCCC;"></td>
 
-      </tr> -->
+      </tr> 
 
 
 
@@ -2502,40 +2446,30 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
 
                                 <hr width="100%" size="1px" noshade style="color:#cccccc; background-color:#CCCCCC;">                        </td>
 
-                </tr>   -->  <!--
+                </tr>   -->  
     <tr>
 
           <td id="ueber2">
 
-            * Pokalvorschau (1. Runde):           </td>
+            * Pokalvorschau (Qualifikationsrunde):           </td>
 
         </tr>
 
       <tr>
 
+        		 <tr>
                 <td>
-                                    <table id="inner_table" width="550" class="profil" >
-                                          <tr>
-                                    <td width="26" id="contentfont6" style= "text-align:right;"><div align="right"><strong>Mi</strong></div></td>
-                                    <td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>04.09.13</strong></div></td>
-                                    <td width="69" id="contentfont6" style= "text-align:right;"><div align="left"><strong>19.00 Uhr</strong></div></td>
-                                    <td width="339" id="contentfont6" style= "text-align:right;"><div align="left">SV Illingen II - VfL Gemmrigheim I <strong> !! ABGESAGT !!</strong></div></td>
-                                          </tr>
-                                        </table>                </td>
-              </tr>
-                   <tr>
+                                <table id="inner_table" width="550" class="profil" >
 
-                <td>
-                                    <table id="inner_table" width="550" class="profil" >
-                                          <tr>
-                                    <td width="26" id="contentfont6" style= "text-align:right;"><div align="right"><strong>Mi</strong></div></td>
-                                    <td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>04.09.13</strong></div></td>
-                                    <td width="69" id="contentfont6" style= "text-align:right;"><div align="left"><strong>19.00 Uhr</strong></div></td>
-                                    <td width="339" id="contentfont6" style= "text-align:right;"><div align="left">TSV Nussdorf I - SV Illingen I</div></td>
-                                          </tr>
+                                        <tr>
+                                <td width="26" id="contentfont6" style= "text-align:right;"><div align="right"><strong>So</strong></div></td>
+                                <td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>17.08.14</strong></div></td>
+                                <td width="69" id="contentfont6" style= "text-align:right;"><div align="left"><strong>15.00 Uhr</strong></div></td>
+                                <td width="339" id="contentfont6" style= "text-align:right;"><div align="left">TSV Bönnigheim II - SV Illingen II</div></td>
+                                        </tr>
                                         </table>                </td>
-              </tr>
-            -->
+        </tr> 
+   
 <!--
      <tr>
 
