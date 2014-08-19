@@ -30,8 +30,9 @@
 &nbsp;&nbsp;Saisonauftakt der<br />
 &nbsp;&nbsp;Aktiven Mannschaften<br />
 &nbsp;&nbsp;&nbsp;--------------<br /> 
-&nbsp;&nbsp;November<br />
-&nbsp;&nbsp;Hallenspieltag<br />
+&nbsp;&nbsp;07.12.14<br />
+&nbsp;&nbsp;Hallenspieltag <br />
+&nbsp;&nbsp;in Illingen<br />
 &nbsp;&nbsp;&nbsp;--------------<br />
 &nbsp;&nbsp;13.12.14 - 14.12.14<br />
 &nbsp;&nbsp;Weihnachtsmarkt in <br />

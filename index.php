@@ -483,7 +483,7 @@ function MM_showHideLayers() { //v3.0
                 <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
 
              </tr>
-
+<!--
  <tr>
 
         <td bgcolor="#0066cc" id="contentTable2"><div class="ueber1"> NEUIGKEITEN </div></td>
@@ -494,7 +494,7 @@ function MM_showHideLayers() { //v3.0
 
         <td height="20">&nbsp;</td>
 
-      </tr>  
+      </tr>   -->
 
       <!--
 
@@ -662,18 +662,6 @@ Förderverein SV Illingen-Fußball 2008 e.V.
 <!--                                                           </p>            <br />            </div>    </td></tr>
 <tr>    <td id="contentfont" style= "text-align:left;">             <div align="left"><img src="bilder/svi_mini.jpg"> <strong>Karnevalsfrühschoppen in Illingen/Saar! </strong><br>   <p> Liebe Sportkameraden,<br><br>wir haben vom Sportverein Kerpen 09 (Illingen/Saar) wieder eine Einladung zum Karnevalsfrühschoppen am Sonntag, 02. Februar 2014 in der „Illipse“ in Illingen/Saar erhalten.    Die Veranstaltung beginnt um 11.11 Uhr und endet gegen 18 Uhr. Es wird ein ca. zweistündiges Programm mit Büttenreden, Gesangsdarbietungen und Gardentänzen geboten; anschließend spielt eine Stimmungsband bis zum Ende der Veranstaltung. Der Eintritt ist frei. Wie vor zwei Jahren gibt es wieder eine Sektbar und einen Bierstand. Unser Bus fährt gegen 08.00 Uhr los und wird gegen 21.00 Uhr  wieder zurück sein. <br>Da auch andere hiesige Vereine eingeladen sind, empfiehlt sich eine baldige Anmeldung. <br>Übrigens: Den Teilnehmern  vor zwei Jahren hat es allesamt sehr gut gefallen.<br> Anmeldung bitte per E-Mail an ctwerner@web.de oder telefonisch unter 07042/23918. <br><br>Werner Conradt                                                            </p>            <br />            </div>    </td></tr>
 -->
-
-<tr>
-    <td id="contentfont" style= "text-align:left;">
-            <div align="left"><img src="bilder/svi_mini.jpg"> <strong>Gemeinsamer Trainingsauftakt der A- und B-Jugend</strong><br>
-         
-		  <p> Die A- und B-Jugend starten am Samstag, den 16. August gemeinsam in die Vorbereitung auf die neue Saison. Um 17.00 Uhr ist
-		  ein erstes Training angesetzt, danach wird ab 19.00 Uhr gemeinsam gegrillt.
-</p><br />
-			
-            </div>
-    </td>
-</tr> 
 
 
 
@@ -2158,18 +2146,6 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
       </tr>
 
 
-		 <tr>
-                <td>
-                                <table id="inner_table" width="550" class="profil" >
-
-                                        <tr>
-                                <td width="26" id="contentfont6" style= "text-align:right;"><div align="right"><strong>So</strong></div></td>
-                                <td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>10.08.14</strong></div></td>
-                                <td width="69" id="contentfont6" style= "text-align:right;"><div align="left"><strong>17.00 Uhr</strong></div></td>
-                                <td width="339" id="contentfont6" style= "text-align:right;"><div align="left">TSV Korntal I - SV Illingen I</div></td>
-                                        </tr>
-                                        </table>                </td>
-        </tr> 
 		
 		 <tr>
                 <td>
@@ -2203,7 +2179,7 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
                                 <td width="26" id="contentfont6" style= "text-align:right;"><div align="right"><strong>So</strong></div></td>
                                 <td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>31.08.14</strong></div></td>
                                 <td width="69" id="contentfont6" style= "text-align:right;"><div align="left"><strong>&nbsp;</strong></div></td>
-                                <td width="339" id="contentfont6" style= "text-align:right;"><div align="left">1. Meisterschaftsspiel</div></td>
+                                <td width="339" id="contentfont6" style= "text-align:right;"><div align="left">1. Meisterschaftsspiele</div></td>
                                         </tr>
                                         </table>                </td>
         </tr> 
@@ -2233,7 +2209,8 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
 
 				<tr>          <td id="contentfont" style= "text-align:left; padding-left:50px;">SV Illingen I - Spfr. Mühlacker I&nbsp;  7:0 (2:0)<br/>            
 		<span class="Stil20"><em>Torsch&uuml;tzen: 3x Fabio Tricarico, Eros Schembri, Pasquale Arena, Tobias Häfner, Eigentor</em></span> </td>        </tr> 
-
+			<tr>          <td id="contentfont" style= "text-align:left; padding-left:50px;">TSV Korntal I - SV Illingen I&nbsp;  0:5 (0:4)<br/>            
+		<span class="Stil20"><em>Torsch&uuml;tzen: 2x Tobias Häfner, 2x Tim Scheuermann, Pasquale Arena</em></span> </td>        </tr> 
  <tr>
 
                 <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
@@ -2373,21 +2350,17 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
       <tr>
         <td height="50px" colspan="7"><hr width="100%" size="1px" noshade style="color:#cccccc; background-color:#CCCCCC;"></td>
       </tr> -->
-<!--
+
     <tr>
-        <td id="ueber2"><div><strong>* Pokal (1. Runde):</strong></font></div></td>
+        <td id="ueber2"><div><strong>* Pokal (Qualifikationsrunde):</strong></font></div></td>
       </tr>
       <tr>
-          <td id="contentfont" style= "text-align:left; padding-left:50px;">SV Illingen II - VfL Gemmrigheim I&nbsp;  0:3 (Wertung)<br/>
-            <span class="Stil20"><em>Torsch&uuml;tzen: ---</em></span><br><br>
-        </td></tr>                 <tr>           <td id="contentfont" style= "text-align:left; padding-left:50px;">TSV Nussdorf I - SV Illingen I&nbsp;  4:0 (1:0)<br/>            <span class="Stil20"><em>Torsch&uuml;tzen: ---</em></span><br><br>                        <a href="http://ergebnisdienst.fussball.de/spiel/-/mandant/35/spiel/01I40JHCL8000000VV0AG812VS8PNPR0"><em>mehr Infos zum Spiel</em></a>        </td></tr>
-
-<tr>
-                <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
-             </tr>
+          <td id="contentfont" style= "text-align:left; padding-left:50px;">TSV Bönnigheim II - SV Illingen II&nbsp;  0:9 (0:6)<br/>
+            <span class="Stil20"><em>Torsch&uuml;tzen: 3x Fabio Tricarico, 2x Lukas Strauß, Michali Gatsas, Maik Hofmann, Tobias Häfner, Marco Klein</em></span><br><br>
+        </td></tr>                
       <tr>
                         <td height="50px" colspan="7"><hr width="100%" size="1px" noshade style="color:#cccccc; background-color:#CCCCCC;"></td>
-                </tr>     -->
+                </tr>    
 
  <!-- <tr>
 
@@ -2421,23 +2394,23 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
 
 
 
-   <!-- <tr>
+   <tr>
 
         <td id="ueber2"> * Meisterschaftsvorschau: </td>
 
-      </tr> -->
+      </tr> 
 
-<!-- <tr>                <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>             </tr> -->
+ <tr>                <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>             </tr> 
 		  	 
 	<!-- <tr>                <td id="contentfont" style= "text-align:right;"><div align="left">Die beiden aktiven Mannschaften haben jeweils ihre Saison
 	 beendet und befinden sich in der Sommerpause!</div></td>             </tr> -->
-	  <!--   	 
-	  <tr>        <td id="contentfont" style= "text-align:left;"><p><b>Sa 07.06</b><b>. 13.15 Uhr</b>          
-	 &nbsp;<img src="bilder/MannschaftsLogos/hohenhaslach.jpg"alt=" " align="middle">   SC Hohenhaslach II&nbsp;vs. SV Illingen II		
+  	 
+	  <tr>        <td id="contentfont" style= "text-align:left;"><p><b>So 31.08</b><b>. 13.15 Uhr</b>          
+	 &nbsp;<img src="bilder/MannschaftsLogos/lomersheim.jpg"alt=" " align="middle"> TSV Phönix Lomersheim II&nbsp;vs. SV Illingen II		
 	  <img src="bilder/MannschaftsLogos/svi_logo55px.jpg" alt=" " align="middle"> </p></td>      </tr>  
-	<tr>        <td id="contentfont" style= "text-align:left;"><p><b>Sa 07.06</b><b>. 15.00 Uhr</b>          
-	 &nbsp; <img src="bilder/MannschaftsLogos/lomersheim.jpg"alt=" " align="middle">   TSV Phönix Lomersheim I &nbsp;vs. SV Illingen I		
-	  <img src="bilder/MannschaftsLogos/svi_logo55px.jpg" alt=" " align="middle"> </p></td>      </tr>   -->
+	<tr>        <td id="contentfont" style= "text-align:left;"><p><b>So 31.08</b><b>. 15.00 Uhr</b>          
+	 &nbsp; <img src="bilder/MannschaftsLogos/boennigheim.jpg"alt=" " align="middle">   TSV Bönnigheim I &nbsp;vs. SV Illingen I		
+	  <img src="bilder/MannschaftsLogos/svi_logo55px.jpg" alt=" " align="middle"> </p></td>      </tr>   
 	  
 	  <!--
   <tr>
@@ -2447,7 +2420,7 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
                                 <hr width="100%" size="1px" noshade style="color:#cccccc; background-color:#CCCCCC;">                        </td>
 
                 </tr>   -->  
-    <tr>
+  <!--  <tr>
 
           <td id="ueber2">
 
@@ -2469,7 +2442,7 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
                                         </tr>
                                         </table>                </td>
         </tr> 
-   
+   -->
 <!--
      <tr>
 
@@ -2489,45 +2462,7 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
 
                 </tr>
 -->
-              <!--   <tr>
-
-        <td id="ueber2"><div><strong>* Vorbereitung:</strong></font></div></td>
-
-      </tr> -->
-
-	  <!--
-  <tr>
-
-          <td id="contentfont" style= "text-align:left; padding-left:50px;"><strong> **Vorschau:</strong></td>
-
-        </tr>
-
-                 <tr>           <td id="contentfont" style= "text-align:left; padding-left:50px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-				  <a href="vorbereitungsplan_winter_1314.xlsx"> <em> >> zum kompletten Vorbereitungsplan << </em></a></td>        </tr> --> <!--
-<tr>
-
-          <td id="contentfont" style= "text-align:left; padding-left:50px;"> *** 1. Mannschaft:</td>
-
-        </tr>
-  
-			    <tr>
-
-                <td>
-                                    <table id="inner_table" width="550" class="profil" >
-                                          <tr>
-                                    <td width="26" id="contentfont6" style= "text-align:right;"><div align="right"><strong>So</strong></div></td>
-                                    <td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>02.03.14</strong></div></td>
-                                    <td width="69" id="contentfont6" style= "text-align:right;"><div align="left"><strong>14.00 Uhr</strong></div></td>
-                                    <td width="339" id="contentfont6" style= "text-align:right;"><div align="left">FSV 08 Bissingen II - SV Illingen I</div></td>
-                                          </tr>
-                                        </table>                </td>
-              </tr>
-			       <tr>
-
-        <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
-
-      </tr> -->
+            
 	
         <tr>
 
@@ -2951,7 +2886,8 @@ Lukas Zimmermann, Can Staiger (4), Aaron Petersen, Tobias Spechtenhauser (5), Da
 
    <tr>
 
-          <td id="contentfont" style= "text-align:right;"><div align="left">Alle Illinger Jugenden haben ihre Meisterschaftsrunden 2013/2014 beendet!</div></td>
+          <td id="contentfont" style= "text-align:right;"><div align="left">Die Illinger Jugendmannschaften befinden sich in der Sommerpause bzw. bereiten
+		  sich auf die neue Saison 2014/2015 vor!</div></td>
 
         </tr> 
 

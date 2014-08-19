@@ -196,10 +196,10 @@
     -->
     
 	 <tr id="contentFont" bgcolor="#FFFFFF"> 
-	  <td width="44" valign="top" id="contentfont" style= "text-align:right;"><div align="left"></div></td>   		
-	  <td width="156" valign="top" id="contentfont" style= "text-align:right;"><div align="left"><strong>November 2014</strong><br />
+	  <td width="44" valign="top" id="contentfont" style= "text-align:right;"><div align="left">So</div></td>   		
+	  <td width="156" valign="top" id="contentfont" style= "text-align:right;"><div align="left"><strong>07.12.14</strong><br />
 	  </div></td>
-	  <td width="400" valign="top" id="contentfont" style= "text-align:right;"><div align="left"><strong>Hallenspieltag (noch nicht genau terminiert)</strong><br />
+	  <td width="400" valign="top" id="contentfont" style= "text-align:right;"><div align="left"><strong>Hallenspieltag in Illingen</strong><br />
 	  </div></td>
     </tr>
     
