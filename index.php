@@ -2145,20 +2145,6 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
 
       </tr>
 
-
-		
-		 <tr>
-                <td>
-                                <table id="inner_table" width="550" class="profil" >
-
-                                        <tr>
-                                <td width="26" id="contentfont6" style= "text-align:right;"><div align="right"><strong>So</strong></div></td>
-                                <td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>24.08.14</strong></div></td>
-                                <td width="69" id="contentfont6" style= "text-align:right;"><div align="left"><strong>15.00 Uhr</strong></div></td>
-                                <td width="339" id="contentfont6" style= "text-align:right;"><div align="left">SV Illingen II - TSV Nussdorf II</div></td>
-                                        </tr>
-                                        </table>                </td>
-        </tr> 
 				 <tr>
                 <td>
                                 <table id="inner_table" width="550" class="profil" >
@@ -2168,6 +2154,20 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
                                 <td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>24.08.14</strong></div></td>
                                 <td width="69" id="contentfont6" style= "text-align:right;"><div align="left"><strong>17.00 Uhr</strong></div></td>
                                 <td width="339" id="contentfont6" style= "text-align:right;"><div align="left">SV Illingen I - VfB Vaihingen I </div></td>
+                                        </tr>
+                                        </table>                </td>
+        </tr> 
+		
+		
+		 <tr>
+                <td>
+                                <table id="inner_table" width="550" class="profil" >
+
+                                        <tr>
+                                <td width="26" id="contentfont6" style= "text-align:right;"><div align="right"><strong>Mo</strong></div></td>
+                                <td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>25.08.14</strong></div></td>
+                                <td width="69" id="contentfont6" style= "text-align:right;"><div align="left"><strong>19.00 Uhr</strong></div></td>
+                                <td width="339" id="contentfont6" style= "text-align:right;"><div align="left">SV Illingen II - TSV Nussdorf II</div></td>
                                         </tr>
                                         </table>                </td>
         </tr> 
