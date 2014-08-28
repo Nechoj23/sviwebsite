@@ -483,7 +483,7 @@ function MM_showHideLayers() { //v3.0
                 <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
 
              </tr>
-<!--
+
  <tr>
 
         <td bgcolor="#0066cc" id="contentTable2"><div class="ueber1"> NEUIGKEITEN </div></td>
@@ -494,7 +494,7 @@ function MM_showHideLayers() { //v3.0
 
         <td height="20">&nbsp;</td>
 
-      </tr>   -->
+      </tr>  
 
       <!--
 
@@ -826,22 +826,24 @@ Wie gesagt: Es hat alles gepasst!
 
         </tr> -->
 
-      <!--        <tr>
+       <tr>
 
-       <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"><strong> Herzlichen Dank!</strong><br>
+       <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"><strong> Saisonauftakt der aktiven Mannschaften!</strong><br>
 
         
-         <p>Trotz einiger Regeng&uuml;sse und laufender Fu&szlig;ball-WM k&ouml;nnen wir  auf ein gelungenes Dorf- und Kelterfest 2014 zur&uuml;ckblicken. Unsere Pizza war  wieder ein Renner und das Partyzelt platzte am Samstagabend zu sp&auml;ter Stunde  beinahe aus allen N&auml;hten.<br>
-         Wir m&ouml;chten uns auf diesem Wege bei all  unseren treuen G&auml;sten f&uuml;r den Besuch sehr herzlich bedanken. Ein Dankesch&ouml;n an  alle, die uns bei Auf- und Abbau und nat&uuml;rlich bei der Bewirtung so zahlreich  geholfen habe. Ein besonderes Kompliment an unsere &bdquo;Youngsters&ldquo;, die die letzte  Schicht am Sonntag im Pizzazelt und an der Bar beinahe im Alleingang bew&auml;ltigt  haben, zumal es f&uuml;r manche Jungs der erste Einsatz in dieser Gr&ouml;&szlig;enordnung war.  Alles ist wieder aufger&auml;umt &ndash; wir k&ouml;nnen uns somit auf die kommenden Aufgaben st&uuml;rzen...<br><br>
-           In diesem Sinne: auf ein Neues im Jahre 2015!<br><br>
-           SV Illingen Abt. Fu&szlig;ball&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; F&ouml;rderverein  Fu&szlig;ball e.V.</p>
-         <br>
+         <p> Die beiden aktiven Mannschaften des SVI starten am kommenden Sonntag (31. August) mit ihren ersten Punktspielen in die neue Saison.
+		 Die erste Mannschaft tritt dabei um 15.00 Uhr beim TSV Bönnigheim I an, während die zweite Mannschaft schon um 13.15 Uhr im Derby beim
+		 TSV Phönix Lomersheim II aufläuft.<br>
+		 Nur drei Tage später am Mittwoch, dem 03. September, steht bereits die erste Runde im Bezirkspokal an. Die erste Mannschaft ist dabei 
+		 zu Gast beim  TSV Häfnerhaslach I, die zweite Mannschaft empfängt  zuhause im Eichwaldpark den FV Kirchheim I. Beide Spiele beginnen
+		 um 19.30 Uhr.<br>
+		
 
-<p><br></p>
+</p>
 
                        </div></td>
 
-      </tr> -->
+      </tr> 
 
    
 
@@ -2138,40 +2140,14 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
 
 
 
-
+<!--
   <tr>
 
           <td id="contentfont" style= "text-align:left; padding-left:50px;"><strong> **Vorschau:</strong></td>
 
-      </tr>
+      </tr> -->
 
-				 <tr>
-                <td>
-                                <table id="inner_table" width="550" class="profil" >
-
-                                        <tr>
-                                <td width="26" id="contentfont6" style= "text-align:right;"><div align="right"><strong>So</strong></div></td>
-                                <td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>24.08.14</strong></div></td>
-                                <td width="69" id="contentfont6" style= "text-align:right;"><div align="left"><strong>17.00 Uhr</strong></div></td>
-                                <td width="339" id="contentfont6" style= "text-align:right;"><div align="left">SV Illingen I - VfB Vaihingen I </div></td>
-                                        </tr>
-                                        </table>                </td>
-        </tr> 
-		
-		
-		 <tr>
-                <td>
-                                <table id="inner_table" width="550" class="profil" >
-
-                                        <tr>
-                                <td width="26" id="contentfont6" style= "text-align:right;"><div align="right"><strong>Mo</strong></div></td>
-                                <td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>25.08.14</strong></div></td>
-                                <td width="69" id="contentfont6" style= "text-align:right;"><div align="left"><strong>19.00 Uhr</strong></div></td>
-                                <td width="339" id="contentfont6" style= "text-align:right;"><div align="left">SV Illingen II - TSV Nussdorf II</div></td>
-                                        </tr>
-                                        </table>                </td>
-        </tr> 
-			 <tr>
+		<!--	 <tr>
                 <td>
                                 <table id="inner_table" width="550" class="profil" >
 
@@ -2187,7 +2163,7 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
 
                 <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
 
-             </tr>
+             </tr> -->
     <tr>
 
           <td id="contentfont" style= "text-align:left; padding-left:50px;"><strong> **Ergebnisse:</strong></td>
@@ -2211,7 +2187,13 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
 		<span class="Stil20"><em>Torsch&uuml;tzen: 3x Fabio Tricarico, Eros Schembri, Pasquale Arena, Tobias Häfner, Eigentor</em></span> </td>        </tr> 
 			<tr>          <td id="contentfont" style= "text-align:left; padding-left:50px;">TSV Korntal I - SV Illingen I&nbsp;  0:5 (0:4)<br/>            
 		<span class="Stil20"><em>Torsch&uuml;tzen: 2x Tobias Häfner, 2x Tim Scheuermann, Pasquale Arena</em></span> </td>        </tr> 
- <tr>
+		<tr>          <td id="contentfont" style= "text-align:left; padding-left:50px;">SV Illingen I - VfB Vaihingen/Enz I&nbsp;  10:0 (2:0)<br/>            
+		<span class="Stil20"><em>Torsch&uuml;tzen: 3x Fabio Tricarico, 2x Pasquale Arena, Tim Scheuermann, Marcel Liebendörfer, Michali Gatsas, Matthias Hitzler, Tobias Häfner</em></span> </td>        </tr> 
+					<tr>          <td id="contentfont" style= "text-align:left; padding-left:50px;">SV Illingen II - TSV Nussdorf II&nbsp;  2:2 (2:1)<br/>            
+		<span class="Stil20"><em>Torsch&uuml;tzen: Michali Gatsas, Marcel Liebendörfer</em></span> </td>        </tr> 
+			
+
+		<tr>
 
                 <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
 
@@ -2412,37 +2394,55 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
 	 &nbsp; <img src="bilder/MannschaftsLogos/boennigheim.jpg"alt=" " align="middle">   TSV Bönnigheim I &nbsp;vs. SV Illingen I		
 	  <img src="bilder/MannschaftsLogos/svi_logo55px.jpg" alt=" " align="middle"> </p></td>      </tr>   
 	  
-	  <!--
+	  <tr>        <td id="contentfont" style= "text-align:left;"><p><b>So 07.09</b><b>. 13.15 Uhr</b>          
+	 &nbsp;<img src="bilder/MannschaftsLogos/svi_logo55px.jpg"alt=" " align="middle"> SV Illingen II&nbsp;vs. TSV Oberriexingen I		
+	  <img src="bilder/MannschaftsLogos/oberriexingen.jpg" alt=" " align="middle"> </p></td>      </tr>  
+	<tr>        <td id="contentfont" style= "text-align:left;"><p><b>So 07.09</b><b>. 15.00 Uhr</b>          
+	 &nbsp; <img src="bilder/MannschaftsLogos/svi_logo55px.jpg"alt=" " align="middle">   SV Illingen I &nbsp;vs. TSV Kleinglattbach I		
+	  <img src="bilder/MannschaftsLogos/kleinglattbach.jpg" alt=" " align="middle"> </p></td>      </tr>  
+	  
   <tr>
 
                         <td height="50px" colspan="7">
 
                                 <hr width="100%" size="1px" noshade style="color:#cccccc; background-color:#CCCCCC;">                        </td>
 
-                </tr>   -->  
-  <!--  <tr>
+                </tr>  
+ <tr>
 
           <td id="ueber2">
 
-            * Pokalvorschau (Qualifikationsrunde):           </td>
+            * Pokalvorschau (1. Runde):           </td>
 
         </tr>
 
-      <tr>
-
+   
         		 <tr>
                 <td>
                                 <table id="inner_table" width="550" class="profil" >
 
                                         <tr>
-                                <td width="26" id="contentfont6" style= "text-align:right;"><div align="right"><strong>So</strong></div></td>
-                                <td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>17.08.14</strong></div></td>
-                                <td width="69" id="contentfont6" style= "text-align:right;"><div align="left"><strong>15.00 Uhr</strong></div></td>
-                                <td width="339" id="contentfont6" style= "text-align:right;"><div align="left">TSV Bönnigheim II - SV Illingen II</div></td>
+                                <td width="26" id="contentfont6" style= "text-align:right;"><div align="right"><strong>Mi</strong></div></td>
+                                <td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>03.09.14</strong></div></td>
+                                <td width="69" id="contentfont6" style= "text-align:right;"><div align="left"><strong>19.30 Uhr</strong></div></td>
+                                <td width="339" id="contentfont6" style= "text-align:right;"><div align="left">TSV Häfnerhaslach I - SV Illingen I</div></td>
                                         </tr>
                                         </table>                </td>
         </tr> 
-   -->
+				 <tr>
+                <td>
+                                <table id="inner_table" width="550" class="profil" >
+
+                                        <tr>
+                                <td width="26" id="contentfont6" style= "text-align:right;"><div align="right"><strong>Mi</strong></div></td>
+                                <td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>03.09.14</strong></div></td>
+                                <td width="69" id="contentfont6" style= "text-align:right;"><div align="left"><strong>19.30 Uhr</strong></div></td>
+                                <td width="339" id="contentfont6" style= "text-align:right;"><div align="left">SV Illingen II - FV Kirchheim I</div></td>
+                                        </tr>
+                                        </table>                </td>
+        </tr> 
+  
+  
 <!--
      <tr>
 
