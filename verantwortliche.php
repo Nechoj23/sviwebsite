@@ -36,6 +36,7 @@
 			  
 			  
 			  0172-7321751<br>
+			  
 			  <a href="mailto:h.scheuermann@hausfinanzkontor.de"><img src="MailSymbol2.jpg" width="15" height="10" border="0"></a>
 			  
 		  </td>
@@ -79,9 +80,9 @@
         	<p><img src="bilder/abteilung/bernd_k.jpg" width="75" height="100"></p>  
         </td>
           <td id="contentFont" width="135" align="left" valign="top">
-			  Bernd Fischer<!--<br>
-			  Braunstr. 13 <br>
-			  75417 M&uuml;hlacker --></td>
+			  Bernd Fischer<br>
+			  Vaihinger Str. 43<br>
+			  75428 Illingen</td>
 		 <td id="contentFont" width="140" align="left" valign="top">
 			  
 			  
@@ -197,11 +198,15 @@
       </td>
 	
            <td id="contentFont" width="135" align="left" valign="top">
-				  unbesetzt</td>
+				  unbesetzt<br><br>
+				  Ansprechpartner: <br><br>
+	  Hubert Scheuermann<br></td>
           
-      <td id="contentFont" width="135" align="left" valign="top">&nbsp; </td>
+      <td id="contentFont" width="135" align="left" valign="top"> <br><br><br><br> 0172-7321751 <br>
+	   <a href="mailto:h.scheuermann@hausfinanzkontor.de"><img src="MailSymbol2.jpg" width="15" height="10" border="0"></a>
+	  </td>
           
-      <td id="contentFont" width="140" align="left" valign="top">&nbsp; </td>
+
         </tr>
 		<tr id="contentFont">
           

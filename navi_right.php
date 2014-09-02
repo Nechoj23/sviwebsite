@@ -26,10 +26,6 @@
 <span class="Stil6">
 
 
-&nbsp;&nbsp;31.08.14<br />
-&nbsp;&nbsp;Saisonauftakt der<br />
-&nbsp;&nbsp;Aktiven Mannschaften<br />
-&nbsp;&nbsp;&nbsp;--------------<br /> 
 &nbsp;&nbsp;07.12.14<br />
 &nbsp;&nbsp;Hallenspieltag <br />
 &nbsp;&nbsp;in Illingen<br />

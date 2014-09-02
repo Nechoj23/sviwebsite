@@ -122,11 +122,11 @@
     <div id="saison1"> 
       <div id="navi2"> 
       	<!--<a href="spielplan_SVI1_11-12.pdf" target="_blank">SPIELPLAN 1.MANNSCHAFT</a> -->
-        <a href="http://ergebnisdienst.fussball.de/staffelspielplan/bezirksliga/bezirk-enz-murr/bezirksliga/herren/spieljahr1314/wuerttemberg/-/staffel/01HIJ5B5CG000000VV0AG812VU0P4H9C-G/mandant/35" target="_blank">ERGEBNISSE 1.MANNSCHAFT</a> 
-        <a href="http://ergebnisdienst.fussball.de/tabelle/bezirksliga/bezirk-enz-murr/bezirksliga/herren/spieljahr1314/wuerttemberg/-/staffel/01HIJ5B5CG000000VV0AG812VU0P4H9C-G/mandant/35" target="_blank">TABELLE 1.MANNSCHAFT</a>
+        <a href="http://www.fussball.de/spielplan/kreisliga-a-3-bezirk-enz-murr-kl-kreisliga-a-herren-saison1415-wuerttemberg/-/staffel/01L7H6H58C000001VV0AG813VSP6T6E0-G" target="_blank">ERGEBNISSE 1.MANNSCHAFT</a> 
+        <a href="http://www.fussball.de/spieltag/kreisliga-a-3-bezirk-enz-murr-kl-kreisliga-a-herren-saison1415-wuerttemberg/-/staffel/01L7H6H58C000001VV0AG813VSP6T6E0-G#!/section/matches" target="_blank">TABELLE 1.MANNSCHAFT</a>
         <!--<a href="spielplan_SVI2_11-12.pdf" target="_blank">SPIELPLAN 2.MANNSCHAFT</a> -->
-        <a href="http://ergebnisdienst.fussball.de/staffelspielplan/kreisliga-c-5/bezirk-enz-murr-kl/kreisliga-c/herren/spieljahr1314/wuerttemberg/-/staffel/01HJHF6PN8000000VV0AG812VU0P4H9C-G/mandant/35" target="_blank">ERGEBNISSE 2.MANNSCHAFT</a> 
-        <a href="http://ergebnisdienst.fussball.de/tabelle/kreisliga-c-5/bezirk-enz-murr-kl/kreisliga-c/herren/spieljahr1314/wuerttemberg/-/staffel/01HJHF6PN8000000VV0AG812VU0P4H9C-G/mandant/35" target="_blank">TABELLE 2.MANNSCHAFT</a>      </div>
+        <a href="http://www.fussball.de/spielplan/kreisliga-b-5-bezirk-enz-murr-kl-kreisliga-b-herren-saison1415-wuerttemberg/-/staffel/01L7O7B0S8000000VV0AG812VVHQG9J2-G#!/section/stage" target="_blank">ERGEBNISSE 2.MANNSCHAFT</a> 
+        <a href="http://www.fussball.de/spieltag/kreisliga-b-5-bezirk-enz-murr-kl-kreisliga-b-herren-saison1415-wuerttemberg/-/staffel/01L7O7B0S8000000VV0AG812VVHQG9J2-G#!/" target="_blank">TABELLE 2.MANNSCHAFT</a>      </div>
     </div>
 
     <div id="jugend"> 

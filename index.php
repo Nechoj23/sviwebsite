@@ -798,44 +798,34 @@ Hierbei möchten wir auch nochmals auf unsere Dauerkarten aufmerksam machen, die 
 
 
 
-    <!--
+  
 
           <tr>
 
-        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong>Kelterfest: Förderverein und Abteilung sagen Danke! </strong><br>
+        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong>Vereinsaktion in Kooperation
+mit "Micha's Freizeitshop"		</strong><br>
 
 
-
-<p>Das hat ja wunderbar gepasst! Pünktlich zum Festbeginn und genau 167 Stunden nach dem grandiosen Aufstieg unserer ersten Mannschaft in die Bezirksliga hat sich das Wetter schlagartig verändert, so dass wir ein rundum gelungenes 40. Dorf- und Kelterfest feiern durften.
-
-<br>Wir möchten uns auf diesem Wege bei all unseren Gästen für den regen Besuch unserer Partymeile und des Pizzastandes sehr herzlich bedanken. <br>
-
-Besten Dank auch allen unseren Helfern, die nach den anstrengenden Feierlichkeiten des vergangenen Wochenendes schon wieder kräftig mit anpacken mussten. Ohne diese tolle Crew wäre so eine Sache niemals möglich. Auch möchten wir uns bei den Anwohnern für die Toleranz bedanken (es war wie immer etwas laut!); und - ohne „unsere“  Scheune hätten wir auch ein Problem...<br>
-
-Ein Wort noch zum „Maestro de la Pizza“: Michele Pucci, dem wir diesen genialen Pizzateig verdanken, hatte sich den Sonntagnachmittag auch etwas gemütlicher vorgestellt. Kaum hatten wir eine zusätzliche Menge an Teig geordert, musste er schon wieder ins Auto sitzen, denn die Tomatensauce hat auch nicht gereicht. Dann kam der Käse... Michele, Hut ab und vielen Dank!<br>
-
-Letztendlich wollen wir uns auch bei der Gemeinde Illingen sowie bei  Rolf Palmer und Klaus Kluge vom Arbeitskreis der Vereine für die Unterstützung in wichtigen Bereichen sehr herzlich bedanken.<br>
-
-Wie gesagt: Es hat alles gepasst!
-
+<p> Im Zeitraum von 08. September bis 20. September 2014 bietet der SVI in Kooperation mit "Micha's Freizeitshop" in Vaihingen/Enz seinen
+Mitglieder wieder die Möglichkeit, sich kostengünstig mit Trainingsbekleidung der Marke "Jako" auszustatten. Alle weiteren Infos finden Sie
+auf dem Flyer.
 </p>
-
+<p> <a href="bilder/aktion_micha_14.jpg"><img src="bilder/aktion_micha_14_k.jpg" width="150" alt="Aktion Micha" align="top"></a><br>   </p> 
 <br />
+
 
         </div></td>
 
-        </tr> -->
-
+        </tr> 
        <tr>
 
-       <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"><strong> Saisonauftakt der aktiven Mannschaften!</strong><br>
+       <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"><strong> Pokalspiele der aktiven Mannschaften!</strong><br>
 
         
-         <p> Die beiden aktiven Mannschaften des SVI starten am kommenden Sonntag (31. August) mit ihren ersten Punktspielen in die neue Saison.
-		 Die erste Mannschaft tritt dabei um 15.00 Uhr beim TSV Bönnigheim I an, während die zweite Mannschaft schon um 13.15 Uhr im Derby beim
-		 TSV Phönix Lomersheim II aufläuft.<br>
-		 Nur drei Tage später am Mittwoch, dem 03. September, steht bereits die erste Runde im Bezirkspokal an. Die erste Mannschaft ist dabei 
-		 zu Gast beim  TSV Häfnerhaslach I, die zweite Mannschaft empfängt  zuhause im Eichwaldpark den FV Kirchheim I. Beide Spiele beginnen
+         <p> 
+		 Am kommenden Mittwoch (03. September) steht für die beiden aktiven Mannschaften die erste Runde im Bezirkspokal an. Die erste Mannschaft 
+		 ist dabei zu Gast beim  TSV Häfnerhaslach I (Kreisliga B5), die zweite Mannschaft empfängt  zuhause im Eichwaldpark den FV Kirchheim I (Bezirksliga). Beide 
+		 Spiele beginnen
 		 um 19.30 Uhr.<br>
 		
 
@@ -2128,14 +2118,14 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
         </tr>
 
 -->
-
+<!--
 
    <tr>          <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>        </tr>
  <tr>
 
         <td id="ueber2"><div><strong>* Vorbereitung:</strong></font></div></td>
 
-      </tr>	<!-- <tr>                <td id="contentfont" style= "text-align:right;"><div align="left"> <a href="vorbereitungsplan_sommer_14.xls"><em>>>> zum Vorbereitungsplan <<<</em> </div></td>             </tr> -->
+      </tr> -->	<!-- <tr>                <td id="contentfont" style= "text-align:right;"><div align="left"> <a href="vorbereitungsplan_sommer_14.xls"><em>>>> zum Vorbereitungsplan <<<</em> </div></td>             </tr> -->
 
 
 
@@ -2164,7 +2154,7 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
                 <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
 
              </tr> -->
-    <tr>
+  <!--  <tr>
 
           <td id="contentfont" style= "text-align:left; padding-left:50px;"><strong> **Ergebnisse:</strong></td>
 
@@ -2172,26 +2162,6 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
 		<tr>          <td id="contentfont" style= "text-align:left; padding-left:50px;">TV Flein I - SV Illingen I&nbsp;  3:4 (1:3)<br/>            
 		<span class="Stil20"><em>Torsch&uuml;tzen: Tobias Häfner, Matthias Stocker, Patrick Schüle, Fabio Tricarico</em></span> </td>        </tr> 
 
-
-		<tr>          <td id="contentfont" style= "text-align:left; padding-left:50px;">TSV Schwieberdingen I - SV Illingen I&nbsp;  0:2 (0:1)<br/>            
-		<span class="Stil20"><em>Torsch&uuml;tzen: Fabio Tricarico, Pasquale Arena</em></span> </td>        </tr> 
-						<tr>          <td id="contentfont" style= "text-align:left; padding-left:50px;">TSV Maulbronn I - SV Illingen II&nbsp;  2:4 (1:1)<br/>            
-		<span class="Stil20"><em>Torsch&uuml;tzen: Matthias Hitzler, Marco Klein, Fabio Tricarico, Lukas Strauß</em></span> </td>        </tr> 
-				<tr>          <td id="contentfont" style= "text-align:left; padding-left:50px;">SV Illingen I - Viktoria Enzberg I&nbsp;  5:2 (2:2)<br/>            
-		<span class="Stil20"><em>Torsch&uuml;tzen: Marcel Liebendörfer, Tobias Häfner, Michali Gatsas, Fabio Tricarico, Oliver Rapp</em></span> </td>        </tr> 
-
-				<tr>          <td id="contentfont" style= "text-align:left; padding-left:50px;">SV Illingen II - TSV Schwieberdingen II&nbsp;  3:2 (1:0)<br/>            
-		<span class="Stil20"><em>Torsch&uuml;tzen: Marco Klein, Birol Aladag, Lukas Strauß</em></span> </td>        </tr> 
-
-				<tr>          <td id="contentfont" style= "text-align:left; padding-left:50px;">SV Illingen I - Spfr. Mühlacker I&nbsp;  7:0 (2:0)<br/>            
-		<span class="Stil20"><em>Torsch&uuml;tzen: 3x Fabio Tricarico, Eros Schembri, Pasquale Arena, Tobias Häfner, Eigentor</em></span> </td>        </tr> 
-			<tr>          <td id="contentfont" style= "text-align:left; padding-left:50px;">TSV Korntal I - SV Illingen I&nbsp;  0:5 (0:4)<br/>            
-		<span class="Stil20"><em>Torsch&uuml;tzen: 2x Tobias Häfner, 2x Tim Scheuermann, Pasquale Arena</em></span> </td>        </tr> 
-		<tr>          <td id="contentfont" style= "text-align:left; padding-left:50px;">SV Illingen I - VfB Vaihingen/Enz I&nbsp;  10:0 (2:0)<br/>            
-		<span class="Stil20"><em>Torsch&uuml;tzen: 3x Fabio Tricarico, 2x Pasquale Arena, Tim Scheuermann, Marcel Liebendörfer, Michali Gatsas, Matthias Hitzler, Tobias Häfner</em></span> </td>        </tr> 
-					<tr>          <td id="contentfont" style= "text-align:left; padding-left:50px;">SV Illingen II - TSV Nussdorf II&nbsp;  2:2 (2:1)<br/>            
-		<span class="Stil20"><em>Torsch&uuml;tzen: Michali Gatsas, Marcel Liebendörfer</em></span> </td>        </tr> 
-			
 
 		<tr>
 
@@ -2203,7 +2173,7 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
 
         <td height="50px" colspan="7"><hr width="100%" size="1px" noshade style="color:#cccccc; background-color:#CCCCCC;"></td>
 
-      </tr> 
+      </tr>  -->
 
 
 
@@ -2298,22 +2268,22 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
         <td height="50px" colspan="7"><hr width="100%" size="1px" noshade style="color:#cccccc; background-color:#CCCCCC;"></td>
 
       </tr> -->
-<!--
+
  <tr>
         <td id="ueber2"><div><strong>* Meisterschaft:</strong></div></td>
-      </tr> -->
+      </tr> 
          <!--  <tr>
 
                 <td id="contentfont" style= "text-align:right;"><div align="left">Die Illinger Aktiven befinden sich derzeit in der Vorbereitung auf die Saison 2013/2014 </div></td>
 
              </tr> -->
-	<!--		 
+		 
 <tr>
 	<td id="contentfont" style= "text-align:left; padding-left:50px;">
-    	TSV Phönix Lomersheim I vs. SV Illingen I&nbsp; 2:2 (0:1)<br/>
-		<span class="Stil20"><em>Torsch&uuml;tzen: 0:1 und 1:2 Fabio Tricarico</em></span><br>
+    	TSV Bönnigheim I vs. SV Illingen I&nbsp; 0:5 (0:1)<br/>
+		<span class="Stil20"><em>Torsch&uuml;tzen: 0:1 Dominik Knödler, 0:2 und 0:4 Fabio Tricarico, 0:3 und 0:5 Pasquale Arena</em></span><br>
 		<br>
-		<a href="http://ergebnisdienst.fussball.de/spiel/bezirksliga/bezirk-enz-murr/bezirksliga/herren/spieljahr1314/wuerttemberg/-/mandant/35/spiel/01HIJ6MMD8000000VV0AG812VU0P4H9C" target="_blank"><em>mehr Infos zum Spiel</em>
+		<a href="http://www.fussball.de/spiel/-/spiel/01L9BRRHNK000000VV0AG812VVHQG9J2#!/section/stage" target="_blank"><em>mehr Infos zum Spiel</em>
     	</a> 
 	</td>
 </tr>  	
@@ -2321,18 +2291,18 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
  <tr>
         <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
       </tr>
-	 <tr>	<td id="contentfont" style= "text-align:left; padding-left:50px;"> SC Hohenhaslach II vs. SV Illingen II&nbsp; 1:7 (1:3)<br/>		
-<span class="Stil20"><em>Torsch&uuml;tzen: 0:1 Michali Gatsas, 0:2 und 1:3 Matthias Pucci, 1:4 und 1:6 Lukas Strauß, 1:5 Andreas Köppl, 1:7 Marco Klein </em></span><br>	<br>
-<a href="http://ergebnisdienst.fussball.de/spiel/kreisliga-c-5/bezirk-enz-murr-kl/kreisliga-c/herren/spieljahr1314/wuerttemberg/-/mandant/35/spiel/01HLTRI5VG000000VV0AG812VS2HNECA" target="_blank"><em>mehr Infos zum Spiel</em>
-    	</a> 	</td></tr>  	-->
-     <!-- <tr>
+	 <tr>	<td id="contentfont" style= "text-align:left; padding-left:50px;"> TSV Phönix Lomersheim II vs. SV Illingen II&nbsp; 3:0 (1:0)<br/>		
+<span class="Stil20"><em>Torsch&uuml;tzen: --- </em></span><br>	<br>
+<a href="http://www.fussball.de/spiel/-/spiel/01L9BHUVHC000000VV0AG812VVHQG9J2#!/" target="_blank"><em>mehr Infos zum Spiel</em>
+    	</a> 	</td></tr>  
+     <tr>
         <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
       </tr>
 	  	
       <tr>
         <td height="50px" colspan="7"><hr width="100%" size="1px" noshade style="color:#cccccc; background-color:#CCCCCC;"></td>
-      </tr> -->
-
+      </tr> 
+<!--
     <tr>
         <td id="ueber2"><div><strong>* Pokal (Qualifikationsrunde):</strong></font></div></td>
       </tr>
@@ -2343,7 +2313,7 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
       <tr>
                         <td height="50px" colspan="7"><hr width="100%" size="1px" noshade style="color:#cccccc; background-color:#CCCCCC;"></td>
                 </tr>    
-
+-->
  <!-- <tr>
 
         <td id="ueber2"><div><strong>*
@@ -2387,12 +2357,6 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
 	<!-- <tr>                <td id="contentfont" style= "text-align:right;"><div align="left">Die beiden aktiven Mannschaften haben jeweils ihre Saison
 	 beendet und befinden sich in der Sommerpause!</div></td>             </tr> -->
   	 
-	  <tr>        <td id="contentfont" style= "text-align:left;"><p><b>So 31.08</b><b>. 13.15 Uhr</b>          
-	 &nbsp;<img src="bilder/MannschaftsLogos/lomersheim.jpg"alt=" " align="middle"> TSV Phönix Lomersheim II&nbsp;vs. SV Illingen II		
-	  <img src="bilder/MannschaftsLogos/svi_logo55px.jpg" alt=" " align="middle"> </p></td>      </tr>  
-	<tr>        <td id="contentfont" style= "text-align:left;"><p><b>So 31.08</b><b>. 15.00 Uhr</b>          
-	 &nbsp; <img src="bilder/MannschaftsLogos/boennigheim.jpg"alt=" " align="middle">   TSV Bönnigheim I &nbsp;vs. SV Illingen I		
-	  <img src="bilder/MannschaftsLogos/svi_logo55px.jpg" alt=" " align="middle"> </p></td>      </tr>   
 	  
 	  <tr>        <td id="contentfont" style= "text-align:left;"><p><b>So 07.09</b><b>. 13.15 Uhr</b>          
 	 &nbsp;<img src="bilder/MannschaftsLogos/svi_logo55px.jpg"alt=" " align="middle"> SV Illingen II&nbsp;vs. TSV Oberriexingen I		
@@ -2400,6 +2364,13 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
 	<tr>        <td id="contentfont" style= "text-align:left;"><p><b>So 07.09</b><b>. 15.00 Uhr</b>          
 	 &nbsp; <img src="bilder/MannschaftsLogos/svi_logo55px.jpg"alt=" " align="middle">   SV Illingen I &nbsp;vs. TSV Kleinglattbach I		
 	  <img src="bilder/MannschaftsLogos/kleinglattbach.jpg" alt=" " align="middle"> </p></td>      </tr>  
+	  
+	    <tr>        <td id="contentfont" style= "text-align:left;"><p><b>So 14.09</b><b>. 15.00 Uhr</b>          
+	 &nbsp;<img src="bilder/MannschaftsLogos/haefnerhaslach.jpg"alt=" " align="middle"> TSV Häfnerhaslach I&nbsp;vs. SV Illingen II		
+	  <img src="bilder/MannschaftsLogos/svi_logo55px.jpg" alt=" " align="middle"> </p></td>      </tr>  
+	<tr>        <td id="contentfont" style= "text-align:left;"><p><b>So 14.09</b><b>. 15.00 Uhr</b>          
+	 &nbsp; <img src="bilder/MannschaftsLogos/horrheim.jpg"alt=" " align="middle">   SV Horrheim I &nbsp;vs. SV Illingen I		
+	  <img src="bilder/MannschaftsLogos/svi_logo55px.jpg" alt=" " align="middle"> </p></td>      </tr>   
 	  
   <tr>
 
