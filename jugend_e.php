@@ -6,7 +6,7 @@
       <table width="600" border="0" cellpadding="0" cellspacing="0">
         <tr> 
           <td colspan="2" id="contentTable"> 
-            <div align="left">E-Jugend - Jahrg&auml;nge 2003 und 2004</div>
+            <div align="left">E-Jugend - Jahrg&auml;nge 2004 und 2005</div>
           </td>
         </tr>
    
@@ -42,13 +42,13 @@
             <p>Trainer/Betreuer:</p>
 		  </td>
 		  <td width="300" id="contentFont" align="left" valign="top">			  	  
-		    <p>E1: Kreisstaffel 20 <br />
-               E2: Kreisstaffel 26</p> 
+		    <p>E1: Qualistaffel 24 <br />
+               E2: Qualistaffel 25</p> 
 		     
-           <p> <a href="http://ergebnisdienst.fussball.de/begegnungen/e-junioren-kreisstaffel-20/bezirk-enz-murr-kl/e-junioren-kreisstaffel/e-junioren/spieljahr1314/wuerttemberg/-/staffel/01JJO0N9VS000000VV0AG813VV89HAB2-G/mandant/35" target="_blank"> 
-          <em>www.fussball.de</em></a> (Hauptrunde E1)<br />
-            <a href="http://ergebnisdienst.fussball.de/begegnungen/e-junioren-kreisstaffel-26/bezirk-enz-murr-kl/e-junioren-kreisstaffel/e-junioren/spieljahr1314/wuerttemberg/-/staffel/01JJO13B8K000000VV0AG813VV89HAB2-G/mandant/35" target="_blank"> 
-          <em>www.fussball.de</em></a> (Hauptrunde E2) </p>
+           <p> <a href="http://www.fussball.de/spieltag/qualistaffel-24-bezirk-enz-murr-kl-e-junioren-kreisstaffel-e-junioren-saison1415-wuerttemberg/-/staffel/01LI7I84RC000000VV0AG813VVGBTDNI-G" target="_blank"> 
+          <em>www.fussball.de</em></a> (E1)<br />
+            <a href="http://www.fussball.de/spieltag/qualistaffel-25-bezirk-enz-murr-kl-e-junioren-kreisstaffel-e-junioren-saison1415-wuerttemberg/-/staffel/01LI7I851C000001VV0AG813VVGBTDNI-G#!/section/stage" target="_blank"> 
+          <em>www.fussball.de</em></a> (E2) </p>
        <!-- <p>
         <a href="http://ergebnisdienst.fussball.de/begegnungen/qualistaffel-19/bezirk-enz-murr-kl-/e-junioren-kreisstaffeln/e-junioren/spieljahr1213/wuerttemberg/M35S1213W354983" target="_blank">
         <em>www.fussball.de</em></a> (Qualirunde E2)<br />
@@ -57,22 +57,44 @@
 
       <p><strong>E1-Jugend</strong></p>
         
-	       <p>
-        Alexander Knapp<br>
-				  Tel: 0179/2327193<br>
-				  <a href="mailto:alexanderknapp@gmx.net">alexanderknapp@gmx.net</a>			  </p>	
+	 <p>
+        Wolfgang Lenz<br>
+	<!--	Mendelstr. 10<br>
+				  75428 Illingen<br> -->
+				  Tel.: 07042-820561<br>
+				  Handy:  01573-9699166 <br>
+				E-Mail:  <a href="mailto:wolfganglenz@arcor.de">wolfganglenz@arcor.de</a>			  </p>	
                 
                <p>&nbsp;  </p>
 
 		    <p><b>E2-Jugend</b></p> 
 
-        
-            <p>
-        Wolfgang Lenz<br>
-	<!--	Mendelstr. 10<br>
-				  75428 Illingen<br> -->
-				  Tel: 07042-820561<br>
-				E-Mail:  <a href="mailto:wolfganglenz@arcor.de">wolfganglenz@arcor.de</a>			  </p>	
+            
+     <p>Giuseppe Moncada<br>
+         <!-- Eibenweg 12<br>
+                75417 M&uuml;hlacker<br>-->
+          Handy: 0173-3475132<br>
+           E-Mail: <a href="mailto:g.moncada@autohaus-bergle.de">g.moncada@autohaus-bergle.de</a> </p> 
+ 
+         
+      <p> Charly Wöhr<br>
+         
+      
+          Handy: 0151-10503855<br>
+           E-Mail: <a href="mailto:khwoehr@web.de">khwoehr@web.de</a> </p>
+        </p>				
+        <p> Adolf Sattler<br>
+       
+          Handy: 0170-2875444<br>
+      E-Mail: <a href="mailto:adolfsattler@web.de">adolfsattler@web.de   </a> </p>
+	   <p> Nando Corrado<br>
+       
+        <!--  Handy: 0170-2875444<br> -->
+      E-Mail: <a href="mailto:nc.svi@web.de">nc.svi@web.de   </a> </p>
+	  <p> Kai Boppenmeier<br>
+       
+        <!--  Handy: 0170-2875444<br> -->
+      E-Mail: <a href="mailto:c.boppenmaier@web.de">c.boppenmaier@web.de   </a> </p>
                
 			  
        
@@ -87,8 +109,8 @@
 			<td id="contentFont" align="left" valign="top">
 			<p><strong>E1-Jugend</strong></p> 
 				<!--<p>Trainingsstart: <b>Montag 05.09.11 17.00 Uhr</b></p> -->
-        <p>Dienstag 17.30 Uhr - 19.00 Uhr</p>
-        <p>Donnerstag 17.30 Uhr - 19.00 Uhr</p>
+        <p>Dienstag 17.30 Uhr - 19.15 Uhr</p>
+        <p>Donnerstag 17.30 Uhr - 19.15 Uhr</p>
         <!--<p><strong>Halle: </strong>Montag 17.30 Uhr - 19.30 Uhr</p>-->
 			 <p><strong>E2-Jugend</strong></p> 
 		<!--<p>Trainingsstart: <b>Montag 29.08.11 17.30 Uhr</b></p>	-->	

@@ -6,7 +6,7 @@
       <table width="600" border="0" cellpadding="0" cellspacing="0">
         <tr> 
           <td colspan="2" id="contentTable"> 
-            <div align="left">Bambinis - Jahrg&auml;nge 2007 und jünger</div>
+            <div align="left">Bambinis - Jahrg&auml;nge 2008 und jünger</div>
           </td>
         </tr>
         
@@ -33,11 +33,19 @@
 		      <p>nur Freundschaftsspiele und Turniere </p>
 		    
 		    
-        <p>Davide Coledan<br>
-          Handy: 0173-7777167<br>
+        <p>Rüdiger Deckenbach<br>
+		Tel.: 07042-819400 <br>
+          Handy: 0172-3796632<br>
+		  E-Mail: <a href="mailto:ruediger.deckenbach@gmx.de">ruediger.deckenbach@gmx.de</a>
         </p> 
-		  <p>Uli Kicherer<br>
-          Handy: 0176-32655944<br>
+		<p>Selim Demirdag<br>
+   
+        </p> 
+		  <p>Riccardo Solombrino <br>
+          E-Mail: <a href="mailto:riccardo.solombrino@t-online.de">riccardo.solombrino@t-online.de</a>
+        </p> 
+		<p>Nils Greinert<br>
+   
         </p> 
       
 	      </td>

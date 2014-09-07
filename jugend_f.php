@@ -6,7 +6,7 @@
       <table width="600" border="0" cellpadding="0" cellspacing="0">
         <tr> 
           <td colspan="2" id="contentTable"> 
-            <div align="left">F-Jugend - Jahrg&auml;nge 2005 und 2006</div>
+            <div align="left">F-Jugend - Jahrg&auml;nge 2006 und 2007</div>
           </td>
         </tr>
         
@@ -15,14 +15,14 @@
 	  	  	<p>&nbsp;</p>
 		  </td>
         </tr>
-		
+		<!--
 <tr>
           <td colspan="2" id="contentFont">
 	  	  	<p align="center">
                 <img src="Mannschaftsfotos/1314_f.jpg" width="550"><br>
                           </p>
 		  </td>
-        </tr>
+        </tr> -->
         <!--
 		<tr>
           <td colspan="2" id="contentFont">
@@ -42,33 +42,14 @@
 		  <td width="300" id="contentFont" align="left" valign="top">
 		  	<p>Spieltage und Turniere</p>
 			
-
-          
-     <p>Giuseppe Moncada<br>
-         <!-- Eibenweg 12<br>
-                75417 M&uuml;hlacker<br>-->
-          Handy: 0173-3475132<br>
-           E-Mail: <a href="mailto:g.moncada@autohaus-bergle.de">g.moncada@autohaus-bergle.de</a> </p> 
- 
-         
-      <p> Charly Wöhr<br>
-         
-      
-          Handy: 0151-10503855<br>
-           E-Mail: <a href="mailto:khwoehr@web.de">khwoehr@web.de</a> </p>
-        </p>				
-        <p> Adolf Sattler<br>
-       
-          Handy: 0170-2875444<br>
-      E-Mail: <a href="mailto:adolfsattler@web.de">adolfsattler@web.de   </a> </p>
-	   <p> Nando Corrado<br>
-       
-        <!--  Handy: 0170-2875444<br>
-      E-Mail: <a href="mailto:adolfsattler@web.de">adolfsattler@web.de   </a>--> </p>
-	  <p> Kai Boppenmeier<br>
-       
-        <!--  Handy: 0170-2875444<br>
-      E-Mail: <a href="mailto:adolfsattler@web.de">adolfsattler@web.de   </a>--> </p>
+      <p>Davide Coledan<br>
+          Handy: 0174-1989398<br>
+				E-Mail:  <a href="mailto:d.coledan@gmx.de">d.coledan@gmx.de</a>			  
+        </p> 
+		  <p>Uli Kicherer<br>
+          Handy: 0176-32655944<br>
+		  E-Mail:  <a href="mailto:daki5@online.de">daki5@online.de</a>	
+        </p> 
           
 			<p>&nbsp;</p>
 		  </td>
@@ -81,9 +62,9 @@
        
 				<!--<p><b>F-Jugend</b></p> -->
     
-                <p>Dienstag 17.30 - 19.00 Uhr</p>
+                <p>Dienstag 17.00 - 18.30 Uhr</p>
                 
-        <p>Donnerstag 17.30 - 19.00 Uhr</p>
+        <p>Donnerstag 17.00 - 18.30 Uhr</p>
     
 		  </td>
 		</tr>

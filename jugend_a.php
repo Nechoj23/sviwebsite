@@ -6,7 +6,7 @@
       <table width="600" border="0" cellpadding="0" cellspacing="0">
         <tr> 
           <td colspan="2" id="contentTable"> 
-            <div align="left">A-Jugend - Jahrg&auml;nge '95 und '96</div>
+            <div align="left">A-Jugend - Jahrg&auml;nge '96 und '97</div>
           </td>
         </tr>
         
@@ -16,11 +16,11 @@
 		  </td>
         </tr>
 		
-	 <tr> 
-      		<td colspan="2" id="contentFont"> <p align="center"><!--<a href="bilder/a-jugend_trikots.jpg" target="_blank">--> <img src="bilder/a-jugend_trikots.jpg" width="550"><!--</a>--><br>
+	<!-- <tr> 
+      		<td colspan="2" id="contentFont"> <p align="center"> <img src="bilder/a-jugend_trikots.jpg" width="550"><br>
            </p>
 		  	</td>
-        </tr> 
+        </tr> -->
 		</table>
         <!--
 		<table id="contentFont3" width="600" border="0" cellpadding="0" cellspacing="0">
@@ -242,11 +242,11 @@
 		  	  <p>Spielklasse:</p>
 			 <p>Ergebnisdienst:<br> <br></p>
 
-			  <p>Trainer/Betreuer:</p>
+			  <p>Ansprechpartner:</p>
 		  </td>
 		  <td width="300" id="contentFont" align="left" valign="top">	  	    
 		  	  <p>Leistungsstaffel 2</p>
-		 <p><a href="http://ergebnisdienst.fussball.de/begegnungen/leistungsstaffel-2/bezirk-enz-murr-kl/a-junioren-leistungsstaffel/a-junioren/spieljahr1314/wuerttemberg/-/staffel/01HOG6T8Q8000000VV0AG813VU6JDNLO-G/mandant/35" target="_blank"><em>www.fussball.de</em></a></p>              
+		 <p><a href="http://www.fussball.de/spieltag/leistungsstaffel-2-bezirk-enz-murr-kl-a-junioren-leistungsstaffel-a-junioren-saison1415-wuerttemberg/-/staffel/01LGQM334G000001VV0AG813VVBP1KK5-G#!/section/stage" target="_blank"><em>www.fussball.de</em></a></p>              
 		  	<!--  <p>
 				  Franco Paradiso<br>
 				 
@@ -280,8 +280,8 @@
 			</td>
 			<td id="contentFont" align="left" valign="top">
 		<!--<p>Trainingsstart: <b>Dienstag 30.08.11 19.00 Uhr</b></p> -->
-		<p>Dienstag 19.00 Uhr - 20.30 Uhr</p>	
-        <p>Donnerstag 19.00 Uhr - 20.30 Uhr</p>		
+		<p>Mittwoch 17.30 - 19.00 Uhr</p>	
+        <p>Freitag 17.30 - 19.00 Uhr</p>		
         
 		  </td>
 		</tr>

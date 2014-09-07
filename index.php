@@ -817,7 +817,7 @@ auf dem Flyer.
         </div></td>
 
         </tr> 
-       <tr>
+  <!--    <tr>
 
        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"><strong> Pokalspiele der aktiven Mannschaften!</strong><br>
 
@@ -834,7 +834,7 @@ auf dem Flyer.
                        </div></td>
 
       </tr> 
-
+-->
    
 
       <!--
@@ -2280,10 +2280,10 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
 		 
 <tr>
 	<td id="contentfont" style= "text-align:left; padding-left:50px;">
-    	TSV Bönnigheim I vs. SV Illingen I&nbsp; 0:5 (0:1)<br/>
-		<span class="Stil20"><em>Torsch&uuml;tzen: 0:1 Dominik Knödler, 0:2 und 0:4 Fabio Tricarico, 0:3 und 0:5 Pasquale Arena</em></span><br>
+    	SV Illingen I vs. TSV Kleinglattbach I&nbsp; 4:0 (2:0)<br/>
+		<span class="Stil20"><em>Torsch&uuml;tzen: 1:0 und 2:0 Eros Schembri, 3:0 Pasquale Arena, 4:0 Sebastian Schüle</em></span><br>
 		<br>
-		<a href="http://www.fussball.de/spiel/-/spiel/01L9BRRHNK000000VV0AG812VVHQG9J2#!/section/stage" target="_blank"><em>mehr Infos zum Spiel</em>
+		<a href="http://www.fussball.de/spiel/kreisliga-a-3-bezirk-enz-murr-kl-kreisliga-a-herren-saison1415-wuerttemberg/-/spiel/01L9BRRH58000000VV0AG812VVHQG9J2#!/section/mediastream" target="_blank"><em>mehr Infos zum Spiel</em>
     	</a> 
 	</td>
 </tr>  	
@@ -2291,9 +2291,9 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
  <tr>
         <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
       </tr>
-	 <tr>	<td id="contentfont" style= "text-align:left; padding-left:50px;"> TSV Phönix Lomersheim II vs. SV Illingen II&nbsp; 3:0 (1:0)<br/>		
-<span class="Stil20"><em>Torsch&uuml;tzen: --- </em></span><br>	<br>
-<a href="http://www.fussball.de/spiel/-/spiel/01L9BHUVHC000000VV0AG812VVHQG9J2#!/" target="_blank"><em>mehr Infos zum Spiel</em>
+	 <tr>	<td id="contentfont" style= "text-align:left; padding-left:50px;"> SV Illingen II vs. TSV Oberriexingen I&nbsp; 1:2 (1:0)<br/>		
+<span class="Stil20"><em>Torsch&uuml;tzen: Eigentor des Gegners </em></span><br>	<br>
+<a href="http://www.fussball.de/spiel/kreisliga-b-5-bezirk-enz-murr-kl-kreisliga-b-herren-saison1415-wuerttemberg/-/spiel/01L9BHUV34000000VV0AG812VVHQG9J2#!/section/stage" target="_blank"><em>mehr Infos zum Spiel</em>
     	</a> 	</td></tr>  
      <tr>
         <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
@@ -2302,18 +2302,23 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
       <tr>
         <td height="50px" colspan="7"><hr width="100%" size="1px" noshade style="color:#cccccc; background-color:#CCCCCC;"></td>
       </tr> 
-<!--
+
     <tr>
-        <td id="ueber2"><div><strong>* Pokal (Qualifikationsrunde):</strong></font></div></td>
+        <td id="ueber2"><div><strong>* Pokal (1. Runde):</strong></font></div></td>
       </tr>
       <tr>
-          <td id="contentfont" style= "text-align:left; padding-left:50px;">TSV Bönnigheim II - SV Illingen II&nbsp;  0:9 (0:6)<br/>
-            <span class="Stil20"><em>Torsch&uuml;tzen: 3x Fabio Tricarico, 2x Lukas Strauß, Michali Gatsas, Maik Hofmann, Tobias Häfner, Marco Klein</em></span><br><br>
-        </td></tr>                
+          <td id="contentfont" style= "text-align:left; padding-left:50px;">TSV Häfnerhaslach I - SV Illingen I&nbsp;  4:7 (1:2)<br/>
+            <span class="Stil20"><em>Torsch&uuml;tzen: 4x Fabio Tricarico, Dominik Knödler, Pasquale Arena, Eros Schembri</em></span><br><br>
+        </td></tr>  
+  
+	    <tr>
+          <td id="contentfont" style= "text-align:left; padding-left:50px;">SV Illingen II - FV Kirchheim I&nbsp;  4:3 (3:1)<br/>
+            <span class="Stil20"><em>Torsch&uuml;tzen: 2x Lukas Strauß, Daniel Graci, Oliver Lindauer</em></span><br><br>
+        </td></tr> 
       <tr>
                         <td height="50px" colspan="7"><hr width="100%" size="1px" noshade style="color:#cccccc; background-color:#CCCCCC;"></td>
                 </tr>    
--->
+
  <!-- <tr>
 
         <td id="ueber2"><div><strong>*
@@ -2358,12 +2363,6 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
 	 beendet und befinden sich in der Sommerpause!</div></td>             </tr> -->
   	 
 	  
-	  <tr>        <td id="contentfont" style= "text-align:left;"><p><b>So 07.09</b><b>. 13.15 Uhr</b>          
-	 &nbsp;<img src="bilder/MannschaftsLogos/svi_logo55px.jpg"alt=" " align="middle"> SV Illingen II&nbsp;vs. TSV Oberriexingen I		
-	  <img src="bilder/MannschaftsLogos/oberriexingen.jpg" alt=" " align="middle"> </p></td>      </tr>  
-	<tr>        <td id="contentfont" style= "text-align:left;"><p><b>So 07.09</b><b>. 15.00 Uhr</b>          
-	 &nbsp; <img src="bilder/MannschaftsLogos/svi_logo55px.jpg"alt=" " align="middle">   SV Illingen I &nbsp;vs. TSV Kleinglattbach I		
-	  <img src="bilder/MannschaftsLogos/kleinglattbach.jpg" alt=" " align="middle"> </p></td>      </tr>  
 	  
 	    <tr>        <td id="contentfont" style= "text-align:left;"><p><b>So 14.09</b><b>. 15.00 Uhr</b>          
 	 &nbsp;<img src="bilder/MannschaftsLogos/haefnerhaslach.jpg"alt=" " align="middle"> TSV Häfnerhaslach I&nbsp;vs. SV Illingen II		
@@ -2372,13 +2371,22 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
 	 &nbsp; <img src="bilder/MannschaftsLogos/horrheim.jpg"alt=" " align="middle">   SV Horrheim I &nbsp;vs. SV Illingen I		
 	  <img src="bilder/MannschaftsLogos/svi_logo55px.jpg" alt=" " align="middle"> </p></td>      </tr>   
 	  
-  <tr>
+	  
+	  <tr>        <td id="contentfont" style= "text-align:left;"><p><b>So 21.09</b><b>. 13.15 Uhr</b>          
+	 &nbsp;<img src="bilder/MannschaftsLogos/svi_logo55px.jpg"alt=" " align="middle"> SV Illingen II&nbsp;vs. FV Markgröningen I		
+	  <img src="bilder/MannschaftsLogos/markgroeningen.jpg" alt=" " align="middle"> </p></td>      </tr>  
+	<tr>        <td id="contentfont" style= "text-align:left;"><p><b>So 21.09</b><b>. 15.00 Uhr</b>          
+	 &nbsp; <img src="bilder/MannschaftsLogos/svi_logo55px.jpg"alt=" " align="middle">   SV Illingen I &nbsp;vs. FSV 08 Bissingen II		
+	  <img src="bilder/MannschaftsLogos/08bissingen.jpg" alt=" " align="middle"> </p></td>      </tr>  
+	  
+ <!-- <tr>
 
                         <td height="50px" colspan="7">
 
                                 <hr width="100%" size="1px" noshade style="color:#cccccc; background-color:#CCCCCC;">                        </td>
 
-                </tr>  
+                </tr>  -->
+				<!--
  <tr>
 
           <td id="ueber2">
@@ -2412,7 +2420,7 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
                                         </tr>
                                         </table>                </td>
         </tr> 
-  
+   -->
   
 <!--
      <tr>
@@ -2858,9 +2866,14 @@ Lukas Zimmermann, Can Staiger (4), Aaron Petersen, Tobias Spechtenhauser (5), Da
    <tr>
 
           <td id="contentfont" style= "text-align:right;"><div align="left">Die Illinger Jugendmannschaften befinden sich in der Sommerpause bzw. bereiten
-		  sich auf die neue Saison 2014/2015 vor!</div></td>
+		  sich auf die neue Saison 2014/2015 vor! <br> <br>
+		  Die aktuellen Ansprechpartner und Trainingszeiten der verschiedenen Jugenden finden Sie auf der jeweiligen Jugend-Seite (zu finden unter "Mannschaften" >>> "Jugend")</div></td>
+		  
 
         </tr> 
+		
+		
+		
 
    						
 			

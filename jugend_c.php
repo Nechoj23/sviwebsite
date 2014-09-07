@@ -6,25 +6,24 @@
       <table width="600" border="0" cellpadding="0" cellspacing="0">
         <tr> 
           <td colspan="2" id="contentTable"> 
-            <div align="left">C-Jugend - Jahrg&auml;nge '99 und '00</div>
+            <div align="left">C-Jugend - Jahrg&auml;nge 2000 und 2001</div>
           </td>
         </tr>
+		<tr>
+          <td colspan="2" id="contentFont" align="center" valign="top">
+	  	  	<div align="center"><a href="http://sv-illingen-2001.jimdo.com/" target="_blank"><em><font size="+1"> >> zur Homepage der C-Jugend <<</font></em></a>  	        </div></td> </tr>
         
         <tr>
           <td colspan="2" height="50px">
 	  	  	<p>&nbsp;</p>
 		  </td>
         </tr> 
-	<tr> 
+	<!--<tr> 
       		<td colspan="2" id="contentFont"> <p align="center"><a href="Mannschaftsfotos/1314_c_g.jpg" target="_blank"> <img src="Mannschaftsfotos/1314_c.jpg" width="550" height="366"></a><br>
            </p>
 		  	</td>
-        </tr> 
-		      <tr>
-          <td colspan="2" height="50px">
-	  	  	<p>&nbsp;</p>
-		  </td>
-        </tr> 
+        </tr> -->
+		 <!-- 
 		<table id="contentFont3" width="600" border="0" cellpadding="0" cellspacing="0">
 		<tr> 
           <td colspan="20" id="contentTable"> <div align="left"><font size="-2">Mannschaftskader</font></div>          </td>
@@ -249,30 +248,36 @@
     <tr> 
       <td height="50px" colspan="7"> <hr width="100%" size="1px" noshade style="color:#cccccc; background-color:#CCCCCC;">      </td>
     </tr> 
-  </table>
+  </table> -->
     <table width="600" border="0" cellpadding="0" cellspacing="0">
         <tr> 
           <td width="200" id="contentFont" align="right" valign="top">	        
-		      <p>Spielklasse:</p>
-	 <p>Ergebnisdienst::</p
-			  ><p>Trainer/Betreuer::</p>
+		      <p>Spielklasse: <br /><br /></p>
+	 <p>Ergebnisdienst: <br /><br /></p>
+			  <p>Trainer/Betreuer:</p>
 		  </td>
 		  <td width="300" id="contentFont" align="left" valign="top">	  	    
-		      <p>Leistungsstaffel 3</p>
-			  <p><a href="http://ergebnisdienst.fussball.de/begegnungen/leistungsstaffel-3/bezirk-enz-murr-kl/c-junioren-leistungsstaffel/c-junioren/spieljahr1314/wuerttemberg/-/staffel/01HOOGCNLG000000VV0AG813VUVOAU5J-G/mandant/35" target="_blank"><em>www.fussball.de</em></a></p>
+		      <p>Leistungsstaffel 3 (C1) <br />
+			  C7 - Kreistaffel 1 (C2)</p>
+			  <p><a href="http://www.fussball.de/spieltag/leistungsstaffel-3-bezirk-enz-murr-kl-c-junioren-leistungsstaffel-c-junioren-saison1415-wuerttemberg/-/staffel/01LI73ET3C000001VV0AG813VVGBTDNI-G" target="_blank">
+			  <em>www.fussball.de</em></a> (C1)<br />
+			  <a href="http://www.fussball.de/spieltag/c7-kreisstaffel-1-bezirk-enz-murr-kl-c-junioren-kreisstaffel-c-junioren-saison1415-wuerttemberg/-/staffel/01LI74BEMS000001VV0AG813VVGBTDNI-G#!/section/stage" target="_blank">
+			  <em>www.fussball.de</em></a> (C2)</p>
             
-          <p>
-				Marcello Solombrino<br>
-				<!--Dillmannstr. 27<br>
-				75428 Illingen<br> -->
-				Tel: 07042-6969<br>
-				Handy: 0157-56195648<br>
-				<a href="mailto:marcello.solombrino@t-online.de">marcello.solombrino@t-online.de</a>			</p>
-         <!--  <p> Dominik Kn&ouml;dler<br />
-			 
-			    Tel: 07042-23762<br />
-			    Handy: 0170-4936214<br />
-  <a href="mailto:dodo.k11@web.de" target="_blank">dodo.k11@web.de</a> </p>		-->  
+             <p> Frank Lindauer<br>
+          Tel.: 07042-23536<br>
+          Handy: 0162-1077837<br>
+          E-Mail: <a href="mailto:frank.lindauer@mahle.com">frank.lindauer@mahle.com</a>			</p>
+			
+            
+			<p>
+                Jochen Mitschelen<br>
+                Handy: 0170-9943536<br>
+            E-Mail: <a href="mailto:jo.mitschelen@gmx.de">jo.mitschelen@gmx.de</a> </p>
+			<p>
+                Mehmet Mat<br>
+     </p>
+
        
      
         
@@ -285,8 +290,9 @@
 			</td>
 			<td id="contentFont" align="left" valign="top">
       <!--  <p>Trainingsstart: <b>Montag 26.08.13 17.30 Uhr</b></p> -->
-		<p>Montag 17.30 Uhr - 19.30 Uhr</p>	
-        <p>Mittwoch 17.30 Uhr - 19.30 Uhr</p>
+		<p>Montag 18.00 Uhr - 19.30 Uhr</p>	
+        <p>Mittwoch 18.00 Uhr - 19.30 Uhr</p>
+		   <p>Freitag 18.00 Uhr - 19.30 Uhr</p>
  
        <p>&nbsp;</p>
 <!-- <p>     Torspieler-Training: Mittwoch 18.00 - 19.00 Uhr</p> -->

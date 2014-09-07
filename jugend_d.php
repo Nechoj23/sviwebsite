@@ -6,12 +6,10 @@
       <table width="600" border="0" cellpadding="0" cellspacing="0">
         <tr> 
           <td colspan="2" id="contentTable"> 
-            <div align="left">D-Jugend - Jahrg&auml;nge '01 und '02</div>
+            <div align="left">D-Jugend - Jahrg&auml;nge 2002 und 2003</div>
           </td>
         </tr>
-<tr>
-          <td colspan="2" id="contentFont" align="center" valign="top">
-	  	  	<div align="center"><a href="http://sv-illingen-2001.jimdo.com/" target="_blank"><em><font size="+1"> >> zur Homepage der D1-Jugend <<</font></em></a>  	        </div></td> </tr>
+
         
 		<tr>
           <td colspan="2" height="50px">
@@ -277,27 +275,23 @@
             <p>Trainer/Betreuer:</p>
 		  </td>
 		  <td width="300" id="contentFont" align="left" valign="top">			  	  
-		      <p>Leistungsstaffel (D1) / Kreisstaffel 11 (D2)</p>
-	           <p><a href="http://ergebnisdienst.fussball.de/begegnungen/leistungsstaffel-1/bezirk-enz-murr-kl/d-junioren-leistungsstaffel/d-junioren/spieljahr1314/wuerttemberg/-/staffel/01JI0J2T9G000000VV0AG813VV89HAB2-G/mandant/35" target="_blank"> <em>www.fussball.de</em></a> (D1-Jugend)<br />
-               <a href="http://ergebnisdienst.fussball.de/begegnungen/kreisstaffel-11/bezirk-enz-murr-kl/d-junioren-kreisstaffel/d-junioren/spieljahr1314/wuerttemberg/-/staffel/01JI0T3BU8000000VV0AG813VV89HAB2-G/mandant/35"> <em>www.fussball.de</em></a> (D2-Jugend)              </p>
+		      <p>Quali-Staffel 12 (D1) / D7 - Kreisstaffel 3 (D2)</p>
+	           <p><a href="http://www.fussball.de/spieltag/d-quali-staffel-12-bezirk-enz-murr-kl-d-junioren-kreisstaffel-d-junioren-saison1415-wuerttemberg/-/staffel/01LI7B37O4000001VV0AG813VVGBTDNI-G" target="_blank"> <em>www.fussball.de</em></a> (D1)<br />
+               <a href="http://www.fussball.de/spieltag/d7-kreisstaffel-3-bezirk-enz-murr-kl-d-junioren-kreisstaffel-d-junioren-saison1415-wuerttemberg/-/staffel/01LI7F6G60000001VV0AG813VVGBTDNI-G"> <em>www.fussball.de</em></a> (D2)              </p>
                <p><strong>D1-Jugend</strong></p>
-            <p> Frank Lindauer<br>
-        <!--  Kirchstr. 23<br>
-				75428 Illingen<br> 
-          Tel: 07042-374723<br>-->
-          Telefon: 07042/23536<br>
-          Handy: 0162/1077837<br>
-          E-Mail: <a href="mailto:frank.lindauer@mahle.com">frank.lindauer@mahle.com</a>			</p>
+            <p>        Alexander Köppl<br>				
+			Tel.:  07042-22923<br>		Handy: 0171-3672714<br />       
+			<a href="mailto:alex_steffi@arcor.de">alex_steffi@arcor.de</a>         </p>			 
+            <p>                Uwe Landsperger <br>           
+			Tel.:  07042-820416<br>		Handy: 0173-5444623<br />      
+			<a href="mailto:eu@freenet.de">eu@freenet.de</a> </p>
 			
-             <p>
-                Jochen Mitschelen<br>
-              <!--Geschwister-Scholl-Str. 6
-                <br>
-                75428 Illingen<br> -->
-                Handy: 0163/3311155<br>
-            E-Mail: <a href="mailto:jo.mitschelen@gmx.de">jo.mitschelen@gmx.de</a> </p>             <p>                Marcel Liebendörfer<br>                Handy: 0170/3122719<br></p>
 			
-			<p><strong>D2-Jugend</strong></p>	 <p>        Alexander Köppl<br>				Tel:  07042-22923<br>		Handy: 0171-3672714<br />        <a href="mailto:alex_steffi@arcor.de">alex_steffi@arcor.de</a>         </p>			             <p>                Uwe Landsperger <br>              Tel:  07042-820416<br>		Handy: 0173-5444623<br />        <a href="mailto:eu@freenet.de">eu@freenet.de</a> </p>
+			<p><strong>D2-Jugend</strong></p>	
+			   <p>
+        Alexander Knapp<br>
+				  Handy: 0179/2327193<br>
+				  <a href="mailto:alexanderknapp@gmx.net">alexanderknapp@gmx.net</a>			  </p>	
 			  <p>&nbsp;</p>
 		  </td>
         </tr>
@@ -309,9 +303,9 @@
 			<td id="contentFont" align="left" valign="top">
 				<!--<p>Trainingsstart: <b>Montag 29.08.11 17.30 Uhr</b></p> -->
 		<p><strong>D1-Jugend:</strong></p>
-        <p>Montag 17.30 Uhr - 19.00 Uhr</p>
-        <p>Mittwoch 17.30 Uhr - 19.00 Uhr</p>
-        <p>Freitag 16.00 Uhr - 17.00 Uhr (Halle)</p>
+        <p>Montag 18.00 Uhr - 19.30 Uhr</p>
+        <p>Mittwoch 18.00 Uhr - 19.30 Uhr</p>
+
         
         <p><strong>D2-Jugend:</strong></p>		
         <p>Montag 18.00 Uhr - 19.30 Uhr</p>        

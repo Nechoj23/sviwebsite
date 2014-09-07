@@ -6,7 +6,7 @@
       <table width="600" border="0" cellpadding="0" cellspacing="0">
         <tr> 
           <td colspan="2" id="contentTable"> 
-            <div align="left">B-Jugend - Jahrg&auml;nge '97 und '98</div>
+            <div align="left">B-Jugend - Jahrg&auml;nge '98 und '99</div>
           </td>
         </tr>
 
@@ -27,8 +27,8 @@
 			  <p>Trainer/Betreuer:</p>
 		  </td>
 		  <td width="300" id="contentFont" align="left" valign="top">	  	    
-		      <p>Leistungsstaffel 2</p>
-			  <p><a href="http://ergebnisdienst.fussball.de/begegnungen/leistungsstaffel-2/bezirk-enz-murr-kl/b-junioren-leistungsstaffel/b-junioren/spieljahr1314/wuerttemberg/-/staffel/01HOGE42U4000000VV0AG813VU6JDNLO-G/mandant/35" target="_blank"><em>www.fussball.de</em></a></p>
+		      <p>Leistungsstaffel 1</p>
+			  <p><a href="http://www.fussball.de/spieltag/leistungsstaffel-1-bezirk-enz-murr-kl-b-junioren-leistungsstaffel-b-junioren-saison1415-wuerttemberg/-/staffel/01LGQS2GJC000001VV0AG813VVBP1KK5-G" target="_blank"><em>www.fussball.de</em></a></p>
               
      <!--    <p>
         Alex Corrado<br>
@@ -40,13 +40,16 @@
            
 
   	       <p>
-        Pasquale Arena<br />
-        Handy: 0176-83218968<br />
-        <a href="mailto:Attilio91@gmx.net" target="_blank">Attilio91@gmx.net</a></p>
+        Tobias Häfner<br />
+        0157-89270551<br />
+       </p>
         
-        <p> Alessandro Greco<br>
-          Handy: 0172-7749380<br>
-		    <a href="mailto:sandrogr@t-online.de">sandrogr@t-online.de</a></p>
+        <p> Marcel Liebendörfer<br>
+          0170-3122719<br>
+		 </p>
+		  <p> Denis Rommel<br>
+         0157-88877136<br>
+		 </p>
           </td>
         </tr>
 		<tr>
@@ -55,8 +58,8 @@
 			</td>
 			<td id="contentFont" align="left" valign="top">
            <!-- <p>Trainingsstart: <b>Mittwoch 17.08.11 18.00 Uhr</b></p> -->
-		<p>Mittwoch 18.00 Uhr - 19.30 Uhr</p>	
-        <p>Freitag 18.00 Uhr - 19.30 Uhr</p>
+		<p>Mittwoch 17.30 Uhr - 19.00 Uhr</p>	
+        <p>Freitag 17.30 Uhr - 19.00 Uhr</p>
         <p>&nbsp;</p>
 <!--<p>     Torspieler-Training: Mittwoch 18.00 - 19.00 Uhr</p> -->
 		  </td>
