@@ -50,6 +50,9 @@
           Handy: 0176-32655944<br>
 		  E-Mail:  <a href="mailto:daki5@online.de">daki5@online.de</a>	
         </p> 
+		  <p>Simon Fink<br>
+		  E-Mail:  <a href="mailto:linafink@web.de">linafink@web.de</a>	
+        </p> 
           
 			<p>&nbsp;</p>
 		  </td>
