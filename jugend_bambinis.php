@@ -35,11 +35,12 @@
 		    
         <p>Rüdiger Deckenbach<br>
 		Tel.: 07042-819400 <br>
-          Handy: 0172-3796632<br>
+          Handy: 0173-3103091 <br>
 		  E-Mail: <a href="mailto:ruediger.deckenbach@gmx.de">ruediger.deckenbach@gmx.de</a>
         </p> 
 		<p>Selim Demirdag<br>
-   
+    Handy: 0157-75449780  <br>
+	 E-Mail: <a href="mailto:steffiessig@gmx.de">steffiessig@gmx.de</a>
         </p> 
 		  <p>Riccardo Solombrino <br>
           E-Mail: <a href="mailto:riccardo.solombrino@t-online.de">riccardo.solombrino@t-online.de</a>
