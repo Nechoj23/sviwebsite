@@ -14,7 +14,7 @@
      
     
     <tr> 
-      <td width="272" class="big"><a href="bilder/AktiveSpieler/dummy.jpg" target="_blank"><img src="bilder/AktiveSpieler/dummy_m.jpg" width="240" height="320"> 
+      <td width="272" class="big"><img src="bilder/AktiveSpieler/timscheuermann.jpg" width="240" height="320"> 
       </td>
       <td width="278" valign="top"><table width="287" class="profil">
           <tr class="roww1 entries"> 
@@ -31,7 +31,7 @@
           </tr>
           <tr class="roww2 entries"> 
             <td class="col1"><font color="#0066cc">Beruf:</font></td>
-            <td><font color="#0066cc">Schüler</font></td>
+            <td><font color="#0066cc">Azubi</font></td>
           </tr>
           <tr class="roww1 entries"> 
             <td bgcolor="#CCCCCC" class="col1"><font color="#0066cc">f</font><font color="#0066cc">rüherer 

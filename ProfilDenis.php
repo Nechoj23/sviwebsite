@@ -14,7 +14,7 @@
      
     
     <tr> 
-      <td width="272" class="big"><a href="bilder/AktiveSpieler/denisRommel_g.jpg" target="_blank"><img src="bilder/AktiveSpieler/denisRommel.jpg" width="240" height="320"> 
+      <td width="272" class="big"><target="_blank"><img src="bilder/AktiveSpieler/denisrommel2.jpg" width="240" height="320"> 
       </td>
       <td width="278" valign="top"><table width="287" class="profil">
           <tr class="roww1 entries"> 

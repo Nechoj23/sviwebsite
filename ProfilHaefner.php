@@ -14,7 +14,7 @@
      
     
     <tr> 
-      <td width="272" class="big"><a href="bilder/AktiveSpieler/tobseHaefner_g.jpg" target="_blank"><img src="bilder/AktiveSpieler/tobseHaefner.jpg" width="240" height="320"> 
+      <td width="272" class="big"><img src="bilder/AktiveSpieler/haefner.jpg" width="240" height="320"> 
       </td>
       <td width="278" valign="top"><table width="287" class="profil">
           <tr class="roww1 entries"> 

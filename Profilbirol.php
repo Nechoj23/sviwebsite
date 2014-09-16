@@ -15,7 +15,7 @@
      
     
     <tr> 
-      <td width="272" class="big"><a href="bilder/AktiveSpieler/birol_g.JPG" target="_blank"> <img src="bilder/AktiveSpieler/birol.JPG" width="240" height="320"> 
+      <td width="272" class="big"> <img src="bilder/AktiveSpieler/birol2.jpg" width="240" height="320"> 
       </td>
       <td width="278" valign="top"><table width="261" class="profil">
 	  

@@ -112,7 +112,7 @@
       <td colspan="7">&nbsp;</td>
     </tr>
     <tr> 
-      <td width="272" class="big"><img src="bilder/a_jugend/nic.jpg" width="240" height="320"> 
+      <td width="272" class="big"><img src="bilder/AktiveSpieler/nic2.jpg" width="240" height="320"> 
       </td>
       <td width="278" valign="top"><table width="319" class="profil">
           <tr bgcolor="#CCCCCC" class="roww1 entries"> 
@@ -405,7 +405,7 @@
           
         </table></td>
     </tr>
-	  <!--<tr> 
+	 <tr> 
       <td height="50px" colspan="7"> <hr width="100%" size="1px" noshade style="color:#cccccc; background-color:#CCCCCC;"> 
       </td>
     </tr>
@@ -413,7 +413,7 @@
       <td colspan="7">&nbsp;</td>
     </tr>
   <tr> 
-      <td width="272" class="big"><img src="bilder/AktiveSpieler/steffi.jpg" width="240" height="320"> 
+      <td width="272" class="big"><img src="bilder/AktiveSpieler/dummy_m.jpg" width="240" height="320"> 
       </td>
       <td width="278" valign="top"><table width="319" class="profil">
           <tr bgcolor="#CCCCCC" class="roww1 entries"> 
@@ -422,33 +422,26 @@
           </tr>
           <tr bgcolor="#FFFFFF" class="roww1 entries"> 
             <td width="113" class="col1"><font color="#0066cc">Name:</font></td>
-            <td width="174"><font color="#0066cc">Stephanie Tielesch</font></td>
+            <td width="174"><font color="#0066cc">Lisette Templin</font></td>
           </tr>
-          <tr bgcolor="#CCCCCC" class="roww2 entries"> 
+        <!--  <tr bgcolor="#CCCCCC" class="roww2 entries"> 
             <td class="col1"><font color="#0066cc">Geburtsdatum:</font></td>
             <td><font color="#0066cc">22.09.1978</font></td>
-          </tr>
-          <tr bgcolor="#FFFFFF" class="roww2 entries"> 
+          </tr> -->
+          <tr bgcolor="#CCCCCC" class="roww2 entries"> 
             <td height="21" class="col1"><font color="#0066cc">im Verein seit:</font></td>
-            <td><font color="#0066cc">2007</font></td>
+            <td><font color="#0066cc">2013</font></td>
           </tr>
-          <tr bgcolor="#FFFFFF" class="roww2 entries"> 
+         <!-- <tr bgcolor="#FFFFFF" class="roww2 entries"> 
             <td class="col1"><font color="#0066cc">Spielerstationen:</font></td>
             <td><font color="#0066cc">VfB Vaihingen/Enz</font></td>
-          </tr>
+          </tr> -->
 
-          <tr bgcolor="#CCCCCC" class="roww2 entries"> 
-            <td valign="top" class="col1"><font color="#0066cc">Telefon:</font></td>
-            <td>&nbsp;</td>
-          </tr>
-          <tr bgcolor="#FFFFFF" class="roww2 entries"> 
-            <td class="col1"><font color="#0066cc">E-Mail:</font></td>
-            <td>&nbsp;</td>
-          </tr>
+      
 
           
         </table></td>
-    </tr> -->
+    </tr> 
 	<tr> 
       <td height="50px" colspan="7"> <hr width="100%" size="1px" noshade style="color:#cccccc; background-color:#CCCCCC;"> 
       </td>
