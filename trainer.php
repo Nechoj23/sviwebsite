@@ -112,7 +112,7 @@
       <td colspan="7">&nbsp;</td>
     </tr>
     <tr> 
-      <td width="272" class="big"><img src="bilder/AktiveSpieler/nic2.jpg" width="240" height="320"> 
+      <td width="272" class="big"><img src="bilder/a_jugend/nic.jpg" width="240" height="320"> 
       </td>
       <td width="278" valign="top"><table width="319" class="profil">
           <tr bgcolor="#CCCCCC" class="roww1 entries"> 

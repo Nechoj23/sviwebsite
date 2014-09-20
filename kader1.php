@@ -384,7 +384,7 @@
           Co-Trainer 1. Mannschaft<br />
           Geb.: 04.09.1987</div></td> -->
 
-     <td height="20" bgcolor="#FFFFFF"><div align="left"><img src="bilder/AktiveSpieler/nic2_k.jpg" width="90" height="120" /> <br />
+     <td height="20" bgcolor="#FFFFFF"><div align="left"><img src="bilder/a_jugend/nic_k.jpg" width="90" height="120" /> <br />
                 <strong>Nic Corrado</strong><br />
           Trainer 2. Mannschaft<br />
           Geb.: 29.06.1972 </div></td>
