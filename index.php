@@ -825,7 +825,7 @@ auf dem Flyer.
          <p> 
 		 Die gesamte C-Jugend hatte am vergangengen Wochenende beim ESV in Ötisheim ein abwechslungsreiches und intensives Trainingswochenende unter 
 		 Leitung ihrer Trainer Frank Lindauer und Jochen Mitschelen. <br>
-		 Die Jungs der Jahrgänge 2000 und 2001 danken dem Förderverein des 
+		 Die Jungs der Jahrgänge 2000 und 2001 danken dem Förderverein 
 		 SV Illingen-Fußball e.V. für die finanzielle Unterstützung, wodurch dieses Camp für alle Spieler erschwinglich wurde. Der Dank 
 		 gilt auch Herbert Rau und der Firma HIT Schrammel in Enzberg, die für die Jungs günstige Lebensmittel zur Verfügung stellten.<br>
 		
