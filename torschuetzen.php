@@ -27,20 +27,21 @@
       Tore</font></p></td>
       <td width="424" id="contentFont"><font size="+1">Eros Schembri</font></td>
     </tr>
-		<tr id="contentFont"> 
-      <td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">2 
+			<tr id="contentFont"> 
+      <td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">4 
       Tore</font></p></td>
       <td width="424" id="contentFont"><font size="+1">Fabio Tricarico</font></td>
     </tr>
-	
+			<tr id="contentFont">       
+	<td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">3       
+	Tore</font></p></td>     
+	<td width="424" id="contentFont"><font size="+1">Dominik Knödler</font></td>    </tr>
+
 	<tr id="contentFont">       
 	<td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">1       
 	Tor</font></p></td>     
 	<td width="424" id="contentFont"><font size="+1">Denis Herman</font></td>    </tr>
-		<tr id="contentFont">       
-	<td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">1       
-	Tor</font></p></td>     
-	<td width="424" id="contentFont"><font size="+1">Dominik Knödler</font></td>    </tr>
+
 		<tr id="contentFont">       
 	<td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">1       
 	Tor</font></p></td>     
@@ -73,6 +74,11 @@
       <td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">&nbsp;</font></p></td>
       <td width="424" id="contentFont"><font size="+1">Bisher keine Torschützen</font></td>
     </tr> -->
+			<tr id="contentFont"> 
+      <td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">2 
+      Tore</font></p></td>
+      <td width="424" id="contentFont"><font size="+1">Andreas Köppl</font></td>
+    </tr> 
 		<tr id="contentFont"> 
       <td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">1 
       Tor</font></p></td>
