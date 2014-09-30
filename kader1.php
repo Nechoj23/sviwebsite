@@ -256,7 +256,7 @@
 		  		   <td height="20" bgcolor="#FFFFFF"><div align="left"><!--<a href="index.php?id=210">--><img src="bilder/AktiveSpieler/dummy_klein.jpg" width="90" height="120" /><!--</a>--> <br />
                 <strong>Kolja Leoni</strong><br />
           Geb.: 09.10.1984</div></td>
-		    <td height="20" bgcolor="#FFFFFF"><div align="left"><a href="index.php?id=224"><img src="bilder/AktiveSpieler/marcel2_k.jpg" width="90" height="120" /></a> <br />
+		    <td height="20" bgcolor="#FFFFFF"><div align="left"><a href="index.php?id=224"><img src="bilder/AktiveSpieler/marcelLiebendoerfer_k.jpg" width="90" height="120" /></a> <br />
                 <strong>Marcel Liebendörfer</strong><br />
           Geb.: 21.03.1992</div></td>
 		   <td height="20" bgcolor="#FFFFFF"><div align="left"><a href="index.php?id=113"><img src="bilder/AktiveSpieler/oliL_k.jpg" width="90" height="120" /></a> <br />
@@ -294,8 +294,11 @@
       </tr>
       <tr bgcolor="#FFFFFF">
      
+    
       </tr>
-	
+	  <td height="20" bgcolor="#FFFFFF"><div align="left"><img src="bilder/AktiveSpieler/timstrohhaecker_k.jpg" width="90" height="120" /> <br />
+                <strong>Tim Strohhäcker</strong><br />
+          Geb.: 23.10.1988</div></td>
         <td height="20" bgcolor="#FFFFFF"><div align="left"><a href="index.php?id=153"><img src="bilder/AktiveSpieler/fabiotricarico3_k.jpg" width="90" height="120" /></a> <br />
                 <strong>Fabio Tricarico</strong><br />
           Geb.: 24.02.1990</div></td>

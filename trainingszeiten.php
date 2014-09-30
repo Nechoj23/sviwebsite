@@ -55,11 +55,11 @@
         </tr>
         <tr valign="top">
           <td width="187" align="center" valign="middle" bgcolor="#0066CC" id="contentfont4" coldpan="6"><strong>C-Junioren</strong></td>
-          <td id="contentfont5" coldpan="6" width="86">18:00-19:30</td>
+          <td id="contentfont5" coldpan="6" width="86">17:30-19:00</td>
           <td id="contentfont5" coldpan="6" width="117">&nbsp;</td>
-          <td id="contentfont5" coldpan="6" width="70">18:00-19:30</td>
+          <td id="contentfont5" coldpan="6" width="70">17:30-19:00</td>
           <td id="contentfont5" coldpan="6" width="70">&nbsp;</td>
-          <td id="contentfont5" coldpan="6" width="70">18:00-19:30</td>
+          <td id="contentfont5" coldpan="6" width="70">17:30-19:00</td>
         </tr>
         <tr valign="top">
           <td width="187" align="center" valign="middle" bgcolor="#0066CC" id="contentfont4" coldpan="6"><strong>D1-Junioren</strong></td>

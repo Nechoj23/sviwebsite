@@ -84,6 +84,11 @@
       Tor</font></p></td>
       <td width="424" id="contentFont"><font size="+1">Niko Gatsas</font></td>
     </tr> 
+		<tr id="contentFont"> 
+      <td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">1 
+      Tor</font></p></td>
+      <td width="424" id="contentFont"><font size="+1">Frieder Lachenmayer</font></td>
+    </tr> 
 	<tr id="contentFont"> 
       <td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">1 
       Tor</font></p></td>
