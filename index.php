@@ -2281,10 +2281,10 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
 		 
 <tr>
 	<td id="contentfont" style= "text-align:left; padding-left:50px;">
-    	Spvgg Besigheim I vs. SV Illingen I&nbsp; 2:0 (2:0)<br/>
+    	SV Illingen I vs. TSV Nussdorf I&nbsp; 0:3 (0:1)<br/>
 		<span class="Stil20"><em>Torsch&uuml;tzen: ---</em></span><br>
 		<br>
-		<a href="http://www.fussball.de/spiel/kreisliga-a-3-bezirk-enz-murr-kl-kreisliga-a-herren-saison1415-wuerttemberg/-/spiel/01L9BRRGCK000000VV0AG812VVHQG9J2#!/section/mediastream" target="_blank"><em>mehr Infos zum Spiel</em>
+		<a href="http://www.fussball.de/spiel/-/spiel/01L9BRRFQ4000000VV0AG812VVHQG9J2" target="_blank"><em>mehr Infos zum Spiel</em>
     	</a> 
 	</td>
 </tr>  	
@@ -2292,9 +2292,9 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
  <tr>
         <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
       </tr>
-	 <tr>	<td id="contentfont" style= "text-align:left; padding-left:50px;"> VfB Vaihingen/Enz I vs. SV Illingen II&nbsp; 3:1 (2:1)<br/>		
-<span class="Stil20"><em>Torsch&uuml;tzen: 1:1 Frieder Lachenmayer</em></span><br>	<br>
-<a href="http://www.fussball.de/spiel/kreisliga-b-5-bezirk-enz-murr-kl-kreisliga-b-herren-saison1415-wuerttemberg/-/spiel/01L9BHUUE4000000VV0AG812VVHQG9J2#!/section/stage" target="_blank"><em>mehr Infos zum Spiel</em>
+	 <tr>	<td id="contentfont" style= "text-align:left; padding-left:50px;"> SV Illingen I vs. FV Roßwag I&nbsp; 0:4 (0:1)<br/>		
+<span class="Stil20"><em>Torsch&uuml;tzen: ---</em></span><br>	<br>
+<a href="http://www.fussball.de/spiel/-/spiel/01L9BHUTR4000000VV0AG812VVHQG9J2#!/" target="_blank"><em>mehr Infos zum Spiel</em>
     	</a> 	</td></tr>  
 
 	  	
@@ -2357,21 +2357,21 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
 	<!-- <tr>                <td id="contentfont" style= "text-align:right;"><div align="left">Die beiden aktiven Mannschaften haben jeweils ihre Saison
 	 beendet und befinden sich in der Sommerpause!</div></td>             </tr> -->
   	 
-	  
- <tr>        <td id="contentfont" style= "text-align:left;"><p><b>So 05.10</b><b>. 13.15 Uhr</b>          
-	 &nbsp;<img src="bilder/MannschaftsLogos/svi_logo55px.jpg"alt=" " align="middle"> SV Illingen II&nbsp;vs. FV Roßwag I		
-	  <img src="bilder/MannschaftsLogos/rosswag.jpg" alt=" " align="middle"> </p></td>      </tr>  
-	<tr>        <td id="contentfont" style= "text-align:left;"><p><b>So 05.10</b><b>. 15.00 Uhr</b>          
-	 &nbsp; <img src="bilder/MannschaftsLogos/svi_logo55px.jpg"alt=" " align="middle">   SV Illingen I &nbsp;vs. TSV Nussdorf I		
-	  <img src="bilder/MannschaftsLogos/nussdorf.jpg" alt=" " align="middle"> </p></td>      </tr> 	
+	 
+	 
  
 	   <tr>        <td id="contentfont" style= "text-align:left;"><p><b>So 12.10</b><b>. 15.00 Uhr</b>          
-	 &nbsp;<img src="bilder/MannschaftsLogos/besigheim.jpg"alt=" " align="middle"> SV Iptingen I&nbsp;vs. SV Illingen I		
+	 &nbsp;<img src="bilder/MannschaftsLogos/iptingen.jpg"alt=" " align="middle"> SV Iptingen I&nbsp;vs. SV Illingen I		
 	  <img src="bilder/MannschaftsLogos/svi_logo55px.jpg" alt=" " align="middle"> </p></td>      </tr>  
 	<tr>        <td id="contentfont" style= "text-align:left;"><p><b>So 12.10</b><b>. 15.00 Uhr</b>          
-	 &nbsp; <img src="bilder/MannschaftsLogos/vaihingen.jpg"alt=" " align="middle"> Spfr. Großsachsenheim I &nbsp;vs. SV Illingen II		
+	 &nbsp; <!-- <img src="bilder/MannschaftsLogos/großs.jpg"alt=" " align="middle"> -->Spfr. Großsachsenheim I &nbsp;vs. SV Illingen II		
 	  <img src="bilder/MannschaftsLogos/svi_logo55px.jpg" alt=" " align="middle"> </p></td>      </tr>  	  
-	  
+	   <tr>        <td id="contentfont" style= "text-align:left;"><p><b>So 19.10</b><b>. 13.15 Uhr</b>          
+	 &nbsp;<img src="bilder/MannschaftsLogos/svi_logo55px.jpg"alt=" " align="middle"> SV Illingen II&nbsp;vs. SC Hohenhaslach I		
+	  <img src="bilder/MannschaftsLogos/hohenhaslach.jpg" alt=" " align="middle"> </p></td>      </tr>  
+	<tr>        <td id="contentfont" style= "text-align:left;"><p><b>So 19.10</b><b>. 15.00 Uhr</b>          
+	 &nbsp; <img src="bilder/MannschaftsLogos/svi_logo55px.jpg"alt=" " align="middle">   SV Illingen I &nbsp;vs. TSV Enzweihingen I		
+	<!--  <img src="bilder/MannschaftsLogos/nussdorf.jpg" alt=" " align="middle">--> </p></td>      </tr> 	
 	   <!--    <tr>
         <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
       </tr>
@@ -2471,8 +2471,8 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
       </tr>
 	       <tr>
 
-        <td id="contentfont" style= "text-align:left; padding-left:50px;">SV Illingen- GSV Hemmingen&nbsp; 1:2<br/>
-   <span class="Stil20"><em>Torsch&uuml;tzen: Dennis Mantai</em></span></td>
+        <td id="contentfont" style= "text-align:left; padding-left:50px;">SG Sachsenheim - SV Illingen &nbsp; 1:5<br/>
+   <span class="Stil20"><em>Torsch&uuml;tzen: 4x Nils Gutscher, Frieder Lachenmayer</em></span></td>
    </tr> 
 
       
@@ -2482,13 +2482,10 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
 <tr>
         <td id="ueber3"><div>&nbsp;&nbsp;&nbsp;&nbsp;<strong>** B-Jugend:</strong></div></td>
       </tr>
-           <tr>
-        <td id="contentfont" style= "text-align:left; padding-left:50px;">SV Illingen - VfR Sersheim&nbsp;  2:2 <br/>
-            <span class="Stil20"><em>Torsch&uuml;tzen: </em></span></td>
-      </tr> 
+        
 	        <tr>
-        <td id="contentfont" style= "text-align:left; padding-left:50px;">TSV Heimsheim - SV Illingen&nbsp;  1:3 <br/>
-            <span class="Stil20"><em>Torsch&uuml;tzen: </em></span></td>
+        <td id="contentfont" style= "text-align:left; padding-left:50px;">TSV Kleinglattbach - SV Illingen&nbsp;  2:5 (1:2) <br/>
+            <span class="Stil20"><em>Torsch&uuml;tzen: 2x Nick Heckele, Samed Bagci, Simon Fink, Daniel Leicht </em></span></td>
       </tr> 
 
  <tr>
@@ -2497,7 +2494,7 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
 
       </tr>
 
-    <tr>
+  <!--  <tr>
 
         <td id="ueber3"><div>&nbsp;&nbsp;&nbsp;&nbsp;<strong>** C-Jugend:</strong></div></td>
 
@@ -2565,54 +2562,9 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
 
       </tr> 
 
-
-
-
-
-      <!--
-
-        <tr>
-
-          <td id="ueber3"><div>&nbsp;&nbsp;&nbsp;&nbsp;<strong>** F1-Jugend:</strong></td>
-
-        </tr>
-
-        <tr>
-
-          <td id="contentfont" style= "text-align:left; padding-left:50px;">Feld-Spieltag in Vaihingen / Enz:</td>
-
-        </tr>
-        <tr>
-
-          <td id="contentfont" style= "text-align:left; padding-left:50px;">SV Illingen - VfB Vaihingen I&nbsp; 0:4</td>
-
-        </tr>
-
-        <tr>
-
-          <td id="contentfont" style= "text-align:left; padding-left:50px;">SV Illingen - VfR Sersheim I&nbsp; 3:4</td>
-
-        </tr>
-
-           <tr>
-
-          <td id="contentfont" style= "text-align:left; padding-left:50px;">SV Illingen - TSV Hochdorf / Enz&nbsp; 7:2</td>
-
-        </tr>
-        <tr>
-
-          <td id="contentfont" style= "text-align:left; padding-left:50px;"><span class="Stil20">Es spielten:
-
-Lukas Zimmermann, Can Staiger (4), Aaron Petersen, Tobias Spechtenhauser (5), Daniel Krepp, Mika Köppl, Ilja Bochonow (1)</span>
-
-          </tr>
-           <tr>
-
-          <td id="contentfont"><div align="left">&nbsp;</td>
-
-        </tr>
-
 -->
+
+
 
 
 <!--
@@ -2856,44 +2808,7 @@ Lukas Zimmermann, Can Staiger (4), Aaron Petersen, Tobias Spechtenhauser (5), Da
 
       </tr>
 
-				
-
-					 
-		 		
-
-		 	<tr>                <td>                                 <table id="inner_table" width="550" class="profil" >           
-				 <tr>   <td width="83" id="contentfont6" style= "text-align:right;">										
-				 <div align="left"><strong>C-Jugend</strong></div></td>                     										
-				 <td width="26" id="contentfont6" style= "text-align:right;">										
-				 <div align="right"><strong>Sa</strong></div></td>                        										
-				 <td width="59" id="contentfont6" style= "text-align:right;">										
-				 <div align="left"><strong>04.10.14</strong></div></td>                  										
-				 <td width="69" id="contentfont6" style= "text-align:right;">										
-				 <div align="left"><strong>15.00Uhr</strong></div></td>                  										
-				 <td width="339" id="contentfont6" style= "text-align:right;">										
-				 <div align="left">FV Löchgau II -  SV Illingen II</div> </td>                </tr> </table>	
-				  	<tr>                <td>                                 <table id="inner_table" width="550" class="profil" >           
-				 <tr>   <td width="83" id="contentfont6" style= "text-align:right;">										
-				 <div align="left"><strong>A-Jugend</strong></div></td>                     										
-				 <td width="26" id="contentfont6" style= "text-align:right;">										
-				 <div align="right"><strong>Sa</strong></div></td>                        										
-				 <td width="59" id="contentfont6" style= "text-align:right;">										
-				 <div align="left"><strong>04.10.14</strong></div></td>                  										
-				 <td width="69" id="contentfont6" style= "text-align:right;">										
-				 <div align="left"><strong>16.30Uhr</strong></div></td>                  										
-				 <td width="339" id="contentfont6" style= "text-align:right;">										
-				 <div align="left">SGM Sachsenheim -  SV Illingen</div> </td>                </tr> </table>	
-<tr>                <td>                                 <table id="inner_table" width="550" class="profil" >           
-				 <tr>   <td width="83" id="contentfont6" style= "text-align:right;">										
-				 <div align="left"><strong>B-Jugend</strong></div></td>                     										
-				 <td width="26" id="contentfont6" style= "text-align:right;">										
-				 <div align="right"><strong>So</strong></div></td>                        										
-				 <td width="59" id="contentfont6" style= "text-align:right;">										
-				 <div align="left"><strong>05.10.14</strong></div></td>                  										
-				 <td width="69" id="contentfont6" style= "text-align:right;">										
-				 <div align="left"><strong>10.30Uhr</strong></div></td>                  										
-				 <td width="339" id="contentfont6" style= "text-align:right;">		
-				 <div align="left"> TSV Kleinglattbach - SV Illingen</div> </td>                </tr> </table>	
+	
 				 
         <tr>                <td>                                 <table id="inner_table" width="550" class="profil" >  
                                         <tr>   <td width="83" id="contentfont6" style= "text-align:right;">
@@ -2946,7 +2861,7 @@ Lukas Zimmermann, Can Staiger (4), Aaron Petersen, Tobias Spechtenhauser (5), Da
 				 <div align="left"><strong>15.00Uhr</strong></div></td>                  										
 				 <td width="339" id="contentfont6" style= "text-align:right;">										
 				 <div align="left">SV Illingen I - TV Möglingen </div> </td>                </tr> </table>	
-				 	<tr>                <td>                                 <table id="inner_table" width="550" class="profil" >           
+			<!--	 	<tr>                <td>                                 <table id="inner_table" width="550" class="profil" >           
 				 <tr>   <td width="83" id="contentfont6" style= "text-align:right;">										
 				 <div align="left"><strong>C-Jugend</strong></div></td>                     										
 				 <td width="26" id="contentfont6" style= "text-align:right;">										
@@ -2956,7 +2871,7 @@ Lukas Zimmermann, Can Staiger (4), Aaron Petersen, Tobias Spechtenhauser (5), Da
 				 <td width="69" id="contentfont6" style= "text-align:right;">										
 				 <div align="left"><strong>15.00Uhr</strong></div></td>                  										
 				 <td width="339" id="contentfont6" style= "text-align:right;">										
-				 <div align="left">TSF Ditzingen IV -  SV Illingen II</div> </td>                </tr> </table>	
+				 <div align="left">TSF Ditzingen IV -  SV Illingen II</div> </td>                </tr> </table>	-->
 				  	<tr>                <td>                                 <table id="inner_table" width="550" class="profil" >           
 				 <tr>   <td width="83" id="contentfont6" style= "text-align:right;">										
 				 <div align="left"><strong>A-Jugend</strong></div></td>                     										
@@ -2980,6 +2895,106 @@ Lukas Zimmermann, Can Staiger (4), Aaron Petersen, Tobias Spechtenhauser (5), Da
 				 <td width="339" id="contentfont6" style= "text-align:right;">		
 				 <div align="left"> TSV Eltingen II - SV Illingen</div> </td>                </tr> </table>	
 
+				 
+				 			<tr>                <td>                                 <table id="inner_table" width="550" class="profil" >           
+				 <tr>   <td width="83" id="contentfont6" style= "text-align:right;">										
+				 <div align="left"><strong>C-Jugend</strong></div></td>                     										
+				 <td width="26" id="contentfont6" style= "text-align:right;">										
+				 <div align="right"><strong>Di</strong></div></td>                        										
+				 <td width="59" id="contentfont6" style= "text-align:right;">										
+				 <div align="left"><strong>14.10.14</strong></div></td>                  										
+				 <td width="69" id="contentfont6" style= "text-align:right;">										
+				 <div align="left"><strong>18.00Uhr</strong></div></td>                  										
+				 <td width="339" id="contentfont6" style= "text-align:right;">										
+				 <div align="left">FV Löchgau II - SV Illingen I</div> </td>                </tr> </table>	
+				 		 
+        <tr>                <td>                                 <table id="inner_table" width="550" class="profil" >  
+                                        <tr>   <td width="83" id="contentfont6" style= "text-align:right;">
+										<div align="left"><strong>E-Jugend</strong></div></td>                     
+										<td width="26" id="contentfont6" style= "text-align:right;">
+										<div align="right"><strong>Sa</strong></div></td>                        
+										<td width="59" id="contentfont6" style= "text-align:right;">
+										<div align="left"><strong>18.10.14</strong></div></td>                  
+										<td width="69" id="contentfont6" style= "text-align:right;">
+										<div align="left"><strong>12.00Uhr</strong></div></td>                  
+										<td width="339" id="contentfont6" style= "text-align:right;">
+										<div align="left"> SV Illingen I - Spfr. Großsachsenheim</div> </td>                </tr> </table>
+
+   						
+			
+
+				 
+		  <tr>                <td>                                 <table id="inner_table" width="550" class="profil" >  
+                                        <tr>   <td width="83" id="contentfont6" style= "text-align:right;">
+										<div align="left"><strong>E-Jugend</strong></div></td>                     
+										<td width="26" id="contentfont6" style= "text-align:right;">
+										<div align="right"><strong>Sa</strong></div></td>                        
+										<td width="59" id="contentfont6" style= "text-align:right;">
+										<div align="left"><strong>18.10.14</strong></div></td>                  
+										<td width="69" id="contentfont6" style= "text-align:right;">
+										<div align="left"><strong>12.00Uhr</strong></div></td>                  
+										<td width="339" id="contentfont6" style= "text-align:right;">
+										<div align="left"> SV Illingen II - FC Gündelbach</div> </td>                </tr> </table>
+<tr>                <td>                                 <table id="inner_table" width="550" class="profil" >           
+				 <tr>   <td width="83" id="contentfont6" style= "text-align:right;">										
+				 <div align="left"><strong>D-Jugend</strong></div></td>                     										
+				 <td width="26" id="contentfont6" style= "text-align:right;">										
+				 <div align="right"><strong>Sa</strong></div></td>                        										
+				 <td width="59" id="contentfont6" style= "text-align:right;">										
+				 <div align="left"><strong>18.10.14</strong></div></td>                  										
+				 <td width="69" id="contentfont6" style= "text-align:right;">										
+				 <div align="left"><strong>13.30Uhr</strong></div></td>                  										
+				 <td width="339" id="contentfont6" style= "text-align:right;">										
+				 <div align="left"> SV Illingen - TSV Wiernsheim II</div> </td>                </tr> </table>
+
+
+				<tr>                <td>                                 <table id="inner_table" width="550" class="profil" >           
+				 <tr>   <td width="83" id="contentfont6" style= "text-align:right;">										
+				 <div align="left"><strong>C-Jugend</strong></div></td>                     										
+				 <td width="26" id="contentfont6" style= "text-align:right;">										
+				 <div align="right"><strong>Sa</strong></div></td>                        										
+				 <td width="59" id="contentfont6" style= "text-align:right;">										
+				 <div align="left"><strong>18.10.14</strong></div></td>                  										
+				 <td width="69" id="contentfont6" style= "text-align:right;">										
+				 <div align="left"><strong>15.00Uhr</strong></div></td>                  										
+				 <td width="339" id="contentfont6" style= "text-align:right;">										
+				 <div align="left">Spvgg Bissingen I - SV Illingen I</div> </td>                </tr> </table>	
+			          
+			
+				  	<tr>                <td>                                 <table id="inner_table" width="550" class="profil" >           
+				 <tr>   <td width="83" id="contentfont6" style= "text-align:right;">										
+				 <div align="left"><strong>A-Jugend</strong></div></td>                     										
+				 <td width="26" id="contentfont6" style= "text-align:right;">										
+				 <div align="right"><strong>Sa</strong></div></td>                        										
+				 <td width="59" id="contentfont6" style= "text-align:right;">										
+				 <div align="left"><strong>18.10.14</strong></div></td>                  										
+				 <td width="69" id="contentfont6" style= "text-align:right;">										
+				 <div align="left"><strong>16.30Uhr</strong></div></td>                  										
+				 <td width="339" id="contentfont6" style= "text-align:right;">										
+				 <div align="left"> TSV Merklingen - SV Illingen</div> </td>                </tr> </table>	
+<tr>                <td>                                 <table id="inner_table" width="550" class="profil" >           
+				 <tr>   <td width="83" id="contentfont6" style= "text-align:right;">										
+				 <div align="left"><strong>B-Jugend</strong></div></td>                     										
+				 <td width="26" id="contentfont6" style= "text-align:right;">										
+				 <div align="right"><strong>So</strong></div></td>                        										
+				 <td width="59" id="contentfont6" style= "text-align:right;">										
+				 <div align="left"><strong>19.10.14</strong></div></td>                  										
+				 <td width="69" id="contentfont6" style= "text-align:right;">										
+				 <div align="left"><strong>10.30Uhr</strong></div></td>                  										
+				 <td width="339" id="contentfont6" style= "text-align:right;">		
+				 <div align="left"> SV Illingen - JFC Gerlingen</div> </td>                </tr> </table>	
+				 
+				 	<tr>                <td>                                 <table id="inner_table" width="550" class="profil" >           
+				 <tr>   <td width="83" id="contentfont6" style= "text-align:right;">										
+				 <div align="left"><strong>C-Jugend</strong></div></td>                     										
+				 <td width="26" id="contentfont6" style= "text-align:right;">										
+				 <div align="right"><strong>Mo</strong></div></td>                        										
+				 <td width="59" id="contentfont6" style= "text-align:right;">										
+				 <div align="left"><strong>20.10.14</strong></div></td>                  										
+				 <td width="69" id="contentfont6" style= "text-align:right;">										
+				 <div align="left"><strong>18.00Uhr</strong></div></td>                  										
+				 <td width="339" id="contentfont6" style= "text-align:right;">										
+				 <div align="left">TSV Phönix Lomersheim I - SV Illingen I</div> </td>                </tr> </table>	
       <!--      <tr>
 
           <td id="ueber2">
