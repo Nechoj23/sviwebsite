@@ -2370,7 +2370,7 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
 	   <tr>        <td id="contentfont" style= "text-align:left;"><p><b>So 26.10</b><b>. 15.00 Uhr</b>          
 	 &nbsp;<img src="bilder/MannschaftsLogos/sersheim.jpg"alt=" " align="middle"> VfR Sersheim I&nbsp;vs. SV Illingen I		
 	  <img src="bilder/MannschaftsLogos/svi_logo55px.jpg" alt=" " align="middle"> </p></td>      </tr>  
-	<tr>        <td id="contentfont" style= "text-align:left;"><p><b>So 26.10</b><b>. 15.00 Uhr</b>          
+	<tr>        <td id="contentfont" style= "text-align:left;"><p><b>Mi 29.10</b><b>. 19.30 Uhr</b>          
 	 &nbsp; <img src="bilder/MannschaftsLogos/guendelbach.jpg"alt=" " align="middle"> FC Gündelbach I &nbsp;vs. SV Illingen II		
 	  <img src="bilder/MannschaftsLogos/svi_logo55px.jpg" alt=" " align="middle"> </p></td>      </tr> 
 	   <!--    <tr>
@@ -2500,6 +2500,13 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
         <td id="ueber3"><div>&nbsp;&nbsp;&nbsp;&nbsp;<strong>** C-Jugend:</strong></div></td>
 
       </tr>
+	     <tr>
+
+        <td id="contentfont" style= "text-align:left; padding-left:50px;">FV Löchgau II - SV Illingen I&nbsp; 2:4 (0:2)<br/>
+
+            <span class="Stil20"><em>Torsch&uuml;tzen: 4x Tobias Däschner </em></span></td>
+
+      </tr>   
    <tr>
 
         <td id="contentfont" style= "text-align:left; padding-left:50px;">SV Illingen I - TV Möglingen I&nbsp; 5:1 (2:1)<br/>
@@ -2806,19 +2813,6 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
 	
 				 
      
-
-				 
-				 			<tr>                <td>                                 <table id="inner_table" width="550" class="profil" >           
-				 <tr>   <td width="83" id="contentfont6" style= "text-align:right;">										
-				 <div align="left"><strong>C-Jugend</strong></div></td>                     										
-				 <td width="26" id="contentfont6" style= "text-align:right;">										
-				 <div align="right"><strong>Di</strong></div></td>                        										
-				 <td width="59" id="contentfont6" style= "text-align:right;">										
-				 <div align="left"><strong>14.10.14</strong></div></td>                  										
-				 <td width="69" id="contentfont6" style= "text-align:right;">										
-				 <div align="left"><strong>18.00Uhr</strong></div></td>                  										
-				 <td width="339" id="contentfont6" style= "text-align:right;">										
-				 <div align="left">FV Löchgau II - SV Illingen I</div> </td>                </tr> </table>	
 				 		 
         <tr>                <td>                                 <table id="inner_table" width="550" class="profil" >  
                                         <tr>   <td width="83" id="contentfont6" style= "text-align:right;">
