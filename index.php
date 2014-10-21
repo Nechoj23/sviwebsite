@@ -2498,6 +2498,13 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
         <td id="ueber3"><div>&nbsp;&nbsp;&nbsp;&nbsp;<strong>** C-Jugend:</strong></div></td>
 
       </tr>
+	    <tr>
+
+        <td id="contentfont" style= "text-align:left; padding-left:50px;">TSV Phönix Lomersheim I - SV Illingen I&nbsp; 2:1 (0:0)<br/>
+
+            <span class="Stil20"><em>Torsch&uuml;tze: Leandro Franco </em></span></td>
+
+      </tr>   
 	     <tr>
 
         <td id="contentfont" style= "text-align:left; padding-left:50px;">Spvgg Bissingen I - SV Illingen I&nbsp; 4:1 (1:0)<br/>
@@ -2505,13 +2512,7 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
             <span class="Stil20"><em>Torsch&uuml;tze: Leandro Franco </em></span></td>
 
       </tr>  
-	     <tr>
-
-        <td id="contentfont" style= "text-align:left; padding-left:50px;">FV Löchgau II - SV Illingen I&nbsp; 2:4 (0:2)<br/>
-
-            <span class="Stil20"><em>Torsch&uuml;tzen: 4x Tobias Däschner </em></span></td>
-
-      </tr>   
+	   
  
         
           
@@ -2810,18 +2811,6 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
       </tr>
 
 	
-				 
-				 	<tr>                <td>                                 <table id="inner_table" width="550" class="profil" >           
-				 <tr>   <td width="83" id="contentfont6" style= "text-align:right;">										
-				 <div align="left"><strong>C-Jugend</strong></div></td>                     										
-				 <td width="26" id="contentfont6" style= "text-align:right;">										
-				 <div align="right"><strong>Mo</strong></div></td>                        										
-				 <td width="59" id="contentfont6" style= "text-align:right;">										
-				 <div align="left"><strong>20.10.14</strong></div></td>                  										
-				 <td width="69" id="contentfont6" style= "text-align:right;">										
-				 <div align="left"><strong>18.00Uhr</strong></div></td>                  										
-				 <td width="339" id="contentfont6" style= "text-align:right;">										
-				 <div align="left">TSV Phönix Lomersheim I - SV Illingen I</div> </td>                </tr> </table>	
 				 
 				 
 			   <tr>                <td>                                 <table id="inner_table" width="550" class="profil" >  
