@@ -22,6 +22,10 @@
       Tore</font></p></td>
       <td width="424" id="contentFont"><font size="+1">Pasquale Arena</font></td>
     </tr> 	
+		<tr id="contentFont">       
+	<td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">5       
+	Tore</font></p></td>     
+	<td width="424" id="contentFont"><font size="+1">Tim Scheuermann</font></td>    </tr>
 		<tr id="contentFont"> 
       <td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">4 
       Tore</font></p></td>
@@ -36,10 +40,7 @@
 	<td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">3       
 	Tore</font></p></td>     
 	<td width="424" id="contentFont"><font size="+1">Dominik Knödler</font></td>    </tr>
-	<tr id="contentFont">       
-	<td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">3       
-	Tore</font></p></td>     
-	<td width="424" id="contentFont"><font size="+1">Tim Scheuermann</font></td>    </tr>
+
 	<tr id="contentFont">       
 	<td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">1       
 	Tor</font></p></td>     

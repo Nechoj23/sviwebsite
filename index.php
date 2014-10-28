@@ -483,7 +483,7 @@ function MM_showHideLayers() { //v3.0
                 <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
 
              </tr>
-<!--
+
  <tr>
 
         <td bgcolor="#0066cc" id="contentTable2"><div class="ueber1"> NEUIGKEITEN </div></td>
@@ -494,7 +494,7 @@ function MM_showHideLayers() { //v3.0
 
         <td height="20">&nbsp;</td>
 
-      </tr>  -->
+      </tr>  
 
       <!--
 
@@ -1132,27 +1132,25 @@ Wir werden  auf dieses Thema nochmals intensiv eingehen; vor allem wollen wir &u
         </tr> -->
 
 
-<!--
+
 
         <tr>
 
-        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong> E1-Jugend erreichen dritten Platz beim Turnier in Flehingen </strong><br>
+        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong> Die C-Jugend bedankt sich... </strong><br>
 
-      <p><a href="bilder/e1_turnier_flehingen_g.jpg"><img src="bilder/e1_turnier_flehingen.jpg" width="470"
+      <p><a href="bilder/anzuege_c-jugend_g.jpg"><img src="bilder/anzuege_c-jugend_k.jpg" width="500"
 
-            alt="E1 Flehingen" align="top"></a><br>   </p>
+            alt="anzuege c-jugend" align="top"></a><br>   </p>
 
-<p>Die E1-Junioren des SVI erspielten sich am vergangenen Wochenende beim Turnier in der Soccerhalle in Flehingen einen sehr guten dritten Platz. Insgesamt
-
-nahmen 20 Mannschaften teil. <br>
-
-Für den SVI im Einsatz waren: Ilja Bochonow (5 Tore), Leon Hartig (2), Gabriel Dienelt, John Jaufmann, Tobias Spechtenhauser (6) und Mika Köppl (1).</p>
+<p>Die C-Jugend bedankt sich ganz herzlich bei SMD Montagearbeiten und Korrosionsschutz, Kai-Uwe Doll und seiner Frau Anke. Durch deren 
+finanzielle Unterstützung
+ konnte die komplette C-Jugend mit einem einheitlichen Trainingsanzug ausgestattet werden. Vielen Dank dafür! <br>
 
 <br />
 
         </div></td>
 
-        </tr> -->
+        </tr>
 <!--
 
     <tr>
@@ -2281,21 +2279,14 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
 		 
 <tr>
 	<td id="contentfont" style= "text-align:left; padding-left:50px;">
-    	SV Illingen I vs. TSV Enzweihingen I&nbsp; 3:0 (2:0)<br/>
-		<span class="Stil20"><em>Torsch&uuml;tzen: 1:0 und 2:0 Tim Scheuermann, 3:0 Patrick Schüle</em></span><br>
+    	VfR Sersheim I vs. SV Illingen I&nbsp; 0:2 (0:0)<br/>
+		<span class="Stil20"><em>Torsch&uuml;tzen: 0:1 und 0:2 Tim Scheuermann</em></span><br>
 		<br>
-		<a href="http://www.fussball.de/spiel/kreisliga-a-3-bezirk-enz-murr-kl-kreisliga-a-herren-saison1415-wuerttemberg/-/spiel/01L9BRRF6K000000VV0AG812VVHQG9J2" target="_blank"><em>mehr Infos zum Spiel</em>
+		<a href="http://www.fussball.de/spiel/kreisliga-a-3-bezirk-enz-murr-kl-kreisliga-a-herren-saison1415-wuerttemberg/-/spiel/01L9BRRF0C000000VV0AG812VVHQG9J2" target="_blank"><em>mehr Infos zum Spiel</em>
     	</a> 
 	</td>
 </tr>  	
 
- <tr>
-        <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
-      </tr>
-	 <tr>	<td id="contentfont" style= "text-align:left; padding-left:50px;"> SV Illingen II vs. SC Hohenhaslach I&nbsp; 2:2 (1:1)<br/>		
-<span class="Stil20"><em>Torsch&uuml;tzen: 1:0 und 2:1 Lukas Strauß</em></span><br>	<br>
-<a href="http://www.fussball.de/spiel/kreisliga-b-5-bezirk-enz-murr-kl-kreisliga-b-herren-saison1415-wuerttemberg/-/spiel/01L9BHUTCG000000VV0AG812VVHQG9J2#!/section/stage" target="_blank"><em>mehr Infos zum Spiel</em>
-    	</a> 	</td></tr>  
 
 	  	
       <tr>
@@ -2359,9 +2350,7 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
   	 
 	 
 		
-	   <tr>        <td id="contentfont" style= "text-align:left;"><p><b>So 26.10</b><b>. 15.00 Uhr</b>          
-	 &nbsp;<img src="bilder/MannschaftsLogos/sersheim.jpg"alt=" " align="middle"> VfR Sersheim I&nbsp;vs. SV Illingen I		
-	  <img src="bilder/MannschaftsLogos/svi_logo55px.jpg" alt=" " align="middle"> </p></td>      </tr>  
+
 	<tr>        <td id="contentfont" style= "text-align:left;"><p><b>Mi 29.10</b><b>. 19.30 Uhr</b>          
 	 &nbsp; <img src="bilder/MannschaftsLogos/guendelbach.jpg"alt=" " align="middle"> FC Gündelbach I &nbsp;vs. SV Illingen II		
 	  <img src="bilder/MannschaftsLogos/svi_logo55px.jpg" alt=" " align="middle"> </p></td>      </tr> 
@@ -2371,6 +2360,13 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
 	<tr>        <td id="contentfont" style= "text-align:left;"><p><b>So 02.11</b><b>. 14.30 Uhr</b>          
 	 &nbsp; <img src="bilder/MannschaftsLogos/svi_logo55px.jpg"alt=" " align="middle">   SV Illingen I &nbsp;vs. SKV Erligheim I		
 	<!--  <img src="bilder/MannschaftsLogos/nussdorf.jpg" alt=" " align="middle">--> </p></td>      </tr> 
+		 	   <tr>        <td id="contentfont" style= "text-align:left;"><p><b>So 09.11</b><b>. 12.45 Uhr</b>          
+	 &nbsp;<img src="bilder/MannschaftsLogos/svi_logo55px.jpg"alt=" " align="middle"> SV Illingen II&nbsp;vs. TSV Großglattbach I		
+	  <img src="bilder/MannschaftsLogos/grossglattbach.jpg" alt=" " align="middle"> </p></td>      </tr>  
+	<tr>        <td id="contentfont" style= "text-align:left;"><p><b>So 09.11</b><b>. 14.30 Uhr</b>          
+	 &nbsp; <img src="bilder/MannschaftsLogos/svi_logo55px.jpg"alt=" " align="middle">   SV Illingen I &nbsp;vs. TASV Hessigheim I		
+	<!--  <img src="bilder/MannschaftsLogos/nussdorf.jpg" alt=" " align="middle">--> </p></td>      </tr> 
+	
 	   <!--    <tr>
         <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
       </tr>
@@ -2470,8 +2466,8 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
       </tr>
 	       <tr>
 
-        <td id="contentfont" style= "text-align:left; padding-left:50px;">TSV Merklingen - SV Illingen &nbsp; 4:0 <br/>
-   <span class="Stil20"><em>Torsch&uuml;tzen: ---</em></span></td>
+        <td id="contentfont" style= "text-align:left; padding-left:50px;">SV Illingen - JFC Gerlingen &nbsp; 4:1 <br/>
+   <span class="Stil20"><em>Torsch&uuml;tzen: 3x Dennis Mantai, Simon Fink</em></span></td>
    </tr> 
 
       
@@ -2483,8 +2479,8 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
       </tr>
         
 	        <tr>
-        <td id="contentfont" style= "text-align:left; padding-left:50px;">SV Illingen - JFC Gerlingen&nbsp;  3:1 (2:1) <br/>
-            <span class="Stil20"><em>Torsch&uuml;tzen: Nick Heckele, Marco Barbera, Samed Bagci</em></span></td>
+        <td id="contentfont" style= "text-align:left; padding-left:50px;">TSV Enzweihingen - SV Illingen&nbsp;  0:0 <br/>
+            <span class="Stil20"><em>Torsch&uuml;tzen: ---</em></span></td>
       </tr> 
 
  <tr>
@@ -2500,16 +2496,16 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
       </tr>
 	    <tr>
 
-        <td id="contentfont" style= "text-align:left; padding-left:50px;">TSV Phönix Lomersheim I - SV Illingen I&nbsp; 2:1 (0:0)<br/>
+        <td id="contentfont" style= "text-align:left; padding-left:50px;">SV Illingen I - VfR Sersheim&nbsp; 3:0 (Wertung)<br/>
 
-            <span class="Stil20"><em>Torsch&uuml;tze: Leandro Franco </em></span></td>
+            <span class="Stil20"><em>Torsch&uuml;tze: --- </em></span></td>
 
       </tr>   
 	     <tr>
 
-        <td id="contentfont" style= "text-align:left; padding-left:50px;">Spvgg Bissingen I - SV Illingen I&nbsp; 4:1 (1:0)<br/>
+        <td id="contentfont" style= "text-align:left; padding-left:50px;">TSV Phönix Lomersheim II - SV Illingen II&nbsp; 12:0 <br/>
 
-            <span class="Stil20"><em>Torsch&uuml;tze: Leandro Franco </em></span></td>
+            <span class="Stil20"><em>Torsch&uuml;tze: --- </em></span></td>
 
       </tr>  
 	   
@@ -2522,7 +2518,7 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
 
       </tr>
 
-<!-- <tr>
+ <tr>
 
         <td id="ueber3"><div>&nbsp;&nbsp;&nbsp;&nbsp;<strong>** D-Jugend:</strong></div></td>
 
@@ -2530,9 +2526,9 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
 
     <tr>
 
-        <td id="contentfont" style= "text-align:left; padding-left:50px;">FV Roßwag II - SV Illingen&nbsp;  1:6  <br/>
+        <td id="contentfont" style= "text-align:left; padding-left:50px;">SV Illingen - TSV Kleinsachsenheim I&nbsp;  0:7  <br/>
 
-            <span class="Stil20"><em>Torsch&uuml;tzen: Ilja, Mika, Nicolas, Felix, 2x Eigentor</em></span></td>
+            <span class="Stil20"><em>Torsch&uuml;tzen: ---</em></span></td>
 
       </tr>
 
@@ -2540,7 +2536,7 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
 
           <td id="contentfont"><div align="left">&nbsp;</div></td>
 
-      </tr> -->
+      </tr> 
 
   <tr>
 
@@ -2550,15 +2546,15 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
 
 <tr>
 
-        <td id="contentfont" style= "text-align:left; padding-left:50px;"> SV Illingen I - Spfr. Großsachsenheim&nbsp; 10:7  <br/>
+        <td id="contentfont" style= "text-align:left; padding-left:50px;"> TSV Phönix Lomersheim I - SV Illingen I&nbsp; 4:4  <br/>
 
-            <span class="Stil20"><em>Torsch&uuml;tzen: 3x Darijan, 2x Paul, Marvin, Inan,  Almin,  Sascha, Eigentor </em></span></td>
+            <span class="Stil20"><em>Torsch&uuml;tzen: 3x Sascha, Almin </em></span></td>
 
       </tr> 
 	
 	    <tr>
 
-        <td id="contentfont" style= "text-align:left; padding-left:50px;">SV Illingen II - FC Gündelbach&nbsp; 2:8 <br/>
+        <td id="contentfont" style= "text-align:left; padding-left:50px;">TSV Phönix Lomersheim II - SV Illingen II&nbsp; 4:7 <br/>
 
             <span class="Stil20"><em>Torsch&uuml;tzen:  </em></span></td>
 
@@ -2813,7 +2809,7 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
 	
 				 
 				 
-			   <tr>                <td>                                 <table id="inner_table" width="550" class="profil" >  
+			<!--   <tr>                <td>                                 <table id="inner_table" width="550" class="profil" >  
                                         <tr>   <td width="83" id="contentfont6" style= "text-align:right;">
 										<div align="left"><strong>E-Jugend</strong></div></td>                     
 										<td width="26" id="contentfont6" style= "text-align:right;">
@@ -2897,7 +2893,7 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
 				 <div align="left"><strong>10.30Uhr</strong></div></td>                  										
 				 <td width="339" id="contentfont6" style= "text-align:right;">		
 				 <div align="left"> TSV Enzweihingen - SV Illingen</div> </td>                </tr> </table>	
-				 
+				 -->
 				 
 				
 			
