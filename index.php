@@ -2285,6 +2285,20 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
 		<a href="http://www.fussball.de/spiel/kreisliga-a-3-bezirk-enz-murr-kl-kreisliga-a-herren-saison1415-wuerttemberg/-/spiel/01L9BRRF0C000000VV0AG812VVHQG9J2" target="_blank"><em>mehr Infos zum Spiel</em>
     	</a> 
 	</td>
+</tr>
+ <tr>
+
+        <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
+
+      </tr>  	
+<tr>
+	<td id="contentfont" style= "text-align:left; padding-left:50px;">
+    	FC Gündelbach I vs. SV Illingen II&nbsp; 1:3 (1:2)<br/>
+		<span class="Stil20"><em>Torsch&uuml;tzen: 0:1 Michali Gatsas, 0:2 Andreas Köppl, 1:3 Tim Scheuermann</em></span><br>
+		<br>
+		<a href="http://www.fussball.de/spiel/kreisliga-b-5-bezirk-enz-murr-kl-kreisliga-b-herren-saison1415-wuerttemberg/-/spiel/01L9BHUT6O000000VV0AG812VVHQG9J2#!/" target="_blank"><em>mehr Infos zum Spiel</em>
+    	</a> 
+	</td>
 </tr>  	
 
 
@@ -2348,12 +2362,7 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
 	<!-- <tr>                <td id="contentfont" style= "text-align:right;"><div align="left">Die beiden aktiven Mannschaften haben jeweils ihre Saison
 	 beendet und befinden sich in der Sommerpause!</div></td>             </tr> -->
   	 
-	 
-		
 
-	<tr>        <td id="contentfont" style= "text-align:left;"><p><b>Mi 29.10</b><b>. 19.30 Uhr</b>          
-	 &nbsp; <img src="bilder/MannschaftsLogos/guendelbach.jpg"alt=" " align="middle"> FC Gündelbach I &nbsp;vs. SV Illingen II		
-	  <img src="bilder/MannschaftsLogos/svi_logo55px.jpg" alt=" " align="middle"> </p></td>      </tr> 
 	  	   <tr>        <td id="contentfont" style= "text-align:left;"><p><b>So 02.11</b><b>. 12.45 Uhr</b>          
 	 &nbsp;<img src="bilder/MannschaftsLogos/svi_logo55px.jpg"alt=" " align="middle"> SV Illingen II&nbsp;vs. TSV Unterriexingen I		
 	  <img src="bilder/MannschaftsLogos/unterriexingen.jpg" alt=" " align="middle"> </p></td>      </tr>  
@@ -2366,6 +2375,13 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
 	<tr>        <td id="contentfont" style= "text-align:left;"><p><b>So 09.11</b><b>. 14.30 Uhr</b>          
 	 &nbsp; <img src="bilder/MannschaftsLogos/svi_logo55px.jpg"alt=" " align="middle">   SV Illingen I &nbsp;vs. TASV Hessigheim I		
 	<!--  <img src="bilder/MannschaftsLogos/nussdorf.jpg" alt=" " align="middle">--> </p></td>      </tr> 
+	
+	<!--   <tr>        <td id="contentfont" style= "text-align:left;"><p><b>So 16.11</b><b>. 14.30 Uhr</b>          
+	 &nbsp;<img src="bilder/MannschaftsLogos/svi_logo55px.jpg"alt=" " align="middle"> SV Sternenfels I&nbsp;vs. SV Illingen II		
+	  <img src="bilder/MannschaftsLogos/svi_logo55px.jpg" alt=" " align="middle"> </p></td>      </tr>  
+	<tr>        <td id="contentfont" style= "text-align:left;"><p><b>So 16.11</b><b>. 14.30 Uhr</b>          
+	 &nbsp; <img src="bilder/MannschaftsLogos/gemmrigheim.jpg"alt=" " align="middle">   VfL Gemmrigheim I &nbsp;vs. SV Illingen I		
+	  <img src="bilder/MannschaftsLogos/svi_logo55px.jpg" alt=" " align="middle"> </p></td>      </tr> -->
 	
 	   <!--    <tr>
         <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
@@ -2797,6 +2813,7 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
      <tr>
         <td height="50px" colspan="7"><hr width="100%" size="1px" noshade style="color:#cccccc; background-color:#CCCCCC;"></td>
       </tr>  
+	  
  <tr>
 
         <td id="ueber2"><div><strong>*
@@ -2806,94 +2823,6 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
 
       </tr>
 
-	
-				 
-				 
-			<!--   <tr>                <td>                                 <table id="inner_table" width="550" class="profil" >  
-                                        <tr>   <td width="83" id="contentfont6" style= "text-align:right;">
-										<div align="left"><strong>E-Jugend</strong></div></td>                     
-										<td width="26" id="contentfont6" style= "text-align:right;">
-										<div align="right"><strong>Sa</strong></div></td>                        
-										<td width="59" id="contentfont6" style= "text-align:right;">
-										<div align="left"><strong>25.10.14</strong></div></td>                  
-										<td width="69" id="contentfont6" style= "text-align:right;">
-										<div align="left"><strong>12.00Uhr</strong></div></td>                  
-										<td width="339" id="contentfont6" style= "text-align:right;">
-										<div align="left"> TSV Phönix Lomersheim I -  SV Illingen I</div> </td>                </tr> </table>
-
-   						
-			
-
-				 
-		  <tr>                <td>                                 <table id="inner_table" width="550" class="profil" >  
-                                        <tr>   <td width="83" id="contentfont6" style= "text-align:right;">
-										<div align="left"><strong>E-Jugend</strong></div></td>                     
-										<td width="26" id="contentfont6" style= "text-align:right;">
-										<div align="right"><strong>Sa</strong></div></td>                        
-										<td width="59" id="contentfont6" style= "text-align:right;">
-										<div align="left"><strong>25.10.14</strong></div></td>                  
-										<td width="69" id="contentfont6" style= "text-align:right;">
-										<div align="left"><strong>12.00Uhr</strong></div></td>                  
-										<td width="339" id="contentfont6" style= "text-align:right;">
-										<div align="left"> TSV Phönix Lomersheim II -  SV Illingen II</div> </td>                </tr> </table>
-<tr>                <td>                                 <table id="inner_table" width="550" class="profil" >           
-				 <tr>   <td width="83" id="contentfont6" style= "text-align:right;">										
-				 <div align="left"><strong>D-Jugend</strong></div></td>                     										
-				 <td width="26" id="contentfont6" style= "text-align:right;">										
-				 <div align="right"><strong>Sa</strong></div></td>                        										
-				 <td width="59" id="contentfont6" style= "text-align:right;">										
-				 <div align="left"><strong>25.10.14</strong></div></td>                  										
-				 <td width="69" id="contentfont6" style= "text-align:right;">										
-				 <div align="left"><strong>13.30Uhr</strong></div></td>                  										
-				 <td width="339" id="contentfont6" style= "text-align:right;">										
-				 <div align="left">SV Illingen - TSV Kleinsachsenheim I</div> </td>                </tr> </table>
-
-
-				<tr>                <td>                                 <table id="inner_table" width="550" class="profil" >           
-				 <tr>   <td width="83" id="contentfont6" style= "text-align:right;">										
-				 <div align="left"><strong>C-Jugend</strong></div></td>                     										
-				 <td width="26" id="contentfont6" style= "text-align:right;">										
-				 <div align="right"><strong>Sa</strong></div></td>                        										
-				 <td width="59" id="contentfont6" style= "text-align:right;">										
-				 <div align="left"><strong>25.10.14</strong></div></td>                  										
-				 <td width="69" id="contentfont6" style= "text-align:right;">										
-				 <div align="left"><strong>15.00Uhr</strong></div></td>                  										
-				 <td width="339" id="contentfont6" style= "text-align:right;">										
-				 <div align="left">SV Illingen I - VfR Sersheim </div> </td>                </tr> </table>	
- 	<tr>                <td>                                 <table id="inner_table" width="550" class="profil" >           
-				 <tr>   <td width="83" id="contentfont6" style= "text-align:right;">										
-				 <div align="left"><strong>C-Jugend</strong></div></td>                     										
-				 <td width="26" id="contentfont6" style= "text-align:right;">										
-				 <div align="right"><strong>Sa</strong></div></td>                        										
-				 <td width="59" id="contentfont6" style= "text-align:right;">										
-				 <div align="left"><strong>25.10.14</strong></div></td>                  										
-				 <td width="69" id="contentfont6" style= "text-align:right;">										
-				 <div align="left"><strong>15.00Uhr</strong></div></td>                  										
-				 <td width="339" id="contentfont6" style= "text-align:right;">										
-				 <div align="left">TSV Phönix Lomersheim II -  SV Illingen II</div> </td>                </tr> </table>	
-				  	<tr>                <td>                                 <table id="inner_table" width="550" class="profil" >           
-				 <tr>   <td width="83" id="contentfont6" style= "text-align:right;">										
-				 <div align="left"><strong>A-Jugend</strong></div></td>                     										
-				 <td width="26" id="contentfont6" style= "text-align:right;">										
-				 <div align="right"><strong>Sa</strong></div></td>                        										
-				 <td width="59" id="contentfont6" style= "text-align:right;">										
-				 <div align="left"><strong>25.10.14</strong></div></td>                  										
-				 <td width="69" id="contentfont6" style= "text-align:right;">										
-				 <div align="left"><strong>16.30Uhr</strong></div></td>                  										
-				 <td width="339" id="contentfont6" style= "text-align:right;">										
-				 <div align="left"> SV Illingen - JFC Gerlingen</div> </td>                </tr> </table>	
-<tr>                <td>                                 <table id="inner_table" width="550" class="profil" >           
-				 <tr>   <td width="83" id="contentfont6" style= "text-align:right;">										
-				 <div align="left"><strong>B-Jugend</strong></div></td>                     										
-				 <td width="26" id="contentfont6" style= "text-align:right;">										
-				 <div align="right"><strong>So</strong></div></td>                        										
-				 <td width="59" id="contentfont6" style= "text-align:right;">										
-				 <div align="left"><strong>26.10.14</strong></div></td>                  										
-				 <td width="69" id="contentfont6" style= "text-align:right;">										
-				 <div align="left"><strong>10.30Uhr</strong></div></td>                  										
-				 <td width="339" id="contentfont6" style= "text-align:right;">		
-				 <div align="left"> TSV Enzweihingen - SV Illingen</div> </td>                </tr> </table>	
-				 -->
 				 
 				
 			
@@ -2919,6 +2848,64 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
 				 <div align="left"><strong>18.00Uhr</strong></div></td>                  										
 				 <td width="339" id="contentfont6" style= "text-align:right;">		
 				 <div align="left"> SV Illingen - TSV Wiernsheim II</div> </td>                </tr> </table>	
+			
+<tr>                <td>                                 <table id="inner_table" width="550" class="profil" >           
+				 <tr>   <td width="83" id="contentfont6" style= "text-align:right;">										
+				 <div align="left"><strong>D-Jugend</strong></div></td>                     										
+				 <td width="26" id="contentfont6" style= "text-align:right;">										
+				 <div align="right"><strong>Sa</strong></div></td>                        										
+				 <td width="59" id="contentfont6" style= "text-align:right;">										
+				 <div align="left"><strong>15.11.14</strong></div></td>                  										
+				 <td width="69" id="contentfont6" style= "text-align:right;">										
+				 <div align="left"><strong>11.00Uhr</strong></div></td>                  										
+				 <td width="339" id="contentfont6" style= "text-align:right;">										
+				 <div align="left">SV Illingen - SV Horrheim</div> </td>                </tr> </table>
+
+
+				<tr>                <td>                                 <table id="inner_table" width="550" class="profil" >           
+				 <tr>   <td width="83" id="contentfont6" style= "text-align:right;">										
+				 <div align="left"><strong>C-Jugend</strong></div></td>                     										
+				 <td width="26" id="contentfont6" style= "text-align:right;">										
+				 <div align="right"><strong>Sa</strong></div></td>                        										
+				 <td width="59" id="contentfont6" style= "text-align:right;">										
+				 <div align="left"><strong>15.11.14</strong></div></td>                  										
+				 <td width="69" id="contentfont6" style= "text-align:right;">										
+				 <div align="left"><strong>12.30Uhr</strong></div></td>                  										
+				 <td width="339" id="contentfont6" style= "text-align:right;">										
+				 <div align="left">SV Illingen I - SG Sachsenheim I </div> </td>                </tr> </table>	
+ 	<tr>                <td>                                 <table id="inner_table" width="550" class="profil" >           
+				 <tr>   <td width="83" id="contentfont6" style= "text-align:right;">										
+				 <div align="left"><strong>C-Jugend</strong></div></td>                     										
+				 <td width="26" id="contentfont6" style= "text-align:right;">										
+				 <div align="right"><strong>Sa</strong></div></td>                        										
+				 <td width="59" id="contentfont6" style= "text-align:right;">										
+				 <div align="left"><strong>15.11.14</strong></div></td>                  										
+				 <td width="69" id="contentfont6" style= "text-align:right;">										
+				 <div align="left"><strong>12.30Uhr</strong></div></td>                  										
+				 <td width="339" id="contentfont6" style= "text-align:right;">										
+				 <div align="left">SV Friolzheim -  SV Illingen II</div> </td>                </tr> </table>	
+				  	<tr>                <td>                                 <table id="inner_table" width="550" class="profil" >           
+				 <tr>   <td width="83" id="contentfont6" style= "text-align:right;">										
+				 <div align="left"><strong>A-Jugend</strong></div></td>                     										
+				 <td width="26" id="contentfont6" style= "text-align:right;">										
+				 <div align="right"><strong>Sa</strong></div></td>                        										
+				 <td width="59" id="contentfont6" style= "text-align:right;">										
+				 <div align="left"><strong>15.11.14</strong></div></td>                  										
+				 <td width="69" id="contentfont6" style= "text-align:right;">										
+				 <div align="left"><strong>14.00Uhr</strong></div></td>                  										
+				 <td width="339" id="contentfont6" style= "text-align:right;">										
+				 <div align="left"> Spvgg Weil der Stadt - SV Illingen</div> </td>                </tr> </table>	
+<tr>                <td>                                 <table id="inner_table" width="550" class="profil" >           
+				 <tr>   <td width="83" id="contentfont6" style= "text-align:right;">										
+				 <div align="left"><strong>B-Jugend</strong></div></td>                     										
+				 <td width="26" id="contentfont6" style= "text-align:right;">										
+				 <div align="right"><strong>So</strong></div></td>                        										
+				 <td width="59" id="contentfont6" style= "text-align:right;">										
+				 <div align="left"><strong>16.11.14</strong></div></td>                  										
+				 <td width="69" id="contentfont6" style= "text-align:right;">										
+				 <div align="left"><strong>10.30Uhr</strong></div></td>                  										
+				 <td width="339" id="contentfont6" style= "text-align:right;">		
+				 <div align="left"> Spvgg Renningen - SV Illingen</div> </td>                </tr> </table>	
       <!--      <tr>
 
           <td id="ueber2">
