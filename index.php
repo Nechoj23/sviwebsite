@@ -2279,10 +2279,10 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
 		 
 <tr>
 	<td id="contentfont" style= "text-align:left; padding-left:50px;">
-    	VfR Sersheim I vs. SV Illingen I&nbsp; 0:2 (0:0)<br/>
-		<span class="Stil20"><em>Torsch&uuml;tzen: 0:1 und 0:2 Tim Scheuermann</em></span><br>
+    	SV Illingen I vs. SKV Erligheim I&nbsp; 2:4 (0:1)<br/>
+		<span class="Stil20"><em>Torsch&uuml;tzen: 1:1 und 2:3 Tim Scheuermann</em></span><br>
 		<br>
-		<a href="http://www.fussball.de/spiel/kreisliga-a-3-bezirk-enz-murr-kl-kreisliga-a-herren-saison1415-wuerttemberg/-/spiel/01L9BRRF0C000000VV0AG812VVHQG9J2" target="_blank"><em>mehr Infos zum Spiel</em>
+		<a href="http://www.fussball.de/spiel/kreisliga-a-3-bezirk-enz-murr-kl-kreisliga-a-herren-saison1415-wuerttemberg/-/spiel/01L9BRREP8000000VV0AG812VVHQG9J2#!/section/stage" target="_blank"><em>mehr Infos zum Spiel</em>
     	</a> 
 	</td>
 </tr>
@@ -2293,10 +2293,10 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
       </tr>  	
 <tr>
 	<td id="contentfont" style= "text-align:left; padding-left:50px;">
-    	FC Gündelbach I vs. SV Illingen II&nbsp; 1:3 (1:2)<br/>
-		<span class="Stil20"><em>Torsch&uuml;tzen: 0:1 Michali Gatsas, 0:2 Andreas Köppl, 1:3 Tim Scheuermann</em></span><br>
+    	SV Illingen II vs. TSV Unterriexingen I&nbsp; 1:8 (1:4)<br/>
+		<span class="Stil20"><em>Torsch&uuml;tzen: 1:3 Daniel Graci</em></span><br>
 		<br>
-		<a href="http://www.fussball.de/spiel/kreisliga-b-5-bezirk-enz-murr-kl-kreisliga-b-herren-saison1415-wuerttemberg/-/spiel/01L9BHUT6O000000VV0AG812VVHQG9J2#!/" target="_blank"><em>mehr Infos zum Spiel</em>
+		<a href="http://www.fussball.de/spiel/kreisliga-b-5-bezirk-enz-murr-kl-kreisliga-b-herren-saison1415-wuerttemberg/-/spiel/01L9BHUSVO000000VV0AG812VVHQG9J2#!/section/stage" target="_blank"><em>mehr Infos zum Spiel</em>
     	</a> 
 	</td>
 </tr>  	
@@ -2363,12 +2363,6 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
 	 beendet und befinden sich in der Sommerpause!</div></td>             </tr> -->
   	 
 
-	  	   <tr>        <td id="contentfont" style= "text-align:left;"><p><b>So 02.11</b><b>. 12.45 Uhr</b>          
-	 &nbsp;<img src="bilder/MannschaftsLogos/svi_logo55px.jpg"alt=" " align="middle"> SV Illingen II&nbsp;vs. TSV Unterriexingen I		
-	  <img src="bilder/MannschaftsLogos/unterriexingen.jpg" alt=" " align="middle"> </p></td>      </tr>  
-	<tr>        <td id="contentfont" style= "text-align:left;"><p><b>So 02.11</b><b>. 14.30 Uhr</b>          
-	 &nbsp; <img src="bilder/MannschaftsLogos/svi_logo55px.jpg"alt=" " align="middle">   SV Illingen I &nbsp;vs. SKV Erligheim I		
-	<!--  <img src="bilder/MannschaftsLogos/nussdorf.jpg" alt=" " align="middle">--> </p></td>      </tr> 
 		 	   <tr>        <td id="contentfont" style= "text-align:left;"><p><b>So 09.11</b><b>. 12.45 Uhr</b>          
 	 &nbsp;<img src="bilder/MannschaftsLogos/svi_logo55px.jpg"alt=" " align="middle"> SV Illingen II&nbsp;vs. TSV Großglattbach I		
 	  <img src="bilder/MannschaftsLogos/grossglattbach.jpg" alt=" " align="middle"> </p></td>      </tr>  
@@ -2376,12 +2370,12 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
 	 &nbsp; <img src="bilder/MannschaftsLogos/svi_logo55px.jpg"alt=" " align="middle">   SV Illingen I &nbsp;vs. TASV Hessigheim I		
 	<!--  <img src="bilder/MannschaftsLogos/nussdorf.jpg" alt=" " align="middle">--> </p></td>      </tr> 
 	
-	<!--   <tr>        <td id="contentfont" style= "text-align:left;"><p><b>So 16.11</b><b>. 14.30 Uhr</b>          
-	 &nbsp;<img src="bilder/MannschaftsLogos/svi_logo55px.jpg"alt=" " align="middle"> SV Sternenfels I&nbsp;vs. SV Illingen II		
+	   <tr>        <td id="contentfont" style= "text-align:left;"><p><b>So 16.11</b><b>. 14.30 Uhr</b>          
+	 &nbsp;<!--<img src="bilder/MannschaftsLogos/svi_logo55px.jpg"alt=" " align="middle">--> SV Sternenfels I&nbsp;vs. SV Illingen II		
 	  <img src="bilder/MannschaftsLogos/svi_logo55px.jpg" alt=" " align="middle"> </p></td>      </tr>  
 	<tr>        <td id="contentfont" style= "text-align:left;"><p><b>So 16.11</b><b>. 14.30 Uhr</b>          
 	 &nbsp; <img src="bilder/MannschaftsLogos/gemmrigheim.jpg"alt=" " align="middle">   VfL Gemmrigheim I &nbsp;vs. SV Illingen I		
-	  <img src="bilder/MannschaftsLogos/svi_logo55px.jpg" alt=" " align="middle"> </p></td>      </tr> -->
+	  <img src="bilder/MannschaftsLogos/svi_logo55px.jpg" alt=" " align="middle"> </p></td>      </tr>
 	
 	   <!--    <tr>
         <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>

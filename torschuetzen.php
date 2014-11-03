@@ -17,15 +17,16 @@
       <td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">&nbsp;</font></p></td>
       <td width="424" id="contentFont"><font size="+1">Bisher keine Torschützen</font></td>
     </tr> -->
+		<tr id="contentFont">       
+	<td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">7       
+	Tore</font></p></td>     
+	<td width="424" id="contentFont"><font size="+1">Tim Scheuermann</font></td>    </tr>
 		<tr id="contentFont"> 
       <td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">5 
       Tore</font></p></td>
       <td width="424" id="contentFont"><font size="+1">Pasquale Arena</font></td>
     </tr> 	
-		<tr id="contentFont">       
-	<td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">5       
-	Tore</font></p></td>     
-	<td width="424" id="contentFont"><font size="+1">Tim Scheuermann</font></td>    </tr>
+	
 		<tr id="contentFont"> 
       <td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">4 
       Tore</font></p></td>
@@ -113,6 +114,11 @@
       <td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">1 
       Tor</font></p></td>
       <td width="424" id="contentFont"><font size="+1">Niko Gatsas</font></td>
+    </tr> 
+		<tr id="contentFont"> 
+      <td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">1 
+      Tor</font></p></td>
+      <td width="424" id="contentFont"><font size="+1">Daniel Graci</font></td>
     </tr> 
 		<tr id="contentFont"> 
       <td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">1 
