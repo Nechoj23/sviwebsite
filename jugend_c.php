@@ -290,10 +290,13 @@
 			</td>
 			<td id="contentFont" align="left" valign="top">
       <!--  <p>Trainingsstart: <b>Montag 26.08.13 17.30 Uhr</b></p> -->
+		<p> <em>Feld:</em> </p>
 		<p>Montag 17.30 Uhr - 19.00 Uhr</p>	
         <p>Mittwoch 17.30 Uhr - 19.00 Uhr</p>
 		   <p>Freitag 17.30 Uhr - 19.00 Uhr</p>
-		   
+		   <p> &nbsp;</p>
+		   <p> <em>Halle:</em></p>
+		   <p> Freitag 16.00 Uhr - 17.00 Uhr
  
        <p>&nbsp;</p>
 <!-- <p>     Torspieler-Training: Mittwoch 18.00 - 19.00 Uhr</p> -->
@@ -301,3 +304,4 @@
 		</tr> 
       </table>
       <p>&nbsp;</p></td>
+	  

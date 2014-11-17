@@ -270,28 +270,31 @@
         <tr> 
           <td width="200" id="contentFont" align="right" valign="top">	        
 		    <p>Spielklasse:</p>
-          <p>Ergebnisdienst: <br /> <br /></p>
+          <p>Ergebnisdienst: <br /></p>
 		  
             <p>Trainer/Betreuer:</p>
 		  </td>
 		  <td width="300" id="contentFont" align="left" valign="top">			  	  
-		      <p>Quali-Staffel 12 (D1) / D7 - Kreisstaffel 3 (D2)</p>
-	           <p><a href="http://www.fussball.de/spieltag/d-quali-staffel-12-bezirk-enz-murr-kl-d-junioren-kreisstaffel-d-junioren-saison1415-wuerttemberg/-/staffel/01LI7B37O4000001VV0AG813VVGBTDNI-G" target="_blank"> <em>www.fussball.de</em></a> (D1)<br />
-               <a href="http://www.fussball.de/spieltag/d7-kreisstaffel-3-bezirk-enz-murr-kl-d-junioren-kreisstaffel-d-junioren-saison1415-wuerttemberg/-/staffel/01LI7F6G60000001VV0AG813VVGBTDNI-G"> <em>www.fussball.de</em></a> (D2)              </p>
-               <p><strong>D1-Jugend</strong></p>
+		      <p>Quali-Staffel 12</p>
+	           <p><a href="http://www.fussball.de/spieltag/d-quali-staffel-12-bezirk-enz-murr-kl-d-junioren-kreisstaffel-d-junioren-saison1415-wuerttemberg/-/staffel/01LI7B37O4000001VV0AG813VVGBTDNI-G" target="_blank"> <em>www.fussball.de</em></a><br />
+            
+              <!-- <p><strong>D1-Jugend</strong></p>-->
             <p>        Alexander Köppl<br>				
 			Tel.:  07042-22923<br>		Handy: 0171-3672714<br />       
 			<a href="mailto:alex_steffi@arcor.de">alex_steffi@arcor.de</a>         </p>			 
             <p>                Uwe Landsperger <br>           
 			Tel.:  07042-820416<br>		Handy: 0173-5444623<br />      
 			<a href="mailto:eu@freenet.de">eu@freenet.de</a> </p>
-			
-			
-			<p><strong>D2-Jugend</strong></p>	
-			   <p>
+			  <p>
         Alexander Knapp<br>
 				  Handy: 0179/2327193<br>
 				  <a href="mailto:alexanderknapp@gmx.net">alexanderknapp@gmx.net</a>			  </p>	
+			
+		<!--	<p><strong>D2-Jugend</strong></p>	
+			   <p>
+        Alexander Knapp<br>
+				  Handy: 0179/2327193<br>
+				  <a href="mailto:alexanderknapp@gmx.net">alexanderknapp@gmx.net</a>			  </p>	 -->
 			  <p>&nbsp;</p>
 		  </td>
         </tr>
@@ -302,14 +305,15 @@
 
 			<td id="contentFont" align="left" valign="top">
 				<!--<p>Trainingsstart: <b>Montag 29.08.11 17.30 Uhr</b></p> -->
-		<p><strong>D1-Jugend:</strong></p>
+		<!--<p><strong>D1-Jugend:</strong></p>-->
+
         <p>Montag 18.00 Uhr - 19.30 Uhr</p>
         <p>Mittwoch 18.00 Uhr - 19.30 Uhr</p>
 
         
-        <p><strong>D2-Jugend:</strong></p>		
+        <!-- <p><strong>D2-Jugend:</strong></p>		
         <p>Montag 18.00 Uhr - 19.30 Uhr</p>        
-        <p>Mittwoch 18.00 Uhr - 19.30 Uhr</p>
+        <p>Mittwoch 18.00 Uhr - 19.30 Uhr</p> -->
         <p>&nbsp;</p>
 <!--<p>     Torspieler-Training: Mittwoch 17.00 - 18.00 Uhr</p> -->
 			</td>
