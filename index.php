@@ -2260,10 +2260,10 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
 		 
 <tr>
 	<td id="contentfont" style= "text-align:left; padding-left:50px;">
-    	VfL Gemmrigheim I vs. SV Illingen I&nbsp; 0:0 <br/>
-		<span class="Stil20"><em>Torsch&uuml;tzen: ---</em></span><br>
+    	SV Illingen I vs. Spvgg Bissingen I&nbsp; 2:0 (1:0)<br/>
+		<span class="Stil20"><em>Torsch&uuml;tzen: 1:0 Tim Scheuermann, 2:0 Fabio Tricarico</em></span><br>
 		<br>
-		<a href="http://www.fussball.de/spiel/kreisliga-a-3-bezirk-enz-murr-kl-kreisliga-a-herren-saison1415-wuerttemberg/-/spiel/01L9BRREHO000000VV0AG812VVHQG9J2" target="_blank"><em>mehr Infos zum Spiel</em>
+		<a href="http://www.fussball.de/spiel/kreisliga-a-3-bezirk-enz-murr-kl-kreisliga-a-herren-saison1415-wuerttemberg/-/spiel/01L9BRRE6G000000VV0AG812VVHQG9J2" target="_blank"><em>mehr Infos zum Spiel</em>
     	</a> 
 	</td>
 </tr>
@@ -2274,10 +2274,10 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
       </tr>  	
 <tr>
 	<td id="contentfont" style= "text-align:left; padding-left:50px;">
-    	SV Sternenfels I vs. SV Illingen II&nbsp; 5:2 (2:2)<br/>
-		<span class="Stil20"><em>Torsch&uuml;tzen: 0:1 Nils Gutscher, 0:2 Marco Klein</em></span><br>
+    	SV Illingen II vs. TSV Ensingen I&nbsp; 2:1 (1:0)<br/>
+		<span class="Stil20"><em>Torsch&uuml;tzen: 1:0 Marco Klein, 2:0 Jonathan Kammerlohr</em></span><br>
 		<br>
-		<a href="http://www.fussball.de/spiel/kreisliga-b-5-bezirk-enz-murr-kl-kreisliga-b-herren-saison1415-wuerttemberg/-/spiel/01L9BHUSOK000000VV0AG812VVHQG9J2#!/section/stage" target="_blank"><em>mehr Infos zum Spiel</em>
+		<a href="http://www.fussball.de/spiel/kreisliga-b-5-bezirk-enz-murr-kl-kreisliga-b-herren-saison1415-wuerttemberg/-/spiel/01L9BHUSEG000000VV0AG812VVHQG9J2" target="_blank"><em>mehr Infos zum Spiel</em>
     	</a> 
 	</td>
 </tr>  	
@@ -2344,19 +2344,19 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
 	 beendet und befinden sich in der Sommerpause!</div></td>             </tr> -->
   	 
 	  
-	  		 	   <tr>        <td id="contentfont" style= "text-align:left;"><p><b>Sa 22.11</b><b>. 12.45 Uhr</b>          
-	 &nbsp;<img src="bilder/MannschaftsLogos/svi_logo55px.jpg"alt=" " align="middle"> SV Illingen II&nbsp;vs. TSV Ensingen I		
-	  <img src="bilder/MannschaftsLogos/ensingen.jpg" alt=" " align="middle"> </p></td>      </tr>  
-	<tr>        <td id="contentfont" style= "text-align:left;"><p><b>Sa 22.11</b><b>. 14.30 Uhr</b>          
-	 &nbsp; <img src="bilder/MannschaftsLogos/svi_logo55px.jpg"alt=" " align="middle">   SV Illingen I &nbsp;vs. Spvgg Bissingen I		
-	  <img src="bilder/MannschaftsLogos/bissingen.jpg" alt=" " align="middle">  </p></td>      </tr> 
+	
   		 	   <tr>        <td id="contentfont" style= "text-align:left;"><p><b>So 30.11</b><b>. 12.45 Uhr</b>          
 	 &nbsp;<img src="bilder/MannschaftsLogos/svi_logo55px.jpg"alt=" " align="middle"> SV Illingen II&nbsp;vs. TSV Phönix Lomersheim II		
 	  <img src="bilder/MannschaftsLogos/lomersheim.jpg" alt=" " align="middle"> </p></td>      </tr>  
 	<tr>        <td id="contentfont" style= "text-align:left;"><p><b>So 30.11</b><b>. 14.30 Uhr</b>          
 	 &nbsp; <img src="bilder/MannschaftsLogos/svi_logo55px.jpg"alt=" " align="middle">   SV Illingen I &nbsp;vs. TSV Bönnigheim I		
 	  <img src="bilder/MannschaftsLogos/boennigheim.jpg" alt=" " align="middle">  </p></td>      </tr> 
-	
+	  		 	   <tr>        <td id="contentfont" style= "text-align:left;"><p><b>Sa 07.12</b><b>. 14.00 Uhr</b>          
+	 &nbsp;<img src="bilder/MannschaftsLogos/oberriexingen.jpg"alt=" " align="middle"> TSV Oberriexingen I&nbsp;vs. SV Illingen II		
+	  <img src="bilder/MannschaftsLogos/svi_logo55px.jpg" alt=" " align="middle"> </p></td>      </tr>  
+	<tr>        <td id="contentfont" style= "text-align:left;"><p><b>Sa 07.12</b><b>. 14.00 Uhr</b>          
+	 &nbsp; <img src="bilder/MannschaftsLogos/kleinglattbach.jpg"alt=" " align="middle">   TSV Kleinglattbach I &nbsp;vs. SV Illingen I	
+	  <img src="bilder/MannschaftsLogos/svi_logo55px.jpg" alt=" " align="middle">  </p></td>      </tr> 
 	   <!--    <tr>
         <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
       </tr>
