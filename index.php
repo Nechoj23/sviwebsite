@@ -819,15 +819,12 @@ auf dem Flyer.
         </tr>  -->
  <tr>
 
-       <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"><strong> Hallenspieltag in Illingen!</strong><br>
+       <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"><strong> Illinger Weihnachtsmarkt am kommenden Wochenende!</strong><br>
 
         
-         <p> 
-		 Am kommenden Sonntag (07. Dezember) ist die Fußballabteilung des SVI Gastgeber eines Jugend-Hallenspieltags.
-		 Los geht's in der Stromberg-Sporthalle um 09.00 Uhr mit den C-Junioren, ab 12.00 Uhr sind die D-Junioren-Teams an der Reihe, ehe zum
-		 Abschluss ab 15.00 Uhr verschiedene E-Junioren-Mannschaften gegeneinander antreten. In jeder Altersklasse ist auch eine Illinger Mannschaft dabei.<br>
-		 Der Illinger Nachwuchs würde sich über zahlreiche Zuschauer freuen! Für das leibliche Wohl ist den ganzen Tag über bestens gesorgt.
-		 <br>
+         <p>Zum diesj&auml;hrigen Weihnachtsmarkt (13./14.12.) bieten wir neben gegrillten Roten und Th&uuml;ringer Rostbratw&uuml;rsten aus Illinger Herstellung (der Metzgereien Lamm und Jaillet) wieder erstklassigen Gl&uuml;hwein aus besten Ensinger Trauben an. Au&szlig;erdem haben Sie bei uns die M&ouml;glichkeit, sich auch bei k&uuml;hleren (oder feuchten) Temperaturen in unserer &quot;W&auml;rmestube&quot; zu erholen.<br>
+           <br>
+           Einen sch&ouml;ne und stressfreie Vorweihnachtszeit w&uuml;nschen die Fu&szlig;baller des SV Illingen!<br>
 		
 
 		

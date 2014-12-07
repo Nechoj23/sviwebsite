@@ -25,15 +25,10 @@
 <br />
 <span class="Stil6">
 
-
-&nbsp;&nbsp;07.12.14<br />
-&nbsp;&nbsp;Hallenspieltag <br />
-&nbsp;&nbsp;in Illingen<br />
-&nbsp;&nbsp;&nbsp;--------------<br />
 &nbsp;&nbsp;13.12.14 - 14.12.14<br />
 &nbsp;&nbsp;Weihnachtsmarkt in <br />
 &nbsp;&nbsp;in Illingen<br />
- 
+<!--&nbsp;&nbsp;&nbsp;--------------<br />-->
 
 
 
