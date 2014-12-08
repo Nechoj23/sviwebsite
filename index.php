@@ -833,9 +833,49 @@ auf dem Flyer.
                        </div></td>
 
       </tr> 
+	   <tr>
 
-   
+        <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
 
+      </tr>
+
+ 
+
+	   <tr>
+
+       <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"><strong> B-Jugend feiert Herbstmeisterschaft!</strong><br>
+
+        
+         <p>Die Illinger B-Jugend beendet durch einen 2:0-Auswärtserfolg beim SV Friolzheim die Hinrunde auf dem ersten Tabellenplatz und feiert
+		 somit die Herbstmeisterschaft in der Leistungsstaffel. Das Team des Trainertrios Tobias Häfner, Marcel Liebendörfer und Denis Rommel 
+		 blieb die gesamte Vorrunde über
+		 ungeschlagen und leistete sich in zehn Spielen lediglich zwei Unentschieden. <br>
+</p>
+
+                       </div></td>
+
+      </tr> 
+	    <tr>
+
+        <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
+
+      </tr>
+
+   <tr>
+
+       <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"><strong> Gelungener Hallenspieltag in Illingen!</strong><br>
+
+        
+         <p>Die Abteilung Fußball bedankt sich bei allen Helfern, die zum Gelingen des Jugend-Hallenspieltags am vergangenen Sonntag (07. Dezember)
+		 in der Illinger Strombergsporthalle beigetragen haben. Ein besonderer Dank gilt den Eltern der Jugendspieler für die 
+		 zahlreichen Kuchenspenden und den geleisteten Arbeitseinsatz!<br>
+		 
+</p>
+
+                       </div></td>
+
+      </tr> 
+	 
       <!--
 
    <tr>
@@ -2258,10 +2298,10 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
 		 
 <tr>
 	<td id="contentfont" style= "text-align:left; padding-left:50px;">
-    	SV Illingen I vs. TSV Bönnigheim I&nbsp; 1:0 (1:0)<br/>
-		<span class="Stil20"><em>Torsch&uuml;tzen: 1:0 Daniel Brenner</em></span><br>
+    	TSV Kleinglattbach I vs. SV Illingen I&nbsp; 0:3 (0:1)<br/>
+		<span class="Stil20"><em>Torsch&uuml;tzen: 0:1 Patrick Schüle (FE), 0:2 und 0:3 Tim Scheuermann</em></span><br>
 		<br>
-		<a href="http://www.fussball.de/spiel/kreisliga-a-3-bezirk-enz-murr-kl-kreisliga-a-herren-saison1415-wuerttemberg/-/spiel/01L9BRRO6S000000VV0AG812VVHQG9J2" target="_blank"><em>mehr Infos zum Spiel</em>
+		<a href="http://www.fussball.de/spiel/kreisliga-a-3-bezirk-enz-murr-kl-kreisliga-a-herren-saison1415-wuerttemberg/-/spiel/01L9BRRNFK000000VV0AG812VVHQG9J2#!/section/stage" target="_blank"><em>mehr Infos zum Spiel</em>
     	</a> 
 	</td>
 </tr>
@@ -2272,10 +2312,10 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
       </tr>  	
 <tr>
 	<td id="contentfont" style= "text-align:left; padding-left:50px;">
-    	SV Illingen II vs. TSV Phönix Lomersheim II&nbsp; 1:3 (0:2)<br/>
-		<span class="Stil20"><em>Torsch&uuml;tzen: 1:2 Nils Gutscher</em></span><br>
+    	TSV Oberriexingen I vs. SV Illingen II&nbsp; 2:3 (0:2)<br/>
+		<span class="Stil20"><em>Torsch&uuml;tzen: 0:1 und 0:2 Lukas Strauß, 1:3 Frieder Lachenmayer</em></span><br>
 		<br>
-		<a href="http://www.fussball.de/spiel/kreisliga-b-5-bezirk-enz-murr-kl-kreisliga-b-herren-saison1415-wuerttemberg/-/spiel/01L9BHV590000000VV0AG812VVHQG9J2#!/section/stage" target="_blank"><em>mehr Infos zum Spiel</em>
+		<a href="http://www.fussball.de/spiel/kreisliga-b-5-bezirk-enz-murr-kl-kreisliga-b-herren-saison1415-wuerttemberg/-/spiel/01L9BHV4I0000000VV0AG812VVHQG9J2#!/section/stage" target="_blank"><em>mehr Infos zum Spiel</em>
     	</a> 
 	</td>
 </tr>  	
@@ -2338,8 +2378,7 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
 
  <tr>                <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>             </tr> 
 		  	 
-	<!-- <tr>                <td id="contentfont" style= "text-align:right;"><div align="left">Die beiden aktiven Mannschaften haben jeweils ihre Saison
-	 beendet und befinden sich in der Sommerpause!</div></td>             </tr> -->
+	 <tr>                <td id="contentfont" style= "text-align:right;"><div align="left">Die beiden aktiven Mannschaften befinden sich in der Winterpause!</div></td>             </tr> 
   	 
 	  
 	
@@ -2348,13 +2387,13 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
 	  <img src="bilder/MannschaftsLogos/lomersheim.jpg" alt=" " align="middle"> </p></td>      </tr>  
 	<tr>        <td id="contentfont" style= "text-align:left;"><p><b>So 30.11</b><b>. 14.30 Uhr</b>          
 	 &nbsp; <img src="bilder/MannschaftsLogos/svi_logo55px.jpg"alt=" " align="middle">   SV Illingen I &nbsp;vs. TSV Bönnigheim I		
-	  <img src="bilder/MannschaftsLogos/boennigheim.jpg" alt=" " align="middle">  </p></td>      </tr> -->
+	  <img src="bilder/MannschaftsLogos/boennigheim.jpg" alt=" " align="middle">  </p></td>      </tr> 
 	  		 	   <tr>        <td id="contentfont" style= "text-align:left;"><p><b>Sa 07.12</b><b>. 14.00 Uhr</b>          
 	 &nbsp;<img src="bilder/MannschaftsLogos/oberriexingen.jpg"alt=" " align="middle"> TSV Oberriexingen I&nbsp;vs. SV Illingen II		
 	  <img src="bilder/MannschaftsLogos/svi_logo55px.jpg" alt=" " align="middle"> </p></td>      </tr>  
 	<tr>        <td id="contentfont" style= "text-align:left;"><p><b>Sa 07.12</b><b>. 14.00 Uhr</b>          
 	 &nbsp; <img src="bilder/MannschaftsLogos/kleinglattbach.jpg"alt=" " align="middle">   TSV Kleinglattbach I &nbsp;vs. SV Illingen I	
-	  <img src="bilder/MannschaftsLogos/svi_logo55px.jpg" alt=" " align="middle">  </p></td>      </tr> 
+	  <img src="bilder/MannschaftsLogos/svi_logo55px.jpg" alt=" " align="middle">  </p></td>      </tr> -->
 	   <!--    <tr>
         <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
       </tr>
@@ -2447,7 +2486,7 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
 
       </tr> 
 
-    <tr>
+ <!--   <tr>
 
         <td id="ueber3"><div>&nbsp;&nbsp;&nbsp;&nbsp;<strong>** A-Jugend:</strong></div></td>
 
@@ -2461,16 +2500,16 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
  
    <tr>
         <td id="contentfont"><div align="left">&nbsp;</div></td>
-      </tr> 
+      </tr> -->
 <tr>
         <td id="ueber3"><div>&nbsp;&nbsp;&nbsp;&nbsp;<strong>** B-Jugend:</strong></div></td>
       </tr>
         
 	        <tr>
-        <td id="contentfont" style= "text-align:left; padding-left:50px;">SV Illingen - TSV Phönix Lomersheim&nbsp;  7:0 (1:0) <br/>
-            <span class="Stil20"><em>Torsch&uuml;tzen: 2x Samed Bagci, 2x Alex Wernicke, Joschka Merz, Mark Weiß, Nick Heckele</em></span></td>
+        <td id="contentfont" style= "text-align:left; padding-left:50px;">SV Friolzheim - SV Illingen&nbsp;  0:2 (0:1) <br/>
+            <span class="Stil20"><em>Torsch&uuml;tzen: Yannis Yusof, Davide Tasselli</em></span></td>
       </tr> 
-
+<!--
  <tr>
 
         <td id="contentfont"><div align="left">&nbsp;</div></td>
@@ -2488,14 +2527,14 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
 
             <span class="Stil20"><em>Torsch&uuml;tze: 2x Leandro Franco, 2x Tobias Däschner, Philipp Meister, Maximilian Titz, Onesime Ntondele </em></span></td>
 
-      </tr>   
+      </tr>   -->
 	    <!-- <tr>
 
         <td id="contentfont" style= "text-align:left; padding-left:50px;">SV Friolzheim - SV Illingen II&nbsp; 11:3 (8:1) <br/>
 
             <span class="Stil20"><em>Torsch&uuml;tzen: Kadir Mat, Juri Bochonow, Berdan Özcan</em></span></td>
 
-      </tr>  -->
+      </tr>  
 	   
  
         
@@ -2504,10 +2543,10 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
 
         <td id="contentfont"><div align="left">&nbsp;</div></td>
 
-      </tr>
-
- <tr>
+      </tr> -->
 <!--
+ <tr>
+
         <td id="ueber3"><div>&nbsp;&nbsp;&nbsp;&nbsp;<strong>** D-Jugend:</strong></div></td>
 
       </tr>
@@ -2802,9 +2841,11 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
 
       </tr>
 
-			
+			 <tr>                <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>             </tr> 
+		  	 
+	 <tr>                <td id="contentfont" style= "text-align:right;"><div align="left">Die Meisterschaftsrunden der Jugenden beginnen nach der Winterpause wieder im März 2015!</div></td>             </tr> 
 
-				 
+	<!--			 
 					
 <tr>                <td>                                 <table id="inner_table" width="550" class="profil" >           
 				 <tr>   <td width="83" id="contentfont6" style= "text-align:right;">										
@@ -2816,7 +2857,7 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
 				 <td width="69" id="contentfont6" style= "text-align:right;">										
 				 <div align="left"><strong>10.30Uhr</strong></div></td>                  										
 				 <td width="339" id="contentfont6" style= "text-align:right;">		
-				 <div align="left"> SV Friolzheim - SV Illingen</div> </td>                </tr> </table>	
+				 <div align="left"> SV Friolzheim - SV Illingen</div> </td>                </tr> </table>	-->
       <!--      <tr>
 
           <td id="ueber2">
