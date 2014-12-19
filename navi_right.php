@@ -25,15 +25,18 @@
 <br />
 <span class="Stil6">
 
-&nbsp;&nbsp;13.12.14 - 14.12.14<br />
-&nbsp;&nbsp;Weihnachtsmarkt in <br />
-&nbsp;&nbsp;in Illingen<br />
-&nbsp;&nbsp;&nbsp;--------------<br />
+
 &nbsp;&nbsp;11.01.15<br />
 &nbsp;&nbsp;Hallenspieltag der <br />
 &nbsp;&nbsp;Jugend in Illingen<br />
-
-
+&nbsp;&nbsp;&nbsp;--------------<br />
+&nbsp;&nbsp;20.03.15<br />
+&nbsp;&nbsp;Jahreshauptversammlung<br />
+&nbsp;&nbsp;SV Illingen Hauptverein<br />
+&nbsp;&nbsp;&nbsp;--------------<br />
+&nbsp;&nbsp;27.03.15<br />
+&nbsp;&nbsp;Jahreshauptversammlung<br />
+&nbsp;&nbsp;SV Illingen Abt. Fuﬂball<br />
 
 
 

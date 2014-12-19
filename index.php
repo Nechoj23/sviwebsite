@@ -459,7 +459,7 @@ function MM_showHideLayers() { //v3.0
         <td width="600" id="contentTable"><div align="left">&nbsp;</div></td>
 
       </tr>
-<!--
+
       <tr>
 
         <td height="20">&nbsp;</td>
@@ -476,8 +476,8 @@ function MM_showHideLayers() { //v3.0
 
             <br>&nbsp;            </div></td>
 
-      </tr> -->
-
+      </tr> 
+<!--
 <tr>
 
                 <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
@@ -494,7 +494,7 @@ function MM_showHideLayers() { //v3.0
 
         <td height="20">&nbsp;</td>
 
-      </tr>  
+      </tr>  -->
 
       <!--
 
@@ -817,50 +817,8 @@ auf dem Flyer.
         </div></td>
 
         </tr>  -->
- <tr>
 
-       <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"><strong> Illinger Weihnachtsmarkt am kommenden Wochenende!</strong><br>
-
-        
-         <p>Zum diesj&auml;hrigen Weihnachtsmarkt (13./14.12.) bieten wir neben gegrillten Roten und Th&uuml;ringer Rostbratw&uuml;rsten aus Illinger Herstellung (der Metzgereien Lamm und Jaillet) wieder erstklassigen Gl&uuml;hwein aus besten Ensinger Trauben an. Au&szlig;erdem haben Sie bei uns die M&ouml;glichkeit, sich auch bei k&uuml;hleren (oder feuchten) Temperaturen in unserer &quot;W&auml;rmestube&quot; zu erholen.<br>
-           <br>
-           Einen sch&ouml;ne und stressfreie Vorweihnachtszeit w&uuml;nschen die Fu&szlig;baller des SV Illingen!<br>
-		
-
-		
-</p>
-
-                       </div></td>
-
-      </tr> 
-	   <tr>
-
-        <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
-
-      </tr>
-
- 
-
-	   <tr>
-
-       <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"><strong> B-Jugend feiert Herbstmeisterschaft!</strong><br>
-
-        
-         <p>Die Illinger B-Jugend beendet durch einen 2:0-Auswärtserfolg beim SV Friolzheim die Hinrunde auf dem ersten Tabellenplatz und feiert
-		 somit die Herbstmeisterschaft in der Leistungsstaffel. Das Team des Trainertrios Tobias Häfner, Marcel Liebendörfer und Denis Rommel 
-		 blieb die gesamte Vorrunde über
-		 ungeschlagen und leistete sich in zehn Spielen lediglich zwei Unentschieden. <br>
-</p>
-
-                       </div></td>
-
-      </tr> 
-	    <tr>
-
-        <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
-
-      </tr>
-
+<!--
    <tr>
 
        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"><strong> Gelungener Hallenspieltag in Illingen!</strong><br>
@@ -874,7 +832,7 @@ auf dem Flyer.
 
                        </div></td>
 
-      </tr> 
+      </tr> -->
 	 
       <!--
 
@@ -2289,14 +2247,16 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
 
  <tr>
         <td id="ueber2"><div><strong>* Meisterschaft:</strong></div></td>
-      </tr> 
+      </tr>
+	  	 <tr>                <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>             </tr> 
+	   <tr>                <td id="contentfont" style= "text-align:right;"><div align="left">Die beiden aktiven Mannschaften befinden sich in der Winterpause!</div></td>             </tr> 
          <!--  <tr>
 
                 <td id="contentfont" style= "text-align:right;"><div align="left">Die Illinger Aktiven befinden sich derzeit in der Vorbereitung auf die Saison 2013/2014 </div></td>
 
              </tr> -->
 		 
-<tr>
+<!-- <tr>
 	<td id="contentfont" style= "text-align:left; padding-left:50px;">
     	TSV Kleinglattbach I vs. SV Illingen I&nbsp; 0:3 (0:1)<br/>
 		<span class="Stil20"><em>Torsch&uuml;tzen: 0:1 Patrick Schüle (FE), 0:2 und 0:3 Tim Scheuermann</em></span><br>
@@ -2324,7 +2284,7 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
 	  	
       <tr>
         <td height="50px" colspan="7"><hr width="100%" size="1px" noshade style="color:#cccccc; background-color:#CCCCCC;"></td>
-      </tr> 
+      </tr>  -->
 
   <!--  <tr>
         <td id="ueber2"><div><strong>* Bezirkspokal (2. Runde):</strong></font></div></td>
@@ -2370,7 +2330,7 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
 
 
 
-   <tr>
+  <!-- <tr>
 
         <td id="ueber2"> * Meisterschaftsvorschau: </td>
 
@@ -2378,7 +2338,7 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
 
  <tr>                <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>             </tr> 
 		  	 
-	 <tr>                <td id="contentfont" style= "text-align:right;"><div align="left">Die beiden aktiven Mannschaften befinden sich in der Winterpause!</div></td>             </tr> 
+	-->
   	 
 	  
 	
@@ -2485,7 +2445,9 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
         <td id="ueber2"> * Meisterschaft: </td>
 
       </tr> 
-
+	 <tr>                <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>             </tr> 
+		  	 
+	 <tr>                <td id="contentfont" style= "text-align:right;"><div align="left">Die Meisterschaftsrunden der Jugenden beginnen nach der Winterpause wieder im März 2015!</div></td>             </tr>
  <!--   <tr>
 
         <td id="ueber3"><div>&nbsp;&nbsp;&nbsp;&nbsp;<strong>** A-Jugend:</strong></div></td>
@@ -2501,14 +2463,14 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
    <tr>
         <td id="contentfont"><div align="left">&nbsp;</div></td>
       </tr> -->
-<tr>
+<!-- <tr>
         <td id="ueber3"><div>&nbsp;&nbsp;&nbsp;&nbsp;<strong>** B-Jugend:</strong></div></td>
       </tr>
         
 	        <tr>
         <td id="contentfont" style= "text-align:left; padding-left:50px;">SV Friolzheim - SV Illingen&nbsp;  0:2 (0:1) <br/>
             <span class="Stil20"><em>Torsch&uuml;tzen: Yannis Yusof, Davide Tasselli</em></span></td>
-      </tr> 
+      </tr> -->
 <!--
  <tr>
 
@@ -2823,7 +2785,7 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
 		  
 
         </tr> -->
-      <tr>
+     <!-- <tr>
 
           <td id="contentfont"><div align="left">&nbsp;</td>
 
@@ -2840,10 +2802,8 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
           </td>
 
       </tr>
-
-			 <tr>                <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>             </tr> 
-		  	 
-	 <tr>                <td id="contentfont" style= "text-align:right;"><div align="left">Die Meisterschaftsrunden der Jugenden beginnen nach der Winterpause wieder im März 2015!</div></td>             </tr> 
+-->
+		 
 
 	<!--			 
 					

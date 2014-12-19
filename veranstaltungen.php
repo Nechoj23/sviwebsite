@@ -131,7 +131,7 @@
     <tr id="contentFont" bgcolor="#FFFFFF"> 
 	  <td width="44" valign="top" id="contentfont" style= "text-align:right;"><div align="left" class="Stil3">So</div></td>   		
 	  <td width="156" valign="top" id="contentfont" style= "text-align:right;"><div align="left" class="Stil3"><strong>12.01.14</strong></div></td>
-	  <td width="400" valign="top" id="contentfont" style= "text-align:right;"><div align="left" class="Stil3"><strong>Hallenspieltag in Illingen</strong><br />
+	  <td width="400" valign="top" id="contentfont" style= "text-align:right;"><div align="left" class="Stil3"><strong>Jugend-Hallenspieltag in Illingen</strong><br />
 	  </div></td>
     </tr>
     
@@ -172,7 +172,7 @@
 	  <td width="44" valign="top" id="contentfont" style= "text-align:right;"><div align="left" class="Stil3">Mi-Fr</div></td>   		
 	  <td width="156" valign="top" id="contentfont" style= "text-align:right;"><div align="left" class="Stil3"><strong>11.06.14 - 13.06.14</strong><br />
 	  </div></td>
-	  <td width="400" valign="top" id="contentfont" style= "text-align:right;"><div align="left" class="Stil3"><strong>Jugend-Fu&szlig;ball-Camp 2014 im Eichwaldpark Illingen</strong><br />
+	  <td width="400" valign="top" id="contentfont" style= "text-align:right;"><div align="left" class="Stil3"><strong>Jugendcamp 2014 im Eichwaldpark Illingen</strong><br />
 	  </div></td>
     </tr>
     
@@ -199,15 +199,81 @@
 	  <td width="44" valign="top" id="contentfont" style= "text-align:right;"><div align="left" class="Stil3">So</div></td>   		
 	  <td width="156" valign="top" id="contentfont" style= "text-align:right;"><div align="left" class="Stil3"><strong>07.12.14</strong><br />
 	  </div></td>
-	  <td width="400" valign="top" id="contentfont" style= "text-align:right;"><div align="left" class="Stil3"><strong>Hallenspieltag in Illingen</strong><br />
+	  <td width="400" valign="top" id="contentfont" style= "text-align:right;"><div align="left" class="Stil3"><strong>Jugend-Hallenspieltag in Illingen</strong><br />
 	  </div></td>
     </tr>
     
     <tr id="contentFont" bgcolor="#FFFFFF"> 
-	  <td width="44" valign="top" id="contentfont" style= "text-align:right;"><div align="left">Sa-So</div></td>   		
-	  <td width="156" valign="top" id="contentfont" style= "text-align:right;"><div align="left"><strong>13.12.14 - 14.12.14</strong><br />
+	  <td width="44" valign="top" id="contentfont" style= "text-align:right;"><div align="left" class="Stil3">Sa-So</div></td>   		
+	  <td width="156" valign="top" id="contentfont" style= "text-align:right;"><div align="left" class="Stil3"><strong>13.12.14 - 14.12.14</strong><br />
 	  </div></td>
-	  <td width="400" valign="top" id="contentfont" style= "text-align:right;"><div align="left"><strong>Weihnachtsmarkt 2014 in Illingen</strong><br />
+	  <td width="400" valign="top" id="contentfont" style= "text-align:right;"><div align="left" class="Stil3"><strong>Weihnachtsmarkt 2014 in Illingen</strong><br />
+	  </div></td>
+    </tr>
+	<tr>
+          <td colspan="3">&nbsp;</td>
+        </tr>
+<tr>
+		<td colspan="3">&nbsp;</td>
+	</tr>
+    
+	<tr> 
+		<td colspan="3" id="contentTable"> 
+			<div align="left">Veranstaltungen 2015</div>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="3">&nbsp;</td>
+	</tr>
+	 <tr id="contentFont" bgcolor="#FFFFFF"> 
+	  <td width="44" valign="top" id="contentfont" style= "text-align:right;"><div align="left" >So</div></td>   		
+	  <td width="156" valign="top" id="contentfont" style= "text-align:right;"><div align="left" ><strong>11.01.15</strong><br />
+	  </div></td>
+	  <td width="400" valign="top" id="contentfont" style= "text-align:right;"><div align="left" ><strong>Jugend-Hallenspieltag in Illingen</strong><br />
+	  </div></td>
+    </tr>
+    
+    <tr id="contentFont" bgcolor="#FFFFFF"> 
+	  <td width="44" valign="top" id="contentfont" style= "text-align:right;"><div align="left">Fr</div></td>   		
+	  <td width="156" valign="top" id="contentfont" style= "text-align:right;"><div align="left"><strong>20.03.15</strong><br />
+	  </div></td>
+	  <td width="400" valign="top" id="contentfont" style= "text-align:right;"><div align="left"><strong>Jahreshauptversammlung SV Illingen Hauptverein</strong><br />
+	  </div></td>
+    </tr>
+	    <tr id="contentFont" bgcolor="#FFFFFF"> 
+	  <td width="44" valign="top" id="contentfont" style= "text-align:right;"><div align="left">Fr</div></td>   		
+	  <td width="156" valign="top" id="contentfont" style= "text-align:right;"><div align="left"><strong>27.03.15</strong><br />
+	  </div></td>
+	  <td width="400" valign="top" id="contentfont" style= "text-align:right;"><div align="left"><strong>Jahreshauptversammlung SV Illingen Abteilung Fuﬂball</strong><br />
+	  </div></td>
+    </tr>
+	
+	    <tr id="contentFont" bgcolor="#FFFFFF"> 
+	  <td width="44" valign="top" id="contentfont" style= "text-align:right;"><div align="left">Mi-Fr</div></td>   		
+	  <td width="156" valign="top" id="contentfont" style= "text-align:right;"><div align="left"><strong>27.05.15 - 29.05.15</strong><br />
+	  </div></td>
+	  <td width="400" valign="top" id="contentfont" style= "text-align:right;"><div align="left"><strong>Jugendcamp 2015 im Eichwaldpark Illingen</strong><br />
+	  </div></td>
+    </tr>
+	 <tr id="contentFont" bgcolor="#FFFFFF"> 
+	  <td width="44" valign="top" id="contentfont" style= "text-align:right;"><div align="left">Sa-So</div></td>   		
+	  <td width="156" valign="top" id="contentfont" style= "text-align:right;"><div align="left"><strong>27.06.15 - 28.06.15</strong><br />
+	  </div></td>
+	  <td width="400" valign="top" id="contentfont" style= "text-align:right;"><div align="left"><strong>Dorf- und Kelterfest in Illingen</strong><br />
+	  </div></td>
+    </tr>
+	 <tr id="contentFont" bgcolor="#FFFFFF"> 
+	  <td width="44" valign="top" id="contentfont" style= "text-align:right;"><div align="left">Sa-So</div></td>   		
+	  <td width="156" valign="top" id="contentfont" style= "text-align:right;"><div align="left"><strong>12.12.15 - 13.12.15</strong><br />
+	  </div></td>
+	  <td width="400" valign="top" id="contentfont" style= "text-align:right;"><div align="left"><strong>Weihnachtsmarkt in Illingen</strong><br />
+	  </div></td>
+    </tr>
+	 <tr id="contentFont" bgcolor="#FFFFFF"> 
+	  <td width="44" valign="top" id="contentfont" style= "text-align:right;"><div align="left">Sa</div></td>   		
+	  <td width="156" valign="top" id="contentfont" style= "text-align:right;"><div align="left"><strong>19.12.15</strong><br />
+	  </div></td>
+	  <td width="400" valign="top" id="contentfont" style= "text-align:right;"><div align="left"><strong>Weihnachtsfeier Aktive/A-Jugend</strong><br />
 	  </div></td>
     </tr>
       
