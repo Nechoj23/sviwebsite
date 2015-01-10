@@ -465,7 +465,7 @@ function MM_showHideLayers() { //v3.0
         <td height="20">&nbsp;</td>
 
       </tr>
-
+<!--
         <tr>
 
        <td id="contentfont" style= "text-align:right;"><br>&nbsp;
@@ -477,7 +477,7 @@ function MM_showHideLayers() { //v3.0
             <br>&nbsp;            </div></td>
 
       </tr> 
-<!--
+-->
 <tr>
 
                 <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
@@ -494,10 +494,10 @@ function MM_showHideLayers() { //v3.0
 
         <td height="20">&nbsp;</td>
 
-      </tr>  -->
+      </tr>  
 
-      <!--
-
+      
+<!--
         <tr>
 
           <td id="contentfont" style= "text-align:right;"><div align="left" z-index:1>
@@ -517,116 +517,10 @@ function MM_showHideLayers() { //v3.0
             </div></td>
 
         </tr>
-
 -->
 
-      <!--
 
-        <tr>
-
-          <td id="contentfont" style= "text-align:right;"><div align="left">*
-
-          Der Vorbereitungsplan der <strong>Aktiven</strong> f&uuml;r die kommende R&uuml;ckrunde ist online.<br>
-
-          &nbsp;&nbsp;</div></td>
-
-        </tr>
-
-        -->
-
-
-
-
-
-      <!--
-
-    <tr>
-
-        <td id="contentfont" style= "text-align:right;">
-
-          <div align="left"></div></td>
-
-        </tr>
-
--->
-
-      <!--   <tr>
-
-        <td id="contentfont" style= "text-align:right;">
-
-          <div align="left">
-
-            *<strong>  Poco-Cup 2010 !</strong><br>
-
-
-
-  &nbsp;&nbsp;Am vergangenen Wochenende veranstaltete der SVI wieder seine Jugendturniere zur<br>
-
-  &nbsp;&nbsp;Saisonvorbereitung im Illinger Eichwaldpark. <br>
-
-  &nbsp;&nbsp;Die Abteilung Fussball möchte sich bei allen Helfern, die zum Gelingen beigetragen haben,<br>
-
-  &nbsp;&nbsp;herzlich bedanken, vor allem bei Turnierkoordinator Reiner Brodbeck sowie den Helfern<br>
-
-  &nbsp;&nbsp;der AH und den zahlreichen Eltern, die am Wochenende im Einsatz waren.<br>
-
-  &nbsp;&nbsp;Ein besonderer Glückwunsch geht an die E1-Jugend, der es gelang, das heimische Turnier<br>
-
-  &nbsp;&nbsp;zu gewinnen.<br>
-
-  &nbsp;&nbsp;Die kompletten Ergebnisse finden sie hier:<br>
-
-  &nbsp;&nbsp;<a href="ergebnisse_f-jugend.pdf" target="_blank"><em>Ergebnisse F-Jugend</em></a><br>
-
-  &nbsp;&nbsp;<a href="ergebnisse_e-jugend.pdf" target="_blank"><em>Ergebnisse E-Jugend</em></a><br>
-
-  &nbsp;&nbsp;<a href="ergebnisse_d-jugend.pdf" target="_blank"><em>Ergebnisse D-Jugend</em></a></div></td>
-
-  </tr> -->
-
-      <!--  <tr>
-
-       <td id="contentfont" style= "text-align:right;">
-
-       <div align="left">
-
-       * <strong>Pokalspiel der ersten Mannschaft!</strong><br>
-
-           &nbsp;&nbsp;Die erste Mannschaft trifft in der vierten Pokalrunde am Mittwoch (22. September) <br>
-
-       &nbsp;&nbsp;auf den Bezirksligisten TSV Flacht. Spielbeginn im heimischen Eichwaldpark ist um<br>
-
-       &nbsp;&nbsp;19.00 Uhr.<br>
-
-                </div></td>
-
-      </tr> -->
-
-      <!--
-
-      <tr>
-
-       <td id="contentfont" style= "text-align:right;">
-
-       <div align="left">
-
-       * <strong>Saisonauftakt der Jugend!</strong><br>
-
-           &nbsp;&nbsp;Für einen Teil der Illinger Jugendmannschaften begann am vergangenen Wochenende<br>
-
-       &nbsp;&nbsp;die Meisterschaftsrunde. Dabei konnte sowohl die B-Jugend als auch die D-Jugend ihr <br>
-
-       &nbsp;&nbsp;erstes Spiel gewinnen. Alle anderen Jugendmannschaften bestreiten an diesem<br>
-
-       &nbsp;&nbsp;Wochenende ihren Saisonauftakt.<br>
-
-       &nbsp;&nbsp;Alle bisherigen Ergebnisse sowie die nächsten Spieltermine der Jugend finden sie <a href="#Jugend"><em>hier</em></a>.<br>
-
-                </div></td>
-
-      </tr>
-
-      -->
+     
  <!--<tr>        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong>Vielen Dank, Philipp!</strong><br>
 
           <p><img src="bilder/verabschiedungPhilipp.jpg" width="550"            alt="Danke Philipp" align="top"><br>   </p>
@@ -636,37 +530,6 @@ function MM_showHideLayers() { //v3.0
       <p>Die Abteilung des SVI bedankt sich herzlich bei <strong>Philipp Scheytt </strong>(Mitte) f&uuml;r die gute Arbeit und das tolle Engagement. Nach einem kurzen Comeback als Aktive-Torh&uuml;ter, musste Philipp die Fu&szlig;ballschuhe aufgrund einiger schwerer Verletzungen schnell wieder an den Nagel h&auml;ngen, &uuml;bernahm daf&uuml;r aber den  Posten des scheidenden Wolfgang Auer als 1. Spielleiter. Seit &uuml;ber vier Jahren k&uuml;mmerte er sich ehrenamtlich um alles rund um den Spieltag bei der ersten und der zweiten Mannschaft und legt dieses Amt nun leider nieder.<br>
       Wir w&uuml;nschen Dir f&uuml;r die Zukunft alles Gute und freuen uns immer Dich auf unserem Sportplatz begr&uuml;&szlig;en zu d&uuml;rfen!</p>
       <br />        </div></td>        </tr> -->
- <!--  <tr>        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong>SV Illingens D1-Jugend zieht ins Finale der Hallenmeisterschaft ein!</strong><br>
-<p> <a href="bilder/d-jugend_halbfinale_g.jpg"><img src="bilder/d-jugend_halbfinale.jpg" width="500" alt="D1 Halbfinale" align="top"></a><br>   </p>      
-<p>Beim Halbfinale der Hallenbezirksmeisterschaft in Bissingen starteten die Jungs anfangs noch ein bißchen nervös, steigerten sich jedoch von 	  Spiel zu Spiel und 
-konnten heute mit Unterstützung der zahlreich mitgereisten Fans über sich hinauswachsen!<br><br> Am Ende war es der 1. Platz, sensationell, aber durch eine 
-starke Mannschaftsleistung und eine optimale Einstellung durch die Trainer nicht unverdient. <br><br>Ergebnisse:<br> <br> SVI - TSV Schwieberdingen&nbsp; 1:1<br>
-SVI - Sal. Kornwestheim&nbsp; 4:0<br>
-SVI -  TSV Korntal 1&nbsp;  3:2<br>
-SVI - FV Löchgau 1&nbsp;  0:0<br>
-SVI - SGM Merklingen/Münklingen/Möttlingen&nbsp;  3:0<br><br>
- Es spielten:Colin Mitschelen (TS), Chris Wöhr, Maximilian Titz, André Schnitz (1), Tom Lindauer (1), Angelo Di Caro (1), Tobias Däschner (4), 
- Tom Weiß (4).</p>      <br />        </div></td>        </tr>-->
- <!--<tr>    <td id="contentfont" style= "text-align:left;">             <div align="left"><img src="bilder/svi_mini.jpg"> <strong>Förderverein SV Illingen</strong><br>   <p>
-Die für Freitag, den 24.01.2014 geplante Hauptversammlung muss wegen längerer Abwesenheit des 1. Vorsitzenden auf einen späteren Termin
-(ca 9. Kalenderwoche) verschoben werden. Eine neue Einladung erfolgt in Kürze.<br>
-Wir bitten um Ihr Verständnis.<br><br>
-i.A. W. Conradt<br>
-Förderverein SV Illingen-Fußball 2008 e.V.
- </p>
-<br />            </div>    </td></tr>
-
--->
-
-
-<!--                                                           </p>            <br />            </div>    </td></tr>
-<tr>    <td id="contentfont" style= "text-align:left;">             <div align="left"><img src="bilder/svi_mini.jpg"> <strong>Karnevalsfrühschoppen in Illingen/Saar! </strong><br>   <p> Liebe Sportkameraden,<br><br>wir haben vom Sportverein Kerpen 09 (Illingen/Saar) wieder eine Einladung zum Karnevalsfrühschoppen am Sonntag, 02. Februar 2014 in der „Illipse“ in Illingen/Saar erhalten.    Die Veranstaltung beginnt um 11.11 Uhr und endet gegen 18 Uhr. Es wird ein ca. zweistündiges Programm mit Büttenreden, Gesangsdarbietungen und Gardentänzen geboten; anschließend spielt eine Stimmungsband bis zum Ende der Veranstaltung. Der Eintritt ist frei. Wie vor zwei Jahren gibt es wieder eine Sektbar und einen Bierstand. Unser Bus fährt gegen 08.00 Uhr los und wird gegen 21.00 Uhr  wieder zurück sein. <br>Da auch andere hiesige Vereine eingeladen sind, empfiehlt sich eine baldige Anmeldung. <br>Übrigens: Den Teilnehmern  vor zwei Jahren hat es allesamt sehr gut gefallen.<br> Anmeldung bitte per E-Mail an ctwerner@web.de oder telefonisch unter 07042/23918. <br><br>Werner Conradt                                                            </p>            <br />            </div>    </td></tr>
--->
-
-
-
-
-
 
 
 
@@ -676,23 +539,17 @@ Förderverein SV Illingen-Fußball 2008 e.V.
 
            <p><a href="bilder/turniersieg_illingen_saar_g.jpg"><img src="bilder/turniersieg_illingen_saar.JPG" width="600"                 alt="Turniersieg Illingen/Saar" align="top"></a><br>   </p>                            <p>Am letzten Samstag machte sich die Aktive Mannschaft mit einigen Fans als Verstärkung auf nach Illingen/Saar.           Die Busfahrt dauerte fast drei Stunden.           <br>Im ersten Spiel konnten wir die Illinger Mannschaft aus Baden mit 4:3 bezwingen. Die erste Halbzeit dominierten wir ganz klar und gingen mit einem 4:0 in die Halbzeit.           In der zweiten           Halbzeit lief es nicht mehr so gut für uns und wir konnten unsern Vorsprung nur knapp über die Zeit retten.          Die Tore für unseren SV schossen Daniel Brenner (2), Fabio Tricarico und unser Neuzugang Hakan Atalay.<br>Im zweiten Spiel gegen die Vertretung aus Illingen/Saar lief es über das gesamte Spile besser und wir konnten mit 4:1 gewinnen.           Unsere Torschützen in diesem Spiel waren Hakan Atalay, Fabio Tricarico, Tim Scheuermann und Matthias Hitzler.                  Damit wurden wir Turniersieger und ließen den Abend bei einem gemütlichen Beisammensein ausklingen.<br>      2015 wird das Illingen Turnier in          Illingen Baden ausgetragen und wir werden versuchen unseren Titel dort zu verteidigen. </p><br />        </div></td>        </tr>       -->           <tr>
 
-<!-- <tr>
+<tr>
 
-<td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong>Start in die Bezirksliga-Saison am Sonntag! </strong><br>
+<td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong>WFV-Halbfinale in Illingen</strong><br>
 
 
 
-<p>Die <strong>erste Mannschaft</strong> startet am <strong>Sonntag, den 18. August 2013 um 15.00 Uhr auswärts beim SV Freudental</strong> in die neue Saison in der <strong>Bezirksliga</strong>. Nach dem Aufstieg
-
-über die Relegation in der letzten Saison hofft die Illinger Mannschaft auch in der neuen Spielklasse auf möglichst viele erfolgreiche Spiele und selbstverständlich
-
-auch auf zahlreiche Illinger Zuschauer am Spielfeldrand!<br>
-
-Die zweite Mannschaft des SVI startet dagegen erst am 15. September mit einem Heimspiel gegen den FV Markgröningen in die Meisterschafsrunde in der Kreisliga C5.
-
-Dafür bestreit die <strong>Zweite</strong> bereits am kommenden <strong>Sonntag, 18. August, um 15.00 Uhr</strong>, also zeitgleich zum Gastspiel der ersten Mannschaft in Freudental, die Qualifikationsrunde
-
-für den <strong>Bezirkspokal</strong>. Gegner im heimischen Eichwaldpark ist dabei der <strong>TSV Phönix Lomersheim II</strong>.<br>
+<p>Am kommenden Sonntag, den 11.01.2015 findet in der Illinger Stromberg-Sporthalle ein Hallenspieltag des W&uuml;rtt. Fu&szlig;ballverbandes statt.<br>
+  Die Spiele beginnen um 09.00 Uhr; unsere C-Jugend, die dieses Halbfinale erreicht hat, greift gegen 12.00 Uhr in das Geschehen ein und w&uuml;rde sich &uuml;ber lautstarke Unterst&uuml;tzung sehr freuen.<br>
+  Wir laden die Illinger Bev&ouml;lkerung zu dieser hochkar&auml;tigen Veranstaltung hiermit herzlich ein. F&uuml;r Speis und Trank ist wie immer gesorgt.<br><br>
+  Wir freuen uns auf Ihren Besuch.<br>
+  Die Fu&szlig;ball-Jugend des SV Illingen<br>
 
 
 
@@ -704,7 +561,7 @@ für den <strong>Bezirkspokal</strong>. Gegner im heimischen Eichwaldpark ist dab
 
         </div></td>
 
-        </tr>  -->
+        </tr>  
 
 
 
