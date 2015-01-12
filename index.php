@@ -521,16 +521,18 @@ function MM_showHideLayers() { //v3.0
 
 
      
- <!--<tr>        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong>Vielen Dank, Philipp!</strong><br>
+<tr>        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong>E2 mit Turniersieg in Wiernsheim!</strong><br>
 
-          <p><img src="bilder/verabschiedungPhilipp.jpg" width="550"            alt="Danke Philipp" align="top"><br>   </p>
+         
+		  
 
 
 
-      <p>Die Abteilung des SVI bedankt sich herzlich bei <strong>Philipp Scheytt </strong>(Mitte) f&uuml;r die gute Arbeit und das tolle Engagement. Nach einem kurzen Comeback als Aktive-Torh&uuml;ter, musste Philipp die Fu&szlig;ballschuhe aufgrund einiger schwerer Verletzungen schnell wieder an den Nagel h&auml;ngen, &uuml;bernahm daf&uuml;r aber den  Posten des scheidenden Wolfgang Auer als 1. Spielleiter. Seit &uuml;ber vier Jahren k&uuml;mmerte er sich ehrenamtlich um alles rund um den Spieltag bei der ersten und der zweiten Mannschaft und legt dieses Amt nun leider nieder.<br>
-      Wir w&uuml;nschen Dir f&uuml;r die Zukunft alles Gute und freuen uns immer Dich auf unserem Sportplatz begr&uuml;&szlig;en zu d&uuml;rfen!</p>
-      <br />        </div></td>        </tr> -->
-
+      <p>Die Illinger E2-Jugend gewann am vergangenen Wochenende das Hallenturnier des TSV Wiernsheim. Herzlichen Glückwunsch!
+	  
+ <p> <a href="bilder/e2_wiernsheim_g.jpg"><img src="bilder/e2_wiernsheim_k.jpg" width="500" alt="Turniersieg E2" align="top"></a><br><br>
+Es kamen folgende Spieler zum Einsatz: Jannik Wöhr, Fynn Köppl, Silas Freyburger, Deniz Czakmak, Firmin v.
+Berg, Tim Sattler, Finn Pietsch und Julian Moncada.  </p>
 
 
           <!-- <tr>        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong>Aktive gewinnen "Illingen-Turnier"
@@ -539,29 +541,6 @@ function MM_showHideLayers() { //v3.0
 
            <p><a href="bilder/turniersieg_illingen_saar_g.jpg"><img src="bilder/turniersieg_illingen_saar.JPG" width="600"                 alt="Turniersieg Illingen/Saar" align="top"></a><br>   </p>                            <p>Am letzten Samstag machte sich die Aktive Mannschaft mit einigen Fans als Verstärkung auf nach Illingen/Saar.           Die Busfahrt dauerte fast drei Stunden.           <br>Im ersten Spiel konnten wir die Illinger Mannschaft aus Baden mit 4:3 bezwingen. Die erste Halbzeit dominierten wir ganz klar und gingen mit einem 4:0 in die Halbzeit.           In der zweiten           Halbzeit lief es nicht mehr so gut für uns und wir konnten unsern Vorsprung nur knapp über die Zeit retten.          Die Tore für unseren SV schossen Daniel Brenner (2), Fabio Tricarico und unser Neuzugang Hakan Atalay.<br>Im zweiten Spiel gegen die Vertretung aus Illingen/Saar lief es über das gesamte Spile besser und wir konnten mit 4:1 gewinnen.           Unsere Torschützen in diesem Spiel waren Hakan Atalay, Fabio Tricarico, Tim Scheuermann und Matthias Hitzler.                  Damit wurden wir Turniersieger und ließen den Abend bei einem gemütlichen Beisammensein ausklingen.<br>      2015 wird das Illingen Turnier in          Illingen Baden ausgetragen und wir werden versuchen unseren Titel dort zu verteidigen. </p><br />        </div></td>        </tr>       -->           <tr>
 
-<tr>
-
-<td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong>WFV-Halbfinale in Illingen</strong><br>
-
-
-
-<p>Am kommenden Sonntag, den 11.01.2015 findet in der Illinger Stromberg-Sporthalle ein Hallenspieltag des W&uuml;rtt. Fu&szlig;ballverbandes statt.<br>
-  Die Spiele beginnen um 09.00 Uhr; unsere C-Jugend, die dieses Halbfinale erreicht hat, greift gegen 12.00 Uhr in das Geschehen ein und w&uuml;rde sich &uuml;ber lautstarke Unterst&uuml;tzung sehr freuen.<br>
-  Wir laden die Illinger Bev&ouml;lkerung zu dieser hochkar&auml;tigen Veranstaltung hiermit herzlich ein. F&uuml;r Speis und Trank ist wie immer gesorgt.<br><br>
-  Wir freuen uns auf Ihren Besuch.<br>
-  Die Fu&szlig;ball-Jugend des SV Illingen<br>
-
-
-
-</p>
-
-
-
-<br />
-
-        </div></td>
-
-        </tr>  
 
 
 

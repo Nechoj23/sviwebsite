@@ -119,7 +119,7 @@
         </tr>
     -->
     
-	<tr> 
+	<!--<tr> 
 		<td colspan="3" id="contentTable"> 
 			<div align="left">Veranstaltungen 2014</div>
 		</td>
@@ -135,12 +135,7 @@
 	  </div></td>
     </tr>
     
-   <!-- <tr id="contentFont" bgcolor="#FFFFFF"> 
-	  <td width="44" valign="top" id="contentfont" style= "text-align:right;"><div align="left">Fr</div></td>   		
-	  <td width="156" valign="top" id="contentfont" style= "text-align:right;"><div align="left""><strong>24.01.14</strong></div></td>
-	  <td width="400" valign="top" id="contentfont" style= "text-align:right;"><div align="left"><strong>Hauptversammlung F&ouml;rderverein</strong><br />
-	  </div></td>
-    </tr> -->
+
    
     
     <tr id="contentFont" bgcolor="#FFFFFF"> 
@@ -156,15 +151,7 @@
 	  </div></td>
     </tr>
     
-    
-   <!-- <tr id="contentFont" bgcolor="#FFFFFF"> 
-	  <td width="44" valign="top" id="contentfont" style= "text-align:right;"><div align="left"></div></td>   		
-	  <td width="156" valign="top" id="contentfont" style= "text-align:right;"><div align="left"><strong>April 2014</strong><br />
-	  </div></td>
-	  <td width="400" valign="top" id="contentfont" style= "text-align:right;"><div align="left""><strong>Bambini-Spieltag (noch nicht genau terminiert)</strong><br />
-	  </div></td>
-    </tr>-->
-	 
+  
     
    
      
@@ -186,14 +173,6 @@
 	  </div></td>
     </tr>
 
-<!--
-    <tr id="contentFont" bgcolor="#FFFFFF"> 
-	  <td width="44" valign="top" id="contentfont" style= "text-align:right;"><div align="left">Do-So</div></td>   		
-	  <td width="156" valign="top" id="contentfont" style= "text-align:right;"><div align="left"><strong>11.09.14 - 14.09.14</strong></div></td>
-	  <td width="400" valign="top" id="contentfont" style= "text-align:right;"><div align="left"><strong>Sportwochenende im Eichwaldpark Illingen</strong><br />
-	  </div></td>
-    </tr>
-    -->
     
 	 <tr id="contentFont" bgcolor="#FFFFFF"> 
 	  <td width="44" valign="top" id="contentfont" style= "text-align:right;"><div align="left" class="Stil3">So</div></td>   		
@@ -215,7 +194,7 @@
         </tr>
 <tr>
 		<td colspan="3">&nbsp;</td>
-	</tr>
+	</tr> -->
     
 	<tr> 
 		<td colspan="3" id="contentTable"> 
@@ -226,10 +205,10 @@
 		<td colspan="3">&nbsp;</td>
 	</tr>
 	 <tr id="contentFont" bgcolor="#FFFFFF"> 
-	  <td width="44" valign="top" id="contentfont" style= "text-align:right;"><div align="left" >So</div></td>   		
-	  <td width="156" valign="top" id="contentfont" style= "text-align:right;"><div align="left" ><strong>11.01.15</strong><br />
+	  <td width="44" valign="top" id="contentfont" style= "text-align:right;"><div align="left" class="Stil3" >So</div></td>   		
+	  <td width="156" valign="top" id="contentfont" style= "text-align:right;"><div align="left" class="Stil3" ><strong>11.01.15</strong><br />
 	  </div></td>
-	  <td width="400" valign="top" id="contentfont" style= "text-align:right;"><div align="left" ><strong>Jugend-Hallenspieltag in Illingen</strong><br />
+	  <td width="400" valign="top" id="contentfont" style= "text-align:right;"><div align="left" class="Stil3" ><strong>Jugend-Hallenspieltag in Illingen</strong><br />
 	  </div></td>
     </tr>
     
