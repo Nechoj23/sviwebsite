@@ -233,28 +233,18 @@
           <td id="contentFont" align="left" valign="top">
 				  <u>Kassier:</u></td>
           
-      <td id="contentFont" align="left" valign="top">&nbsp; </td>
-          
-      <td id="contentFont" align="left" valign="top">&nbsp; </td>
-        </tr>
-		<tr id="contentFont">
-          
-      <td id="contentFont" width="166" align="right" valign="top"><img src="bilder/abteilung/bruno_k.jpg" width="75" height="100"> 
-      </td>
-          <td id="contentFont" align="left" valign="top">
-				  J&uuml;rgen Brummer<br>
-G&auml;nsheide 25<br>
-				  75428 Illingen
-		  </td>
-          <td id="contentFont" align="left" valign="top">
-0172-8933711<br>
-				  <a href="mailto:juergenbrummer@web.de"><img src="MailSymbol2.jpg" width="15" height="10" border="0"></a>
-		  </td>
-        </tr>
-		
-		<tr>
+        <td id="contentFont" width="135" align="left" valign="top">
+				  unbesetzt</td>
+       <!--   <td id="contentFont" width="140" align="left" valign="top">
+				  
+				  0152-22114547<br>
+		  <a href="mailto:kat.7@gmx.de"><img src="MailSymbol2.jpg" width="15" height="10" border="0" alt=""></a>		  </td>
+        </tr> -->
+     
+        <tr>
           <td height="50" colspan="3" align="center" valign="middle"><hr width="100%" size="1px" noshade style="color:#cccccc; background-color:#CCCCCC;"></td>
         </tr>
+		
 		
         <!--<tr id="contentFont">
           <td id="contentFont" align="left" valign="top">

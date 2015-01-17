@@ -33,7 +33,7 @@
           </tr>
           <tr class="roww2 entries"> 
             <td class="col1"><font color="#0066cc">Beruf:</font></td>
-            <td><font color="#0066cc">Azubi</font></td>
+            <td><font color="#0066cc">&nbsp;</font></td>
           </tr>
           <tr class="roww1 entries"> 
             <td bgcolor="#CCCCCC" class="col1"><font color="#0066cc">f</font><font color="#0066cc">rüherer 
@@ -42,7 +42,7 @@
           </tr>
           <tr class="roww2 entries"> 
             <td height="22" class="col1"><font color="#0066cc">beim SVI seit:</font></td>
-            <td>&nbsp;</td>
+            <td><font color="#0066cc">2014</font></td>
           </tr>
           <tr class="roww2 entries"> 
             <td bgcolor="#CCCCCC" class="col1"><font color="#0066cc">Spiele: </br><font size="-2">(Stand 
@@ -51,6 +51,8 @@
           </tr>
         </table></td>
     </tr>
+	
+	
 	<tr> 
       <td height="50px" colspan="7"> <hr width="100%" size="1px" noshade style="color:#cccccc; background-color:#CCCCCC;"> 
       </td>

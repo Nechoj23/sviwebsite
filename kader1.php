@@ -141,9 +141,7 @@
         <td colspan="7"><div align="center">&nbsp;</div></td>
       </tr>
 	   <tr bgcolor="#FFFFFF">
-	     <td height="20" bgcolor="#FFFFFF"><div align="left"><!--<a href="index.php?id=162">--><img src="bilder/AktiveSpieler/kevinstotz_k.jpg" width="90" height="120" /><!--</a>--> <br />
-                <strong>Kevin Stotz</strong><br />
-          Geb.: 24.09.1993</div></td>
+	    
 	         <td height="20" bgcolor="#FFFFFF"><div align="left"><a href="index.php?id=221"><img src="bilder/AktiveSpieler/ralf_k.jpg" width="90" height="120" /></a> <br />
                 <strong>Ralf Theuerkauf</strong><br />
           Geb.: 02.02.1992</div></td>
@@ -158,6 +156,7 @@
         <td height="50px" colspan="7"><hr width="100%" size="1px" noshade style="color:#cccccc; background-color:#CCCCCC;" />
         </td>
       </tr>
+	  
       <tr>
         <td colspan="7"><div align="center"><strong><font size="+2">Mittelfeld<br />
                     <br />
@@ -216,9 +215,7 @@
         <td colspan="7"><div align="center">&nbsp;</div></td>
       </tr>
       <tr bgcolor="#FFFFFF">
-	    <td height="20" bgcolor="#FFFFFF"><div align="left"><!--<a href="index.php?id=171">--><img src="bilder/AktiveSpieler/dummy_klein.jpg" width="90" height="120" /><!--</a> --><br />
-                <strong>Timo Heilig</strong><br />
-          Geb.: 09.12.1995 </div></td>
+	  
 	   <td height="20" bgcolor="#FFFFFF"><div align="left"><!--<a href="index.php?id=171">--><img src="bilder/AktiveSpieler/dummy_klein.jpg" width="90" height="120" /><!--</a>--> <br />
                 <strong>Maik Hofmann</strong><br />
           Geb.: 17.10.1995 </div></td>
@@ -235,7 +232,9 @@
                 <strong>Marco Klein</strong><br />
           Geb.: 06.05.1995</div></td>
 		  	  
-
+ <td height="20" bgcolor="#FFFFFF"><div align="left"><a href="index.php?id=210"><img src="bilder/AktiveSpieler/dummy_klein.jpg" width="90" height="120" /></a> <br />
+                <strong>Dominik Kn&ouml;dler</strong><br />
+          Geb.: 01.01.1991</div></td>
 		
 
 		<!--   <td height="20" bgcolor="#FFFFFF"><div align="left"><a href="index.php?id=179"><img src="bilder/AktiveSpieler/dummy_klein.jpg" width="90" height="120" /></a> <br />
@@ -250,9 +249,7 @@
       <tr bgcolor="#FFFFFF">
      
       </tr>
-  <td height="20" bgcolor="#FFFFFF"><div align="left"><a href="index.php?id=210"><img src="bilder/AktiveSpieler/dummy_klein.jpg" width="90" height="120" /></a> <br />
-                <strong>Dominik Kn&ouml;dler</strong><br />
-          Geb.: 01.01.1991</div></td>
+ 
      <!--  <td height="20" bgcolor="#FFFFFF"><div align="left"><a href="index.php?id=145"><img src="bilder/AktiveSpieler/daniMuench_k.jpg" width="90" height="120" /></a><br />
                 <strong>Daniel M&uuml;nch</strong><br />
           Geb.: 19.07.1989</div></td> -->
@@ -266,7 +263,9 @@
                 <strong>Marcel Liebendörfer</strong><br />
           Geb.: 21.03.1992</div></td>
 		 
-      
+      <td height="20" bgcolor="#FFFFFF"><div align="left"><a href="index.php?id=113"><img src="bilder/AktiveSpieler/oliL_k.jpg" width="90" height="120" /></a> <br />
+                <strong>Oliver Lindauer</strong><br />
+          Geb.: 13.03.1981</div></td>
       
 
           	
@@ -277,9 +276,7 @@
       <tr bgcolor="#FFFFFF">
      
       </tr>
-	    <td height="20" bgcolor="#FFFFFF"><div align="left"><a href="index.php?id=113"><img src="bilder/AktiveSpieler/oliL_k.jpg" width="90" height="120" /></a> <br />
-                <strong>Oliver Lindauer</strong><br />
-          Geb.: 13.03.1981</div></td>
+	    
 	    <td height="20" bgcolor="#FFFFFF"><div align="left"><a href="index.php?id=126"><img src="bilder/AktiveSpieler/pucc2_k.jpg" width="90" height="120" /></a> <br />
                 <strong>Matthias Pucci</strong><br />
           Geb.: 07.08.1981</div></td>
@@ -290,7 +287,9 @@
                 <strong>Eros Schembri</strong><br />
           Geb.: 08.08.1990</div></td>
  
-    
+     <td height="20" bgcolor="#FFFFFF"><div align="left"><a href="index.php?id=212"><img src="bilder/AktiveSpieler/matzeStocker_k.jpg" width="90" height="120" /></a> <br />
+                <strong>Matthias Stocker</strong><br />
+          Geb.: 10.04.1991</div></td>
 
       </tr>
 	      <tr>
@@ -300,15 +299,11 @@
      
     
       </tr>
-	     <td height="20" bgcolor="#FFFFFF"><div align="left"><a href="index.php?id=212"><img src="bilder/AktiveSpieler/matzeStocker_k.jpg" width="90" height="120" /></a> <br />
-                <strong>Matthias Stocker</strong><br />
-          Geb.: 10.04.1991</div></td>
-	  <td height="20" bgcolor="#FFFFFF"><div align="left"><img src="bilder/AktiveSpieler/timstrohhaecker_k.jpg" width="90" height="120" /> <br />
-                <strong>Tim Strohhäcker</strong><br />
-          Geb.: 23.10.1988</div></td>
-        <td height="20" bgcolor="#FFFFFF"><div align="left"><a href="index.php?id=153"><img src="bilder/AktiveSpieler/fabiotricarico3_k.jpg" width="90" height="120" /></a> <br />
-                <strong>Fabio Tricarico</strong><br />
-          Geb.: 24.02.1990</div></td>
+	    
+	
+        <td height="20" bgcolor="#FFFFFF"><div align="left"><a href="index.php?id=144"><img src="bilder/AktiveSpieler/andreW2_k.jpg" width="90" height="120" /></a> <br />
+                <strong>André Wagner</strong><br />
+          Geb.: 27.08.1989</div></td>
       </tr>
       <tr>
         <td colspan="7"><div align="center">&nbsp;</div></td>
@@ -338,10 +333,10 @@
 		   <td height="20" bgcolor="#FFFFFF"><div align="left"><a href="index.php?id=161"><img src="bilder/AktiveSpieler/haefner_k.jpg" width="90" height="120" /></a> <br />
                 <strong>Tobias Häfner</strong><br />
           Geb.: 04.09.1987</div></td> 
-		   <td height="20" bgcolor="#FFFFFF"><div align="left"><!--<a href="index.php?id=161">--><img src="bilder/AktiveSpieler/frieder_k.jpg" width="90" height="120" /><!--</a>--> <br />
-                <strong>Frieder Lachenmayer</strong><br />
+		   <td height="20" bgcolor="#FFFFFF"><div align="left"><a href="index.php?id=181"><img src="bilder/AktiveSpieler/dummy_klein.jpg" width="90" height="120" /></a><br />
+                <strong>Arne Körner</strong><br />
 
-          Geb.: 16.04.1996</div></td> 
+          Geb.: 24.04.1990</div></td> 
    <!--  <td height="20" bgcolor="#FFFFFF"><div align="left"><a href="index.php?id=218"><img src="bilder/a_jugend/alex_k.jpg" width="90" height="120" /></a> <br />
                 <strong>Alexander<br />
                   Gutjahr</strong><br />
@@ -355,6 +350,10 @@
         <td colspan="7"><div align="center">&nbsp;</div></td>
       </tr>
       <tr bgcolor="#FFFFFF">
+	    <td height="20" bgcolor="#FFFFFF"><div align="left"><!--<a href="index.php?id=161">--><img src="bilder/AktiveSpieler/frieder_k.jpg" width="90" height="120" /><!--</a>--> <br />
+                <strong>Frieder Lachenmayer</strong><br />
+
+          Geb.: 16.04.1996</div></td> 
 	   <td height="20" bgcolor="#FFFFFF"><div align="left"><a href="index.php?id=169"><img src="bilder/AktiveSpieler/timscheuermann_k.jpg" width="90" height="120" /></a> <br />
                 <strong>Tim Scheuermann</strong><br />
           Geb.: 06.11.1994</div></td>
