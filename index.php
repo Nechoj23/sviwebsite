@@ -521,18 +521,20 @@ function MM_showHideLayers() { //v3.0
 
 
      
-<tr>        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong>E2 mit Turniersieg in Wiernsheim!</strong><br>
+<tr>        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong>Finale in Asperg!</strong><br>
 
          
 		  
 
 
 
-      <p>Die Illinger E2-Jugend gewann am vergangenen Wochenende das Hallenturnier des TSV Wiernsheim. Herzlichen Glückwunsch!
-	  
- <p> <a href="bilder/e2_wiernsheim_g.jpg"><img src="bilder/e2_wiernsheim_k.jpg" width="500" alt="Turniersieg E2" align="top"></a><br><br>
-Es kamen folgende Spieler zum Einsatz: Jannik Wöhr, Fynn Köppl, Silas Freyburger, Deniz Czakmak, Firmin v.
-Berg, Tim Sattler, Finn Pietsch und Julian Moncada.  </p>
+      
+      <p> Die C-Jugend des SVI erreichte beim sehr gut besetzten Hallenturnier in Asperg mit insgesamt 12 Mannschaften das Finale und wurde hervorragender 2. Sieger!<br>
+        In der Vorrunde erk&auml;mpften sich die Jungs um Trainer Frank Lindauer 2 Siege und ein Unentschieden.<br>
+        In der Zwischenrunde der besten 6 Mannschaften konnte man das erste Spiel souver&auml;n gegen die Spvgg Cannstatt mit 4:2 gewinnen, im zweiten Spiel der Zwischenrunde gegen den TSV Benningen erk&auml;mpften sich die Jungs ein Unentschieden. Somit hie&szlig; es: FINALE!!!!<br>
+        Nach der regul&auml;ren Spielzeit stand es 2:2 gegen unseren Finalgegner die SGM SC 07 Ludwigsburg. In der Verl&auml;ngerung konnten sich dann die Jungs aus Ludwigsburg den Sieg sichern.      </p>
+      <p> <a href="bilder/c_asperg_g.jpg"><img src="bilder/c_asperg.jpg" width="550" alt="C-Jugend im Finale" align="top"></a><br><br>
+        Es spielten: Philipp Meister (TS), Paul Espenner, Damian Jimenez, Tom Lindauer, Tobias D&auml;schner, Juri Bochonow und Leandro Franco</p>
 
 
           <!-- <tr>        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong>Aktive gewinnen "Illingen-Turnier"
