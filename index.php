@@ -519,16 +519,19 @@ function MM_showHideLayers() { //v3.0
         </tr>
 -->
 
-
+<tr>        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong>E2 erreicht vierten Platz beim Turnier in Bietigheim</strong><br>
+  
+      <p> Die Illinger E2 konnte nach packenden Spielen beim sehr gut besetzten Hallenturnier des SV Germania Bietigheim
+bei insgesamt zwölf teilnehmenden Mannschaften den vierten Platz erreichen.	Herzlichen Glückwunsch!  </p>
+<p> <a href="bilder/e2_germania_g.jpg"><img src="bilder/e2_germania.jpg" width="550" alt="E2 in Bietigheim" align="top"></a>
+       </p>
+   <tr>
+                <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
+             </tr>
+		
      
 <tr>        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong>Finale in Asperg!</strong><br>
 
-         
-		  
-
-
-
-      
       <p> Die C-Jugend des SVI erreichte beim sehr gut besetzten Hallenturnier in Asperg mit insgesamt 12 Mannschaften das Finale und wurde hervorragender 2. Sieger!<br>
         In der Vorrunde erk&auml;mpften sich die Jungs um Trainer Frank Lindauer 2 Siege und ein Unentschieden.<br>
         In der Zwischenrunde der besten 6 Mannschaften konnte man das erste Spiel souver&auml;n gegen die Spvgg Cannstatt mit 4:2 gewinnen, im zweiten Spiel der Zwischenrunde gegen den TSV Benningen erk&auml;mpften sich die Jungs ein Unentschieden. Somit hie&szlig; es: FINALE!!!!<br>
