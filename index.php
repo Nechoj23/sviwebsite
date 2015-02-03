@@ -518,7 +518,13 @@ function MM_showHideLayers() { //v3.0
 
         </tr>
 -->
+<tr>        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong>Trainingsauftakt bei den Aktiven!</strong><br>
+  
+      <p> Die beiden aktiven Mannschaften des SVI starten am kommenden Sonntag (08. Februar) um 10.00 Uhr in die Vorbereitung auf die Rückrunde.
+Eine Übersicht der bisher geplanten Testspiele finden Sie 	<a href="#Testspiele"> <em>hier</em>. </a>  </p>
 
+
+<!--
 <tr>        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong>E2 erreicht vierten Platz beim Turnier in Bietigheim</strong><br>
   
       <p> Die Illinger E2 konnte nach packenden Spielen beim sehr gut besetzten Hallenturnier des SV Germania Bietigheim
@@ -528,17 +534,7 @@ bei insgesamt zwölf teilnehmenden Mannschaften den vierten Platz erreichen.	Herz
    <tr>
                 <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
              </tr>
-		
-     
-<tr>        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong>Finale in Asperg!</strong><br>
-
-      <p> Die C-Jugend des SVI erreichte beim sehr gut besetzten Hallenturnier in Asperg mit insgesamt 12 Mannschaften das Finale und wurde hervorragender 2. Sieger!<br>
-        In der Vorrunde erk&auml;mpften sich die Jungs um Trainer Frank Lindauer 2 Siege und ein Unentschieden.<br>
-        In der Zwischenrunde der besten 6 Mannschaften konnte man das erste Spiel souver&auml;n gegen die Spvgg Cannstatt mit 4:2 gewinnen, im zweiten Spiel der Zwischenrunde gegen den TSV Benningen erk&auml;mpften sich die Jungs ein Unentschieden. Somit hie&szlig; es: FINALE!!!!<br>
-        Nach der regul&auml;ren Spielzeit stand es 2:2 gegen unseren Finalgegner die SGM SC 07 Ludwigsburg. In der Verl&auml;ngerung konnten sich dann die Jungs aus Ludwigsburg den Sieg sichern.      </p>
-      <p> <a href="bilder/c_asperg_g.jpg"><img src="bilder/c_asperg.jpg" width="550" alt="C-Jugend im Finale" align="top"></a><br><br>
-        Es spielten: Philipp Meister (TS), Paul Espenner, Damian Jimenez, Tom Lindauer, Tobias D&auml;schner, Juri Bochonow und Leandro Franco</p>
-
+		-->
 
           <!-- <tr>        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong>Aktive gewinnen "Illingen-Turnier"
 
@@ -1910,7 +1906,7 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
 
       <tr>
 
-        <td bgcolor="#0066cc" id="contentTable2"><div class="ueber1"> AKTIVE</div></td>
+        <td bgcolor="#0066cc" id="contentTable2"><div class="ueber1"><a name="Testspiele"> AKTIVE </a></div></td>
 
       </tr>
 
@@ -1935,14 +1931,14 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
         </tr>
 
 -->
-<!--
+
 
    <tr>          <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>        </tr>
  <tr>
 
         <td id="ueber2"><div><strong>* Vorbereitung:</strong></font></div></td>
 
-      </tr> -->	<!-- <tr>                <td id="contentfont" style= "text-align:right;"><div align="left"> <a href="vorbereitungsplan_sommer_14.xls"><em>>>> zum Vorbereitungsplan <<<</em> </div></td>             </tr> -->
+      </tr> 	<!-- <tr>                <td id="contentfont" style= "text-align:right;"><div align="left"> <a href="vorbereitungsplan_sommer_14.xls"><em>>>> zum Vorbereitungsplan <<<</em> </div></td>             </tr> -->
 
 
 
@@ -1954,13 +1950,85 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
 
       </tr> -->
 
-		<!--	 <tr>
+		 <tr>
                 <td>
                                 <table id="inner_table" width="550" class="profil" >
 
                                         <tr>
                                 <td width="26" id="contentfont6" style= "text-align:right;"><div align="right"><strong>So</strong></div></td>
-                                <td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>31.08.14</strong></div></td>
+                                <td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>08.02.15</strong></div></td>
+                                <td width="69" id="contentfont6" style= "text-align:right;"><div align="left"><strong>10.00 Uhr</strong></div></td>
+                                <td width="339" id="contentfont6" style= "text-align:right;"><div align="left">Trainingsauftakt</div></td>
+                                        </tr>
+                                        </table>                </td>
+        </tr> 
+		 <tr>
+                <td>
+                                <table id="inner_table" width="550" class="profil" >
+
+                                        <tr>
+                                <td width="26" id="contentfont6" style= "text-align:right;"><div align="right"><strong>So</strong></div></td>
+                                <td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>22.02.15</strong></div></td>
+                                <td width="69" id="contentfont6" style= "text-align:right;"><div align="left"><strong>15.00 Uhr</strong></div></td>
+                                <td width="339" id="contentfont6" style= "text-align:right;"><div align="left">SC Abstatt - SV Illingen I</div></td>
+                                        </tr>
+                                        </table>                </td>
+        </tr> 
+			 <tr>
+                <td>
+                                <table id="inner_table" width="550" class="profil" >
+
+                                        <tr>
+                                <td width="26" id="contentfont6" style= "text-align:right;"><div align="right"><strong>Sa</strong></div></td>
+                                <td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>28.02.15</strong></div></td>
+                                <td width="69" id="contentfont6" style= "text-align:right;"><div align="left"><strong>14.00 Uhr</strong></div></td>
+                                <td width="339" id="contentfont6" style= "text-align:right;"><div align="left">SV Illingen II - Spfr. Mühlacker II</div></td>
+                                        </tr>
+                                        </table>                </td>
+        </tr> 
+			 <tr>
+                <td>
+                                <table id="inner_table" width="550" class="profil" >
+
+                                        <tr>
+                                <td width="26" id="contentfont6" style= "text-align:right;"><div align="right"><strong>Sa</strong></div></td>
+                                <td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>28.02.15</strong></div></td>
+                                <td width="69" id="contentfont6" style= "text-align:right;"><div align="left"><strong>16.00 Uhr</strong></div></td>
+                                <td width="339" id="contentfont6" style= "text-align:right;"><div align="left">SV Illingen I - FV Niefern</div></td>
+                                        </tr>
+                                        </table>                </td>
+        </tr> 
+			 <tr>
+                <td>
+                                <table id="inner_table" width="550" class="profil" >
+
+                                        <tr>
+                                <td width="26" id="contentfont6" style= "text-align:right;"><div align="right"><strong>So</strong></div></td>
+                                <td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>15.03.15</strong></div></td>
+                                <td width="69" id="contentfont6" style= "text-align:right;"><div align="left"><strong>13.15 Uhr</strong></div></td>
+                                <td width="339" id="contentfont6" style= "text-align:right;"><div align="left">SV Illingen II - TSV Heimsheim II</div></td>
+                                        </tr>
+                                        </table>                </td>
+        </tr> 
+			 <tr>
+                <td>
+                                <table id="inner_table" width="550" class="profil" >
+
+                                        <tr>
+                                <td width="26" id="contentfont6" style= "text-align:right;"><div align="right"><strong>So</strong></div></td>
+                                <td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>15.03.15</strong></div></td>
+                                <td width="69" id="contentfont6" style= "text-align:right;"><div align="left"><strong>15.00 Uhr</strong></div></td>
+                                <td width="339" id="contentfont6" style= "text-align:right;"><div align="left">SV Illingen I - TSV Heimsheim I</div></td>
+                                        </tr>
+                                        </table>                </td>
+        </tr> 
+			 <tr>
+                <td>
+                                <table id="inner_table" width="550" class="profil" >
+
+                                        <tr>
+                                <td width="26" id="contentfont6" style= "text-align:right;"><div align="right"><strong>So</strong></div></td>
+                                <td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>22.03.15</strong></div></td>
                                 <td width="69" id="contentfont6" style= "text-align:right;"><div align="left"><strong>&nbsp;</strong></div></td>
                                 <td width="339" id="contentfont6" style= "text-align:right;"><div align="left">1. Meisterschaftsspiele</div></td>
                                         </tr>
@@ -1970,7 +2038,7 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
 
                 <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
 
-             </tr> -->
+             </tr>
   <!--  <tr>
 
           <td id="contentfont" style= "text-align:left; padding-left:50px;"><strong> **Ergebnisse:</strong></td>
@@ -2085,12 +2153,12 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
         <td height="50px" colspan="7"><hr width="100%" size="1px" noshade style="color:#cccccc; background-color:#CCCCCC;"></td>
 
       </tr> -->
-
+<!--
  <tr>
         <td id="ueber2"><div><strong>* Meisterschaft:</strong></div></td>
-      </tr>
-	  	 <tr>                <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>             </tr> 
-	   <tr>                <td id="contentfont" style= "text-align:right;"><div align="left">Die beiden aktiven Mannschaften befinden sich in der Winterpause!</div></td>             </tr> 
+      </tr> -->
+	<!--   	 <tr>                <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>             </tr> 
+	   <tr>                <td id="contentfont" style= "text-align:right;"><div align="left">Die beiden aktiven Mannschaften befinden sich in der Winterpause!</div></td>             </tr> -->
          <!--  <tr>
 
                 <td id="contentfont" style= "text-align:right;"><div align="left">Die Illinger Aktiven befinden sich derzeit in der Vorbereitung auf die Saison 2013/2014 </div></td>
@@ -2288,7 +2356,7 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
       </tr> 
 	 <tr>                <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>             </tr> 
 		  	 
-	 <tr>                <td id="contentfont" style= "text-align:right;"><div align="left">Die Meisterschaftsrunden der Jugenden beginnen nach der Winterpause wieder im März 2015!</div></td>             </tr>
+	 <tr>                <td id="contentfont" style= "text-align:right;"><div align="left">Die Meisterschaftsrunden der Jugenden beginnen wieder im März 2015!</div></td>             </tr>
  <!--   <tr>
 
         <td id="ueber3"><div>&nbsp;&nbsp;&nbsp;&nbsp;<strong>** A-Jugend:</strong></div></td>

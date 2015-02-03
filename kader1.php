@@ -256,9 +256,7 @@
 		    <td height="20" bgcolor="#FFFFFF"><div align="left"><!--<a href="index.php?id=210">--><img src="bilder/AktiveSpieler/fabian_k.jpg" width="90" height="120" /><!--</a>--> <br />
                 <strong>Fabian Lehmann</strong><br />
           Geb.: 11.03.1992</div></td>
-		  		   <td height="20" bgcolor="#FFFFFF"><div align="left"><!--<a href="index.php?id=210">--><img src="bilder/AktiveSpieler/dummy_klein.jpg" width="90" height="120" /><!--</a>--> <br />
-                <strong>Kolja Leoni</strong><br />
-          Geb.: 09.10.1984</div></td>
+		  	
 		    <td height="20" bgcolor="#FFFFFF"><div align="left"><a href="index.php?id=224"><img src="bilder/AktiveSpieler/marcelLiebendoerfer_k.jpg" width="90" height="120" /></a> <br />
                 <strong>Marcel Liebendörfer</strong><br />
           Geb.: 21.03.1992</div></td>
@@ -267,7 +265,9 @@
                 <strong>Oliver Lindauer</strong><br />
           Geb.: 13.03.1981</div></td>
       
-
+  <td height="20" bgcolor="#FFFFFF"><div align="left"><a href="index.php?id=126"><img src="bilder/AktiveSpieler/pucc2_k.jpg" width="90" height="120" /></a> <br />
+                <strong>Matthias Pucci</strong><br />
+          Geb.: 07.08.1981</div></td>
           	
 		 
       <tr>
@@ -277,9 +277,7 @@
      
       </tr>
 	    
-	    <td height="20" bgcolor="#FFFFFF"><div align="left"><a href="index.php?id=126"><img src="bilder/AktiveSpieler/pucc2_k.jpg" width="90" height="120" /></a> <br />
-                <strong>Matthias Pucci</strong><br />
-          Geb.: 07.08.1981</div></td>
+	  
 	    <td height="20" bgcolor="#FFFFFF"><div align="left"><a href="index.php?id=127"><img src="bilder/AktiveSpieler/oli_k.jpg" width="90" height="120" /></a> <br />
                 <strong>Oliver Rapp</strong><br />
           Geb.: 01.08.1986 </div></td>
@@ -290,7 +288,9 @@
      <td height="20" bgcolor="#FFFFFF"><div align="left"><a href="index.php?id=212"><img src="bilder/AktiveSpieler/matzeStocker_k.jpg" width="90" height="120" /></a> <br />
                 <strong>Matthias Stocker</strong><br />
           Geb.: 10.04.1991</div></td>
-
+    <td height="20" bgcolor="#FFFFFF"><div align="left"><a href="index.php?id=144"><img src="bilder/AktiveSpieler/andreW2_k.jpg" width="90" height="120" /></a> <br />
+                <strong>André Wagner</strong><br />
+          Geb.: 27.08.1989</div></td>
       </tr>
 	      <tr>
         <td colspan="7"><div align="center">&nbsp;</div></td>
@@ -300,14 +300,7 @@
     
       </tr>
 	    
-	
-        <td height="20" bgcolor="#FFFFFF"><div align="left"><a href="index.php?id=144"><img src="bilder/AktiveSpieler/andreW2_k.jpg" width="90" height="120" /></a> <br />
-                <strong>André Wagner</strong><br />
-          Geb.: 27.08.1989</div></td>
-      </tr>
-      <tr>
-        <td colspan="7"><div align="center">&nbsp;</div></td>
-      </tr>
+
       <tr>
         <td height="50px" colspan="7"><hr width="100%" size="1px" noshade style="color:#cccccc; background-color:#CCCCCC;" />
         </td>
