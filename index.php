@@ -2007,7 +2007,7 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
                                 <td width="26" id="contentfont6" style= "text-align:right;"><div align="right"><strong>So</strong></div></td>
                                 <td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>08.03.15</strong></div></td>
                                 <td width="69" id="contentfont6" style= "text-align:right;"><div align="left"><strong>&nbsp;</strong></div></td>
-                                <td width="339" id="contentfont6" style= "text-align:right;"><div align="left">SKV Rutesheim U19 - SV Illingen</div></td>
+                                <td width="339" id="contentfont6" style= "text-align:right;"><div align="left">SKV Rutesheim U19 - SV Illingen I</div></td>
                                         </tr>
                                         </table>                </td>
         </tr> 
