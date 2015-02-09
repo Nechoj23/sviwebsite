@@ -484,7 +484,7 @@ function MM_showHideLayers() { //v3.0
 
              </tr>
 
- <tr>
+ <!-- <tr>
 
         <td bgcolor="#0066cc" id="contentTable2"><div class="ueber1"> NEUIGKEITEN </div></td>
 
@@ -494,7 +494,7 @@ function MM_showHideLayers() { //v3.0
 
         <td height="20">&nbsp;</td>
 
-      </tr>  
+      </tr>  -->
 
       
 <!--
@@ -518,11 +518,11 @@ function MM_showHideLayers() { //v3.0
 
         </tr>
 -->
-<tr>        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong>Trainingsauftakt bei den Aktiven!</strong><br>
+<!--<tr>        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong>Trainingsauftakt bei den Aktiven!</strong><br>
   
       <p> Die beiden aktiven Mannschaften des SVI starten am kommenden Sonntag (08. Februar) um 10.00 Uhr in die Vorbereitung auf die Rückrunde.
 Eine Übersicht der bisher geplanten Testspiele finden Sie 	<a href="#Testspiele"> <em>hier</em>. </a>  </p>
-
+-->
 
 <!--
 <tr>        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong>E2 erreicht vierten Platz beim Turnier in Bietigheim</strong><br>
@@ -1906,7 +1906,7 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
 
       <tr>
 
-        <td bgcolor="#0066cc" id="contentTable2"><div class="ueber1"><a name="Testspiele"> AKTIVE </a></div></td>
+        <td bgcolor="#0066cc" id="contentTable2"><div class="ueber1"> AKTIVE</div></td>
 
       </tr>
 
@@ -1950,18 +1950,7 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
 
       </tr> -->
 
-		 <tr>
-                <td>
-                                <table id="inner_table" width="550" class="profil" >
 
-                                        <tr>
-                                <td width="26" id="contentfont6" style= "text-align:right;"><div align="right"><strong>So</strong></div></td>
-                                <td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>08.02.15</strong></div></td>
-                                <td width="69" id="contentfont6" style= "text-align:right;"><div align="left"><strong>10.00 Uhr</strong></div></td>
-                                <td width="339" id="contentfont6" style= "text-align:right;"><div align="left">Trainingsauftakt</div></td>
-                                        </tr>
-                                        </table>                </td>
-        </tr> 
 		 <tr>
                 <td>
                                 <table id="inner_table" width="550" class="profil" >
@@ -1995,6 +1984,30 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
                                 <td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>28.02.15</strong></div></td>
                                 <td width="69" id="contentfont6" style= "text-align:right;"><div align="left"><strong>16.00 Uhr</strong></div></td>
                                 <td width="339" id="contentfont6" style= "text-align:right;"><div align="left">SV Illingen I - FV Niefern</div></td>
+                                        </tr>
+                                        </table>                </td>
+        </tr> 
+			 <tr>
+                <td>
+                                <table id="inner_table" width="550" class="profil" >
+
+                                        <tr>
+                                <td width="26" id="contentfont6" style= "text-align:right;"><div align="right"><strong>Mi</strong></div></td>
+                                <td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>04.03.15</strong></div></td>
+                                <td width="69" id="contentfont6" style= "text-align:right;"><div align="left"><strong>19.30 Uhr</strong></div></td>
+                                <td width="339" id="contentfont6" style= "text-align:right;"><div align="left">TSV Oberriexingen I - SV Illingen I</div></td>
+                                        </tr>
+                                        </table>                </td>
+        </tr> 
+		 <tr>
+                <td>
+                                <table id="inner_table" width="550" class="profil" >
+
+                                        <tr>
+                                <td width="26" id="contentfont6" style= "text-align:right;"><div align="right"><strong>So</strong></div></td>
+                                <td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>08.03.15</strong></div></td>
+                                <td width="69" id="contentfont6" style= "text-align:right;"><div align="left"><strong>&nbsp;</strong></div></td>
+                                <td width="339" id="contentfont6" style= "text-align:right;"><div align="left">SKV Rutesheim U19 - SV Illingen</div></td>
                                         </tr>
                                         </table>                </td>
         </tr> 
@@ -2354,7 +2367,7 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
         <td id="ueber2"> * Meisterschaft: </td>
 
       </tr> 
-	 <tr>                <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>             </tr> 
+
 		  	 
 	 <tr>                <td id="contentfont" style= "text-align:right;"><div align="left">Die Meisterschaftsrunden der Jugenden beginnen wieder im März 2015!</div></td>             </tr>
  <!--   <tr>
@@ -2470,7 +2483,7 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
 
 
 
-<!--
+
 <tr>
 
                 <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
@@ -2481,9 +2494,25 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
 
                         <td height="50px" colspan="7"><hr width="100%" size="1px" noshade style="color:#cccccc; background-color:#CCCCCC;"></td>
 
-      </tr> -->
+      </tr>
+<tr>
 
+          <td id="ueber2">
 
+            * Freundschaftsspiele :          </td>
+
+        </tr> 
+<tr>                <td>                                 <table id="inner_table" width="550" class="profil" >           
+				 <tr>   <td width="83" id="contentfont6" style= "text-align:right;">										
+				 <div align="left"><strong>E-Jugend</strong></div></td>                     										
+				 <td width="26" id="contentfont6" style= "text-align:right;">										
+				 <div align="right"><strong>Do</strong></div></td>                        										
+				 <td width="59" id="contentfont6" style= "text-align:right;">										
+				 <div align="left"><strong>26.02.15</strong></div></td>                  										
+				 <td width="69" id="contentfont6" style= "text-align:right;">										
+				 <div align="left"><strong>18.00Uhr</strong></div></td>                  										
+				 <td width="339" id="contentfont6" style= "text-align:right;">		
+				 <div align="left">SV Illingen I - SV Horrheim</div> </td>                </tr> </table>	
 
       <!--<tr>
 
