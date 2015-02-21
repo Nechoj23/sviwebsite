@@ -15,8 +15,8 @@
      
     
     <tr> 
-      <td width="272" class="big"><a href="bilder/AktiveSpieler/dummy.jpg" target="_blank"> 
-        <a href="bilder/AktiveSpieler/andreW2_g.jpg"><img src="bilder/AktiveSpieler/andreW2.jpg" width="240" height="320" border="0"></a> 
+      <td width="272" class="big">
+        <!--<a href="bilder/AktiveSpieler/andrewagner2_g.jpg">--><img src="bilder/AktiveSpieler/andrewagner2.jpg" width="240" height="320" border="0"><!--</a> -->
       </td>
       <td width="278" valign="top"><table width="261" class="profil">
           <tr class="roww1 entries"> 

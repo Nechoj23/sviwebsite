@@ -478,13 +478,13 @@ function MM_showHideLayers() { //v3.0
 
       </tr> 
 -->
-<tr>
+<!--<tr>
 
                 <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
 
-             </tr>
+             </tr> -->
 
- <!-- <tr>
+ <tr>
 
         <td bgcolor="#0066cc" id="contentTable2"><div class="ueber1"> NEUIGKEITEN </div></td>
 
@@ -494,7 +494,7 @@ function MM_showHideLayers() { //v3.0
 
         <td height="20">&nbsp;</td>
 
-      </tr>  -->
+      </tr> 
 
       
 <!--
@@ -1958,7 +1958,7 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
                                         <tr>
                                 <td width="26" id="contentfont6" style= "text-align:right;"><div align="right"><strong>So</strong></div></td>
                                 <td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>22.02.15</strong></div></td>
-                                <td width="69" id="contentfont6" style= "text-align:right;"><div align="left"><strong>15.00 Uhr</strong></div></td>
+                                <td width="69" id="contentfont6" style= "text-align:right;"><div align="left"><strong>14.00 Uhr</strong></div></td>
                                 <td width="339" id="contentfont6" style= "text-align:right;"><div align="left">SC Abstatt - SV Illingen I</div></td>
                                         </tr>
                                         </table>                </td>

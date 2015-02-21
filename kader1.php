@@ -151,6 +151,9 @@
 		    <td height="20" bgcolor="#FFFFFF"><div align="left"><a href="index.php?id=175"><img src="bilder/AktiveSpieler/dummy_klein.jpg" width="90" height="120" /></a> <br />
                 <strong>Markus Völlnagel</strong><br />
           Geb.: 01.01.1983</div></td>
+		      <td height="20" bgcolor="#FFFFFF"><div align="left"><a href="index.php?id=144"><img src="bilder/AktiveSpieler/andrewagner2_k.jpg" width="90" height="120" /></a> <br />
+                <strong>André Wagner</strong><br />
+          Geb.: 27.08.1989</div></td>
       </tr>
       <tr>
         <td height="50px" colspan="7"><hr width="100%" size="1px" noshade style="color:#cccccc; background-color:#CCCCCC;" />
@@ -288,9 +291,7 @@
      <td height="20" bgcolor="#FFFFFF"><div align="left"><a href="index.php?id=212"><img src="bilder/AktiveSpieler/matzeStocker_k.jpg" width="90" height="120" /></a> <br />
                 <strong>Matthias Stocker</strong><br />
           Geb.: 10.04.1991</div></td>
-    <td height="20" bgcolor="#FFFFFF"><div align="left"><a href="index.php?id=144"><img src="bilder/AktiveSpieler/andreW2_k.jpg" width="90" height="120" /></a> <br />
-                <strong>André Wagner</strong><br />
-          Geb.: 27.08.1989</div></td>
+
       </tr>
 	      <tr>
         <td colspan="7"><div align="center">&nbsp;</div></td>
