@@ -25,11 +25,11 @@
 <br />
 <span class="Stil6">
 
-
+<!--
 &nbsp;&nbsp;20.03.15<br />
 &nbsp;&nbsp;Jahreshauptversammlung<br />
 &nbsp;&nbsp;SV Illingen Hauptverein<br />
-&nbsp;&nbsp;&nbsp;--------------<br />
+&nbsp;&nbsp;&nbsp;--------------<br /> -->
 &nbsp;&nbsp;27.03.15<br />
 &nbsp;&nbsp;Jahreshauptversammlung<br />
 &nbsp;&nbsp;SV Illingen Abt. Fuﬂball<br />
@@ -37,8 +37,10 @@
 &nbsp;&nbsp;27.05.15 - 29.05.15<br />
 &nbsp;&nbsp;Jugend-Camp 2015 im<br />
 &nbsp;&nbsp;Illinger Eichwaldpark<br />
-
-
+&nbsp;&nbsp;&nbsp;--------------<br />
+&nbsp;&nbsp;27.06.15 - 28.06.15<br />
+&nbsp;&nbsp;Dorf- und Kelterfest<br />
+&nbsp;&nbsp;in Illingen<br />
 
 
 

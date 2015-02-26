@@ -211,14 +211,14 @@
 	  <td width="400" valign="top" id="contentfont" style= "text-align:right;"><div align="left" class="Stil3" ><strong>Jugend-Hallenspieltag in Illingen</strong><br />
 	  </div></td>
     </tr>
-    
+ <!--   
     <tr id="contentFont" bgcolor="#FFFFFF"> 
 	  <td width="44" valign="top" id="contentfont" style= "text-align:right;"><div align="left">Fr</div></td>   		
 	  <td width="156" valign="top" id="contentfont" style= "text-align:right;"><div align="left"><strong>20.03.15</strong><br />
 	  </div></td>
 	  <td width="400" valign="top" id="contentfont" style= "text-align:right;"><div align="left"><strong>Jahreshauptversammlung SV Illingen Hauptverein</strong><br />
 	  </div></td>
-    </tr>
+    </tr> -->
 	    <tr id="contentFont" bgcolor="#FFFFFF"> 
 	  <td width="44" valign="top" id="contentfont" style= "text-align:right;"><div align="left">Fr</div></td>   		
 	  <td width="156" valign="top" id="contentfont" style= "text-align:right;"><div align="left"><strong>27.03.15</strong><br />
