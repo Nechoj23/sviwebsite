@@ -1638,7 +1638,27 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
 
         </tr> -->
 	
+ <tr>
 
+        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong> C-Jugend mit erstem und dritten Platz!</strong>
+
+            <p>
+
+           <a href="bilder/c-jugend_lienzingen_g.jpg"> <img src="bilder/c-jugend_lienzingen.jpg" width="500"
+
+            alt="C-Jugend Lienzingen" align="top"> </a><br>
+        <p> Beim Hallenturnier des FV Lienzingen am vergangenen Wochenende haben sich beide<br>
+		C-Jugend-Teams hervorragend geschlagen. Während das eine Team mit dem verdienten <br>
+		3. Platz 
+		eine tolle Leistung zeigte, konnte das andere Team sogar den Turniersieg einfahren.<br><br>
+		Glückwunsch an das Trainerteam Frank und Jochen, die mit ihrem unermüdlichen Engagement zusammen mit den Jungs einen schönen Abschluss der 
+		Hallensaison feiern konnten!</p>
+
+             </br>
+
+             </div></td>
+
+        </tr>
      <tr>
 
         <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong> Jugend-Camp 2015</strong>
@@ -1950,18 +1970,7 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
 
       </tr> 
 
-			 <tr>
-                <td>
-                                <table id="inner_table" width="550" class="profil" >
 
-                                        <tr>
-                                <td width="26" id="contentfont6" style= "text-align:right;"><div align="right"><strong>Sa</strong></div></td>
-                                <td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>28.02.15</strong></div></td>
-                                <td width="69" id="contentfont6" style= "text-align:right;"><div align="left"><strong>16.00 Uhr</strong></div></td>
-                                <td width="339" id="contentfont6" style= "text-align:right;"><div align="left">SV Illingen I - FV Niefern</div></td>
-                                        </tr>
-                                        </table>                </td>
-        </tr> 
 			 <tr>
                 <td>
                                 <table id="inner_table" width="550" class="profil" >
@@ -2034,7 +2043,8 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
         </tr>
 		<tr>          <td id="contentfont" style= "text-align:left; padding-left:50px;">SC Abstatt I - SV Illingen I&nbsp;  2:2 (0:2)<br/>            
 		<span class="Stil20"><em>Torsch&uuml;tzen: 2x Arne Körner</em></span> </td>        </tr> 
-
+	<tr>          <td id="contentfont" style= "text-align:left; padding-left:50px;">SV Illingen I - FV Niefern I&nbsp;  2:1 (0:1)<br/>            
+		<span class="Stil20"><em>Torsch&uuml;tzen: Marco Klein, Tim Scheuermann</em></span> </td>        </tr> 
 <!--
 		<tr>
 
@@ -2336,12 +2346,12 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
           <td id="contentfont"><div align="left">&nbsp;</td>
 
         </tr>
-<!--
+
  <tr>
 
         <td id="ueber2"> * Meisterschaft: </td>
 
-      </tr> -->
+      </tr> 
 
 		  	 
 	<!-- <tr>                <td id="contentfont" style= "text-align:right;"><div align="left">Die Meisterschaftsrunden der Jugenden beginnen wieder im März 2015!</div></td>             </tr>
@@ -2361,14 +2371,14 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
    <tr>
         <td id="contentfont"><div align="left">&nbsp;</div></td>
       </tr> -->
-<!-- <tr>
+ <tr>
         <td id="ueber3"><div>&nbsp;&nbsp;&nbsp;&nbsp;<strong>** B-Jugend:</strong></div></td>
       </tr>
         
 	        <tr>
-        <td id="contentfont" style= "text-align:left; padding-left:50px;">SV Friolzheim - SV Illingen&nbsp;  0:2 (0:1) <br/>
-            <span class="Stil20"><em>Torsch&uuml;tzen: Yannis Yusof, Davide Tasselli</em></span></td>
-      </tr> -->
+        <td id="contentfont" style= "text-align:left; padding-left:50px;">SG Merklingen - SV Illingen&nbsp;  2:4 (2:2) <br/>
+            <span class="Stil20"><em>Torsch&uuml;tzen: Nicolas Pyrtek, Marco Barbera, Yannis Yusof, Davide Tasselli</em></span></td>
+      </tr> 
 <!--
  <tr>
 
@@ -2459,7 +2469,7 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
 
 
 
-<!--
+
 <tr>
 
                 <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
@@ -2470,7 +2480,8 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
 
                         <td height="50px" colspan="7"><hr width="100%" size="1px" noshade style="color:#cccccc; background-color:#CCCCCC;"></td>
 
-      </tr> -->
+      </tr> 
+	  <!--
 <tr>
 
           <td id="ueber2">
@@ -2488,7 +2499,7 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
 				 <td width="69" id="contentfont6" style= "text-align:right;">										
 				 <div align="left"><strong>18.00Uhr</strong></div></td>                  										
 				 <td width="339" id="contentfont6" style= "text-align:right;">		
-				 <div align="left">SV Illingen I - SV Horrheim</div> </td>                </tr> </table>	
+				 <div align="left">SV Illingen I - SV Horrheim</div> </td>                </tr> </table>	-->
 
       <!--<tr>
 
@@ -2699,6 +2710,7 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
 		  
 
         </tr> -->
+		<!--
  <tr>
 
           <td id="contentfont"><div align="left">&nbsp;</td>
@@ -2706,7 +2718,7 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
         </tr>
      <tr>
         <td height="50px" colspan="7"><hr width="100%" size="1px" noshade style="color:#cccccc; background-color:#CCCCCC;"></td>
-      </tr>  
+      </tr>  -->
 	  
  <tr>
 
@@ -2720,18 +2732,7 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
 		 
 
 			 
-					
-<tr>                <td>                                 <table id="inner_table" width="550" class="profil" >           
-				 <tr>   <td width="83" id="contentfont6" style= "text-align:right;">										
-				 <div align="left"><strong>B-Jugend</strong></div></td>                     										
-				 <td width="26" id="contentfont6" style= "text-align:right;">										
-				 <div align="right"><strong>So</strong></div></td>                        										
-				 <td width="59" id="contentfont6" style= "text-align:right;">										
-				 <div align="left"><strong>01.03.15</strong></div></td>                  										
-				 <td width="69" id="contentfont6" style= "text-align:right;">										
-				 <div align="left"><strong>10.30Uhr</strong></div></td>                  										
-				 <td width="339" id="contentfont6" style= "text-align:right;">		
-				 <div align="left"> SG Merklingen - SV Illingen</div> </td>                </tr> </table>
+	
 				 
 			<tr>                <td>                                 <table id="inner_table" width="550" class="profil" >           
 				 <tr>   <td width="83" id="contentfont6" style= "text-align:right;">										
