@@ -1971,18 +1971,6 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
       </tr> 
 
 
-			 <tr>
-                <td>
-                                <table id="inner_table" width="550" class="profil" >
-
-                                        <tr>
-                                <td width="26" id="contentfont6" style= "text-align:right;"><div align="right"><strong>Mi</strong></div></td>
-                                <td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>04.03.15</strong></div></td>
-                                <td width="69" id="contentfont6" style= "text-align:right;"><div align="left"><strong>19.30 Uhr</strong></div></td>
-                                <td width="339" id="contentfont6" style= "text-align:right;"><div align="left">Spfr. Mühlacker I - SV Illingen I</div></td>
-                                        </tr>
-                                        </table>                </td>
-        </tr> 
 		 <tr>
                 <td>
                                 <table id="inner_table" width="550" class="profil" >
@@ -2045,6 +2033,8 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
 		<span class="Stil20"><em>Torsch&uuml;tzen: 2x Arne Körner</em></span> </td>        </tr> 
 	<tr>          <td id="contentfont" style= "text-align:left; padding-left:50px;">SV Illingen I - FV Niefern I&nbsp;  2:1 (0:1)<br/>            
 		<span class="Stil20"><em>Torsch&uuml;tzen: Marco Klein, Tim Scheuermann</em></span> </td>        </tr> 
+		<tr>          <td id="contentfont" style= "text-align:left; padding-left:50px;">Spfr. Mühlacker I - SV Illingen I&nbsp;  1:3 (0:3)<br/>            
+		<span class="Stil20"><em>Torsch&uuml;tzen: 2x Tim Scheuermann, Marco Klein</em></span> </td>        </tr> 
 <!--
 		<tr>
 
