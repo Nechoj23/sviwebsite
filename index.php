@@ -1422,7 +1422,9 @@ In den drei Tagen konnten die Jungen und das einzige M&auml;dchen ihre F&auml;hi
 
                 <p> <img src="bilder/jugendcamp_logo_mini.png"><img src="bilder/jugendcamp_logo_mini.png"><br>
 
-                  Nur noch <span class="Stil3 Stil2 Stil4"><strong>2</strong></span> Restpl&auml;tze sind  zu vergeben!!! (Stand 29.05.11)<br>
+                  Nur noch <span class="Stil3 Stil2 Stil4"><strong>2</strong></span> Restpl&auml;tze sind  zu vergeben!!! (
+
+				  29.05.11)<br>
 
             <strong>Wir empfehlen eine sofortige Anmeldung!</strong></p>
 
@@ -1637,7 +1639,21 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
 </div></td>
 
         </tr> -->
-	
+	  <tr>
+
+        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong> Aktive Mannschaften starten in zweite Saisonhälfte!</strong>
+
+
+            <p>Für die beiden aktiven Mannschaften stehen am kommenden Sonntag (22. März) die ersten Punktspiele nach der Winterpause an. <br>
+Die zweite Mannschaft empfängt um 13.15 Uhr den TSV Häfnerhaslach I, gefolgt von der ersten Mannschaft, die anschließend um 15.00 Uhr ebenfalls im heimischen Eichwaldpark
+gegen den SV Horrheim I antritt.<br>
+Die beiden Teams freuen sich über zahlreiche Zuschauer!			</p>
+
+            <br />
+
+</div></td>
+
+        </tr> 
 
      <tr>
 
@@ -1651,9 +1667,10 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
 
             <p>Vom
 
-            27.05.2015 bis 29.05.2015 veranstaltet der F&ouml;rderverein SV Illingen-Fu&szlig;ball e.V. das Jugend-Camp 2015 auf dem Sportgel&auml;nde des SV Illingen. Teilnehmen k&ouml;nnen Jugendliche von 5 bis 15 Jahren.<br>
-            <strong>Anmeldungen sind ab sofort möglich!!!</strong><br>
-
+            27.05.2015 bis 29.05.2015 veranstaltet der F&ouml;rderverein SV Illingen-Fu&szlig;ball e.V. das Jugend-Camp 2015 auf dem 
+			Sportgel&auml;nde des SV Illingen. Teilnehmen k&ouml;nnen Jugendliche von 5 bis 15 Jahren.<br>
+            <strong>Anmeldungen sind ab sofort möglich!!!</strong><br><br>
+ Bitte beachten: Nur noch &nbsp;<span class="Stil3 Stil2 Stil4"><strong><font size="+2">25</font></strong></span> &nbsp;freie Plätze!!! (Stand 18.03.15)<br><br>
             Weitere Informationen finden Sie <a href="http://www.svi-fussball.de/index.php?id=19"><em>hier</em></a>.</p>
 
             <br />
@@ -1938,11 +1955,11 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
 
         <td id="ueber2"><div><strong>* Vorbereitung:</strong></font></div></td>
 
-      </tr> 	<!-- <tr>                <td id="contentfont" style= "text-align:right;"><div align="left"> <a href="vorbereitungsplan_sommer_14.xls"><em>>>> zum Vorbereitungsplan <<<</em> </div></td>             </tr> -->
+      </tr>	<!-- <tr>                <td id="contentfont" style= "text-align:right;"><div align="left"> <a href="vorbereitungsplan_sommer_14.xls"><em>>>> zum Vorbereitungsplan <<<</em> </div></td>             </tr> -->
 
 
 
-
+<!--
 
   <tr>
 
@@ -1975,12 +1992,8 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
                                 <td width="339" id="contentfont6" style= "text-align:right;"><div align="left">1. Meisterschaftsspiele</div></td>
                                         </tr>
                                         </table>                </td>
-        </tr> 
-		        <tr>
-
-                <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
-
-             </tr>
+        </tr> -->
+		   
   <tr>
 
           <td id="contentfont" style= "text-align:left; padding-left:50px;"><strong> **Ergebnisse:</strong></td>
@@ -1995,9 +2008,11 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
 		<tr>          <td id="contentfont" style= "text-align:left; padding-left:50px;">SKV Rutesheim U19 - SV Illingen I&nbsp;  0:2 (0:2)<br/>            
 		<span class="Stil20"><em>Torsch&uuml;tzen: Pasquale Arena, Tim Scheuermann</em></span> </td>        </tr> 
 		<tr>          <td id="contentfont" style= "text-align:left; padding-left:50px;">SV Illingen II - TSV Heimsheim II&nbsp;  4:0 (2:0)<br/>            
-		<span class="Stil20"><em>Torsch&uuml;tzen: Frieder Lachenmayer, Nils Gutscher, Amir Ben Khala, Kim Berberich</em></span> </td>        </tr> 
+		<span class="Stil20"><em>Torsch&uuml;tzen: Frieder Lachenmayer, Nils Gutscher, Amir Ben Kahla, Kim Berberich</em></span> </td>        </tr> 
 		<tr>          <td id="contentfont" style= "text-align:left; padding-left:50px;">SV Illingen I - TSV Heimsheim I&nbsp;  1:1 (1:0)<br/>            
 		<span class="Stil20"><em>Torsch&uuml;tzen: Tim Scheuermann</em></span> </td>        </tr> 
+				<tr>          <td id="contentfont" style= "text-align:left; padding-left:50px;">SV Illingen II - TSV Nussdorf II&nbsp;  6:2 (3:1)<br/>            
+		<span class="Stil20"><em>Torsch&uuml;tzen: 2x Amir Ben Kahla, Oliver Rapp, Marcel Liebendörfer, Matthias Hitzler, Tim Scheuermann</em></span> </td>        </tr> 
 
 		<tr>
 
@@ -2207,12 +2222,12 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
 	<tr>        <td id="contentfont" style= "text-align:left;"><p><b>So 22.03</b><b>. 15.00 Uhr</b>          
 	 &nbsp; <img src="bilder/MannschaftsLogos/svi_logo55px.jpg"alt=" " align="middle">   SV Illingen I &nbsp;vs. SV Horrheim I		
 	  <img src="bilder/MannschaftsLogos/horrheim.jpg" alt=" " align="middle">  </p></td>      </tr> 
-	  	<!--	 	   <tr>        <td id="contentfont" style= "text-align:left;"><p><b>Sa 07.12</b><b>. 14.00 Uhr</b>          
-	 &nbsp;<img src="bilder/MannschaftsLogos/oberriexingen.jpg"alt=" " align="middle"> TSV Oberriexingen I&nbsp;vs. SV Illingen II		
+		 	   <tr>        <td id="contentfont" style= "text-align:left;"><p><b>So 29.03</b><b>. 15.00 Uhr</b>          
+	 &nbsp;<img src="bilder/MannschaftsLogos/markgroeningen.jpg"alt=" " align="middle"> FV Markgröningen I&nbsp;vs. SV Illingen II		
 	  <img src="bilder/MannschaftsLogos/svi_logo55px.jpg" alt=" " align="middle"> </p></td>      </tr>  
-	<tr>        <td id="contentfont" style= "text-align:left;"><p><b>Sa 07.12</b><b>. 14.00 Uhr</b>          
-	 &nbsp; <img src="bilder/MannschaftsLogos/kleinglattbach.jpg"alt=" " align="middle">   TSV Kleinglattbach I &nbsp;vs. SV Illingen I	
-	  <img src="bilder/MannschaftsLogos/svi_logo55px.jpg" alt=" " align="middle">  </p></td>      </tr> -->
+	<tr>        <td id="contentfont" style= "text-align:left;"><p><b>So 29.03</b><b>. 15.00 Uhr</b>          
+	 &nbsp; <img src="bilder/MannschaftsLogos/08bissingen.jpg"alt=" " align="middle"> FSV 08 Bissingen II &nbsp;vs. SV Illingen I	
+	  <img src="bilder/MannschaftsLogos/svi_logo55px.jpg" alt=" " align="middle">  </p></td>      </tr>
 	   <!--    <tr>
         <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
       </tr>
