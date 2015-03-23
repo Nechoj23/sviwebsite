@@ -88,9 +88,9 @@
         <tr valign="top">
           <td width="187" align="center" valign="middle" bgcolor="#0066CC" id="contentfont4" coldpan="6"><strong>E2-Junioren</strong></td>
           <td id="contentfont5" coldpan="6" width="86">&nbsp;</td>
-          <td id="contentfont5" coldpan="6" width="117">17:30-19:00</td>
+          <td id="contentfont5" coldpan="6" width="117">17:00-19:00</td>
           <td id="contentfont5" coldpan="6" width="70">&nbsp;</td>
-          <td id="contentfont5" coldpan="6" width="70">17:30-19:00</td>
+          <td id="contentfont5" coldpan="6" width="70">17:00-19:00</td>
           <td id="contentfont5" coldpan="6" width="70">&nbsp;</td>
         </tr>
         <tr valign="top">

@@ -114,8 +114,8 @@
         <!--<p><strong>Halle: </strong>Montag 17.30 Uhr - 19.30 Uhr</p>-->
 			 <p><strong>E2-Jugend</strong></p> 
 		<!--<p>Trainingsstart: <b>Montag 29.08.11 17.30 Uhr</b></p>	-->	
-<p>Dienstag 17.30 Uhr - 19.00 Uhr</p>			
-        <p>Donnerstag 17.30 Uhr - 19.00 Uhr </p>
+<p>Dienstag 17.00 Uhr - 19.00 Uhr</p>			
+        <p>Donnerstag 17.00 Uhr - 19.00 Uhr </p>
        <!-- <p><strong>Halle: </strong>Mittwoch 15.30 Uhr - 17.30 Uhr</p> -->
         <p>&nbsp;</p>
 <!-- <p>     Torspieler-Training: Mittwoch 17.00 - 18.00 Uhr</p> -->
