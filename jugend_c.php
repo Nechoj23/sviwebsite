@@ -261,7 +261,7 @@
 			  C7 - Kreistaffel 1 (C2)</p>
 			  <p><a href="http://www.fussball.de/spieltag/leistungsstaffel-3-bezirk-enz-murr-kl-c-junioren-leistungsstaffel-c-junioren-saison1415-wuerttemberg/-/staffel/01LI73ET3C000001VV0AG813VVGBTDNI-G" target="_blank">
 			  <em>www.fussball.de</em></a> (C1)<br />
-			  <a href="http://www.fussball.de/spieltag/c7-kreisstaffel-1-bezirk-enz-murr-kl-c-junioren-kreisstaffel-c-junioren-saison1415-wuerttemberg/-/staffel/01LI74BEMS000001VV0AG813VVGBTDNI-G#!/section/stage" target="_blank">
+			  <a href="http://www.fussball.de/spieltag/c7-kreisstaffel-1-rueckrunde-bezirk-enz-murr-kl-c-junioren-kreisstaffel-c-junioren-saison1415-wuerttemberg/-/staffel/01NBN0CTUC000001VV0AG812VSJ67FE0-G#!/section/matches" target="_blank">
 			  <em>www.fussball.de</em></a> (C2)</p>
             
              <p> Frank Lindauer<br>

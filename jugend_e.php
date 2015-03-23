@@ -42,12 +42,12 @@
             <p>Trainer/Betreuer:</p>
 		  </td>
 		  <td width="300" id="contentFont" align="left" valign="top">			  	  
-		    <p>E1: Qualistaffel 24 <br />
-               E2: Qualistaffel 25</p> 
+		    <p>E1: Kreisstaffel 13<br />
+               E2: Kreisstaffel 17</p> 
 		     
-           <p> <a href="http://www.fussball.de/spieltag/qualistaffel-24-bezirk-enz-murr-kl-e-junioren-kreisstaffel-e-junioren-saison1415-wuerttemberg/-/staffel/01LI7I84RC000000VV0AG813VVGBTDNI-G" target="_blank"> 
+           <p> <a href="http://www.fussball.de/spieltag/e-junioren-kreisstaffel-13-bezirk-enz-murr-kl-e-junioren-kreisstaffel-e-junioren-saison1415-wuerttemberg/-/staffel/01NAFL7QI0000000VV0AG813VT0Q6IQ5-G#!/" target="_blank"> 
           <em>www.fussball.de</em></a> (E1)<br />
-            <a href="http://www.fussball.de/spieltag/qualistaffel-25-bezirk-enz-murr-kl-e-junioren-kreisstaffel-e-junioren-saison1415-wuerttemberg/-/staffel/01LI7I851C000001VV0AG813VVGBTDNI-G#!/section/stage" target="_blank"> 
+            <a href="http://www.fussball.de/spieltag/e-junioren-kreisstaffel-17-bezirk-enz-murr-kl-e-junioren-kreisstaffel-e-junioren-saison1415-wuerttemberg/-/staffel/01NAFLGOL8000001VV0AG813VT0Q6IQ5-G#!/section/stage" target="_blank"> 
           <em>www.fussball.de</em></a> (E2) </p>
        <!-- <p>
         <a href="http://ergebnisdienst.fussball.de/begegnungen/qualistaffel-19/bezirk-enz-murr-kl-/e-junioren-kreisstaffeln/e-junioren/spieljahr1213/wuerttemberg/M35S1213W354983" target="_blank">

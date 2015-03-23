@@ -275,8 +275,8 @@
             <p>Trainer/Betreuer:</p>
 		  </td>
 		  <td width="300" id="contentFont" align="left" valign="top">			  	  
-		      <p>Quali-Staffel 12</p>
-	           <p><a href="http://www.fussball.de/spieltag/d-quali-staffel-12-bezirk-enz-murr-kl-d-junioren-kreisstaffel-d-junioren-saison1415-wuerttemberg/-/staffel/01LI7B37O4000001VV0AG813VVGBTDNI-G" target="_blank"> <em>www.fussball.de</em></a><br />
+		      <p>Kreisstaffel 9</p>
+	           <p><a href="http://www.fussball.de/spieltag/kreisstaffel-9-bezirk-enz-murr-kl-d-junioren-kreisstaffel-d-junioren-saison1415-wuerttemberg/-/staffel/01N7QO2MUC000001VV0AG813VTFUQUP7-G#!/section/matches" target="_blank"> <em>www.fussball.de</em></a><br />
             
               <!-- <p><strong>D1-Jugend</strong></p>-->
             <p>        Alexander Köppl<br>				

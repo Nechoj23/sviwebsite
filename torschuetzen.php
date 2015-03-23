@@ -18,20 +18,21 @@
       <td width="424" id="contentFont"><font size="+1">Bisher keine Torschützen</font></td>
     </tr> -->
 		<tr id="contentFont">       
-	<td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">12      
+	<td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">13      
 	Tore</font></p></td>     
 	<td width="424" id="contentFont"><font size="+1">Tim Scheuermann</font></td>    </tr>
+		<tr id="contentFont"> 
+      <td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">6 
+      Tore</font></p></td>
+      <td width="424" id="contentFont"><font size="+1">Eros Schembri</font></td>
+    </tr>
 		<tr id="contentFont"> 
       <td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">5 
       Tore</font></p></td>
       <td width="424" id="contentFont"><font size="+1">Pasquale Arena</font></td>
     </tr> 	
 	
-		<tr id="contentFont"> 
-      <td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">5 
-      Tore</font></p></td>
-      <td width="424" id="contentFont"><font size="+1">Eros Schembri</font></td>
-    </tr>
+	
 			<tr id="contentFont"> 
       <td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">5 
       Tore</font></p></td>
