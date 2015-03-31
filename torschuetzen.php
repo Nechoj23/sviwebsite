@@ -67,7 +67,10 @@
 	Tor</font></p></td>     
 	<td width="424" id="contentFont"><font size="+1">Sebastian Schüle</font></td>    </tr>
 
-	
+		<tr id="contentFont">       
+	<td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">1       
+	Tor</font></p></td>     
+	<td width="424" id="contentFont"><font size="+1">André Wagner</font></td>    </tr>
 	
 	
 	
@@ -106,7 +109,11 @@
       Tore</font></p></td>
       <td width="424" id="contentFont"><font size="+1">Andreas Köppl</font></td>
     </tr> 
-	
+		<tr id="contentFont"> 
+      <td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">3 
+      Tore</font></p></td>
+      <td width="424" id="contentFont"><font size="+1">Oliver Rapp</font></td>
+    </tr>
 		
 		
 		<tr id="contentFont"> 
@@ -119,11 +126,7 @@
       Tore</font></p></td>
       <td width="424" id="contentFont"><font size="+1">Frieder Lachenmayer</font></td>
     </tr> 
-		<tr id="contentFont"> 
-      <td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">2 
-      Tore</font></p></td>
-      <td width="424" id="contentFont"><font size="+1">Oliver Rapp</font></td>
-    </tr>
+	
 	
 	<tr id="contentFont"> 
       <td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">1 
@@ -150,6 +153,11 @@
       Tor</font></p></td>
       <td width="424" id="contentFont"><font size="+1">Daniel Graci</font></td>
     </tr> 
+			<tr id="contentFont"> 
+      <td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">1 
+      Tor</font></p></td>
+      <td width="424" id="contentFont"><font size="+1">Matthias Hitzler</font></td>
+    </tr> 
 		<tr id="contentFont"> 
       <td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">1 
       Tor</font></p></td>
@@ -161,11 +169,17 @@
       Tor</font></p></td>
       <td width="424" id="contentFont"><font size="+1">Matthias Pucci</font></td>
     </tr>
+	
 		<tr id="contentFont"> 
       <td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">1 
       Tor</font></p></td>
       <td width="424" id="contentFont"><font size="+1">Tim Scheuermann</font></td>
     </tr> 
+		<tr id="contentFont"> 
+      <td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">1 
+      Tor</font></p></td>
+      <td width="424" id="contentFont"><font size="+1">Matthias Stocker</font></td>
+    </tr>
 	<tr id="contentFont"> 
       <td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">1 
       Tor</font></p></td>

@@ -57,8 +57,9 @@
    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="index.php?id=30"><img src="bilder/spielerDesTages.png"></a></p>
 -->	
+<!--
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		<a href="index.php?id=300"><img src="bilder/spielbericht.png" border="0px"></a></p>
+		<a href="index.php?id=300"><img src="bilder/spielbericht.png" border="0px"></a></p> -->
 	
     	<p><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.ramueswelt2punkt0.de/" target="_blank"><img src="bilder/ramuesWelt2k0_web.png" border="0px"/></a><br>
 &nbsp;&nbsp;<font color="#FFFFFF" size="-2">
