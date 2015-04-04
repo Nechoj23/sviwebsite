@@ -1656,7 +1656,7 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
             27.05.2015 bis 29.05.2015 veranstaltet der F&ouml;rderverein SV Illingen-Fu&szlig;ball e.V. das Jugend-Camp 2015 auf dem 
 			Sportgel&auml;nde des SV Illingen. Teilnehmen k&ouml;nnen Jugendliche von 5 bis 15 Jahren.<br>
             <strong>Anmeldungen sind ab sofort möglich!!!</strong><br><br>
- Bitte beachten: Nur noch &nbsp;<span class="Stil3 Stil2 Stil4"><strong><font size="+2">15</font></strong></span> &nbsp;freie Plätze!!! (Stand 22.03.15)<br><br>
+ Bitte beachten: Nur noch &nbsp;<span class="Stil3 Stil2 Stil4"><strong><font size="+2">8</font></strong></span> &nbsp;freie Plätze!!! (Stand 04.04.15)<br><br>
             Weitere Informationen finden Sie <a href="http://www.svi-fussball.de/index.php?id=19"><em>hier</em></a>.</p>
 
             <br />
