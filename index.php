@@ -1639,7 +1639,54 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
 </div></td>
 
         </tr> -->
+	<tr>
 
+        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong> Nachtrag: Protokoll der Jahreshauptversammlung der Abt. Fu&szlig;ball</strong><br>
+
+
+
+<p>TOP 1 Begr&uuml;&szlig;ung<br>
+  Der Abteilungsleiter begr&uuml;&szlig;t die zahlreich anwesenden Mitglieder der Abtei-lung Fu&szlig;ball sowie den Vertreter des Hauptvereins.</p>
+<p>TOP 2 Totenehrung<br>
+  Der Verein gedenkt der im vergangenen Jahr Verstorbenen.</p>
+<p>TOP 3 Berichte<br>
+  a) Abteilungsleitung (Hubert Scheuermann)<br>
+  Der Abteilungsleiter dankt allen Vereinsmitgliedern f&uuml;r ihr Engagement und weist auf die zahlreichen, sehr erfolgreichen Aktivit&auml;ten im zur&uuml;ckliegenden Jahr hin. Jugendcamp, Dorf- und Kelterfest, Weihnachtsmarkt und die Hallen-spieltage seien wichtige Einnahmequellen f&uuml;r den Verein und machten ihn unabh&auml;ngig von Sponsoren.<br>
+  Ferner stehe die Errichtung der neuen Flutlichtmasten auf dem Sportgel&auml;nde bevor, das Material liege bereits im Illinger Bauhof. Es seien inzwischen alle H&uuml;rden f&uuml;r den Bau genommen, der ca. 3 Wochen in Anspruch nehmen soll. Das neue Flutlicht soll dann mit Freundschaftsspielen eingeweiht werden, f&uuml;r die AH wurden die Stuttgarter Kickers als Gegner gewonnen. F&uuml;r die Aktiven stehe der Gegner noch nicht fest.<br>
+  In Bezug auf die Besetzung von Schl&uuml;sselpositionen im Jugendbereich, v.a. diejenigen der Jugendleiter, deute sich ebenfalls Entspannung an; es seien Mitglieder gefunden worden, die sich gerne engagieren wollen.</p>
+<p>b) Hauptverein (Edgar Mantai)<br>
+  Edgar Mantai stellt die Personalsituation und die aktuellen Entwicklungen im Hauptverein dar und appelliert an alle anwesenden Mitglieder, sich zu enga-gieren.</p>
+<p>c) Spielleitung (Hubert Scheuermann)<br>
+  Stellvertretend f&uuml;r die Spielleitung fasst der Abteilungsleiter die sportliche Ent-wicklung der aktiven Mannschaften im vergangenen Kalenderjahr zusammen. Die Zweite Mannschaft stieg erfolgreich in die B-Liga 5 (Enz/Murr) auf, Ziel der laufenden Runde sei der Klassenerhalt, der durch die j&uuml;ngst beschlossene Abschaffung der C-Ligen bereits geschafft ist, aber auch auf sportlichem Wege realisiert werden soll. Die Erste Mannschaft musste 2014 den Abstieg in die A-Liga 3 (Enz/Murr) verkraften, steht aber in der laufenden Saison mit zwei Punkten Vorsprung an der Tabellenspitze und peilt den sofortigen Wiederaufstieg in die Bezirksliga an.</p>
+<p>d) Jugendleitung (Alexander K&ouml;ppl/Hubert Scheuermann) <br>
+  Es wird zun&auml;chst die Wichtigkeit der Besetzung des Jugendleiterpostens her-vorgehoben. Von den Bambinis bis zur C-Jugend spielen aktuell knapp 110 Kinder beim SV Illingen Fu&szlig;ball, alle Jugendmannschaften sind (teils sogar doppelt) besetzt. So k&ouml;nnen in der n&auml;chsten Saison sogar zwei C11-Mannschaften gemeldet werden. Ferner wurden zwei Hallenturniere in Illingen organisiert und von einigen Jugendtrainern auch Trainingscamps erfolgreich durchgef&uuml;hrt.<br>
+  Die B-Jugend sei aktuell das Aush&auml;ngeschild der Jugend und stehe vor dem Aufstieg in die Bezirksstaffel. Gleichzeitig helfen jedes Wochenende viele Ta-lente bereits in der A-Jugend aus, um dort den Verbleib in der Leistungsstaffel zu sichern. Die A-Jugend wiederum verzeichne ihrerseits viele Abstellungen zu den Aktiven, wof&uuml;r sich der Abteilungsleiter herzlich bedankt und darauf hin-weist, dass diese beiden Jugenden den Talentpool f&uuml;r die Zukunft der Illinger Aktiven darstellen. </p>
+<p>e) Sparte AH (Michael Klein)<br>
+  Es wird berichtet, dass in der AH derzeit 22 Spieler aktiv seien und im letzten Jahr zwei Turniere bestritten wurden. Aktuell wird gemeinsam mit der AH aus G&uuml;ndelbach trainiert, das Training unter freiem Himmel beginne wieder in der kommenden Woche. Die AH unterst&uuml;tze weiterhin gerne die Aktivit&auml;ten des Vereins wie z.B. Kelterfest und Weihnachtsmarkt.</p>
+<p>f) Kassenbericht (Hubert Scheuermann)<br>
+  Der Abteilungsleiter stellt fest, dass der Posten des Kassiers zur Zeit nicht besetzt ist und erkl&auml;rt, wie die Aufgaben vereinsintern verteilt wurden. Er referiert die Einnahmen und Ausgaben der Abteilung &ndash; die vorangegangene Kassenpr&uuml;-fung empfiehlt die Entlastung, welcher auch einstimmig stattgegeben wird.</p>
+<p>TOP 4: Aussprache<br>
+  Es bestehen keine R&uuml;ckfragen bzw. Diskussionsbedarf.</p>
+<p>TOP 5: Entlastungen<br>
+  Die Abteilungsleitung wird von den anwesenden Mitgliedern einstimmig ent-lastet.</p>
+<p>TOP 6: Antr&auml;ge<br>
+  Es waren keine zus&auml;tzlichen Antr&auml;ge eingegangen.</p>
+<p>TOP 7: Neuwahlen<br>
+  1. Abteilungsleiter: Hubert Scheuermann (einstimmige Wahl)<br>
+  3. Abteilungsleiter: Bernd Fischer (einstimmige Wahl)<br>
+  Kassier: vertagt<br>
+  1. Spielleiter: vertagt<br>
+  1. Jugendleiter: Edgar Mantai (einstimmige Wahl)<br>
+  2. Jugendleiter: Alexander K&ouml;ppl (einstimmige Wahl)<br>
+  3. Jugendleiter: Karl-Heinz W&ouml;hr (einstimmige Wahl)</p>
+<p>Die neu Gew&auml;hlten nehmen allesamt die Wahl an. Die Abteilungsleitung sowie die Mitglieder bedanken sich f&uuml;r das Engagement und w&uuml;nschen f&uuml;r die anstehenden Aufgaben ein gutes H&auml;ndchen und viel Erfolg!</p>
+<p>TOP 8: Verschiedenes<br>
+  a) Die Abteilungsleitung bittet um Mithilfe bei der Organisation und Durchf&uuml;h-rung des diesj&auml;hrigen Jugendcamps (27.-29. Mai) und zeigt verschiedene Wege auf, wie sich die Mitglieder einbringen k&ouml;nnen.<br>
+</p>
+<p>Benjamin F&auml;rber</p>
+<br /><br>
+
+  </div></td>
 
      <tr>
 

@@ -164,7 +164,7 @@
 <td id="contentFont" width="135" align="left" valign="top">
 				  Matthias Spengler</td>
           <td id="contentFont" width="140" align="left" valign="top">
-				  	0160/5407640 <br>
+				  	0160-5407640 <br>
 		  <a href="mailto:	matthiasspengler@hotmail.de"><img src="MailSymbol2.jpg" width="15" height="10" border="0"></a></td>
         </tr>   
 <tr id="contentFont">
@@ -183,7 +183,7 @@
 <td id="contentFont" width="135" align="left" valign="top">
 				  Michael Spengler</td>
           <td id="contentFont" width="140" align="left" valign="top">
-				  	0176/96465976  <br>
+				  	0176-96465976  <br>
 		  <a href="mailto:michaelspengler1981@yahoo.de"><img src="MailSymbol2.jpg" width="15" height="10" border="0"></a></td>
         </tr>  		
 
@@ -191,39 +191,50 @@
           <td height="50" colspan="3">
   		  <hr width="100%" size="1px" noshade style="color:#cccccc; background-color:#CCCCCC;">		  </td>
         </tr>
-		
-        <tr id="contentFont">
-          
-      <td id="contentFont" width="166" align="left" valign="top"> <u>1. Jugendleiter:</u>	
-      </td>
-	
-           <td id="contentFont" width="135" align="left" valign="top">
-				  unbesetzt<br><br>
-				  Ansprechpartner: <br><br>
-	  Hubert Scheuermann<br></td>
-          
-      <td id="contentFont" width="135" align="left" valign="top"> <br><br><br><br> 0172-7321751 <br>
-	   <a href="mailto:h.scheuermann@hausfinanzkontor.de"><img src="MailSymbol2.jpg" width="15" height="10" border="0"></a>
-	  </td>
-          
-
+		<tr id="contentFont">
+          <td id="contentFont" width="166" align="left" valign="top"><u>1. Jugendleiter:</u></td>
+		  
+      <td id="contentFont" width="135" align="left" valign="top">&nbsp; </td>
+		  
+      <td id="contentFont" width="140" align="left" valign="top">&nbsp; </td>       
         </tr>
 		<tr id="contentFont">
           
-</td>
+      <td id="contentFont" width="166" align="right" valign="top"><img src="bilder/abteilung/ede_klein.jpg" width="75" height="100"> 
+      </td>
+		  <td id="contentFont" width="135" align="left" valign="top">
+				Edgar Mantai<br>
+				Behringstr. 6<br>
+				75428 Illingen
+		  </td>
+		  <td id="contentFont" width="140" align="left" valign="top">0151-15252610<br>
+				<a href="mailto:edgar.mantai@t-online.de"><img src="MailSymbol2.jpg" alt="" width="15" height="10" border="0" /></a><a href="mailto:herbert.rau@sv-illingen.de"></a>
+		  </td>       
+        </tr>
+        
+		<tr id="contentFont">
+          
+
         </tr>
 
-<tr id="contentFont">
+	<tr id="contentFont">
       <td id="contentFont" width="166" align="left" valign="top">
   		  <u>2. Jugendleiter:</u><br />
     </td>
           <td id="contentFont" width="135" align="left" valign="top">
-				  unbesetzt</td>
-       <!--   <td id="contentFont" width="140" align="left" valign="top">
-				  
-				  0152-22114547<br>
-		  <a href="mailto:kat.7@gmx.de"><img src="MailSymbol2.jpg" width="15" height="10" border="0" alt=""></a>		  </td>
-        </tr> -->
+				  Alexander K&ouml;ppl</td>
+         <td id="contentFont" width="140" align="left" valign="top">0171-3672714<br>
+	  <a href="mailto:alex_steffi@arcor.de"><img src="MailSymbol2.jpg" width="15" height="10" border="0" alt=""></a>		  </td>
+        </tr> 
+        <tr id="contentFont">
+      <td id="contentFont" width="166" align="left" valign="top">
+  		  <u>3. Jugendleiter:</u><br />
+    </td>
+          <td id="contentFont" width="135" align="left" valign="top">
+		  Karl-Heinz W&ouml;hr</td>
+         <td id="contentFont" width="140" align="left" valign="top">0151-10503855<br>
+		  <a href="mailto:khwoehr@web.de"><img src="MailSymbol2.jpg" width="15" height="10" border="0" alt=""></a>		  </td>
+        </tr> 
      
         <tr>
           <td height="50" colspan="3" align="center" valign="middle"><hr width="100%" size="1px" noshade style="color:#cccccc; background-color:#CCCCCC;"></td>
