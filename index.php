@@ -2157,10 +2157,10 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
 		 
  <tr>
 	<td id="contentfont" style= "text-align:left; padding-left:50px;">
-    	FSV 08 Bissingen II vs. SV Illingen I&nbsp; 3:1 (0:1)<br/>
-		<span class="Stil20"><em>Torsch&uuml;tzen: 0:1 André Wagner</em></span><br>
+    	SV Illingen I vs. Spvgg Besigheim I&nbsp; 1:0 (0:0)<br/>
+		<span class="Stil20"><em>Torsch&uuml;tzen: 1:0 Tim Scheuermann</em></span><br>
 		<br>
-		<a href="http://www.fussball.de/spiel/kreisliga-a-3-bezirk-enz-murr-kl-kreisliga-a-herren-saison1415-wuerttemberg/-/spiel/01L9BRRME4000000VV0AG812VVHQG9J2" target="_blank"><em>mehr Infos zum Spiel</em>
+		<a href="http://www.fussball.de/spiel/kreisliga-a-3-bezirk-enz-murr-kl-kreisliga-a-herren-saison1415-wuerttemberg/-/spiel/01L9BRRM98000000VV0AG812VVHQG9J2#!/section/lineup" target="_blank"><em>mehr Infos zum Spiel</em>
     	</a> 
 	</td>
 </tr>
@@ -2171,10 +2171,10 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
       </tr>  	
 <tr>
 	<td id="contentfont" style= "text-align:left; padding-left:50px;">
-    	FV Markgröningen I vs. SV Illingen II&nbsp; 2:3 (2:1)<br/>
-		<span class="Stil20"><em>Torsch&uuml;tzen: 2:1 Matthias Hitzler, 2:2 Matthias Stocker, 2:3 Oliver Rapp</em></span><br>
+    	SV Illingen II vs. VfB Vaihingen/Enz I&nbsp; 1:3 (0:1)<br/>
+		<span class="Stil20"><em>Torsch&uuml;tzen: 1:3 Lukas Strauß</em></span><br>
 		<br>
-		<a href="http://www.fussball.de/spiel/kreisliga-b-5-bezirk-enz-murr-kl-kreisliga-b-herren-saison1415-wuerttemberg/-/spiel/01L9BHV3E4000000VV0AG812VVHQG9J2#!/section/stage" target="_blank"><em>mehr Infos zum Spiel</em>
+		<a href="http://www.fussball.de/spiel/kreisliga-b-5-bezirk-enz-murr-kl-kreisliga-b-herren-saison1415-wuerttemberg/-/spiel/01L9BHV39S000000VV0AG812VVHQG9J2#!/section/stage" target="_blank"><em>mehr Infos zum Spiel</em>
     	</a> 
 	</td>
 </tr>  	
@@ -2238,14 +2238,7 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
       </tr> 
 
  <tr>                <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>             </tr> 
-		  	 
-
-	    <tr>        <td id="contentfont" style= "text-align:left;"><p><b>So 12.04</b><b>. 13.15 Uhr</b>          
-	 &nbsp;<img src="bilder/MannschaftsLogos/svi_logo55px.jpg"alt=" " align="middle"> SV Illingen II&nbsp;vs. VfB Vaihingen/Enz I		
-	  <img src="bilder/MannschaftsLogos/vaihingen.jpg" alt=" " align="middle"> </p></td>      </tr>  
-	<tr>        <td id="contentfont" style= "text-align:left;"><p><b>So 12.04</b><b>. 15.00 Uhr</b>          
-	 &nbsp; <img src="bilder/MannschaftsLogos/svi_logo55px.jpg"alt=" " align="middle">   SV Illingen I &nbsp;vs. Spvgg Besigheim I		
-	  <img src="bilder/MannschaftsLogos/besigheim.jpg" alt=" " align="middle">  </p></td>      </tr> 
+		  	
 	  
 		 	   <tr>        <td id="contentfont" style= "text-align:left;"><p><b>So 19.04</b><b>. 15.00 Uhr</b>          
 	 &nbsp;<img src="bilder/MannschaftsLogos/rosswag.jpg"alt=" " align="middle"> FV Roßwag I&nbsp;vs. SV Illingen II		
@@ -2253,6 +2246,12 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
 	<tr>        <td id="contentfont" style= "text-align:left;"><p><b>So 19.04</b><b>. 15.00 Uhr</b>          
 	 &nbsp; <img src="bilder/MannschaftsLogos/nussdorf.jpg"alt=" " align="middle"> TSV Nussdorf I &nbsp;vs. SV Illingen I	
 	  <img src="bilder/MannschaftsLogos/svi_logo55px.jpg" alt=" " align="middle">  </p></td>      </tr>
+	    <tr>        <td id="contentfont" style= "text-align:left;"><p><b>So 26.04</b><b>. 13.15 Uhr</b>          
+	 &nbsp;<img src="bilder/MannschaftsLogos/svi_logo55px.jpg"alt=" " align="middle"> SV Illingen II&nbsp;vs. Spfr. Großsachsenheim I		
+	<!--  <img src="bilder/MannschaftsLogos/vaihingen.jpg" alt=" " align="middle">--> </p></td>      </tr>  
+	<tr>        <td id="contentfont" style= "text-align:left;"><p><b>So 26.04</b><b>. 15.00 Uhr</b>          
+	 &nbsp; <img src="bilder/MannschaftsLogos/svi_logo55px.jpg"alt=" " align="middle">   SV Illingen I &nbsp;vs. SV Iptingen I	
+	  <img src="bilder/MannschaftsLogos/iptingen.jpg" alt=" " align="middle">  </p></td>      </tr> 
 	   <!--    <tr>
         <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
       </tr>

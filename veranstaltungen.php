@@ -220,10 +220,10 @@
 	  </div></td>
     </tr> -->
 	    <tr id="contentFont" bgcolor="#FFFFFF"> 
-	  <td width="44" valign="top" id="contentfont" style= "text-align:right;"><div align="left">Fr</div></td>   		
-	  <td width="156" valign="top" id="contentfont" style= "text-align:right;"><div align="left"><strong>27.03.15</strong><br />
+	  <td width="44" valign="top" id="contentfont" style= "text-align:right;"><div align="left" class="Stil3" >Fr</div></td>   		
+	  <td width="156" valign="top" id="contentfont" style= "text-align:right;"><div align="left" class="Stil3" ><strong>27.03.15</strong><br />
 	  </div></td>
-	  <td width="400" valign="top" id="contentfont" style= "text-align:right;"><div align="left"><strong>Jahreshauptversammlung SV Illingen Abteilung Fuﬂball</strong><br />
+	  <td width="400" valign="top" id="contentfont" style= "text-align:right;"><div align="left" class="Stil3" ><strong>Jahreshauptversammlung SV Illingen Abteilung Fuﬂball</strong><br />
 	  </div></td>
     </tr>
 	

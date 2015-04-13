@@ -18,7 +18,7 @@
       <td width="424" id="contentFont"><font size="+1">Bisher keine Torschützen</font></td>
     </tr> -->
 		<tr id="contentFont">       
-	<td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">13      
+	<td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">14     
 	Tore</font></p></td>     
 	<td width="424" id="contentFont"><font size="+1">Tim Scheuermann</font></td>    </tr>
 		<tr id="contentFont"> 
@@ -95,7 +95,7 @@
       <td width="424" id="contentFont"><font size="+1">Bisher keine Torschützen</font></td>
     </tr> -->
 	<tr id="contentFont"> 
-      <td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">5 
+      <td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">6 
       Tore</font></p></td>
       <td width="424" id="contentFont"><font size="+1">Lukas Strauß</font></td>
     </tr>

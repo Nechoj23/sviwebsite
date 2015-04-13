@@ -207,7 +207,7 @@
 				Behringstr. 6<br>
 				75428 Illingen
 		  </td>
-		  <td id="contentFont" width="140" align="left" valign="top">0157-50109597<br>
+		  <td id="contentFont" width="140" align="left" valign="top">0157-50103531<br>
 				<a href="mailto:edgar.mantai@t-online.de"><img src="MailSymbol2.jpg" alt="" width="15" height="10" border="0" /></a><a href="mailto:herbert.rau@sv-illingen.de"></a>
 		  </td>       
         </tr>
