@@ -2172,7 +2172,7 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
 <tr>
 	<td id="contentfont" style= "text-align:left; padding-left:50px;">
     	SV Illingen II vs. VfB Vaihingen/Enz I&nbsp; 1:3 (0:1)<br/>
-		<span class="Stil20"><em>Torsch&uuml;tzen: 1:3 Lukas Strauﬂ</em></span><br>
+		<span class="Stil20"><em>Torsch&uuml;tzen: 1:3 Oliver Rapp</em></span><br>
 		<br>
 		<a href="http://www.fussball.de/spiel/kreisliga-b-5-bezirk-enz-murr-kl-kreisliga-b-herren-saison1415-wuerttemberg/-/spiel/01L9BHV39S000000VV0AG812VVHQG9J2#!/section/stage" target="_blank"><em>mehr Infos zum Spiel</em>
     	</a> 
