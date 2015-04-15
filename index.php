@@ -1639,7 +1639,19 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
 </div></td>
 
         </tr> -->
-	<tr>
+		<tr>
+
+        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong> Spitzenspiel der B-Junioren am Sonntag im Eichwaldpark!</strong><br>
+
+<p> Am kommenden Sonntag (19. April) empfangen die B-Junioren des SVI um 10.30 Uhr den TSV Eltingen II im Eichwaldpark zum Spitzenspiel in der Leistungsstaffel.
+Bei sechs noch ausstehenden Spielen liegt der in dieser Saison noch ungeschlagene SVI-Nachwuchs mit zwei Punkten Vorsprung vor Eltingen an der 
+Tabellenspitze und möchte diese selbstverständlich auch am Sonntag verteidigen.<br>
+Die Mannschaft des Trainertrios Tobias Häfner, Marcel Liebendörfer und Denis Rommel würde sich über große Unterstützung am Sonntagvormittag freuen! </p>
+<br /><br>
+
+  </div></td>
+</tr>
+<!--	<tr>
 
         <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong> Nachtrag: Protokoll der Jahreshauptversammlung der Abt. Fu&szlig;ball</strong><br>
 
@@ -1687,7 +1699,7 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
 <br /><br>
 
   </div></td>
-
+</tr> -->
      <tr>
 
         <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong> Jugend-Camp 2015</strong>
