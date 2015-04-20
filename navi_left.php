@@ -106,7 +106,7 @@
         <a href="index.php?id=15" onMouseOver="MM_showHideLayers('mannschaften','','show','abteilung','','hide','aktive1','','hide','saison1','','hide','jugend','','hide','','hide','events','','hide','verein','','hide','sponsoring','','hide')">SENIOREN</a> 
         <a href="index.php?id=16" onMouseOver="MM_showHideLayers('mannschaften','','show','abteilung','','hide','aktive1','','hide','saison1','','hide','jugend','','hide','','hide','events','','hide','verein','','hide','sponsoring','','hide')">SCHIEDSRICHTER</a> 
         <a href="index.php?id=14" onMouseOver="MM_showHideLayers('mannschaften','','show','abteilung','','hide','aktive1','','hide','saison1','','hide','jugend','','hide','','hide','events','','hide','verein','','hide','sponsoring','','hide')">TRAININGSZEITEN</a> 
-     <a href="reinigungsplan.pdf" onMouseOver="MM_showHideLayers('mannschaften','','show','abteilung','','hide','aktive1','','hide','saison1','','hide','jugend','','hide','','hide','events','','hide','verein','','hide','sponsoring','','hide')">REINIGUNGSPLAN</a>  
+    <!-- <a href="reinigungsplan.pdf" onMouseOver="MM_showHideLayers('mannschaften','','show','abteilung','','hide','aktive1','','hide','saison1','','hide','jugend','','hide','','hide','events','','hide','verein','','hide','sponsoring','','hide')">REINIGUNGSPLAN</a>  -->
 	  </div>
     </div>     
        <div id="aktive1"> 

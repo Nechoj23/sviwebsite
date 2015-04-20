@@ -22,7 +22,7 @@
 	Tore</font></p></td>     
 	<td width="424" id="contentFont"><font size="+1">Tim Scheuermann</font></td>    </tr>
 		<tr id="contentFont"> 
-      <td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">6 
+      <td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">7 
       Tore</font></p></td>
       <td width="424" id="contentFont"><font size="+1">Eros Schembri</font></td>
     </tr>
