@@ -18,7 +18,7 @@
       <td width="424" id="contentFont"><font size="+1">Bisher keine Torschützen</font></td>
     </tr> -->
 		<tr id="contentFont">       
-	<td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">14     
+	<td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">16     
 	Tore</font></p></td>     
 	<td width="424" id="contentFont"><font size="+1">Tim Scheuermann</font></td>    </tr>
 		<tr id="contentFont"> 
@@ -47,6 +47,10 @@
 	<td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">2      
 	Tore</font></p></td>     
 	<td width="424" id="contentFont"><font size="+1">Patrick Schüle</font></td>    </tr>
+		<tr id="contentFont">       
+	<td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">2       
+	Tore</font></p></td>     
+	<td width="424" id="contentFont"><font size="+1">Sebastian Schüle</font></td>    </tr>
 	<tr id="contentFont">       
 	<td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">1       
 	Tor</font></p></td>     
@@ -68,10 +72,7 @@
 	<td width="424" id="contentFont"><font size="+1">Marcel Liebendörfer</font></td>    </tr>
 
 
-	<tr id="contentFont">       
-	<td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">1       
-	Tor</font></p></td>     
-	<td width="424" id="contentFont"><font size="+1">Sebastian Schüle</font></td>    </tr>
+
 
 		<tr id="contentFont">       
 	<td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">1       
