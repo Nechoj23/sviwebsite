@@ -127,7 +127,7 @@
   
 		<tr id="contentFont">
           <td id="contentFont" colspan="3" style="text-align:center; "><p align="center"><strong><font size="+1">Die Teilnehmerzahl ist begrenzt !<br />
-Anmeldung bis sp&auml;testens 04.05.2015 an:</font></strong><br />
+Anmeldung bis sp&auml;testens 14.05.2015 an:</font></strong><br />
         <!--  <strong><font size="+1">Die Anzahl der Teilnehmer ist begrenzt !<br>
           Anmeldung bis spätestens 01.05.2012 oder bis alle Pl&auml;tze belegt sind an:</font></strong><br /> -->
           Kontakt / Anmeldung an: W. Conradt, K&auml;the-Kollwitz-Str. 3, 75428 Illingen<br />
