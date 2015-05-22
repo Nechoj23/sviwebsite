@@ -126,13 +126,18 @@
 		</tr>
   
 		<tr id="contentFont">
+          <td id="contentFont" colspan="3" style="text-align:center; "><p align="center"><strong><font size="+1">Keine Anmeldung mehr m&ouml;glich!!!</font></strong></p>
+		  </td>
+        </tr>
+<!--
+        <tr id="contentFont">
           <td id="contentFont" colspan="3" style="text-align:center; "><p align="center"><strong><font size="+1">Die Teilnehmerzahl ist begrenzt !<br />
 Anmeldung bis sp&auml;testens 14.05.2015 an:</font></strong><br />
-        <!--  <strong><font size="+1">Die Anzahl der Teilnehmer ist begrenzt !<br>
-          Anmeldung bis spätestens 01.05.2012 oder bis alle Pl&auml;tze belegt sind an:</font></strong><br /> -->
+        
           Kontakt / Anmeldung an: W. Conradt, K&auml;the-Kollwitz-Str. 3, 75428 Illingen<br />
           oder eMail: <a href="mailto:jugendcamp@svi-fussball.de">jugendcamp@svi-fussball.de</a></p>
 		  </td>
+
         </tr>
 		<tr id="contentFont">
           <td id="contentFont" colspan="3" style="text-align:center; "><p align="center">&nbsp; 
@@ -146,12 +151,7 @@ Anmeldung bis sp&auml;testens 14.05.2015 an:</font></strong><br />
           (pdf, 87Kb)</a></p>
 				</td>
         </tr>
-		<tr id="contentFont">
-          	<td id="contentFont" colspan="3" style="text-align:center; ">
-				<script src="http://connect.facebook.net/de_DE/all.js#xfbml=1"></script>
-                <fb:like href="www.svi-fussball.de/index.php?id=19" send="false" layout="button_count" width="80" show_faces="false" font="verdana"></fb:like>
-			</td>
-        </tr>
+-->
   </table>
       <p>&nbsp;</p>
     </td>

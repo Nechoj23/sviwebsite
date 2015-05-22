@@ -965,103 +965,6 @@ Wir werden  auf dieses Thema nochmals intensiv eingehen; vor allem wollen wir &u
         </tr> -->
 
 
-<!--
-
-    <tr>
-
-        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong> Torspendenaktion </strong>(Update: 04.02.13)<br>
-
-      <p><a href="Torspendenaktion.pdf"><img src="bilder/torspendenaktion.jpg" width="550"
-
-            alt="Torspendenaktion" align="top"></a><br>
-
-<p>Torspende-Aktion l&auml;uft weiter ...<br>
-
-Wir m&ouml;chten uns hiermit bei nachfolgend (chronologisch)  aufgef&uuml;hrten Personen und Firmen sehr herzlich bedanken:<br />
-
-    <br>
-
-    <strong>Stefanie K&ouml;ppl-Rau und Alex K&ouml;ppl<br>
-
-      DAK<br>
-
-      Marei Wiegele<br>
-
-      Udo Reich<br>
-
-      Gerold Fink<br>
-
-      Bj&ouml;rn und Ene Greinert <br>
-
-      Karl Klees GmbH<br>
-
-      Schwerdtle & Frey GmbH<br>
-
-      Davide Coledan<br>
-
-      4 My Selection <br>
-
-      Fruchtimport Hoffmann<br>
-
-      Ignazio di Grigoli<br>
-
-      Facchini u. C. Societa<br>
-
-      Reiseb&uuml;ro mit Herz, Touristic Center Elke Friedrich, Illingen<br>
-
-      Brigitte W&ouml;hr<br>
-
-      Brennerei Kohler, Bissingen<br>
-
-      Lydia Seyffer<br>
-
-      Herr G&ouml;nner<br>
-
-      Urban Klose<br>
-
-      Zipfe aus M&uuml;nchen</strong><br>
-
-      <strong>Frank M&uuml;ller, Steuerberater<br>
-
-      Gaby u. Markus Maier<br>
-
-      Chris Heslop<br>
-
-      Helmut u. Elvira Brett</strong><br>
-
-      <strong>SVI-Clubhauswirt Thimo Bakas<br>
-
-      Andy u. Petra<br>
-
-      M. Fieber, Straubenhardt</strong><br>
-
-      <strong>Frank Lindauer</strong><br>
-
-      <strong>Gustav Scheytt</strong><br>
-
-      <strong>Luigi Desiderio</strong><br>
-
-      <strong>Regina u. R&uuml;diger D&auml;schner</strong><br>
-
-      <strong>Bernd u. Elke Faber</strong><br>
-
-      <strong>Martin Kiesling</strong><br>
-
-      <strong>Claudia Schnitz</strong><br>
-
-      <strong>Olaf Bartholm&eacute;</strong><br>
-
-      <br>
-
-  Weitere Informationen zu unserer Torspendenaktion finden Sie <a href="index.php?id=79"><em>hier</em></a>.</p>
-
-<br />
-
-        </div></td>
-
-        </tr>
-
-    -->
 
     <!--
 
@@ -1159,56 +1062,7 @@ Arbeit und wünscht den Neugewählten viel Freude und Erfolg bei den anstehenden A
 
  -->
 
- <!-- <tr>
 
-        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"><strong> Informationen f&uuml;r alle Teilnehmer des Jugend-Camps 2013</strong><br>
-
-
-
-<p align="left">
-
-<strong>Nachtrag 1: Wir bitten Sie den Sportplatz über die Wilhelmstraße anzufahren und  dort zu parken </strong>(<a href="http://www.svi-fussball.de/index.php?id=25"><em>hier geht's zur Anfahrt</em></a>)<strong>. Vielen Dank!</strong><br>
-
-<br>
-
-<strong>Nachtrag 2: Aufgrund der etwas ung&uuml;nstigen Wetterprognose bitten wir Sie, Ihren Kindern gen&uuml;gend Wechselkleidung bzw. Regenjacken mitzugeben.<br>
-
-Wir w&uuml;nschen allen Teilnehmern drei sch&ouml;ne Tage im Illinger Eichwaldpark !</strong><br>
-
-<br>
-Ablauf:<br><br>
-
-Mi 22.05.<br>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9.00 - 9.30 Uhr Eintreffen der Teilnehmer und Gruppeneinteilung<br>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9.30 Uhr Trainingsbeginn (Ende 16.00 Uhr)<br><br>
-
-Do 23.05.<br>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9.30 - 16.00 Uhr Training<br>
-
-<br>
-
-Fr 24.05.<br>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9.30 Uhr Trainingsbeginn<br>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ab 15.00 Uhr Abschluss mit den Eltern<br><br>
-
-Am Donnerstag u. Freitag k&ouml;nnen die Kinder bereits ab 9.00 Uhr von uns betreut werden. Falls Ihr Kind schon vor 9.00 Uhr gebracht wird oder erst nach 16.00 Uhr abgeholt werden kann, bitten wir Sie um kurze Mitteilung bei der Anmeldung am Mittwoch.<br>
-
-</p>
-
-      <p align="center"><a href="http://www.svi-fussball.de/index.php?id=19"><img src="bilder/jugendcamp_logo_k.jpg"
-
-            alt="Vorschau Jugendcamp 2011" align="top" border="0px" ></a>            </p>
-
-<br />
-
-  </div></td>
-
-        </tr> -->
       <!--
 
     <tr>
@@ -1688,6 +1542,75 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
 
   </div></td>
 </tr> -->
+<!--
+<tr>
+
+        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong> Jugend-Camp 2015</strong>
+
+               
+
+            <p align="center"><a href="http://www.svi-fussball.de/index.php?id=19"><img src="bilder/jugendcamp_logo_k.jpg"
+
+            alt="Vorschau Jugendcamp 2011" align="top" border="0px"></a></p>
+
+            <p>Vom
+
+            27.05.2015 bis 29.05.2015 veranstaltet der F&ouml;rderverein SV Illingen-Fu&szlig;ball e.V. das Jugend-Camp 2015 auf dem 
+			Sportgel&auml;nde des SV Illingen. Teilnehmen k&ouml;nnen Jugendliche von 5 bis 15 Jahren.<br>
+            <strong>Anmeldungen sind ab sofort möglich!!!</strong><br><br>
+ Bitte beachten: Nur noch &nbsp;<span class="Stil3 Stil2 Stil4"><strong><font size="+2">4</font></strong></span> &nbsp;freie Plätze!!! (Stand 10.05.15)<br><br>
+            Weitere Informationen finden Sie <a href="http://www.svi-fussball.de/index.php?id=19"><em>hier</em></a>.</p>
+
+            <br />
+
+</div></td>
+
+        </tr> 
+        -->
+        
+     <tr>
+
+        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"><strong> Informationen f&uuml;r alle Teilnehmer des Jugend-Camps 2015</strong><br>
+
+
+
+                <p align="left">
+                Ablauf:<br><br>
+                
+                Mi 27.05.<br>
+                
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9.00 - 9.30 Uhr Eintreffen der Teilnehmer und Gruppeneinteilung<br>
+                
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9.30 Uhr Trainingsbeginn (Ende 16.00 Uhr)<br><br>
+                
+                Do 28.05.<br>
+                
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9.30 - 16.00 Uhr Training<br>
+                
+                <br>
+                
+                Fr 29.05.<br>
+                
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9.30 Uhr Trainingsbeginn<br>
+                
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ab 15.00 Uhr Abschluss mit den Eltern<br><br>
+                
+                Am Donnerstag u. Freitag k&ouml;nnen die Kinder bereits ab 9.00 Uhr von uns betreut werden. Falls Ihr Kind schon vor 9.00 Uhr gebracht wird oder erst nach 16.00 Uhr abgeholt werden kann, bitten wir Sie um kurze Mitteilung bei der Anmeldung am Mittwoch.<br>
+                <strong>Wir bitten Sie den Sportplatz über die Wilhelmstraße anzufahren und  dort zu parken </strong>(<a href="http://www.svi-fussball.de/index.php?id=25"><em>hier geht's zur Anfahrt</em></a>)<strong>. Vielen Dank!</strong><br>
+                
+                </p>
+                
+                      <p align="center"><a href="http://www.svi-fussball.de/index.php?id=19"><img src="bilder/jugendcamp_logo_k.jpg"
+                
+                            alt="Vorschau Jugendcamp 2015" align="top" border="0px" ></a>            </p>
+                
+                <br />
+                
+                  </div></td>
+
+        </tr>
+
+
  <tr>
 
         <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong> Firma TMD Schützingen 
@@ -1729,58 +1652,9 @@ Mehr Infos zur Firma TMD finden Sie unter <em><a href="http://www.tmd-service.de
 
         </tr>
 
-     <tr>
+     
 
-        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong> Jugend-Camp 2015</strong>
-
-               
-
-            <p align="center"><a href="http://www.svi-fussball.de/index.php?id=19"><img src="bilder/jugendcamp_logo_k.jpg"
-
-            alt="Vorschau Jugendcamp 2011" align="top" border="0px"></a></p>
-
-            <p>Vom
-
-            27.05.2015 bis 29.05.2015 veranstaltet der F&ouml;rderverein SV Illingen-Fu&szlig;ball e.V. das Jugend-Camp 2015 auf dem 
-			Sportgel&auml;nde des SV Illingen. Teilnehmen k&ouml;nnen Jugendliche von 5 bis 15 Jahren.<br>
-            <strong>Anmeldungen sind ab sofort möglich!!!</strong><br><br>
- Bitte beachten: Nur noch &nbsp;<span class="Stil3 Stil2 Stil4"><strong><font size="+2">4</font></strong></span> &nbsp;freie Plätze!!! (Stand 10.05.15)<br><br>
-            Weitere Informationen finden Sie <a href="http://www.svi-fussball.de/index.php?id=19"><em>hier</em></a>.</p>
-
-            <br />
-
-</div></td>
-
-        </tr> 
-
-      <!--
-
-     <tr>
-
-        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong> Jugend-Camp 2011</strong>
-
-                <p> <img src="bilder/jugendcamp_logo_mini.png"><img src="bilder/jugendcamp_logo_mini.png"><br>
-
-                  Nur noch <span class="Stil3 Stil2 Stil4"><strong>2</strong></span> Restpl&auml;tze sind  zu vergeben!!! (Stand 29.05.11)<br>
-
-            <strong>Wir empfehlen eine sofortige Anmeldung!</strong></p>
-
-            <p align="center"><a href="http://www.svi-fussball.de/index.php?id=19"><img src="bilder/jugendcamp_logo_k.jpg"
-
-            alt="Vorschau Jugendcamp 2011" align="top" border="0px"></a></p>
-
-            <p>Vom
-
-            15.06.2011 bis 17.06.2011 veranstaltet der F&ouml;rderverein SV Illingen-Fu&szlig;ball e.V. das Jugend-Camp 2011 auf dem Sportgel&auml;nde des SV Illingen. Teilnehmen k&ouml;nnen Jugendliche von 5 bis 15 Jahren.<br>
-
-            Weitere Informationen finden Sie <a href="http://www.svi-fussball.de/index.php?id=19"><em>hier</em></a>.</p>
-
-            <br />
-
-</div></td>
-
-        </tr> -->
-
+     
       <!-- <tr>
 
         <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong> Wir suchen Trainer/innen und Betreuer/innen</strong><br>
@@ -1892,34 +1766,6 @@ Mehr Infos zur Firma TMD finden Sie unter <em><a href="http://www.tmd-service.de
 
 
       <!--
-
-     <tr>
-
-        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong> Anmeldung zum Jugend-Camp 2011 ab sofort m&ouml;glich</strong>
-
-            <p><img src="bilder/jugendcamp2010_k.jpg" alt="Jugend-Camp 2010"><br><br>
-
-              In den Pfingstferien vom 15.06.11 bis 17.06.11 veranstaltet der F&ouml;rderverein wieder das Fu&szlig;ball-Jugend-Camp im Illinger Eichwaldpark. Teilnehmen k&ouml;nnen Jugendliche von 5 bis 15 Jahren. Die Anmeldung ist ab sofort bis sp&auml;testens 01.06.2011 m&ouml;glich. Allerdings ist die Teilnehmerzahl begrenzt. Weitere Informationen zum Jugend-Fu&szlig;ball-Camp 2011 finden Sie <a href="index.php?id=19"><em>hier</em></a>.<br>
-
-            </p>
-
-
-
-            <br />
-
-</div></td>
-
-        </tr>
-
-    -->
-
-
-
-
-
-
-
-
 
   <!--  <tr>
 
