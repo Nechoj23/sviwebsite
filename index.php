@@ -483,7 +483,7 @@ function MM_showHideLayers() { //v3.0
                 <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
 
              </tr> -->
-
+<!--
  <tr>
 
         <td bgcolor="#0066cc" id="contentTable2"><div class="ueber1"> NEUIGKEITEN </div></td>
@@ -495,7 +495,7 @@ function MM_showHideLayers() { //v3.0
         <td height="20">&nbsp;</td>
 
       </tr> 
-
+-->
       
 <!--
         <tr>
@@ -1567,7 +1567,7 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
 
         </tr> 
         -->
-        
+      <!--  
      <tr>
 
         <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"><strong> Informationen f&uuml;r alle Teilnehmer des Jugend-Camps 2015</strong><br>
@@ -1609,8 +1609,8 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
                   </div></td>
 
         </tr>
-
-
+-->
+<!--
  <tr>
 
         <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong> Firma TMD Schützingen 
@@ -1634,23 +1634,7 @@ Mehr Infos zur Firma TMD finden Sie unter <em><a href="http://www.tmd-service.de
 </div></td>
 
         </tr> 
- <tr>
-
-        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong> Die D-Jugend bedankt sich bei der Firma Zimmerei Johannes Jaufmann GmbH!</strong>
-
-		 <p><a href="bilder/d_neuetrikots_g.jpg"><img src="bilder/d_neuetrikots.jpg" width="550" height="308"
-
-            alt="Spende D" align="top"></a> </p>
-			
-            <p>Die D-Jugend bedankt sich recht herzlich bei ihrem Trikotsponsor <strong>Firma Zimmerei Johannes Jaufmann GmbH</strong> für die großzügige Spende!
-		
-            </p> 
-
-            <br />
-
-</div></td>
-
-        </tr>
+-->
 
      
 
@@ -2044,10 +2028,10 @@ Mehr Infos zur Firma TMD finden Sie unter <em><a href="http://www.tmd-service.de
 		 
  <tr>
 	<td id="contentfont" style= "text-align:left; padding-left:50px;">
-    	SKV Erligheim I vs. SV Illingen I&nbsp; 3:4 (2:2)<br/>
-		<span class="Stil20"><em>Torsch&uuml;tzen: 1:1 Oliver Rapp, 1:2 und 2:3 Tim Scheuermann, 2:4 Andreas Köppl</em></span><br>
+    	SV Illingen I vs. VfL Gemmrigheim I&nbsp; 3:0 (1:0)<br/>
+		<span class="Stil20"><em>Torsch&uuml;tzen: 1:0 Oliver Rapp, 2:0 Pasquale Arena, 3:0 Tim Scheuermann</em></span><br>
 		<br>
-		<a href="http://www.fussball.de/spiel/kreisliga-a-3-bezirk-enz-murr-kl-kreisliga-a-herren-saison1415-wuerttemberg/-/spiel/01L9BRRJ9O000000VV0AG812VVHQG9J2#!/section/stage" target="_blank"><em>mehr Infos zum Spiel</em>
+		<a href="http://www.fussball.de/spiel/kreisliga-a-3-bezirk-enz-murr-kl-kreisliga-a-herren-saison1415-wuerttemberg/-/spiel/01L9BRRIMS000000VV0AG812VVHQG9J2" target="_blank"><em>mehr Infos zum Spiel</em>
     	</a> 
 	</td>
 </tr>
@@ -2058,10 +2042,10 @@ Mehr Infos zur Firma TMD finden Sie unter <em><a href="http://www.tmd-service.de
       </tr>  	
 <tr>
 	<td id="contentfont" style= "text-align:left; padding-left:50px;">
-    	TSV Unterriexingen I vs. SV Illingen II&nbsp; 12:0 (7:0)<br/>
+    	SV Illingen II vs. SV Sternenfels I&nbsp; 0:2 (0:1)<br/>
 		<span class="Stil20"><em>Torsch&uuml;tzen: ---</em></span><br>
 		<br>
-	<a href="http://www.fussball.de/spiel/kreisliga-b-5-bezirk-enz-murr-kl-kreisliga-b-herren-saison1415-wuerttemberg/-/spiel/01L9BHV0SC000000VV0AG812VVHQG9J2#!/section/stage" target="_blank"><em>mehr Infos zum Spiel</em>
+	<a href="http://www.fussball.de/spiel/kreisliga-b-5-bezirk-enz-murr-kl-kreisliga-b-herren-saison1415-wuerttemberg/-/spiel/01L9BHV0AC000000VV0AG812VVHQG9J2#!/section/stage" target="_blank"><em>mehr Infos zum Spiel</em>
     	</a>   
 	</td>
 </tr> 
@@ -2128,18 +2112,13 @@ Mehr Infos zur Firma TMD finden Sie unter <em><a href="http://www.tmd-service.de
 		  	
 	  
 	
-	  	   <tr>        <td id="contentfont" style= "text-align:left;"><p><b>Mo 25.05</b><b>. 15.00 Uhr</b>          
-	 &nbsp;<img src="bilder/MannschaftsLogos/grossglattbach.jpg"alt=" " align="middle"> TSV Großglattbach I&nbsp;vs. SV Illingen II		
+	  	   <tr>        <td id="contentfont" style= "text-align:left;"><p><b>So 07.06</b><b>. 15.00 Uhr</b>          
+	 &nbsp;<img src="bilder/MannschaftsLogos/ensingen.jpg"alt=" " align="middle"> TSV Ensingen I&nbsp;vs. SV Illingen II		
 	  <img src="bilder/MannschaftsLogos/svi_logo55px.jpg" alt=" " align="middle"> </p></td>      </tr>  
-	<tr>        <td id="contentfont" style= "text-align:left;"><p><b>Mo 25.05</b><b>. 15.00 Uhr</b>          
-	 &nbsp; <!--<img src="bilder/MannschaftsLogos/nussdorf.jpg"alt=" " align="middle">--> TASV Hessigheim I &nbsp;vs. SV Illingen I	
+	<tr>        <td id="contentfont" style= "text-align:left;"><p><b>So 07.06</b><b>. 15.00 Uhr</b>          
+	 &nbsp; <img src="bilder/MannschaftsLogos/bissingen.jpg"alt=" " align="middle"> Spvgg Bissingen I &nbsp;vs. SV Illingen I	
 	  <img src="bilder/MannschaftsLogos/svi_logo55px.jpg" alt=" " align="middle">  </p></td>      </tr>
-	  	  	   <tr>        <td id="contentfont" style= "text-align:left;"><p><b>So 01.06</b><b>. 13.15 Uhr</b>          
-	 &nbsp;<img src="bilder/MannschaftsLogos/svi_logo55px.jpg"alt=" " align="middle"> SV Illingen II&nbsp;vs. SV Sternenfels I		
-	 <!-- <img src="bilder/MannschaftsLogos/sternenfels.jpg" alt=" " align="middle"> --></p></td>      </tr>  
-	<tr>        <td id="contentfont" style= "text-align:left;"><p><b>So 01.06</b><b>. 15.00 Uhr</b>          
-	 &nbsp; <img src="bilder/MannschaftsLogos/svi_logo55px.jpg"alt=" " align="middle"> SV Illingen I &nbsp;vs. VfL Gemmrigheim I	
-	  <img src="bilder/MannschaftsLogos/gemmrigheim.jpg" alt=" " align="middle">  </p></td>      </tr>
+	  	  
 	   <!--    <tr>
         <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
       </tr>
@@ -2601,9 +2580,7 @@ Mehr Infos zur Firma TMD finden Sie unter <em><a href="http://www.tmd-service.de
       </tr>
 
 
-				
-
-				 		 		  <tr>                <td>                                 <table id="inner_table" width="550" class="profil" >           
+				 		 		  <tr>                <td>        <table id="inner_table" width="550" class="profil" >           
 				 <tr>   <td width="83" id="contentfont6" style= "text-align:right;">										
 				 <div align="left"><strong>C-Jugend</strong></div></td>                     										
 				 <td width="26" id="contentfont6" style= "text-align:right;">										
@@ -2649,6 +2626,41 @@ Mehr Infos zur Firma TMD finden Sie unter <em><a href="http://www.tmd-service.de
 				 <td width="339" id="contentfont6" style= "text-align:right;">		
 				 <div align="left"> TSV Phönix Lomersheim - SV Illingen</div> </td>                </tr> </table>	 		
 				 
+				 	  <tr>                <td>        <table id="inner_table" width="550" class="profil" >           
+				 <tr>   <td width="83" id="contentfont6" style= "text-align:right;">										
+				 <div align="left"><strong>C-Jugend</strong></div></td>                     										
+				 <td width="26" id="contentfont6" style= "text-align:right;">										
+				 <div align="right"><strong>Sa</strong></div></td>                        										
+				 <td width="59" id="contentfont6" style= "text-align:right;">										
+				 <div align="left"><strong>20.06.15</strong></div></td>                  										
+				 <td width="69" id="contentfont6" style= "text-align:right;">										
+				 <div align="left"><strong>15.00Uhr</strong></div></td>                  										
+				 <td width="339" id="contentfont6" style= "text-align:right;">		
+				 <div align="left"> SV Illingen I - TSV Oberriexingen </div> </td>                </tr> </table>	 
+				 
+				  		  <tr>                <td>                                 <table id="inner_table" width="550" class="profil" >           
+				 <tr>   <td width="83" id="contentfont6" style= "text-align:right;">										
+				 <div align="left"><strong>A-Jugend</strong></div></td>                     										
+				 <td width="26" id="contentfont6" style= "text-align:right;">										
+				 <div align="right"><strong>Sa</strong></div></td>                        										
+				 <td width="59" id="contentfont6" style= "text-align:right;">										
+				 <div align="left"><strong>20.06.15</strong></div></td>                  										
+				 <td width="69" id="contentfont6" style= "text-align:right;">										
+				 <div align="left"><strong>16.30Uhr</strong></div></td>                  										
+				 <td width="339" id="contentfont6" style= "text-align:right;">		
+				 <div align="left"> Spvgg Warmbronn - SV Illingen</div> </td>                </tr> </table>	
+				 
+				   <tr>                <td>                                 <table id="inner_table" width="550" class="profil" >           
+				 <tr>   <td width="83" id="contentfont6" style= "text-align:right;">										
+				 <div align="left"><strong>B-Jugend</strong></div></td>                     										
+				 <td width="26" id="contentfont6" style= "text-align:right;">										
+				 <div align="right"><strong>So</strong></div></td>                        										
+				 <td width="59" id="contentfont6" style= "text-align:right;">										
+				 <div align="left"><strong>21.06.15</strong></div></td>                  										
+				 <td width="69" id="contentfont6" style= "text-align:right;">										
+				 <div align="left"><strong>10.30Uhr</strong></div></td>                  										
+				 <td width="339" id="contentfont6" style= "text-align:right;">		
+				 <div align="left"> SV Illingen - SV Friolzheim</div> </td>                </tr> </table>	
 				 
       <!--      <tr>
       <!--      <tr>

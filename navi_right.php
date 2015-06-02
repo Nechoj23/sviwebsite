@@ -30,10 +30,7 @@
 &nbsp;&nbsp;Jahreshauptversammlung<br />
 &nbsp;&nbsp;SV Illingen Hauptverein<br />
 &nbsp;&nbsp;&nbsp;--------------<br /> -->
-&nbsp;&nbsp;27.05.15 - 29.05.15<br />
-&nbsp;&nbsp;Jugend-Camp 2015 im<br />
-&nbsp;&nbsp;Illinger Eichwaldpark<br />
-&nbsp;&nbsp;&nbsp;--------------<br />
+
 &nbsp;&nbsp;27.06.15 - 28.06.15<br />
 &nbsp;&nbsp;Dorf- und Kelterfest<br />
 &nbsp;&nbsp;in Illingen<br />
@@ -41,8 +38,10 @@
 &nbsp;&nbsp;12.12.15 - 13.12.15<br />
 &nbsp;&nbsp;Weihnachtsmarkt in<br />
 &nbsp;&nbsp;Illingen<br />
-
-
+&nbsp;&nbsp;&nbsp;--------------<br />
+&nbsp;&nbsp;19.12.15<br />
+&nbsp;&nbsp;Weihnachtsfeier Aktive &<br />
+&nbsp;&nbsp;A-Jugend<br />
 
   </span><br />
     <br />  
