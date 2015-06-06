@@ -912,14 +912,7 @@ Die <strong>Abteilung Fussball bedankt sich</strong> recht herzlich bei allen He
   </div></td>
 
         </tr> -->
- <!--   <tr>
 
-        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong> Nachtrag Jugend-Camp 2013</strong>
-
-                <p>Unter der Rubrik &quot;Multimedia&quot; finden Sie weitere Bilder des diesj&auml;hrigen Jugend-Camps.</p>
-</div></td>
-
-        </tr> -->
  <!--   <tr>
 
         <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong> Torspendenaktion geht zu Ende ...</strong>
@@ -1222,81 +1215,6 @@ Arbeit und wünscht den Neugewählten viel Freude und Erfolg bei den anstehenden A
 
 -->
 
-      <!--        <tr>
-
-        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong> Jugend-Camp 2011</strong><br>
-
-     <p align="center"><img src="bilder/jugendcamp2011.jpg"
-
-            alt="Jugendcamp 2011" align="top" border="0px"></p>
-
-<p>Drei Tage lang befand sich der Illinger Eichwaldpark im Ausnahmezustand und stand dabei ganz
-
-im Zeichen der Jugendarbeit. Insgesamt 70 Kinder und Jugendliche zwischen 5 und 12
-
-Jahren nahmen am diesj&auml;hrigen Fu&szlig;ball-Jugend-Camp des SV Illingen Abt. Fu&szlig;ball und zugeh&ouml;rigem F&ouml;rderverein teil.<br>
-
-In den drei Tagen konnten die Jungen und das einzige M&auml;dchen ihre F&auml;higkeiten in Schusstechnik, Slalomdribbling, Zweikampfverhalten und Spielverst&auml;ndnis bei &uuml;berwiegend trockenem Wetter verbessern und das Erlernte im anschlie&szlig;enden DFB-Fu&szlig;ballabzeichen unter Beweis stellen. Am Freitag durften den Kindern bei der Abschlussveranstaltung in Begleitung der Eltern ihre  erk&auml;mpften Urkunden durch Abteilungsleiter Christian Gruica und Jugendleiter Nic Corrado &uuml;berreicht werden. <br>
-
-  Besonderer Dank gilt an dieser Stelle allen Trainern, die sich als &auml;u&szlig;erst engagierte und hochmotivierte Fu&szlig;balllehrer erwiesen haben und hier namentlich erw&auml;hnt werden sollen: <br>
-
-  Nic Corrado, Dominik Kn&ouml;dler, Tim Scheuermann, Tobias Rehfu&szlig;, Daniel M&uuml;nch, Dominik Schmolck, Christian Wanko, Marcel Liebend&ouml;rfer, Giuseppe Moncada, Michael Corrado, Christian Gruica, Fredy Geist, Thomas Fritsch, Dustin Seidel, Daniel Brenner und Ralf Theuerkauf.<br>
-
-  Vielen Dank auch den Organisatoren:<br>
-
-  Nic Corrado, Dominik Kn&ouml;dler und Werner Conradt <br>
-
-  sowie den zus&auml;tzlichen Helfern rund um die Veranstaltung: <br>
-
-  K&ouml;che Hubert Scheuermann und Dietmar Klose, Wolfgang Auer. Nicht zu vergessen nat&uuml;rlich Herbert Rau, der uns st&auml;ndig mit dem n&ouml;tigen Nachschub versorgt hat.<br>
-
-  Au&szlig;erdem m&ouml;chten wir uns herzlich bei den unterst&uuml;tzenden Unternehmen Sparkasse Pforzheim Calw, Fontanis Mineralbrunnen und Micha's Freizeitshop bedanken.<br>
-
-    <br>
-
-  Weitere Bilder des Jugend-Camps 2011 finden Sie <a href="http://www.facebook.com/SVIllingen" target="_blank"><em>hier</em></a>.<br>
-
-</p>
-
-<br />
-
-  </div></td>
-
-        </tr>
-
--->
-
-
-
-      <!--
-
-     <tr>
-
-        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong> Jugend-Camp 2011</strong>
-
-                <p> <img src="bilder/jugendcamp_logo_mini.png"><img src="bilder/jugendcamp_logo_mini.png"><br>
-
-                  Nur noch <span class="Stil3 Stil2 Stil4"><strong>2</strong></span> Restpl&auml;tze sind  zu vergeben!!! (
-
-				  29.05.11)<br>
-
-            <strong>Wir empfehlen eine sofortige Anmeldung!</strong></p>
-
-            <p align="center"><a href="http://www.svi-fussball.de/index.php?id=19"><img src="bilder/jugendcamp_logo_k.jpg"
-
-            alt="Vorschau Jugendcamp 2011" align="top" border="0px"></a></p>
-
-            <p>Vom
-
-            15.06.2011 bis 17.06.2011 veranstaltet der F&ouml;rderverein SV Illingen-Fu&szlig;ball e.V. das Jugend-Camp 2011 auf dem Sportgel&auml;nde des SV Illingen. Teilnehmen k&ouml;nnen Jugendliche von 5 bis 15 Jahren.<br>
-
-            Weitere Informationen finden Sie <a href="http://www.svi-fussball.de/index.php?id=19"><em>hier</em></a>.</p>
-
-            <br />
-
-</div></td>
-
-        </tr> -->
 
       <!-- <tr>
 
@@ -1397,43 +1315,30 @@ In den drei Tagen konnten die Jungen und das einzige M&auml;dchen ihre F&auml;hi
 -->
 
 
-<!--
+
  <tr>
 
-        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong> R&uuml;ckblick Jugend-Camp 2014 - eine hei&szlig;e Sache!!</strong>
+        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong> R&uuml;ckblick Jugend-Camp 2015</strong>
         <br><br>
-<a href="bilder/jugendcamp2014.jpg"><img src="bilder/jugendcamp2014_k.jpg" width="550" 
+<a href="bilder/jugendcamp2015.jpg"><img src="bilder/jugendcamp2015_k.jpg" width="550" 
 
-            alt="Jugend-Camp 2014" align="top"></a> <br>
+            alt="Jugend-Camp 2015" align="top"></a> <br>
 			
                
          
 
-            <p>Unser Jugend-Camp vom 11. bis 13.06.14 war im wahrsten Sinne des Wortes eine richtig hei&szlig;e  Angelegenheit. Bereits am ersten Tag herrschten hochsommerliche Temperaturen &ndash; die  von Micha&lsquo;s Freizeitshop gesponserten Trinkflaschen mussten st&auml;ndig nachgef&uuml;llt  werden. Der f&uuml;r die drei Tage vorgesehene Wasservorrat ging bereits am  Donnerstagabend zur Neige und musste dringend aufgef&uuml;llt werden. Trotz der  hohen Temperaturen entwickelten die Kinder und Jugendlichen aber den von uns  erwarteten und auch erhofften Hei&szlig;hunger. Die mitt&auml;gliche Essensausgabe &ndash; ein  Erlebnis f&uuml;r alle Beteiligten. So wurden an den drei Tagen u.a. 10 kg  Spaghetti,<br>
-9 kg  Rinderhackfleisch, 360 Maultaschen, knapp 100 Schweine- und Putenschnitzel und  30 kg Pommes zubereitet. Den Teilnehmern hat&lsquo;s geschmeckt.<br>
-Das von Dominik Kn&ouml;dler ausgearbeitete Trainingsprogramm  stellte f&uuml;r die Kinder und die Trainer eine echte Herausforderung dar; &bdquo;Mama,  mir ist langweilig&ldquo; war <em><u>nie</u></em> zu  h&ouml;ren. So konnten auch alle Teilnehmer am Ende des dritten Tages das  DFB-Sportabzeichen in Empfang nehmen.<br>
-Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:</p>
-            <ul>
-              <li>bei den Trainern f&uuml;r drei Tage Intensiv-Coaching</li>
-              <li>bei den Helfern in der K&uuml;che bzw. bei der  Essensausgabe</li>
-              <li>bei&nbsp; Andy  und Wolfe f&uuml;r die wunderbaren Pl&auml;tze</li>
-              <li>bei Clubhauswirt Thimo, der uns hat  &bdquo;wurschteln&ldquo; lassen</li>
-              <li>bei Hebbe, der f&uuml;r das Catering zust&auml;ndig war</li>
-              <li>und &uuml;berhaupt bei Allen, die zum Gelingen dieser  Veranstaltung beigetragen haben.            </li>
-            </ul>
-            <p>Ein herzliches Dankesch&ouml;n an die Sponsoren<br>
-              SPARKASSE PFORZHEIM-CALW<br>
-              FONTANIS MINERALBRUNNEN<br>
-              MICHA`S FREIZEITSHOP<br>
-              ENZTALBANK</p>
-            <p>Wir freuen uns schon auf das CAMP 2015!!!</p>
-            Viele weitere Bilder vom Jugend-Camp 2014 finden Sie <a href="index.php?id=53"><em>hier</em></a>.
+            <p>Vergangene Woche veranstaltete die Fußballabteilung ihr mittlerweile 8. Jugendcamp im Eichwaldpark. Nachdem am vorletzten Tag noch ein Kind zu uns stieß,  durften wir dieses Mal exakt 69 Kinder bzw. Jugendliche bei uns begrüßen. Obwohl alle Beteiligten spätestens am Freitagabend „in den Seilen“ hingen, hat es auch dieses Mal wieder einen Riesenspaß gemacht, diese Veranstaltung bei uns durchzuführen! Allein die Freude der Kinder in den drei Tagen war es einfach wert. Und ihr, liebe Kinder, Ihr wart einfach klasse!
+Wir bedanken uns hiermit bei der Sparkasse Pforzheim-Calw, bei den Firmen Fontanis und Bonbon-Jung sowie bei Michas Freizeitshop für die Unterstützung. Dank allen Helfern, ohne die so etwas gar nicht möglich wäre. Die Trainer haben ein absolut kurzweiliges Programm geboten, wobei erwähnt werden muss, dass da mancher Urlaubstag geopfert wurde. Auf unsere jugendlichen Assistenztrainer, die einen Super-Job gemacht haben,  können wir hoffentlich auch in der Zukunft bauen (!?). Die Küche unter Federführung von Hubert L. Scheuermann hat in bewährter Manier pünktlich zu den Essenszeiten geliefert, so dass die Kalorien anschließend wieder auf dem Sportplatz abgebaut werden konnten.
+Ein besonderes Dankeschön an die Platzwarte Andy und Wolfe für das herrliche Gelände und an Herrn Efthimios Bakas („Thimo“), der uns im Clubhaus „wurschteln“ ließ und uns als Krönung auch noch eine Geldspende hat zukommen lassen.
+Irgendwie war es wieder toll!
+</p>
+            
             <br /> <br />
 
 </div></td>
 
         </tr> 
--->
+
 <!--
  <tr>
 
@@ -1466,31 +1371,6 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
 
         </tr> 
 -->
-<!-- <tr>
-
-        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong> Jugend-Camp 2014</strong>
-
-                <p> 
-
-                  <strong>Update </strong>(Stand 31.05.14): Nur noch  <span class="Stil3 Stil2 Stil4"><strong><font size="+2">2</font></strong></span>&nbsp;freie Plätze !!!<br>
-                  <br>
-
-				  
-            <strong>Wir empfehlen eine sofortige Anmeldung!</strong></p> <br>
-
-            <p align="center"><a href="http://www.svi-fussball.de/index.php?id=19"><img src="bilder/jugendcamp_logo_k.jpg"
-
-            alt="Vorschau Jugendcamp 2014" align="top" border="0px"></a></p>
-
-            <p>Vom
-
-            11.06.2011 bis 13.06.2014 veranstaltet der F&ouml;rderverein SV Illingen-Fu&szlig;ball e.V. das Jugend-Camp 2014 auf dem Sportgel&auml;nde des SV Illingen. Teilnehmen k&ouml;nnen Jugendliche von 5 bis 15 Jahren.<br>
-
-            Weitere Informationen sowie das Anmeldeformular finden Sie <a href="http://www.svi-fussball.de/index.php?id=19"><em>hier</em></a>.</p>
-
-            <br />
-
-</div></td>
 
     
 <!--	<tr>
@@ -1551,7 +1431,7 @@ Wir m&ouml;chten uns an dieser Stelle bei allen Beteiligten herzlich  bedanken:<
 
             <p align="center"><a href="http://www.svi-fussball.de/index.php?id=19"><img src="bilder/jugendcamp_logo_k.jpg"
 
-            alt="Vorschau Jugendcamp 2011" align="top" border="0px"></a></p>
+            alt="Vorschau Jugendcamp 2015" align="top" border="0px"></a></p>
 
             <p>Vom
 
@@ -3952,7 +3832,7 @@ Mehr Infos zur Firma TMD finden Sie unter <em><a href="http://www.tmd-service.de
 
                                 case 19:
 
-                                        include("jugendcamp2015_1.php");
+                                        include("jugendcamp2015_2.php");
 
                                         break;
 
