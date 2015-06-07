@@ -1314,7 +1314,29 @@ Arbeit und wünscht den Neugewählten viel Freude und Erfolg bei den anstehenden A
 
 -->
 
+ <tr>
 
+        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong> Erste Mannschaft am Mittwoch in der Aufstiegsrelegation!</strong>
+        <br><br>
+
+			
+               
+         
+
+            <p>Die erste Mannschaft des SVI sicherte sich durch einen 2:1-Erfolg am letzten Spieltag bei der Spvgg Bissingen den zweiten Tabellenplatz in der
+			Kreisliga A3 und tritt nun in der Relegation um den Aufstieg in die Bezirksliga an.<br>
+			In der ersten Runde ist dabei am <strong>Mittwoch, den 10. Juni um 18.00 Uhr</strong> der <strong>TSV Benningen I </strong>(Zweiter Kreisliga A1) Gegner der 
+			Solombrino-Elf. Ausgetragen wird das Spiel <strong>in Ottmarsheim</strong>. <br>
+			Sollte der SVI dieses Spiel gewinnen steht am kommenden Sonntag (14. Juni) die zweite Runde an, ehe eine Woche später ebenfalls 
+			sonntags (21. Juni) - Siege in den ersten beiden Runde vorausgesetzt - die dritte und entscheidene Relegationsrunde ausgetragen wird.<br>
+			In diesen hoffentlich drei entscheidenen Spielen würde sich das gesamte Team über viele Zuschauer und eine große Unterstützung freuen!
+</p>
+            
+            <br /> <br />
+
+</div></td>
+
+        </tr> 
 
  <tr>
 
@@ -1327,7 +1349,7 @@ Arbeit und wünscht den Neugewählten viel Freude und Erfolg bei den anstehenden A
                
          
 
-            <p>Vergangene Woche veranstaltete die Fußballabteilung ihr mittlerweile 8. Jugendcamp im Eichwaldpark. Nachdem am vorletzten Tag noch ein Kind zu uns stieß,  durften wir dieses Mal exakt 69 Kinder bzw. Jugendliche bei uns begrüßen. Obwohl alle Beteiligten spätestens am Freitagabend „in den Seilen“ hingen, hat es auch dieses Mal wieder einen Riesenspaß gemacht, diese Veranstaltung bei uns durchzuführen! Allein die Freude der Kinder in den drei Tagen war es einfach wert. Und ihr, liebe Kinder, Ihr wart einfach klasse!
+            <p>Vom 27. bis 29. Mai 2015 veranstaltete die Fußballabteilung ihr mittlerweile 8. Jugendcamp im Eichwaldpark. Nachdem am vorletzten Tag noch ein Kind zu uns stieß,  durften wir dieses Mal exakt 69 Kinder bzw. Jugendliche bei uns begrüßen. Obwohl alle Beteiligten spätestens am Freitagabend „in den Seilen“ hingen, hat es auch dieses Mal wieder einen Riesenspaß gemacht, diese Veranstaltung bei uns durchzuführen! Allein die Freude der Kinder in den drei Tagen war es einfach wert. Und ihr, liebe Kinder, Ihr wart einfach klasse!
 Wir bedanken uns hiermit bei der Sparkasse Pforzheim-Calw, bei den Firmen Fontanis und Bonbon-Jung sowie bei Michas Freizeitshop für die Unterstützung. Dank allen Helfern, ohne die so etwas gar nicht möglich wäre. Die Trainer haben ein absolut kurzweiliges Programm geboten, wobei erwähnt werden muss, dass da mancher Urlaubstag geopfert wurde. Auf unsere jugendlichen Assistenztrainer, die einen Super-Job gemacht haben,  können wir hoffentlich auch in der Zukunft bauen (!?). Die Küche unter Federführung von Hubert L. Scheuermann hat in bewährter Manier pünktlich zu den Essenszeiten geliefert, so dass die Kalorien anschließend wieder auf dem Sportplatz abgebaut werden konnten.
 Ein besonderes Dankeschön an die Platzwarte Andy und Wolfe für das herrliche Gelände und an Herrn Efthimios Bakas („Thimo“), der uns im Clubhaus „wurschteln“ ließ und uns als Krönung auch noch eine Geldspende hat zukommen lassen.
 Irgendwie war es wieder toll!
@@ -1908,10 +1930,10 @@ Mehr Infos zur Firma TMD finden Sie unter <em><a href="http://www.tmd-service.de
 		 
  <tr>
 	<td id="contentfont" style= "text-align:left; padding-left:50px;">
-    	SV Illingen I vs. VfL Gemmrigheim I&nbsp; 3:0 (1:0)<br/>
-		<span class="Stil20"><em>Torsch&uuml;tzen: 1:0 Oliver Rapp, 2:0 Pasquale Arena, 3:0 Tim Scheuermann</em></span><br>
+    	Spvgg Bissingen I vs. SV Illingen I&nbsp; 1:2 (0:1)<br/>
+		<span class="Stil20"><em>Torsch&uuml;tzen: 0:1 Tobias Häfner, 1:2 Oliver Rapp</em></span><br>
 		<br>
-		<a href="http://www.fussball.de/spiel/kreisliga-a-3-bezirk-enz-murr-kl-kreisliga-a-herren-saison1415-wuerttemberg/-/spiel/01L9BRRIMS000000VV0AG812VVHQG9J2" target="_blank"><em>mehr Infos zum Spiel</em>
+		<a href="http://www.fussball.de/spiel/kreisliga-a-3-bezirk-enz-murr-kl-kreisliga-a-herren-saison1415-wuerttemberg/-/spiel/01L9BRRHUO000000VV0AG812VVHQG9J2#!/section/stage" target="_blank"><em>mehr Infos zum Spiel</em>
     	</a> 
 	</td>
 </tr>
@@ -1922,10 +1944,10 @@ Mehr Infos zur Firma TMD finden Sie unter <em><a href="http://www.tmd-service.de
       </tr>  	
 <tr>
 	<td id="contentfont" style= "text-align:left; padding-left:50px;">
-    	SV Illingen II vs. SV Sternenfels I&nbsp; 0:2 (0:1)<br/>
-		<span class="Stil20"><em>Torsch&uuml;tzen: ---</em></span><br>
+    	TSV Ensingen I vs. SV Illingen II&nbsp; 1:1 (0:1)<br/>
+		<span class="Stil20"><em>Torsch&uuml;tzen: Michali Gatsas</em></span><br>
 		<br>
-	<a href="http://www.fussball.de/spiel/kreisliga-b-5-bezirk-enz-murr-kl-kreisliga-b-herren-saison1415-wuerttemberg/-/spiel/01L9BHV0AC000000VV0AG812VVHQG9J2#!/section/stage" target="_blank"><em>mehr Infos zum Spiel</em>
+	<a href="http://www.fussball.de/spiel/kreisliga-b-5-bezirk-enz-murr-kl-kreisliga-b-herren-saison1415-wuerttemberg/-/spiel/01L9BHUVN8000000VV0AG812VVHQG9J2#!/section/stage" target="_blank"><em>mehr Infos zum Spiel</em>
     	</a>   
 	</td>
 </tr> 
@@ -1981,14 +2003,15 @@ Mehr Infos zur Firma TMD finden Sie unter <em><a href="http://www.tmd-service.de
 
 
 
-
+<!-- 
  <tr>
 
         <td id="ueber2"> * Meisterschaftsvorschau: </td>
 
       </tr> 
 
- <tr>                <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>             </tr> 
+
+	  <tr>                <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>             </tr> 
 		  	
 	  
 	
@@ -1997,7 +2020,7 @@ Mehr Infos zur Firma TMD finden Sie unter <em><a href="http://www.tmd-service.de
 	  <img src="bilder/MannschaftsLogos/svi_logo55px.jpg" alt=" " align="middle"> </p></td>      </tr>  
 	<tr>        <td id="contentfont" style= "text-align:left;"><p><b>So 07.06</b><b>. 15.00 Uhr</b>          
 	 &nbsp; <img src="bilder/MannschaftsLogos/bissingen.jpg"alt=" " align="middle"> Spvgg Bissingen I &nbsp;vs. SV Illingen I	
-	  <img src="bilder/MannschaftsLogos/svi_logo55px.jpg" alt=" " align="middle">  </p></td>      </tr>
+	  <img src="bilder/MannschaftsLogos/svi_logo55px.jpg" alt=" " align="middle">  </p></td>      </tr> -->
 	  	  
 	   <!--    <tr>
         <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
@@ -2009,6 +2032,28 @@ Mehr Infos zur Firma TMD finden Sie unter <em><a href="http://www.tmd-service.de
                                 <hr width="100%" size="1px" noshade style="color:#cccccc; background-color:#CCCCCC;">                        </td>
 
                 </tr> -->
+				 <tr>
+
+          <td id="ueber2">
+
+            * Vorschau Relegation (Kreisliga A / Bezirksliga):           </td>
+
+        </tr>
+
+   
+        		 <tr>
+                <td>
+                                <table id="inner_table" width="550" class="profil" >
+
+                                        <tr>
+                                <td width="26" id="contentfont6" style= "text-align:right;"><div align="right"><strong>Mi</strong></div></td>
+                                <td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>10.06.15</strong></div></td>
+                                <td width="69" id="contentfont6" style= "text-align:right;"><div align="left"><strong>18.00 Uhr</strong></div></td>
+                                <td width="339" id="contentfont6" style= "text-align:right;"><div align="left">SV Illingen I - TSV Benningen I &nbsp;&nbsp; (in Ottmarsheim)</div></td>
+                                        </tr>
+                                        </table>                </td>
+										
+        </tr> 
  <!-- <tr>
 
           <td id="ueber2">

@@ -41,14 +41,20 @@
       Tore</font></p></td>
       <td width="424" id="contentFont"><font size="+1">Fabio Tricarico</font></td>
     </tr>
+	<tr id="contentFont">       
+	<td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">3       
+	Tore</font></p></td>     
+	<td width="424" id="contentFont"><font size="+1">Oliver Rapp</font></td>    </tr>
+	<tr id="contentFont"> 
+      <td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">2 
+      Tore</font></p></td>
+      <td width="424" id="contentFont"><font size="+1">Tobias Häfner</font></td>
+    </tr>
 		<tr id="contentFont">       
 	<td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">2       
 	Tore</font></p></td>     
 	<td width="424" id="contentFont"><font size="+1">Andreas Köppl</font></td>    </tr>
-	<tr id="contentFont">       
-	<td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">2       
-	Tore</font></p></td>     
-	<td width="424" id="contentFont"><font size="+1">Oliver Rapp</font></td>    </tr>
+	
 			<tr id="contentFont">       
 	<td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">2      
 	Tore</font></p></td>     
@@ -61,11 +67,7 @@
 	<td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">1       
 	Tor</font></p></td>     
 	<td width="424" id="contentFont"><font size="+1">Daniel Brenner</font></td>    </tr>
-		<tr id="contentFont"> 
-      <td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">1 
-      Tor</font></p></td>
-      <td width="424" id="contentFont"><font size="+1">Tobias Häfner</font></td>
-    </tr>
+		
 	<tr id="contentFont">       
 	<td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">1       
 	Tor</font></p></td>   
@@ -132,7 +134,11 @@
       Tore</font></p></td>
       <td width="424" id="contentFont"><font size="+1">Andreas Köppl</font></td>
     </tr> 
-	
+		<tr id="contentFont"> 
+      <td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">2 
+      Tore</font></p></td>
+      <td width="424" id="contentFont"><font size="+1">Michali Gatsas</font></td>
+    </tr> 
 		
 		
 		<tr id="contentFont"> 
@@ -157,11 +163,7 @@
       Tor</font></p></td>
       <td width="424" id="contentFont"><font size="+1">Amir Ben Kahla</font></td>
     </tr> 
-		<tr id="contentFont"> 
-      <td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">1 
-      Tor</font></p></td>
-      <td width="424" id="contentFont"><font size="+1">Michali Gatsas</font></td>
-    </tr> 
+	
 		<tr id="contentFont"> 
       <td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">1 
       Tor</font></p></td>
