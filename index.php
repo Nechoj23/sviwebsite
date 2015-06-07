@@ -1325,11 +1325,11 @@ Arbeit und wünscht den Neugewählten viel Freude und Erfolg bei den anstehenden A
 
             <p>Die erste Mannschaft des SVI sicherte sich durch einen 2:1-Erfolg am letzten Spieltag bei der Spvgg Bissingen den zweiten Tabellenplatz in der
 			Kreisliga A3 und tritt nun in der Relegation um den Aufstieg in die Bezirksliga an.<br>
-			In der ersten Runde ist dabei am <strong>Mittwoch, den 10. Juni um 18.00 Uhr</strong> der <strong>TSV Benningen I </strong>(Zweiter Kreisliga A1) Gegner der 
+			In der ersten Runde ist dabei am <strong>Mittwoch, den 10. Juni um 18.30 Uhr</strong> der <strong>TSV Benningen I </strong>(Zweiter Kreisliga A1) Gegner der 
 			Solombrino-Elf. Ausgetragen wird das Spiel <strong>in Ottmarsheim</strong>. <br>
 			Sollte der SVI dieses Spiel gewinnen steht am kommenden Sonntag (14. Juni) die zweite Runde an, ehe eine Woche später ebenfalls 
 			sonntags (21. Juni) - Siege in den ersten beiden Runde vorausgesetzt - die dritte und entscheidene Relegationsrunde ausgetragen wird.<br>
-			In diesen hoffentlich drei entscheidenen Spielen würde sich das gesamte Team über viele Zuschauer und eine große Unterstützung freuen!
+			In diesen hoffentlich drei entscheidenen Spielen würde sich das gesamte Team über viele Zuschauer und eine große Unterstützung vom Spielfeldrand freuen!
 </p>
             
             <br /> <br />
@@ -2048,7 +2048,7 @@ Mehr Infos zur Firma TMD finden Sie unter <em><a href="http://www.tmd-service.de
                                         <tr>
                                 <td width="26" id="contentfont6" style= "text-align:right;"><div align="right"><strong>Mi</strong></div></td>
                                 <td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>10.06.15</strong></div></td>
-                                <td width="69" id="contentfont6" style= "text-align:right;"><div align="left"><strong>18.00 Uhr</strong></div></td>
+                                <td width="69" id="contentfont6" style= "text-align:right;"><div align="left"><strong>18.30 Uhr</strong></div></td>
                                 <td width="339" id="contentfont6" style= "text-align:right;"><div align="left">SV Illingen I - TSV Benningen I &nbsp;&nbsp; (in Ottmarsheim)</div></td>
                                         </tr>
                                         </table>                </td>
