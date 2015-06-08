@@ -1325,7 +1325,7 @@ Arbeit und wünscht den Neugewählten viel Freude und Erfolg bei den anstehenden A
 
             <p>Die erste Mannschaft des SVI sicherte sich durch einen 2:1-Erfolg am letzten Spieltag bei der Spvgg Bissingen den zweiten Tabellenplatz in der
 			Kreisliga A3 und tritt nun in der Relegation um den Aufstieg in die Bezirksliga an.<br>
-			In der ersten Runde ist dabei am <strong>Mittwoch, den 10. Juni um 18.30 Uhr</strong> der <strong>TSV Benningen I </strong>(Zweiter Kreisliga A1) Gegner der 
+			In der ersten Runde ist dabei am <strong>Mittwoch, den 10. Juni um 18.00 Uhr</strong> der <strong>TSV Benningen I </strong>(Zweiter Kreisliga A1) Gegner der 
 			Solombrino-Elf. Ausgetragen wird das Spiel <strong>in Ottmarsheim</strong>. <br>
 			Sollte der SVI dieses Spiel gewinnen steht am kommenden Sonntag (14. Juni) die zweite Runde an, ehe eine Woche später ebenfalls 
 			sonntags (21. Juni) - Siege in den ersten beiden Runde vorausgesetzt - die dritte und entscheidene Relegationsrunde ausgetragen wird.<br>
