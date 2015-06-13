@@ -1314,29 +1314,6 @@ Arbeit und wünscht den Neugewählten viel Freude und Erfolg bei den anstehenden A
 
 -->
 
- <tr>
-
-        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong> Erste Mannschaft am Mittwoch in der Aufstiegsrelegation!</strong>
-        <br><br>
-
-			
-               
-         
-
-            <p>Die erste Mannschaft des SVI sicherte sich durch einen 2:1-Erfolg am letzten Spieltag bei der Spvgg Bissingen den zweiten Tabellenplatz in der
-			Kreisliga A3 und tritt nun in der Relegation um den Aufstieg in die Bezirksliga an.<br>
-			In der ersten Runde ist dabei am <strong>Mittwoch, den 10. Juni um 18.00 Uhr</strong> der <strong>TSV Benningen I </strong>(Zweiter Kreisliga A1) Gegner der 
-			Solombrino-Elf. Ausgetragen wird das Spiel <strong>in Ottmarsheim</strong>. <br>
-			Sollte der SVI dieses Spiel gewinnen steht am kommenden Sonntag (14. Juni) die zweite Runde an, ehe eine Woche später ebenfalls 
-			sonntags (21. Juni) - Siege in den ersten beiden Runde vorausgesetzt - die dritte und entscheidene Relegationsrunde ausgetragen wird.<br>
-			In diesen hoffentlich drei entscheidenen Spielen würde sich das gesamte Team über viele Zuschauer und eine große Unterstützung vom Spielfeldrand freuen!
-</p>
-            
-            <br /> <br />
-
-</div></td>
-
-        </tr> 
 
  <tr>
 
@@ -1916,10 +1893,10 @@ Mehr Infos zur Firma TMD finden Sie unter <em><a href="http://www.tmd-service.de
 	  <tr>
         <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
       </tr>
-
+<!--
  <tr>
         <td id="ueber2"><div><strong>* Meisterschaft:</strong></div></td>
-      </tr> 
+      </tr>  -->
 	<!--   	 <tr>                <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>             </tr> 
 	   <tr>                <td id="contentfont" style= "text-align:right;"><div align="left">Die beiden aktiven Mannschaften befinden sich in der Winterpause!</div></td>             </tr> -->
          <!--  <tr>
@@ -1927,8 +1904,9 @@ Mehr Infos zur Firma TMD finden Sie unter <em><a href="http://www.tmd-service.de
                 <td id="contentfont" style= "text-align:right;"><div align="left">Die Illinger Aktiven befinden sich derzeit in der Vorbereitung auf die Saison 2013/2014 </div></td>
 
              </tr> -->
-		 
+		<!-- 
  <tr>
+ 
 	<td id="contentfont" style= "text-align:left; padding-left:50px;">
     	Spvgg Bissingen I vs. SV Illingen I&nbsp; 1:2 (0:1)<br/>
 		<span class="Stil20"><em>Torsch&uuml;tzen: 0:1 Tobias Häfner, 1:2 Oliver Rapp</em></span><br>
@@ -1958,7 +1936,7 @@ Mehr Infos zur Firma TMD finden Sie unter <em><a href="http://www.tmd-service.de
 	  	
       <tr>
         <td height="50px" colspan="7"><hr width="100%" size="1px" noshade style="color:#cccccc; background-color:#CCCCCC;"></td>
-      </tr>  
+      </tr>  -->
 
   <!--  <tr>
         <td id="ueber2"><div><strong>* Bezirkspokal (2. Runde):</strong></font></div></td>
@@ -1972,7 +1950,7 @@ Mehr Infos zur Firma TMD finden Sie unter <em><a href="http://www.tmd-service.de
                         <td height="50px" colspan="7"><hr width="100%" size="1px" noshade style="color:#cccccc; background-color:#CCCCCC;"></td>
                 </tr>     -->
 
- <!-- <tr>
+ <tr>
 
         <td id="ueber2"><div><strong>*
 
@@ -1982,23 +1960,23 @@ Mehr Infos zur Firma TMD finden Sie unter <em><a href="http://www.tmd-service.de
 
       <tr>
 
-          <td id="contentfont" style= "text-align:left; padding-left:50px;"><strong> **Ergebnis (3. Runde):</strong></td>
+          <td id="contentfont" style= "text-align:left; padding-left:50px;"><strong> **Ergebnis (1. Runde):</strong></td>
 
         </tr>
 
       <tr>
 
-        <td id="contentfont" style= "text-align:left; padding-left:50px;">SV Illingen  I&nbsp;vs. TSV Schwieberdingen I&nbsp; 2:0 (1:0)<br/>
+        <td id="contentfont" style= "text-align:left; padding-left:50px;">SV Illingen  I&nbsp;vs. TSV Benningen I&nbsp; 2:3 (2:1)<br/>
 
-            <span class="Stil20"><em>Torsch&uuml;tzen: 1:0 Fabio Tricarico, 2:0 Denis Herman</em></span><br>
+            <span class="Stil20"><em>Torsch&uuml;tzen: 1:1 Pasquale Arena, 2.1 Tim Scheuermann</em></span><br>
 
             <br>
 
-                        <a href="index.php?id=449"><em>mehr Infos zum Spiel</em></a> </td>
+                        <a href="http://www.fussball.de/spiel/entscheidungsspiele-1-runde-a1--a3-bezirk-enz-murr-bezirksliga-herren-saison1415-wuerttemberg/-/spiel/01OM8RMGUO000000VV0AG812VSLI4SLM#!/section/stage"><em>mehr Infos zum Spiel</em></a> </td>
 
       </tr>
 
-     -->
+    
 
 
 
@@ -2032,7 +2010,7 @@ Mehr Infos zur Firma TMD finden Sie unter <em><a href="http://www.tmd-service.de
                                 <hr width="100%" size="1px" noshade style="color:#cccccc; background-color:#CCCCCC;">                        </td>
 
                 </tr> -->
-				 <tr>
+		<!--		 <tr>
 
           <td id="ueber2">
 
@@ -2053,7 +2031,7 @@ Mehr Infos zur Firma TMD finden Sie unter <em><a href="http://www.tmd-service.de
                                         </tr>
                                         </table>                </td>
 										
-        </tr> 
+        </tr>  -->
  <!-- <tr>
 
           <td id="ueber2">
