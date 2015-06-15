@@ -2124,15 +2124,15 @@ Mehr Infos zur Firma TMD finden Sie unter <em><a href="http://www.tmd-service.de
       </tr>
 	       <tr>
 
-        <td id="contentfont" style= "text-align:left; padding-left:50px;">Spvgg Renningen - SV Illingen&nbsp; 4:3 (2:2)<br/>
-   <span class="Stil20"><em>Torsch&uuml;tzen: Nils Greinert, Dennis Mantai, Frieder Lachenmayer</em></span></td>
+        <td id="contentfont" style= "text-align:left; padding-left:50px;">SV Illingen - Spvgg Weil der Stadt&nbsp; 1:10 (0:5)<br/>
+   <span class="Stil20"><em>Torsch&uuml;tzen: Daniel Leicht</em></span></td>
    </tr> 
 
  
    <tr>
         <td id="contentfont"><div align="left">&nbsp;</div></td>
       </tr> 
- <tr>
+<!-- <tr>
         <td id="ueber3"><div>&nbsp;&nbsp;&nbsp;&nbsp;<strong>** B-Jugend:</strong></div></td>
       </tr>
         
@@ -2145,7 +2145,7 @@ Mehr Infos zur Firma TMD finden Sie unter <em><a href="http://www.tmd-service.de
 
         <td id="contentfont"><div align="left">&nbsp;</div></td>
 
-      </tr>
+      </tr> -->
 
  <tr>
 
@@ -2155,13 +2155,20 @@ Mehr Infos zur Firma TMD finden Sie unter <em><a href="http://www.tmd-service.de
 
 	  <tr>
 
-        <td id="contentfont" style= "text-align:left; padding-left:50px;">Spvgg Renningen II - SV Illingen II&nbsp; <em>abgesagt</em><br/>
+        <td id="contentfont" style= "text-align:left; padding-left:50px;">SV Illingen I - TSV Phönix Lomersheim I&nbsp; 2:1 (0:0)<br/>
 
-            <span class="Stil20"><em>Torsch&uuml;tzen: ---</em></span></td>
+            <span class="Stil20"><em>Torsch&uuml;tzen: </em></span></td>
 
       </tr>  
+	   <tr>
+
+        <td id="contentfont" style= "text-align:left; padding-left:50px;">SG Sachsenheim - SV Illingen I&nbsp; 0:3 (0:2)<br/>
+
+            <span class="Stil20"><em>Torsch&uuml;tzen: 2x Tobias Däschner, Nicolas Pyrtek</em></span></td>
+
+      </tr>
 	 
-        
+       <!-- 
           
  <tr>
 
@@ -2179,16 +2186,10 @@ Mehr Infos zur Firma TMD finden Sie unter <em><a href="http://www.tmd-service.de
 			<span class="Stil20"><em>Torsch&uuml;tzen: Ilja Bochonow, Mika Köppl</em></span></td>
          </td>
 
-      </tr>
-   <!-- <tr>
-
-        <td id="contentfont" style= "text-align:left; padding-left:50px;">TSV Wiernsheim - SV Illingen&nbsp; 2:4 <br/>
-
-            <span class="Stil20"><em>Torsch&uuml;tzen: 3x Ilja Bochonow, Mika Köppl</em></span></td>
-
       </tr> -->
+ 
 
-
+<!--
       <tr>
 
           <td id="contentfont"><div align="left">&nbsp;</div></td>
@@ -2217,7 +2218,7 @@ Mehr Infos zur Firma TMD finden Sie unter <em><a href="http://www.tmd-service.de
 
       </tr> 
 
-
+-->
 
 
 
@@ -2482,52 +2483,7 @@ Mehr Infos zur Firma TMD finden Sie unter <em><a href="http://www.tmd-service.de
 
       </tr>
 
-
-				 		 		  <tr>                <td>        <table id="inner_table" width="550" class="profil" >           
-				 <tr>   <td width="83" id="contentfont6" style= "text-align:right;">										
-				 <div align="left"><strong>C-Jugend</strong></div></td>                     										
-				 <td width="26" id="contentfont6" style= "text-align:right;">										
-				 <div align="right"><strong>Sa</strong></div></td>                        										
-				 <td width="59" id="contentfont6" style= "text-align:right;">										
-				 <div align="left"><strong>13.06.15</strong></div></td>                  										
-				 <td width="69" id="contentfont6" style= "text-align:right;">										
-				 <div align="left"><strong>15.00Uhr</strong></div></td>                  										
-				 <td width="339" id="contentfont6" style= "text-align:right;">		
-				 <div align="left"> SG Sachsenheim I - SV Illingen I</div> </td>                </tr> </table>	 
-				  		 		  <tr>                <td>                                 <table id="inner_table" width="550" class="profil" >           
-				 <tr>   <td width="83" id="contentfont6" style= "text-align:right;">										
-				 <div align="left"><strong>A-Jugend</strong></div></td>                     										
-				 <td width="26" id="contentfont6" style= "text-align:right;">										
-				 <div align="right"><strong>Sa</strong></div></td>                        										
-				 <td width="59" id="contentfont6" style= "text-align:right;">										
-				 <div align="left"><strong>13.06.15</strong></div></td>                  										
-				 <td width="69" id="contentfont6" style= "text-align:right;">										
-				 <div align="left"><strong>16.30Uhr</strong></div></td>                  										
-				 <td width="339" id="contentfont6" style= "text-align:right;">		
-				 <div align="left"> SV Illingen - Spvgg Weil der Stadt</div> </td>                </tr> </table>	 
-
- 		 		  <tr>                <td>                                 <table id="inner_table" width="550" class="profil" >           
-				 <tr>   <td width="83" id="contentfont6" style= "text-align:right;">										
-				 <div align="left"><strong>C-Jugend</strong></div></td>                     										
-				 <td width="26" id="contentfont6" style= "text-align:right;">										
-				 <div align="right"><strong>Mo</strong></div></td>                        										
-				 <td width="59" id="contentfont6" style= "text-align:right;">										
-				 <div align="left"><strong>15.06.15</strong></div></td>                  										
-				 <td width="69" id="contentfont6" style= "text-align:right;">										
-				 <div align="left"><strong>18.00Uhr</strong></div></td>                  										
-				 <td width="339" id="contentfont6" style= "text-align:right;">		
-				 <div align="left"> SV Illingen I - TSV Phönix Lomersheim I</div> </td>                </tr> </table>	 		
-				   <tr>                <td>                                 <table id="inner_table" width="550" class="profil" >           
-				 <tr>   <td width="83" id="contentfont6" style= "text-align:right;">										
-				 <div align="left"><strong>B-Jugend</strong></div></td>                     										
-				 <td width="26" id="contentfont6" style= "text-align:right;">										
-				 <div align="right"><strong>Mo</strong></div></td>                        										
-				 <td width="59" id="contentfont6" style= "text-align:right;">										
-				 <div align="left"><strong>15.06.15</strong></div></td>                  										
-				 <td width="69" id="contentfont6" style= "text-align:right;">										
-				 <div align="left"><strong>18.30Uhr</strong></div></td>                  										
-				 <td width="339" id="contentfont6" style= "text-align:right;">		
-				 <div align="left"> TSV Phönix Lomersheim - SV Illingen</div> </td>                </tr> </table>	 		
+	
 				 
 				 	  <tr>                <td>        <table id="inner_table" width="550" class="profil" >           
 				 <tr>   <td width="83" id="contentfont6" style= "text-align:right;">										
