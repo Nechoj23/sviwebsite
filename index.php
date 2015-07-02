@@ -2157,7 +2157,7 @@ Mehr Infos zur Firma TMD finden Sie unter <em><a href="http://www.tmd-service.de
 
         <td id="contentfont" style= "text-align:left; padding-left:50px;">SV Illingen I - TSV Phönix Lomersheim I&nbsp; 2:1 (0:0)<br/>
 
-            <span class="Stil20"><em>Torsch&uuml;tzen: </em></span></td>
+            <span class="Stil20"><em>Torsch&uuml;tzen: Leandro Franco, Jonas Jänisch</em></span></td>
 
       </tr>  
 	   <tr>
