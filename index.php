@@ -1317,24 +1317,39 @@ Arbeit und wünscht den Neugewählten viel Freude und Erfolg bei den anstehenden A
 
  <tr>
 
-        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong> R&uuml;ckblick Jugend-Camp 2015</strong>
-        <br><br>
-<a href="bilder/jugendcamp2015.jpg"><img src="bilder/jugendcamp2015_k.jpg" width="550" 
+        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong> R&uuml;ckblick: SV Illingen ist Meister der B-Jugend-Leistungsstaffel</strong>
+        <br>
+        <br>
+<a href="bilder/2015_B-Jugend_wird_Meister01_g.jpg"><img src="bilder/2015_B-Jugend_wird_Meister01.jpg" width="550" 
+            alt="B-Jugend wird Meister 2015" align="top"></a> <br><br>
+<a href="bilder/2015_B-Jugend_wird_Meister02_g.jpg"><img src="bilder/2015_B-Jugend_wird_Meister02.jpg" width="550" 
+            alt="B-Jugend wird Meister 2015" align="top"></a> <br>
+<br>
+Mit Hochspannung erwartete die B-Jugend des  SV Illingen den letzten Spieltag der Leistungsstaffel. Die Ausgangslage f&uuml;r den  Titelgewinn war g&uuml;nstig. Der direkte Konkurrent um die Meisterschaft, der TSV  Eltingen, f&uuml;hrte die Tabelle zwar mit zwei Punkten Vorsprung an, konnte aber am  letzten Spieltag nicht mehr eingreifen da er spielfrei war. Es musste aber  unbedingt ein Sieg her, um die Eltinger zu &uuml;berholen.<br>
+Den besseren Start vor gro&szlig;er  Zuschauerkulisse im heimischen Eichwaldpark erwischten die G&auml;ste aus  Friolzheim. Sie hatten schon kurz nach Anpfiff eine Riesenchance zur F&uuml;hrung,  konnten diese aber nicht verwerten. In der Folgezeit dr&auml;ngte Illingen, lie&szlig;  aber etliche Gro&szlig;chancen aus. Erst kurz vor der Halbzeit gelang Simon Fink nach  einer flinken Kombination &uuml;ber etliche Stationen der F&uuml;hrungstreffer. Mit  diesem 1:0 ging es in die Pause. Wie zu Spielbeginn fand die Heimmannschaft  auch im zweiten Abschnitt nur z&ouml;gerlich ins Spiel. Joschka Merz gelang zwar das  zweite Tor, es blieb aber spannend. Erst mit zunehmender Spieldauer setzte sich  die technische und taktische &Uuml;berlegenheit der Illinger immer deutlicher durch,  endlich machte Daniel Leicht mit einem sehenswerten Heber das erl&ouml;sende dritte Tor.  Damit war das Match gelaufen, die Tore von Davide Tasselli und Nick Heckele  waren das Sahneh&auml;ubchen auf dem Meisterschaftskuchen. Nach Spielschluss  feierten die Spieler ausgelassen den Meistertitel und ihre Trainer Tobias  H&auml;fner, Marcel Liebend&ouml;rfer und Dennis Rommel. Im n&auml;chsten Jahr darf die mit  nur achtzehn Gegentreffern beste Defensivtruppe der Leistungsstaffel in der  Bezirksklasse antreten.
+            <p>Bilder:<br>
+              Die Meistermannschaft mit ihren Trainern  (vorne unten Marcel Liebend&ouml;rfer, Dennis Rommel, hinten Mitte Tobias H&auml;fner)</p>
+            <p>Dank der Spieler an die Trainer</p>
+            <p><br /> 
+              <br />
+              
+            </p>
+        </div></td>
 
-            alt="Jugend-Camp 2015" align="top"></a> <br>
-			
-               
-         
+        </tr> 
+        
+<tr>
 
-            <p>Vom 27. bis 29. Mai 2015 veranstaltete die Fußballabteilung ihr mittlerweile 8. Jugendcamp im Eichwaldpark. Nachdem am vorletzten Tag noch ein Kind zu uns stieß,  durften wir dieses Mal exakt 69 Kinder bzw. Jugendliche bei uns begrüßen. Obwohl alle Beteiligten spätestens am Freitagabend „in den Seilen“ hingen, hat es auch dieses Mal wieder einen Riesenspaß gemacht, diese Veranstaltung bei uns durchzuführen! Allein die Freude der Kinder in den drei Tagen war es einfach wert. Und ihr, liebe Kinder, Ihr wart einfach klasse!
-Wir bedanken uns hiermit bei der Sparkasse Pforzheim-Calw, bei den Firmen Fontanis und Bonbon-Jung sowie bei Michas Freizeitshop für die Unterstützung. Dank allen Helfern, ohne die so etwas gar nicht möglich wäre. Die Trainer haben ein absolut kurzweiliges Programm geboten, wobei erwähnt werden muss, dass da mancher Urlaubstag geopfert wurde. Auf unsere jugendlichen Assistenztrainer, die einen Super-Job gemacht haben,  können wir hoffentlich auch in der Zukunft bauen (!?). Die Küche unter Federführung von Hubert L. Scheuermann hat in bewährter Manier pünktlich zu den Essenszeiten geliefert, so dass die Kalorien anschließend wieder auf dem Sportplatz abgebaut werden konnten.
-Ein besonderes Dankeschön an die Platzwarte Andy und Wolfe für das herrliche Gelände und an Herrn Efthimios Bakas („Thimo“), der uns im Clubhaus „wurschteln“ ließ und uns als Krönung auch noch eine Geldspende hat zukommen lassen.
-Irgendwie war es wieder toll!
-</p>
-            
-            <br /> <br />
+        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong>Dorf- und Kelterfest  2015</strong> <br>
+        <br>
+Wir möchten uns bei all unseren Gästen für den Besuch beim diesjährigen Kelterfest  herzlich bedanken. Es hat uns alle wieder sehr gefreut, dass wir so viele gut gelaunte Gäste in unserer „Pizzeria“ und in der beinahe schon legendären „SVI-Bar“  bewirten durften. Michele Pucci hat uns wieder einmal mit seinem einzigartigen Pizzateig versorgt, dafür unseren herzlichen Dank!
+Bedanken möchten wir uns auch bei unseren zahlreichen Helfern, die zum Teil ab Freitagmittag mehr oder weniger ununterbrochen bis zum Festende im Einsatz waren. Auch über die Mithilfe einiger Eltern unserer Jugendspieler haben wir uns sehr gefreut, ebenso natürlich über den Einsatz unserer Aktiven und einiger Jugendspieler.                                                                                                                     Bei Fam. Tuschl bedanken wir uns für die Überlassung der Scheune  und den Anwohnern sagen wir Danke für die Erduldung des Lärmpegels.
 
-</div></td>
+           
+              <br />
+              
+            </p>
+        </div></td>
 
         </tr> 
 
@@ -1897,13 +1912,12 @@ Mehr Infos zur Firma TMD finden Sie unter <em><a href="http://www.tmd-service.de
  <tr>
         <td id="ueber2"><div><strong>* Meisterschaft:</strong></div></td>
       </tr>  -->
-	<!--   	 <tr>                <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>             </tr> 
-	   <tr>                <td id="contentfont" style= "text-align:right;"><div align="left">Die beiden aktiven Mannschaften befinden sich in der Winterpause!</div></td>             </tr> -->
-         <!--  <tr>
+	   	 <tr>                <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>             </tr> 
+	   <tr>                <td id="contentfont" style= "text-align:right;"><div align="left"><strong>Beide aktiven Mannschaften befinden sich derzeit in der Sommerpause !!!</strong></div></td>             </tr> 
 
-                <td id="contentfont" style= "text-align:right;"><div align="left">Die Illinger Aktiven befinden sich derzeit in der Vorbereitung auf die Saison 2013/2014 </div></td>
+                <td id="contentfont" style= "text-align:right;"><div align="left"><strong>Am 11.07. starten sie unter dem neuen Trainer Bernd Vollmer in die Vorbereitung zur neuen Saison.</strong></div></td>
 
-             </tr> -->
+             </tr> 
 		<!-- 
  <tr>
  
@@ -1950,6 +1964,7 @@ Mehr Infos zur Firma TMD finden Sie unter <em><a href="http://www.tmd-service.de
                         <td height="50px" colspan="7"><hr width="100%" size="1px" noshade style="color:#cccccc; background-color:#CCCCCC;"></td>
                 </tr>     -->
 
+<!--
  <tr>
 
         <td id="ueber2"><div><strong>*
@@ -1976,7 +1991,7 @@ Mehr Infos zur Firma TMD finden Sie unter <em><a href="http://www.tmd-service.de
 
       </tr>
 
-    
+-->    
 
 
 
@@ -2107,17 +2122,17 @@ Mehr Infos zur Firma TMD finden Sie unter <em><a href="http://www.tmd-service.de
           <td id="contentfont"><div align="left">&nbsp;</td>
 
         </tr>
-
+<!--
  <tr>
 
         <td id="ueber2"> * Meisterschaft: </td>
 
       </tr> 
-
+-->
 		  	 
 	<!-- <tr>                <td id="contentfont" style= "text-align:right;"><div align="left">Die Meisterschaftsrunden der Jugenden beginnen wieder im März 2015!</div></td>             </tr>
 -->
-	 <tr>
+<!--	 <tr>
 
         <td id="ueber3"><div>&nbsp;&nbsp;&nbsp;&nbsp;<strong>** A-Jugend:</strong></div></td>
 
@@ -2132,6 +2147,7 @@ Mehr Infos zur Firma TMD finden Sie unter <em><a href="http://www.tmd-service.de
    <tr>
         <td id="contentfont"><div align="left">&nbsp;</div></td>
       </tr> 
+ -->
 <!-- <tr>
         <td id="ueber3"><div>&nbsp;&nbsp;&nbsp;&nbsp;<strong>** B-Jugend:</strong></div></td>
       </tr>
@@ -2147,78 +2163,9 @@ Mehr Infos zur Firma TMD finden Sie unter <em><a href="http://www.tmd-service.de
 
       </tr> -->
 
- <tr>
 
-        <td id="ueber3"><div>&nbsp;&nbsp;&nbsp;&nbsp;<strong>** C-Jugend:</strong></div></td>
 
-      </tr>
 
-	  <tr>
-
-        <td id="contentfont" style= "text-align:left; padding-left:50px;">SV Illingen I - TSV Phönix Lomersheim I&nbsp; 2:1 (0:0)<br/>
-
-            <span class="Stil20"><em>Torsch&uuml;tzen: Leandro Franco, Jonas Jänisch</em></span></td>
-
-      </tr>  
-	   <tr>
-
-        <td id="contentfont" style= "text-align:left; padding-left:50px;">SG Sachsenheim - SV Illingen I&nbsp; 0:3 (0:2)<br/>
-
-            <span class="Stil20"><em>Torsch&uuml;tzen: 2x Tobias Däschner, Nicolas Pyrtek</em></span></td>
-
-      </tr>
-	 
-       <!-- 
-          
- <tr>
-
-        <td id="contentfont"><div align="left">&nbsp;</div></td>
-
-      </tr>
- <tr>
-
-        <td id="ueber3"><div>&nbsp;&nbsp;&nbsp;&nbsp;<strong>** D-Jugend:</strong></div></td>
-
-      </tr>
-<tr>
-
-        <td id="contentfont" style= "text-align:left; padding-left:50px;"> SV Illingen - Spvgg Weil der Stadt II&nbsp; 2:1<br/>
-			<span class="Stil20"><em>Torsch&uuml;tzen: Ilja Bochonow, Mika Köppl</em></span></td>
-         </td>
-
-      </tr> -->
- 
-
-<!--
-      <tr>
-
-          <td id="contentfont"><div align="left">&nbsp;</div></td>
-
-      </tr>  
-
-  <tr>
-
-        <td id="ueber3"><div>&nbsp;&nbsp;&nbsp;&nbsp;<strong>** E-Jugend:</strong></div></td>
-
-      </tr>
-
-    <tr>
-
-        <td id="contentfont" style= "text-align:left; padding-left:50px;">SV Illingen I - TV Pfugfelden I&nbsp; 0:7 <br/>
-
-            <span class="Stil20"><em>Torsch&uuml;tzen: --- </em></span></td>
-
-      </tr> 
-	
-	    <tr>
-
-        <td id="contentfont" style= "text-align:left; padding-left:50px;">SV Illingen II - TV Pfugfelden II&nbsp; 2:7 <br/>
-
-            <span class="Stil20"><em>Torsch&uuml;tzen:  </em></span></td>
-
-      </tr> 
-
--->
 
 
 
@@ -2230,6 +2177,12 @@ Mehr Infos zur Firma TMD finden Sie unter <em><a href="http://www.tmd-service.de
 
              </tr>
 
+ 
+	   <tr>                <td id="contentfont" style= "text-align:right;"><div align="left"><strong>Und auch unsere Jugendmannschaften erholen sich gerade von der letzten Saison!!!</strong></div></td>             </tr> 
+
+                <td id="contentfont" style= "text-align:right;"><div align="left"></div></td>
+
+             </tr> 
       <tr>
 
                         <td height="50px" colspan="7"><hr width="100%" size="1px" noshade style="color:#cccccc; background-color:#CCCCCC;"></td>
@@ -2254,6 +2207,8 @@ Mehr Infos zur Firma TMD finden Sie unter <em><a href="http://www.tmd-service.de
 				 <div align="left"><strong>18.00Uhr</strong></div></td>                  										
 				 <td width="339" id="contentfont6" style= "text-align:right;">		
 				 <div align="left">SV Illingen I - SV Horrheim</div> </td>                </tr> </table>	-->
+
+
 
       <!--<tr>
 
@@ -2473,7 +2428,7 @@ Mehr Infos zur Firma TMD finden Sie unter <em><a href="http://www.tmd-service.de
      <tr>
         <td height="50px" colspan="7"><hr width="100%" size="1px" noshade style="color:#cccccc; background-color:#CCCCCC;"></td>
       </tr>  -->
-	  
+<!--	  
  <tr>
 
         <td id="ueber2"><div><strong>*
@@ -2520,8 +2475,8 @@ Mehr Infos zur Firma TMD finden Sie unter <em><a href="http://www.tmd-service.de
 				 <div align="left"><strong>10.30Uhr</strong></div></td>                  										
 				 <td width="339" id="contentfont6" style= "text-align:right;">		
 				 <div align="left"> SV Illingen - SV Friolzheim</div> </td>                </tr> </table>	
-				 
-      <!--      <tr>
+-->				 
+
       <!--      <tr>
 
           <td id="ueber2">

@@ -235,10 +235,17 @@
 	  </div></td>
     </tr>
 	 <tr id="contentFont" bgcolor="#FFFFFF"> 
-	  <td width="44" valign="top" id="contentfont" style= "text-align:right;"><div align="left">Sa-So</div></td>   		
-	  <td width="156" valign="top" id="contentfont" style= "text-align:right;"><div align="left"><strong>27.06.15 - 28.06.15</strong><br />
+	  <td width="44" valign="top" id="contentfont" style= "text-align:right;"><div align="left" class="Stil3">Sa-So</div></td>   		
+	  <td width="156" valign="top" id="contentfont" style= "text-align:right;"><div align="left" class="Stil3"><strong>27.06.15 - 28.06.15</strong><br />
 	  </div></td>
-	  <td width="400" valign="top" id="contentfont" style= "text-align:right;"><div align="left"><strong>Dorf- und Kelterfest in Illingen</strong><br />
+	  <td width="400" valign="top" id="contentfont" style= "text-align:right;"><div align="left" class="Stil3"><strong>Dorf- und Kelterfest in Illingen</strong><br />
+	  </div></td>
+    </tr>
+    <tr id="contentFont" bgcolor="#FFFFFF"> 
+	  <td width="44" valign="top" id="contentfont" style= "text-align:right;"><div align="left">Fr</div></td>   		
+	  <td width="156" valign="top" id="contentfont" style= "text-align:right;"><div align="left"><strong>17.07.15</strong><br />
+	  </div></td>
+	  <td width="400" valign="top" id="contentfont" style= "text-align:right;"><div align="left"><strong>Flutlichteinweihung</strong><br />
 	  </div></td>
     </tr>
 	 <tr id="contentFont" bgcolor="#FFFFFF"> 

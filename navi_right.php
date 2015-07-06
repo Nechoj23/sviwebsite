@@ -31,9 +31,8 @@
 &nbsp;&nbsp;SV Illingen Hauptverein<br />
 &nbsp;&nbsp;&nbsp;--------------<br /> -->
 
-&nbsp;&nbsp;27.06.15 - 28.06.15<br />
-&nbsp;&nbsp;Dorf- und Kelterfest<br />
-&nbsp;&nbsp;in Illingen<br />
+&nbsp;&nbsp;17.07.15<br />
+&nbsp;&nbsp;Flutlichteinweihung<br />
 &nbsp;&nbsp;&nbsp;--------------<br />
 &nbsp;&nbsp;12.12.15 - 13.12.15<br />
 &nbsp;&nbsp;Weihnachtsmarkt in<br />
