@@ -1315,6 +1315,39 @@ Arbeit und wünscht den Neugewählten viel Freude und Erfolg bei den anstehenden A
 -->
 
 
+<tr>
+
+        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"><strong> Abteilungsbeitrag</strong>
+          <br>
+        <br>
+            <p>Liebe  Mitglieder der Abteilung Fu&szlig;ball,</p>
+            <p>bei der  letztj&auml;hrigen Abteilungsversammlung wurde beschlossen, dass ab dem Jahr 2015  ein Abteilungsbeitrag in H&ouml;he von &euro; 30,--/Jahr von jedem Mitglied eingezogen  wird.</p>
+            <p>Der  Abteilungsbeitrag wird j&auml;hrlich zum 30.07. oder dem darauf folgenden Werktag  von Ihrem Konto mittels SEPA-Lastschrift eingezogen. </p>
+            <p>Das  Lastschriftmandat wird durch die Mandatsreferenz (Mitgliedsnummer) und unsere  Gl&auml;ubiger-Identifikationsnummer (DE35ZZZ00000596665) gekennzeichnet, die von  uns bei allen Lastschriften angegeben werden.</p>
+            <p>Mitglieder, die  nicht am SEPA-Lastschriftverfahren teilnehmen, werden gebeten, den Betrag bis  zum 30.07. auf unten genanntes Konto zu &uuml;berweisen. </p>
+            <p>Mit  freundlichen Gr&uuml;&szlig;en</p>
+            <p>Die  Abteilungsleitung </p>
+<p>Bankverbindung<br>
+Sparkasse Pforzheim-Calw Konto  Nr. 2221748 BLZ 666 500 85<br>
+IBAN: DE40 6665 0085 0002 22217 48&nbsp;&nbsp;&nbsp; BIC: PZHSDE66XXX</p>
+<p><br /> 
+ 
+</p>
+        </div></td>
+
+        </tr> 
+<tr>
+
+        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong>A-Jugend</strong> <br><br>
+            Die neue A-Jugend trifft sich am Montag den 20.7.2015 mit Ihrem neuen Trainer Edgar Schrodt um 19.00 Uhr um die neue Saison zu planen und sich gegenseitig vorzustellen. Das Erscheinen aller Spieler ist unbedingt erforderlich.<br>
+            Treffpunkt 19.00 Uhr am Clubheim.<br><br>
+Die Jugendleitung<br />
+  <br />
+              
+            </p>
+        </div></td>
+
+        </tr> 
  <tr>
 
         <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong> R&uuml;ckblick: SV Illingen ist Meister der B-Jugend-Leistungsstaffel</strong>
