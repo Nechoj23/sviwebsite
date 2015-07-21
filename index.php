@@ -1317,19 +1317,16 @@ Arbeit und wünscht den Neugewählten viel Freude und Erfolg bei den anstehenden A
 
 <tr>
 
-        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"><strong> Abteilungsbeitrag</strong>
+        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"><strong> R&uuml;ckblick Jugend</strong>
           <br>
         <br>
-            <p>Liebe  Mitglieder der Abteilung Fu&szlig;ball,</p>
-            <p>bei der  letztj&auml;hrigen Abteilungsversammlung wurde beschlossen, dass ab dem Jahr 2015  ein Abteilungsbeitrag in H&ouml;he von &euro; 30,--/Jahr von jedem Mitglied eingezogen  wird.</p>
-            <p>Der  Abteilungsbeitrag wird j&auml;hrlich zum 30.07. oder dem darauf folgenden Werktag  von Ihrem Konto mittels SEPA-Lastschrift eingezogen. </p>
-            <p>Das  Lastschriftmandat wird durch die Mandatsreferenz (Mitgliedsnummer) und unsere  Gl&auml;ubiger-Identifikationsnummer (DE35ZZZ00000596665) gekennzeichnet, die von  uns bei allen Lastschriften angegeben werden.</p>
-            <p>Mitglieder, die  nicht am SEPA-Lastschriftverfahren teilnehmen, werden gebeten, den Betrag bis  zum 30.07. auf unten genanntes Konto zu &uuml;berweisen. </p>
-            <p>Mit  freundlichen Gr&uuml;&szlig;en</p>
-            <p>Die  Abteilungsleitung </p>
-<p>Bankverbindung<br>
-Sparkasse Pforzheim-Calw Konto  Nr. 2221748 BLZ 666 500 85<br>
-IBAN: DE40 6665 0085 0002 22217 48&nbsp;&nbsp;&nbsp; BIC: PZHSDE66XXX</p>
+            <p>Die Runde 2014/2015 ist beendet. Alle Jugendmannschaften des SVI haben die Spielrunde abgeschlossen. Besonderer H&ouml;hepunkt war der Aufstieg der B-Jugend in die Bezirksstaffel. Aber auch alle anderen Mannschaften haben ihr Ziele erreicht. Die Jugendleitung bedankt sich bei allen Spielern, Trainern und Betreuern sowie den Eltern f&uuml;r die tatkr&auml;ftige Unterst&uuml;tzung. Wir hoffen auch in der kommenden Runde auf eure Unterst&uuml;tzung damit wir den Jugendfussball beim SVI auch weiterhin erfolgreich gestalten k&ouml;nnen. F&uuml;r die neue Saison stehen s&auml;mtliche Trainer fest und werden auch demn&auml;chst auf der Homepage ver&ouml;ffentlicht.<br>
+              Allen Spielern, die zur neuen Saison nach Illingen wechseln ein herzliches Willkommen!!!!!!!!!! Wir freuen uns auf Euch.<br>
+              Denjenigen Spielern, welche den Verein verlassen ein herzliches Dankesch&ouml;n und viel Erfolg bei eurem neuen Verein. Ihr wisst ja, der Weg zur&uuml;ck zum SVI steht euch immer offen.</p>
+            <p>In diesem Sinne </p>
+            <p>Jugendleitung Fussball SVI<br>
+            </p>
+            <p>Edgar Mantai Alexander K&ouml;ppl Karl-Heinz W&ouml;hr</p>
 <p><br /> 
  
 </p>
@@ -1338,53 +1335,26 @@ IBAN: DE40 6665 0085 0002 22217 48&nbsp;&nbsp;&nbsp; BIC: PZHSDE66XXX</p>
         </tr> 
 <tr>
 
-        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong>A-Jugend</strong> <br><br>
-            Die neue A-Jugend trifft sich am Montag den 20.7.2015 mit Ihrem neuen Trainer Edgar Schrodt um 19.00 Uhr um die neue Saison zu planen und sich gegenseitig vorzustellen. Das Erscheinen aller Spieler ist unbedingt erforderlich.<br>
-            Treffpunkt 19.00 Uhr am Clubheim.<br><br>
-Die Jugendleitung<br />
+        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"><strong>Abteilungsbeitrag</strong> <br>
+            <br>
+            <p>Liebe  Mitglieder der Abteilung Fu&szlig;ball,</p>
+            <p>bei der  letztj&auml;hrigen Abteilungsversammlung wurde beschlossen, dass ab dem Jahr 2015  ein Abteilungsbeitrag in H&ouml;he von &euro; 30,--/Jahr von jedem Mitglied eingezogen  wird.</p>
+            <p>Der  Abteilungsbeitrag wird j&auml;hrlich zum 30.07. oder dem darauf folgenden Werktag  von Ihrem Konto mittels SEPA-Lastschrift eingezogen. </p>
+            <p>Das  Lastschriftmandat wird durch die Mandatsreferenz (Mitgliedsnummer) und unsere  Gl&auml;ubiger-Identifikationsnummer (DE35ZZZ00000596665) gekennzeichnet, die von  uns bei allen Lastschriften angegeben werden.</p>
+            <p>Mitglieder, die  nicht am SEPA-Lastschriftverfahren teilnehmen, werden gebeten, den Betrag bis  zum 30.07. auf unten genanntes Konto zu &uuml;berweisen. </p>
+            <p>Mit  freundlichen Gr&uuml;&szlig;en</p>
+            <p>Die  Abteilungsleitung </p>
+            <p>Bankverbindung<br>
+              Sparkasse Pforzheim-Calw Konto  Nr. 2221748 BLZ 666 500 85<br>
+              IBAN: DE40 6665 0085 0002 22217 48&nbsp;&nbsp;&nbsp; BIC: PZHSDE66XXX</p>
+            <br />
   <br />
               
             </p>
         </div></td>
 
         </tr> 
- <tr>
-
-        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong> R&uuml;ckblick: SV Illingen ist Meister der B-Jugend-Leistungsstaffel</strong>
-        <br>
-        <br>
-<a href="bilder/2015_B-Jugend_wird_Meister01_g.jpg"><img src="bilder/2015_B-Jugend_wird_Meister01.jpg" width="550" 
-            alt="B-Jugend wird Meister 2015" align="top"></a> <br><br>
-<a href="bilder/2015_B-Jugend_wird_Meister02_g.jpg"><img src="bilder/2015_B-Jugend_wird_Meister02.jpg" width="550" 
-            alt="B-Jugend wird Meister 2015" align="top"></a> <br>
-<br>
-Mit Hochspannung erwartete die B-Jugend des  SV Illingen den letzten Spieltag der Leistungsstaffel. Die Ausgangslage f&uuml;r den  Titelgewinn war g&uuml;nstig. Der direkte Konkurrent um die Meisterschaft, der TSV  Eltingen, f&uuml;hrte die Tabelle zwar mit zwei Punkten Vorsprung an, konnte aber am  letzten Spieltag nicht mehr eingreifen da er spielfrei war. Es musste aber  unbedingt ein Sieg her, um die Eltinger zu &uuml;berholen.<br>
-Den besseren Start vor gro&szlig;er  Zuschauerkulisse im heimischen Eichwaldpark erwischten die G&auml;ste aus  Friolzheim. Sie hatten schon kurz nach Anpfiff eine Riesenchance zur F&uuml;hrung,  konnten diese aber nicht verwerten. In der Folgezeit dr&auml;ngte Illingen, lie&szlig;  aber etliche Gro&szlig;chancen aus. Erst kurz vor der Halbzeit gelang Simon Fink nach  einer flinken Kombination &uuml;ber etliche Stationen der F&uuml;hrungstreffer. Mit  diesem 1:0 ging es in die Pause. Wie zu Spielbeginn fand die Heimmannschaft  auch im zweiten Abschnitt nur z&ouml;gerlich ins Spiel. Joschka Merz gelang zwar das  zweite Tor, es blieb aber spannend. Erst mit zunehmender Spieldauer setzte sich  die technische und taktische &Uuml;berlegenheit der Illinger immer deutlicher durch,  endlich machte Daniel Leicht mit einem sehenswerten Heber das erl&ouml;sende dritte Tor.  Damit war das Match gelaufen, die Tore von Davide Tasselli und Nick Heckele  waren das Sahneh&auml;ubchen auf dem Meisterschaftskuchen. Nach Spielschluss  feierten die Spieler ausgelassen den Meistertitel und ihre Trainer Tobias  H&auml;fner, Marcel Liebend&ouml;rfer und Dennis Rommel. Im n&auml;chsten Jahr darf die mit  nur achtzehn Gegentreffern beste Defensivtruppe der Leistungsstaffel in der  Bezirksklasse antreten.
-            <p>Bilder:<br>
-              Die Meistermannschaft mit ihren Trainern  (vorne unten Marcel Liebend&ouml;rfer, Dennis Rommel, hinten Mitte Tobias H&auml;fner)</p>
-            <p>Dank der Spieler an die Trainer</p>
-            <p><br /> 
-              <br />
-              
-            </p>
-        </div></td>
-
-        </tr> 
-        
-<tr>
-
-        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong>Dorf- und Kelterfest  2015</strong> <br>
-        <br>
-Wir möchten uns bei all unseren Gästen für den Besuch beim diesjährigen Kelterfest  herzlich bedanken. Es hat uns alle wieder sehr gefreut, dass wir so viele gut gelaunte Gäste in unserer „Pizzeria“ und in der beinahe schon legendären „SVI-Bar“  bewirten durften. Michele Pucci hat uns wieder einmal mit seinem einzigartigen Pizzateig versorgt, dafür unseren herzlichen Dank!
-Bedanken möchten wir uns auch bei unseren zahlreichen Helfern, die zum Teil ab Freitagmittag mehr oder weniger ununterbrochen bis zum Festende im Einsatz waren. Auch über die Mithilfe einiger Eltern unserer Jugendspieler haben wir uns sehr gefreut, ebenso natürlich über den Einsatz unserer Aktiven und einiger Jugendspieler.                                                                                                                     Bei Fam. Tuschl bedanken wir uns für die Überlassung der Scheune  und den Anwohnern sagen wir Danke für die Erduldung des Lärmpegels.
-
-           
-              <br />
-              
-            </p>
-        </div></td>
-
-        </tr> 
+ 
 
 <!--
  <tr>
@@ -1948,7 +1918,7 @@ Mehr Infos zur Firma TMD finden Sie unter <em><a href="http://www.tmd-service.de
 	   	 <tr>                <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>             </tr> 
 	   <tr>                <td id="contentfont" style= "text-align:right;"><div align="left"><strong>Beide aktiven Mannschaften befinden sich derzeit in der Sommerpause !!!</strong></div></td>             </tr> 
 
-                <td id="contentfont" style= "text-align:right;"><div align="left"><strong>Am 11.07. starten sie unter dem neuen Trainer Bernd Vollmer in die Vorbereitung zur neuen Saison.</strong></div></td>
+                <td id="contentfont" style= "text-align:right;"><div align="left"><strong>Am 11.07. starteten sie unter dem neuen Trainer Bernd Vollmer in die Vorbereitung zur neuen Saison.</strong></div></td>
 
              </tr> 
 		<!-- 

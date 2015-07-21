@@ -31,9 +31,7 @@
 &nbsp;&nbsp;SV Illingen Hauptverein<br />
 &nbsp;&nbsp;&nbsp;--------------<br /> -->
 
-&nbsp;&nbsp;17.07.15<br />
-&nbsp;&nbsp;Flutlichteinweihung<br />
-&nbsp;&nbsp;&nbsp;--------------<br />
+
 &nbsp;&nbsp;12.12.15 - 13.12.15<br />
 &nbsp;&nbsp;Weihnachtsmarkt in<br />
 &nbsp;&nbsp;Illingen<br />
