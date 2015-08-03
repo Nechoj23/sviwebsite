@@ -1314,7 +1314,7 @@ Arbeit und wünscht den Neugewählten viel Freude und Erfolg bei den anstehenden A
 
 -->
 
-
+<!--
 <tr>
 
         <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"><strong> R&uuml;ckblick Jugend</strong>
@@ -1354,7 +1354,7 @@ Arbeit und wünscht den Neugewählten viel Freude und Erfolg bei den anstehenden A
         </div></td>
 
         </tr> 
- 
+ -->
 
 <!--
  <tr>

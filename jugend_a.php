@@ -242,7 +242,7 @@
 		  	  <p>Spielklasse:</p>
 			 <p>Ergebnisdienst:<br> <br></p>
 
-			  <p>Ansprechpartner:</p>
+			  <p>Trainer/Betreuer::</p>
 		  </td>
 		  <td width="300" id="contentFont" align="left" valign="top">	  	    
 		  	  <p>Leistungsstaffel 2</p>
@@ -255,24 +255,17 @@
 				
 				
 				<p>
-                  <br> Hubert Scheuermann<br>
-                  0172-7321751<br />
-                  <a href="mailto:h.scheuermann@hausfinanzkontor.de">h.scheuermann@hausfinanzkontor.de</a><br />
-            </p> <!--      <p>
-				  Tobias Häfner<br>
-				 
-				  Handy: 0157-89270551<br>
+                  <br>
+                  Edgar Schrodt<br>
+                  07043/920907<br />
+                  0172/7163010<br />
+                  <a href="mailto: edgar@schroth-informatik.de"> edgar@schroth-informatik.de</a><br />
+            </p>       <p>
+				  Angelo Rocca<br>
 				</p>
 				 <p>
-				  Edgar Mantai<br>
-				  
-				  Handy: 0151-15252610<br>
-				    <a href="mailto:edgar.mantai@t-online.de">edgar.mantai@t-online.de</a> <br>
-				
-		    </p> -->
-               
-      </p>
-	      </td>
+				   </p>
+	      </p></td>
         </tr>
 		<tr>
 			<td id="contentFont" align="right" valign="top">
