@@ -14,7 +14,7 @@
      
     
     <tr> 
-      <td width="272" class="big"><img src="bilder/c-jugend_1314/marcello.jpg" width="240" height="319"> 
+      <td width="272" class="big"><img src="bilder/AktiveSpieler/dummy_m.jpg" width="240" height="319"> 
       </td>
       <td width="278" valign="top"><table width="319" class="profil">
           <tr bgcolor="#CCCCCC" class="roww1 entries"> 
@@ -23,33 +23,33 @@
           </tr>
           <tr bgcolor="#FFFFFF" class="roww1 entries"> 
             <td width="113" class="col1"><font color="#0066cc">Name:</font></td>
-            <td width="174"><font color="#0066cc">Marcello Solombrino</font></td>
+            <td width="174"><font color="#0066cc">Bernd Vollmer</font></td>
           </tr>
-          <tr bgcolor="#CCCCCC" class="roww2 entries"> 
+        <!--  <tr bgcolor="#CCCCCC" class="roww2 entries"> 
             <td class="col1"><font color="#0066cc">Geburtsdatum:</font></td>
-            <td><font color="#0066cc">09.02.1970</font></td>
-          </tr>
-          <tr bgcolor="#FFFFFF" class="roww2 entries"> 
+            <td><font color="#0066cc">&nbsp;</font></td>
+          </tr> -->
+          <tr bgcolor="#CCCCCC" class="roww2 entries"> 
             <td height="21" class="col1"><font color="#0066cc">im Verein seit:</font></td>
-            <td><font color="#0066cc">2005</font></td>
+            <td><font color="#0066cc">2015</font></td>
           </tr>
-          <tr bgcolor="#CCCCCC" class="roww1 entries"> 
+       <!--   <tr bgcolor="#CCCCCC" class="roww1 entries"> 
             <td class="col1"><font color="#0066cc">Trainerstationen:</font></td>
-            <td><font color="#0066cc">SV Illingen</font></td>
+            <td><font color="#0066cc">&nbsp;</font></td>
           </tr>
           <tr bgcolor="#FFFFFF" class="roww2 entries"> 
             <td class="col1"><font color="#0066cc">Spielerstationen:</font></td>
             <td><font color="#0066cc">&nbsp;</font></td>
-          </tr>
+          </tr> -->
 
-          <tr bgcolor="#CCCCCC" class="roww2 entries"> 
-            <td valign="top" class="col1"><font color="#0066cc">Telefon:</font></td>
-            <td><font color="#0066cc">0157-56195648</font></td>
-          </tr>
           <tr bgcolor="#FFFFFF" class="roww2 entries"> 
-            <td class="col1"><font color="#0066cc">E-Mail:</font></td>
-            <td><font color="#0066cc">marcello.solombrino@t-online.de</font></td>
+            <td valign="top" class="col1"><font color="#0066cc">Telefon:</font></td>
+            <td><font color="#0066cc">0172-7272211</font></td>
           </tr>
+        <!--  <tr bgcolor="#FFFFFF" class="roww2 entries"> 
+            <td class="col1"><font color="#0066cc">E-Mail:</font></td>
+            <td><font color="#0066cc">&nbsp;</font></td>
+          </tr> -->
 
           
         </table></td>
@@ -321,97 +321,7 @@
     <tr> 
       <td colspan="7">&nbsp;</td>
     </tr> -->
-     <tr> 
-      <td width="272" class="big"><img src="bilder/AktiveSpieler/matze3.jpg" width="240" height="320"> 
-      </td>
-      <td width="278" valign="top"><table width="319" class="profil">
-          <tr bgcolor="#CCCCCC" class="roww1 entries"> 
-            <td width="113" class="col1"><font color="#0066cc">Position:</font></td>
-            <td width="174"><font color="#0066cc">2. Spielleiter / Betreuer</font></td>
-          </tr>
-          <tr bgcolor="#FFFFFF" class="roww1 entries"> 
-            <td width="113" class="col1"><font color="#0066cc">Name:</font></td>
-            <td width="174"><font color="#0066cc">Matthias Spengler</font></td>
-          </tr>
-          <tr bgcolor="#CCCCCC" class="roww2 entries"> 
-            <td class="col1"><font color="#0066cc">Geburtsdatum:</font></td>
-            <td width="174"><font color="#0066cc">27.11.1981</font></td>
-          </tr>
-          <tr bgcolor="#FFFFFF" class="roww2 entries"> 
-            <td height="21" class="col1"><font color="#0066cc">im Verein seit:</font></td>
-            <td><font color="#0066cc">1987</font></td>
-          </tr>
-
-          <tr bgcolor="#FFFFFF" class="roww2 entries"> 
-            <td class="col1"><font color="#0066cc">Spielerstationen:</font></td>
-            <td><font color="#0066cc">SV Illingen</font></td>
-          </tr>
-
-          <tr bgcolor="#CCCCCC" class="roww2 entries"> 
-            <td valign="top" class="col1"><font color="#0066cc">Telefon:</font></td>
-            <td><font color="#0066cc">0160-5407640</font><font color="#0066cc">&nbsp;</font></td>
-          </tr>
-          <tr bgcolor="#FFFFFF" class="roww2 entries"> 
-            <td class="col1"><font color="#0066cc">E-Mail:</font></td>
-            <td><font color="#0066cc">matthiasspengler@hotmail.de</font></td>
-          </tr>
-
-          
-        </table></td>
-    </tr>
-    <tr> 
-      <td height="50px" colspan="7"> <hr width="100%" size="1px" noshade style="color:#cccccc; background-color:#CCCCCC;"> 
-      </td>
-    </tr>
-    <tr> 
-      <td colspan="7">&nbsp;</td>
-    </tr>
-     <tr> 
-      <td width="272" class="big"><img src="bilder/AktiveSpieler/michaSp.jpg" width="240" height="320"> 
-      </td>
-      <td width="278" valign="top"><table width="319" class="profil">
-          <tr bgcolor="#CCCCCC" class="roww1 entries"> 
-            <td width="113" class="col1"><font color="#0066cc">Position:</font></td>
-            <td width="174"><font color="#0066cc">2. Spielleiter / Betreuer</font></td>
-          </tr>
-          <tr bgcolor="#FFFFFF" class="roww1 entries"> 
-            <td width="113" class="col1"><font color="#0066cc">Name:</font></td>
-            <td width="174"><font color="#0066cc">Michael Spengler</font></td>
-          </tr>
-          <tr bgcolor="#CCCCCC" class="roww2 entries"> 
-            <td class="col1"><font color="#0066cc">Geburtsdatum:</font></td>
-            <td width="174"><font color="#0066cc">28.11.1981</font></td>
-          </tr>
-          <tr bgcolor="#FFFFFF" class="roww2 entries"> 
-            <td height="21" class="col1"><font color="#0066cc">im Verein seit:</font></td>
-            <td><font color="#0066cc">1987</font></td>
-          </tr>
-
-          <tr bgcolor="#FFFFFF" class="roww2 entries"> 
-            <td class="col1"><font color="#0066cc">Spielerstationen:</font></td>
-            <td><font color="#0066cc">SV Illingen</font></td>
-          </tr>
-
-          <tr bgcolor="#CCCCCC" class="roww2 entries"> 
-            <td valign="top" class="col1"><font color="#0066cc">Telefon:</font></td>
-            <td><font color="#0066cc">0176-96465976</font><font color="#0066cc">&nbsp;</font></td>
-          </tr>
-          <tr bgcolor="#FFFFFF" class="roww2 entries"> 
-            <td class="col1"><font color="#0066cc">E-Mail:</font></td>
-            <td><font color="#0066cc">michaelspengler1981@yahoo.de</font></td>
-          </tr>
-
-		  
-          
-        </table></td>
-    </tr>
-	 <tr> 
-      <td height="50px" colspan="7"> <hr width="100%" size="1px" noshade style="color:#cccccc; background-color:#CCCCCC;"> 
-      </td>
-    </tr>
-    <tr> 
-      <td colspan="7">&nbsp;</td>
-    </tr>
+   
   <tr> 
       <td width="272" class="big"><img src="bilder/AktiveSpieler/dummy_m.jpg" width="240" height="320"> 
       </td>

@@ -353,12 +353,7 @@
      	 <td id="contentFont" align="left" valign="top">0160-96210152<br>
 				  <a href="mailto:homepage@sv-illingen.de"><img src="MailSymbol2.jpg" width="15" height="10" border="0"></a></td>
         </tr>
-		<tr id="contentFont">
-          <td id="contentFont" align="left" valign="top"></td>  
-     	 <td id="contentFont" align="left" valign="top"> Dominik Kn&ouml;dler</td>   
-     	 <td id="contentFont" align="left" valign="top">0170-4936214<br>
-				  <a href="mailto:homepage@sv-illingen.de"><img src="MailSymbol2.jpg" width="15" height="10" border="0"></a></td>
-        </tr>
+
      <!--   <tr id="contentFont">
           <td id="contentFont" align="left" valign="top"></td>  
      	 <td id="contentFont" align="left" valign="top">Michael K&ouml;ppl</td>   

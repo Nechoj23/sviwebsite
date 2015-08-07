@@ -365,14 +365,14 @@
       <tr>
         <td colspan="7"><div align="center">&nbsp;</div></td>
       </tr>
-      <tr>
+    <!--    <tr>
         <td height="50px" colspan="7"><hr width="100%" size="1px" noshade style="color:#cccccc; background-color:#CCCCCC;" />
         </td>
       </tr>
       <tr>
         <td colspan="7"><div align="center">&nbsp;</div></td>
       </tr>
-      <tr>
+    <tr>
         <td colspan="20" id="contentTable"><div align="left">Trainerstab</div></td>
       </tr>
       <tr>
@@ -385,19 +385,13 @@
                 <strong>Marcello Solombrino</strong><br />
           Trainer 1. Mannschaft<br />
           Geb.: 09.02.1970&nbsp;</div></td>
-       <!--   <td height="20" bgcolor="#FFFFFF"><div align="left"><img src="bilder/AktiveSpieler/tobseHaefner_k.jpg" width="90" height="120" /><br />
-                <strong>Tobias Häfner</strong><br />
-          Co-Trainer 1. Mannschaft<br />
-          Geb.: 04.09.1987</div></td> -->
+
 
      <td height="20" bgcolor="#FFFFFF"><div align="left"><img src="bilder/a_jugend/nic_k.jpg" width="90" height="120" /> <br />
                 <strong>Nic Corrado</strong><br />
           Trainer 2. Mannschaft<br />
           Geb.: 29.06.1972 </div></td>
-       <!-- <td height="20" bgcolor="#FFFFFF"><div align="left"><img src="bilder/AktiveSpieler/philipp_k.jpg" /> <br />
-                <strong>Philipp Scheytt</strong><br />
-          1. Spielleiter<br />
-          Geb.: 31.10.1987</div></td> -->
+ 
          <td height="20" bgcolor="#FFFFFF"><div align="left"><img src="bilder/AktiveSpieler/matze_k.jpg" width="90" height="120" /> <br />
                 <strong>Matthias Spengler</strong><br />
           2. Spielleiter<br />
@@ -407,7 +401,7 @@
                 2. Spielleiter<br />
           Geb.: 28.11.1981 </div></td>
       </tr>
- 
+
     
       <tr>
         <td colspan="7"><div align="center">&nbsp;</div></td>
@@ -419,7 +413,7 @@
         <strong>Lisette Templin</strong><br />
       Physiotherapeutin<br />
       &nbsp;</div></td>
-    </tr>
+    </tr>  -->
     <tr> 
       <td colspan="7"><div align="center">&nbsp;</div></td>
     </tr>
