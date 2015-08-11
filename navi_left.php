@@ -110,11 +110,12 @@
 	  </div>
     </div>     
        <div id="aktive1"> 
-      <div id="navi2"> <a href="index.php?id=11" onMouseOver="MM_showHideLayers('mannschaften','','show','abteilung','','hide','aktive1','','show','saison1','','hide','jugend','','hide','events','','hide','verein','','hide','sponsoring','','hide')">SPIELERKADER</a> 
+      <div id="navi2"> 
+      <a href="index.php?id=12" onMouseOver="MM_showHideLayers('mannschaften','','show','abteilung','','hide','aktive1','','show','saison1','','show','jugend','','hide','events','','hide','verein','','hide','sponsoring','','hide')">SAISON</a>
+      <a href="index.php?id=11" onMouseOver="MM_showHideLayers('mannschaften','','show','abteilung','','hide','aktive1','','show','saison1','','hide','jugend','','hide','events','','hide','verein','','hide','sponsoring','','hide')">SPIELERKADER</a> 
         <a href="index.php?id=13" onMouseOver="MM_showHideLayers('mannschaften','','show','abteilung','','hide','aktive1','','show','saison1','','hide','jugend','','hide','events','','hide','verein','','hide','sponsoring','','hide')">TRAINING</a> 
         <a href="index.php?id=10" onMouseOver="MM_showHideLayers('mannschaften','','show','abteilung','','hide','aktive1','','show','saison1','','hide','jugend','','hide','events','','hide','verein','','hide','sponsoring','','hide')">TRAINERSTAB</a> 
-        <a href="#" onMouseOver="MM_showHideLayers('mannschaften','','show','abteilung','','hide','aktive1','','show','saison1','','show','jugend','','hide','events','','hide','verein','','hide','sponsoring','','hide')">SAISON 
-        &nbsp;&nbsp;> </a> <a href="index.php?id=27" onMouseOver="MM_showHideLayers('mannschaften','','show','abteilung','','hide','aktive1','','show','saison1','','hide','jugend','','hide','events','','hide','verein','','hide','sponsoring','','hide')">ZU-/ABG&Auml;NGE</a> 
+         <a href="index.php?id=27" onMouseOver="MM_showHideLayers('mannschaften','','show','abteilung','','hide','aktive1','','show','saison1','','hide','jugend','','hide','events','','hide','verein','','hide','sponsoring','','hide')">ZU-/ABG&Auml;NGE</a> 
         <a href="index.php?id=28" onMouseOver="MM_showHideLayers('mannschaften','','show','abteilung','','hide','aktive1','','show','saison1','','hide','jugend','','hide','events','','hide','verein','','hide','sponsoring','','hide')">SVI 
         TORSCH&Uuml;TZEN</a> </div>
     </div>

@@ -396,6 +396,12 @@ function MM_showHideLayers() { //v3.0
 
 </script>
 
+
+<!-- SCRIPTE FÜR FUSSBALL.de -->
+<script type="text/javascript"
+		src="http://www.fussball.de/static/egm//js/widget2.js">
+</script>
+
 </head>
 
 
@@ -3713,7 +3719,7 @@ Mehr Infos zur Firma TMD finden Sie unter <em><a href="http://www.tmd-service.de
 
                                 case 12:
 
-                                        include("patronen.php");
+                                        include("saison.php");
 
                                         break;
 
@@ -6664,6 +6670,12 @@ Mehr Infos zur Firma TMD finden Sie unter <em><a href="http://www.tmd-service.de
                                 case 552:
 
                                         include("Profil_d_leandro.php");
+
+                                        break;
+										
+								 case 600:
+
+                                        include("test.php");
 
                                         break;
 
