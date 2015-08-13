@@ -2,12 +2,8 @@
 
 "http://www.w3.org/TR/html4/loose.dtd"> -->
 
-
-
 <?php
-
         $id=$_GET['id'];
-
 ?>
 
 
@@ -489,7 +485,7 @@ function MM_showHideLayers() { //v3.0
                 <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
 
              </tr> -->
-<!--
+
  <tr>
 
         <td bgcolor="#0066cc" id="contentTable2"><div class="ueber1"> NEUIGKEITEN </div></td>
@@ -501,7 +497,7 @@ function MM_showHideLayers() { //v3.0
         <td height="20">&nbsp;</td>
 
       </tr> 
--->
+
       
 <!--
         <tr>
@@ -593,24 +589,30 @@ bei insgesamt zwölf teilnehmenden Mannschaften den vierten Platz erreichen.	Herz
 
 
 
-  <!--
+  
 
      <tr>
 
-<td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong>Zur&uuml;ck in der Bezirksliga!</strong><br>
+<td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong>+++ Saisonvorbereitung abgeschlossen: Es kann losgehen! +++</strong><br>
 
+<p>
+<div align="right">
+<a href="bilder/2015_ErsteMannschaft.jpg"><img src="bilder/2015_ErsteMannschaft_k.jpg" width="550"></a><br>
+ Foto: Bernd Leitner</div></p>
 
+<p>
+Der SV Illingen hat unter seinem neuen Trainer Bernd Vollmer die Vorbereitung auf die neue Saison in der Kreisliga A3 Enz/Murr erfolgreich abgeschlossen und fiebert dem Rundenbeginn entgegen.
 
-<p>Nach beinahe zwei Jahrzehnten werden ab diesem Wochenende wieder Bezirksliga-Spiele im Illinger Eichwaldpark ausgetragen. Den Beginn macht am kommenden Sonntag um 17.00 Uhr mit dem SV Germania Bietigheim ein alter Bekannter. Im letzten Jahr traf man noch in der Kreisliga A3 aufeinander und musste sich am Ende jedoch mit  Platz 2 und der Vize-Meisterschaft begn&uuml;gen.<br>
+Nach einer 2:3-Niederlage gegen des SV Gebersheim (Kreisliga A) zum Start der Vorbereitung, bezwangen die Blauen den TSV Heimerdingen II (Kreisliga A) mit 2:0. Auch gegen die Spvgg Hirschlanden-Schöckingen (Kreisliga B) behielt die Vollmer-Elf mit 3:2 die Oberhand; zum Abschluss erkämpfte sich der SVI noch ein achtbares 3:3 gegen den Bezirksliga-Aufsteiger aus Flacht.
 
-Nach dem starken ersten Spiel dieser Saison, das leider mit einer knappen 0:1-Niederlage verloren ging, trifft man auf einen Gegner, der mit einem 3:0-Sieg im R&uuml;cken in die neue Runde gestartet ist. Deshalb ist es umso wichtiger, dass m&ouml;glichst viel blau-wei&szlig;e Unterst&uuml;tzung bei der R&uuml;ckkehr der Bezirksliga in Illingen mit von der Partie ist.<br>
+Jetzt gilt es, in den verbleibenden Trainingseinheiten am letzten Feinschliff zu arbeiten, um dann einen erfolgreichen Start in die neue Saison zu feiern. Los geht es am Sonntag, den 23. August um 15 Uhr mit dem Auswärtsspiel beim VfR Sersheim. Die Mannschaft freut sich wie immer auf zahlreiche Unterstützung!
+</p>
 
-Hierbei möchten wir auch nochmals auf unsere Dauerkarten aufmerksam machen, die es seit dieser Saison zu erwerben gibt:<br />
 
         </div></td>
 
         </tr>
--->
+
  <!--
     <tr>
 
@@ -637,81 +639,6 @@ Hierbei möchten wir auch nochmals auf unsere Dauerkarten aufmerksam machen, die 
         </tr>
 -->
 
-
-
-
-
-  
-
-     <!--     <tr>
-
-        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong>Vereinsaktion in Kooperation
-mit "Micha's Freizeitshop"		</strong><br>
-
-
-<p> Im Zeitraum von 08. September bis 20. September 2014 bietet der SVI in Kooperation mit "Micha's Freizeitshop" in Vaihingen/Enz seinen
-Mitglieder wieder die Möglichkeit, sich kostengünstig mit Trainingsbekleidung der Marke "Jako" auszustatten. Alle weiteren Infos finden Sie
-auf dem Flyer.
-</p>
-<p> <a href="bilder/aktion_micha_14.jpg"><img src="bilder/aktion_micha_14_k.jpg" width="150" alt="Aktion Micha" align="top"></a><br>   </p> 
-<br />
-
-
-        </div></td>
-
-        </tr>  -->
-
-<!--
-   <tr>
-
-       <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"><strong> Gelungener Hallenspieltag in Illingen!</strong><br>
-
-        
-         <p>Die Abteilung Fußball bedankt sich bei allen Helfern, die zum Gelingen des Jugend-Hallenspieltags am vergangenen Sonntag (07. Dezember)
-		 in der Illinger Strombergsporthalle beigetragen haben. Ein besonderer Dank gilt den Eltern der Jugendspieler für die 
-		 zahlreichen Kuchenspenden und den geleisteten Arbeitseinsatz!<br>
-		 
-</p>
-
-                       </div></td>
-
-      </tr> -->
-	 
-      <!--
-
-   <tr>
-
-       <td id="contentfont" style= "text-align:right;">
-
-       <div align="left">
-
-       * <strong>F1 verteidigt Titel beim LEWA - Cup in Schwieberdingen!</strong><br>
-
-       &nbsp;&nbsp;Da der diesjährige LEWA - Cup des TSV Schwieberdingen bei den F1-Junioren wetterbedingt<br>
-
-       &nbsp;&nbsp;bereits nach der Vorrunde beendet werden musste, wurden zur Auswertung die Gruppenspiele<br>
-
-       &nbsp;&nbsp;herangezogen. Hierbei erwies sich die F1 des SVI als bestes Team und verteidigte mit<br>
-
-       &nbsp;&nbsp;4 Siegen aus 4 Spielen und 23:3-Toren erfolgreich ihren Titel aus dem Vorjahr. <br>
-
-       &nbsp;&nbsp;Herzlichen Glückwunsch zu diesen erneut starken Ergebnissen!<br>
-
-       &nbsp;&nbsp;<a href="#f1-ergebnisse"><em>zu den Ergebnissen</em></a><br>
-
-       <br>
-
-       &nbsp;&nbsp;<a href="bilder/F1_turniersieg_in_schwieberdingen_g.jpg"><img src="bilder/F1_turniersieg_in_schwieberdingen.jpg" width="500" height="373"
-
-            alt="Turniersieg F1 Schwieberdingen" align="top"></a><br>
-
-                </div></td>
-
-      </tr>
-
-   -->
-
-
       <!--  <tr>
 
         <td id="contentfont" style= "text-align:right;">
@@ -730,21 +657,6 @@ auf dem Flyer.
 
         </tr> -->
 
-      <!--  <tr>
-
-        <td id="contentfont" style= "text-align:right;">
-
-          <div align="left">
-
-            * <strong>Historische Bilder</strong><br>
-
-  &nbsp;&nbsp;Unter Historie ist ein neues altes Foto hinzugekommen.<br>
-
-
-
-  &nbsp;&nbsp;<a href="index.php?id=22"><em>mehr</em></a>            </div></td>
-
-        </tr> -->
 
       <!--
 
@@ -865,855 +777,6 @@ auf dem Flyer.
     </div>
 
     -->
-      <!--
-
-     <tr>
-
-        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong> Gelungene Jugendturniere im Eichwaldpark</strong><br> <br />
-
-        <a href="http://www.facebook.com/SVIllingen" target="_blank"><img src="bilder/pococup11.JPG"
-
-            alt="Poco-Cup" align="top" border="0px"></a>
-
-        <p>Wie bereits seit einigen Jahren  veranstaltete der SVI auch in diesem Jahr am letzten Ferienwochenende die Jugendturniere um den Poco-Cup. Unterstützt vom guten Wetter und den zahlreichen Helfern waren die beiden Tage auch in diesem Jahr ein Erfolg.<br />
-
-  <br />
-
-Bei den <strong>F-Junioren</strong> am Samstagvormittag gewann der FSV 08 Bissingen, während die beiden Illinger Mannschaften sich mit den Plätzen neun und zehn zufrieden geben mussten. Bei dem im Anschluss daran ausgetragenen <strong>E-Jugend</strong>-Turnier dominierte die SKV Rutesheim, die mit ihren beiden Teams die Plätze eins und zwei belegte, gefolgt vom SVI I auf dem dritten Platz. Das junge, zweite Illinger Team belegte den 11. Platz. Am Sonntag bei den <strong>D-Junioren</strong> holte sich der FV Löchgau vor dem SV Kickers Pforzheim den Turniersieg, der SVI belegte Rang vier. <br />
-
-Die <strong>Ergebnisse</strong> der einzelnen Turniere finden Sie hier: <br />
-
-<a href="ergebnisse_f-jugend_11.pdf"><em>Ergebnisse F-Jugend</em></a><br>
-
-<a href="ergebnisse_e-jugend_11.pdf"><em>Ergebnisse E-Jugend</em></a><br>
-
-<a href="ergebnisse_d-jugend_11.pdf"><em>Ergebnisse D-Jugend</em></a><br>
-
-<br />
-
-Die <strong>Abteilung Fussball bedankt sich</strong> recht herzlich bei allen Helfern, angeführt von Turnierkoordinator Reiner Brodbeck &uuml;ber die vielen Eltern bis zur AH, den Aktive-Spielern und den Jugendspielern, die als Schiedsrichter im Einsatz waren. <br /><br />
-
-<strong>Fotos</strong> von den zwei Turniertagen finden Sie <a href="http://www.facebook.com/SVIllingen" target="_blank"><em>hier.</em></a> </p>
-
-<br />
-
-  </div></td>
-
-        </tr> -->
-
-      <!--  <tr>
-
-        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong> Jahreshauptversammlung der Abt. Fussball</strong><br>
-
-
-
-<p>Am Freitag, den 19. April 2013 findet um 20.00 Uhr im Vereinsheim die diesjährige Jahreshauptversammlung der Abteilung Fussball statt. Wir laden alle Mitglieder hierzu recht herzlich ein! <br />
-
-<a href="index.php?id=17"><em>mehr</em></a>
-
-</p>
-
-<br />
-
-  </div></td>
-
-        </tr> -->
-
- <!--   <tr>
-
-        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong> Torspendenaktion geht zu Ende ...</strong>
-
-                <p>Unsere&nbsp; erfolgreiche Spendenaktion zur Anschaffung  neuer Jugend-Tore ist zu Ende gegangen.<br>
-
-Ein  abschlie&szlig;ender Bericht erfolgt in K&uuml;rze; durch unsere derzeitige hohe Belastung  in einigen Bereichen wurde allerdings vergessen, noch einige neu  hinzugekommenen Spender zu erw&auml;hnen. Dies tun wir hiermit. Wir bedanken uns bei<br><br>
-
-<strong>Adolf u.  Monika Sattler<br>
-
-Rainer u.  Ingrid Oberlander<br>
-
-Heinz Ade <br>
-
-Markus  V&ouml;llnagel<br>
-
-Jochen B.<br>
-
-Frau Bitzer<br>
-
-Lilith u.  Nele Gruica<br>
-
-R&uuml;diger u.  Katrin Deckenbach<br>
-
-Pille<br>
-
-Julian, Emma  u. Nele Moncada<br>
-
-Die Mauchs  Falkenstr.<br>
-
-Molly aus  Sersheim<br>
-
-Frau von  Zasch</strong><br>
-
-<br>
-
-Wir werden  auf dieses Thema nochmals intensiv eingehen; vor allem wollen wir &uuml;ber die  exakte Verwendung des Geldes Bericht erstatten. Danke f&uuml;r&nbsp; Ihre Geduld!</p>
-
-
-
-</div></td>
-
-        </tr> -->
-
-
-
-    <!--
-
-  <tr>
-
-        <td id="contentfont" style= "text-align:left;"><div align="left"><img src="bilder/svi_mini.jpg"> <strong>Bericht von der Jahreshauptversammlung der Abt. Fussball</strong><br>
-
-
-
-                <p>Die Fußballabteilung des SV Illingen hielt am Freitag, den 19.04.2013, im Illinger Vereinsheim ihre Jahreshauptversammlung ab.<br>
-
- Dabei wurden sowohl der langjährige erste Vorsitzende Christian Gruica als auch der AH-Spartenleiter Stefan Lindner verabschiedet; sie standen nicht mehr für
-
- eine Neuwahl zur Verfügung, werden dem Verein aber weiterhin erhalten bleiben. <br><br>
-
- Neu gewählt bzw. bestätigt in ihren Ämtern wurden:<br><br>
-
- 1. Vorsitzender: Hubert Scheuermann<br>
-
- 3. Vorsitzender: Bernd Fischer<br>
-
- 1. Kassier: Jürgen Brummer<br>
-
- AH-Spartenleiter: Thomas Bürkle<br>
-
- Den Posten des ersten Spielleiters wird Philipp Scheytt bis zum Ende der laufenden Saison weiter begleiten, danach sein Amt aus privaten Gründen aber abgeben.
-
- Ein Nachfolger konnte noch nicht bestimmt werden. <br>
-
- Der Posten des 2. Jugendleiters musste vorübergehend unbesetzt bleiben.<br><br>
-
-Die Abteilung bedankt sich bei allen bisherigen Amtsträgern, allen voran beim langjährigen Kassier und Abteilungsleiter Christian Gruica, für die geleistete
-
-Arbeit und wünscht den Neugewählten viel Freude und Erfolg bei den anstehenden Aufgaben!
-
-
-
-                </p>
-
-          <br />
-
-        </div></td>
-
-      </tr>  -->
-
-
-     <!--  <tr>
-
-        <td id="contentfont" style= "text-align:left;"><div align="left"><img src="bilder/svi_mini.jpg"> <strong> C-Jugend beim "Illinger Open" am Sonntag!</strong><br>
-
-                <p>Am kommenden Sonntag (20. Oktober) findet in Illingen ein verkaufsoffener Sonntag ("Illinger Open") statt. Die C-Jugend des SVI ist dabei in
-                                Zusammenarbeit mit der Metzgerei Lamm ebenfalls mit einem Stand vertreten. Neben unterschiedlichen Getränken werden direkt vom Grill
-                                verschiedene Wurst- und Fleischspezialitäten angeboten. Den Stand finden Sie von 10.00 Uhr bis 18.00 Uhr direkt vor der Metzgerei Lamm. <br>
-                                Der Illinger Nachwuchs würde sich über Ihren Besuch und Ihre Unterstützung am Sonntag riesig freuen!
-
-</p>
-
-                <br />
-
-        </div></td>
-      </tr> -->
-
-
-      <!--   <tr>
-
-        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong> Veranstaltungen der Fu&szlig;ballabteilung im Jahr 2012 terminiert </strong>
-
-            <p><a href="index.php?id=50"><em>zur Jahres&uuml;bersicht</em></a></p>
-
-            <br />
-
-</div></td>
-
-        </tr> -->
-    <!--
- <tr>
-
-        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong> RaM&uuml;'s Welt ist umgezogen</strong><br>
-<p>Seit geraumer Zeit hat sich im Blog unseres Weltenbummlers Rainer M&uuml;ller nichts mehr getan. K&ouml;nnte man jedenfalls meinen. Der Grund daf&uuml;r ist lediglich ein Umzug zu einem anderen Blog-Anbieter. Mittlerweile wurde unser Link zu dieser Seite wieder aktualisiert.<br />
-
-<a href="http://www.ramueswelt2punkt0.de/" target="_blank"><em>hier geht's zu RaMü's Welt 2.0</em></a> </p>
-
-<br />
-
-  </div></td>
-
-        </tr> -->
- <!--
-
-    <tr>
-
-        <td height="50px" colspan="7"><hr width="100%" size="1px" noshade style="color:#cccccc; background-color:#CCCCCC;"></td>
-
-    </tr>
-
- -->
-
-
-      <!--
-
-    <tr>
-
-        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong> Neue historische Bilder</strong><br>
-<p> Es gibt wieder neue alte Bilder in der Rubrik Historie zu bestaunen. Dabei m&ouml;chten wir uns ganz herzlich bei Gerhard Wei&szlig;eise, Karin K&auml;lber und Gerhard M&uuml;rdter f&uuml;r Ihre M&uuml;hen bedanken, uns zu helfen, ein St&uuml;ck mehr &uuml;ber die Geschichte unseres Vereins zu erfahren. Falls auch Sie im Besitz solcher Bilder sind, w&uuml;rden wir uns sehr freuen, wenn Sie uns &uuml;ber die Email-Adresse <a href="mailto:homepage@sv-illingen.de" target="_blank">homepage@sv-illingen.de</a> kontaktieren w&uuml;rden. Sie d&uuml;rfen uns nat&uuml;rlich auch gerne anrufen: Tel.: 07042/23918 (Werner Conradt)<br>
-
-  <a href="index.php?id=22"><em>Hier</em></a> geht's zur Historie.</p>
-
-<br />
-
-  </div></td>
-
-        </tr>
-    -->
-
-      <!--   <tr>
-
-        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong> Der Herr des Ringes</strong>
-
-            <p>
-
-             <a href="http://www.facebook.com/SVIllingen"><img src="bilder/derherrdesringes.jpg" width="550"
-
-            alt="Vorbereitung 11/12" align="top"></a> <br><br>
-             Nach dem lockeren Trainingsauftakt der Aktiven in der Kalenderwoche 29 geht es jetzt voll zur Sache. Ausdauertraining, Gymnastik, Steigerungsläufe und Dehnübungen bilden die Grundlage für die kommenden Wochen. Dabei kommt es immer wieder zu manchmal seltsamen Verrenkungen der Akteure, die Bilder sehen Sie <a href="http://www.facebook.com/SVIllingen"><em>hier.</em></a></p>
-
-             </br>
-
-             </div></td>
-
-        </tr> -->
-      <!--
-
-    <tr>
-
-        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong> Neuzug&auml;nge beim SVI!</strong>
-
-            <p> Die Aktiven des SVI haben zur neuen Saison einige Neuzugänge zu vermelden. Mit Birol Aladag, Daniel Brenner, Marcel Liebendörfer, Dominik Nimführ, Ralf Theuerkauf und Christian Wanko stoßen gleich 6 Spieler aus der eigenen A-Jugend zum Kader hinzu.<br>
-
-            Zudem hat man fünf weitere Neuzugänge zu verzeichnen: Mit Pasquale Arena (1.CfR Pforzheim), Batuhan Kirpi (VfB Vaihingen), Michael Schlosser (Sportfreunde Mühlacker) und Sinan Yilmaz (TSV Nussdorf) kehren vier ehemalige Blaue wieder zurück in den Eichwaldpark. Zudem verstärkt auch Fabio Tricarico (TSV Kleinglattbach) in Zukunft den SVI. <br>
-
-            Den Verein verlassen hat dagegen Matthias Rößler, der zu den Sportfreunden Mühlacker wechselt. </p>
-
-             <a href="bilder/neuzugaenge1112_g.jpg"><img src="bilder/neuzugaenge1112.jpg" width="550" height="291"
-
-            alt="Neuzugänge 11/12" align="top"></a><br>
-
-            Externe Neuzugänge (von links nach rechts): Abteilungsleiter Christian Gruica, Fabio Tricarico, Pasquale Arena, Michael Schlosser, Sinan Yilmaz, Trainer Thomas Fritsch (es fehlt: Batuhan Kirpi).
-
-
-
-            <br>
-
-            <br>
-
-            <a href="bilder/neuzugaenge1112_a-jugend_g.jpg"><img src="bilder/neuzugaenge1112_a-jugend.jpg" width="550" height="269"
-
-            alt="Neuzugänge 11/12" align="top"></a><br>
-
-            Neuzugänge aus der eigenen Jugend (von links nach rechts): Abteilungsleiter Christian Gruica, Christian Wanko, Marcel Liebend&ouml;rfer, Daniel Brenner, Dominik Nimf&uuml;hr, Ralf Theuerkauf, Trainer Thomas Fritsch (es fehlt: Birol Aladag).
-            <br>
-
-            <br />
-
-</div></td>
-
-        </tr> -->
-
-      <!--
-
-   <tr>
-
-        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong> F&ouml;rderverein SV Illingen - Fu&szlig;ball 2008 e.V.:</strong><br>
-
-
-
-                          <p>
-
-                            Hallo liebe Illinger,<br>
-
-                            nun aber schleunigst zu unserem Jugendcampbericht, schlie&szlig;lich liegt diese tolle Veranstaltung schon fast f&uuml;nf Wochen zur&uuml;ck: &quot; Iihh, Mauldascha, des mog I net!&quot; so kommentierte ein Achtj&auml;hriger den Speiseplan w&auml;hrend des diesj&auml;hrigen Jugendcamps des F&ouml;rderverein. Man schaute sich an und dachte sich nichts weiter dabei. Dabei kam es zu doch einer strikten Aufgabentrennung, der FV &uuml;bernahm die Organisation, die Fu&szlig;baller sorgten sich nat&uuml;rlich um die sportlichen Belange. So ein Camp hat immer auch etwas mit Disziplin zu tun. So werden am ersten Tag die noch ungeb&auml;ndigten Spr&ouml;sslinge mitsamt den Eltern empfangen, werden die Gruppen altersgerecht eingeteilt, die Trainingsklamotten verteilt und diverse weitere wichtige, pers&ouml;nliche Dinge abgekl&auml;rt. Die Torh&uuml;ter erhalten ihr gesondertes Programm. Und so schwitzten, k&auml;mpften, spielten und  manchmal fluchten Sie ( innerlich), die Teilnehmer und die Trainer, w&auml;hrend der gemeinsamen drei Tage. Insgesamt 80 Teilnehmer galt es zu betreuen, der J&uuml;ngste war Marco Gutjahr vom TSV Nu&szlig;dorf, geboren im Dezember 2005. Die weiteste Anfahrt hatte Finn Creyaufm&uuml;ller vom VfB Bretten, elf Torh&uuml;ter hatten sich angemeldet, leider nur zwei M&auml;dchen. St&auml;rkste ausw&auml;rtige Fraktion stellte der TSV Kleinglattbach mit 8 Teilnehmern, gefolgt vom FV Ro&szlig;wag mit 7. Oftmals sind es seit Jahren dieselben Namen auf der Liste, ein weiterer Beweis der Beliebtheit unseres Camps. Auch seit Jahren sto&szlig;en wir immer wieder an unsere Grenzen, um die achtzig Kinder k&uuml;mmerten sich achtzehn Trainer, ein Fotograf, vier K&ouml;che mit Auszeichnungen und ein Supervisor, auf gut Deutsch: ein Chef. <br>&Uuml;berhaupt stellten unsere zahlreichen jungen aktiven Spieler das Gros der Trainer, manchmal war der Altersunterschied nicht mehr besonders gro&szlig;. Lediglich beim K&uuml;chenteam war ein gro&szlig;er Erfahrungsschatz vorhanden, schlie&szlig;lich ist das gemeinsame Mittagessen auch ein wichtiger Bestandteil eines Camps. Hier wirbelten die M&auml;nner in den wei&szlig;en Sch&uuml;rzen im Vereinsheim des Musikvereins, welcher uns auch in diesem Jahr wieder vorbildlich unterst&uuml;tzte. Vielen Dank von dieser Seite aus. Und irgendwann kommt auch mal das Ende jeder Veranstaltung. Zum Abschluss wurde es etwas eng, das Musikvereinsheim platzte aus fast allen N&auml;hten. Die Teilnehmer wurden verabschiedet, jeder bekam seine Urkunde mit Abschiedsgeschenken und viele Kids erkundigten sich schon nach dem Termin im n&auml;chsten Jahr. Wir m&ouml;chten uns bei Micha`s Freizeitshop bedanken f&uuml;r die gro&szlig;z&uuml;gige Sachspende, ferner noch bei der Fa. Fontanis f&uuml;r die Getr&auml;nke und sonstiges Outfit. Vor allem aber bei der Sparkasse Illingen, f&uuml;r die gener&ouml;se Unterst&uuml;tzung und bei allen Helfern auf dem Rasen und im Hintergrund. Ach ja, wegen den Maultaschen! Nat&uuml;rlich stimmte unsere Kalkulation nicht, in den M&auml;gen hungriger Kinder verschwinden im Schnitt viereinhalb gro&szlig;e Exemplare dieser schw&auml;bischen Spezialit&auml;t.<br>
-
-                            Wir mussten also in Windeseile nachliefern, Hebbe sei Dank.</p>
-
-            <p>Wir w&uuml;nschen ein sch&ouml;nes Wochenende<br>
-
-              F&ouml;rderverein SV Illingen - Fu&szlig;ball<br>
-
-              Rainer M&uuml;ller<br>
-
-              &Ouml;ffentlichkeitsarbeit</p>
-
-            <br>
-
-          </div></td> -->
-
-      <!--   <tr>
-
-         <td id="contentfont" style= "text-align:left;">
-
-            <div align="left"><img src="bilder/svi_mini.jpg"><strong> Umbau der Grillh&uuml;tte</strong><br>
-
-
-
-                <p>Der Grill-Container am Rasenplatz Ost wird derzeit renoviert. Im Zuge dieser Erneuerungen wird noch eine <strong>gut erhaltene Sp&uuml;le / Doppelbeckensp&uuml;le mit Unterschrank </strong> oder <strong>eine kleine K&uuml;chenzeile </strong>gesucht. Zudem wird auch noch ein <strong>Zwei-Platten-Kocher</strong> ben&ouml;tigt. Wenn Sie brauchbares Material zur Verf&uuml;gung stellen k&ouml;nnen und wollen, melden Sie sich bei Charly W&ouml;hr (0151-10503855) oder <a href="index.php?id=75"><em>Abteilungsleiter Christian Gruica</em></a>.
-
-       </p>
-
-             </div>        </td></tr>
-
-             <tr>
-
-                <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
-
-             </tr> -->
-
-      <!--
-
-
-
-<tr>
-
-         <td id="contentfont" style= "text-align:left;">
-
-            <div align="left"><img src="bilder/svi_mini.jpg"><strong> Vorbereitungsplan der Aktiven online</strong><br>
-
-
-
-                <p>Die Illinger Aktiven starten am 09. Februar in die Vorbereitung auf die R&uuml;ckrunde 2011/2012. Den aktuellen Plan finden Sie <a href="vorbereitung_rueckrunde_1112.xls"><em>hier.</em> </a> </p>
-
-                <br />
-
-                  </div>        </td>
-
-</tr> -->
-
-      <!--
-
- <tr>
-
-         <td id="contentfont" style= "text-align:left;">
-
-            <div align="left"><img src="bilder/svi_mini.jpg"><strong> Wir gratulieren ...</strong><br>
-
-
-
-                <p>Wir gratulieren unserem Jugendtrainer und Aktiven Spieler Dominik Kn&ouml;dler zur bestandenen Trainer-Pr&uuml;fung. Dominik reiht sich damit in den Kreis der Illinger &Uuml;bungsleiter mit &quot;Trainer C Breitenfu&szlig;ball&quot;-Lizenz ein. Herzlichen Gl&uuml;ckwunsch!!!</p>
-
-                <br />
-
-                  </div>
-
-        </td>
-
-</tr>
-
--->
-
-
-      <!-- <tr>
-
-        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong> Wir suchen Trainer/innen und Betreuer/innen</strong><br>
-
-
-
-<p>Für die neue Saison suchen wir im Juniorenbereich engagierte <strong> Trainer/innen </strong> und <strong> Betreuer/innen</strong>, die uns helfen wollen, die erfolgreiche Illinger Jugendarbeit fortzuführen. Gesucht werden Trainer besonders f&uuml;r  die <strong> F2-Junioren</strong>. Eine Trainerlizenz ist dabei nicht zwingend n&ouml;tig, eine Aus- oder Weiterbildung wird  in der Regel von der Abteilung gef&ouml;rdert. <br>
-
-  Bei Interesse wenden Sie sich bitte an
-
-<a href="index.php?id=48"><em>Jugendleiter Nic Corrado</em></a>. </p>
-
-<br />
-
-  </div></td>
-
-        </tr> -->
-
-      <!--
-
-<tr>
-
-        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong> Wir suchen Jugendfu&szlig;baller </strong><br>
-
-
-
-<p>Die Fußball-Jugend des SVI ist auch für die neue Saison auf der <strong> Suche nach interessierten, motivierten und talentierten Jugendfußballern </strong> in allen Altersklassen. Besonders suchen wir für die neue Saison Verst&auml;rkung für unsere <strong> C-Jugend (Jahrgang 1997/1998) </strong> und für unsere <strong> A-Jugend (Jahrgang 1993/1994)</strong>.  Bei Interesse meldet Euch bitte bei
-
-<a href="index.php?id=48"><em>Jugendleiter Nic Corrado</em></a>. </p>
-
-<br />
-
-  </div></td>
-
-        </tr> -->
-
-      <!--  <tr>
-
-        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong> Spendenübergabe an das Olgahospital</strong>
-
-            <p> Im Leben eines Hobbyfußballers gibt es nicht nur die Abseitsregel, sondern auch ein Engagement im sozialen Bereich. Kids erkundigten sich schon nach dem Termin im n&auml;chsten Jahr. Wir m&ouml;chten uns bei Micha`s Freizeitshop bedanken f&uuml;r die gro&szlig;z&uuml;gige Sachspende, ferner noch bei der Fa. Fontanis f&uuml;r die Getr&auml;nke und sonstiges Outfit. Vor allem aber bei der Sparkasse Illingen, f&uuml;r die gener&ouml;se Unterst&uuml;tzung und bei allen Helfern auf dem Rasen und im Hintergrund. Ach ja, wegen den Maultaschen! Nat&uuml;rlich stimmte unsere Kalkulation nicht, in den M&auml;gen hungriger Kinder verschwinden im Schnitt viereinhalb gro&szlig;e Exemplare dieser schw&auml;bischen Spezialit&auml;t.<br>
-
-                            Wir mussten also in Windeseile nachliefern, Hebbe sei Dank.</p>
-
-            <p>Wir w&uuml;nschen ein sch&ouml;nes Wochenende<br>
-
-              F&ouml;rderverein SV Illingen - Fu&szlig;ball<br>
-
-              Rainer M&uuml;ller<br>
-
-              &Ouml;ffentlichkeitsarbeit</p>
-
-            <br>
-
-          </div></td> -->
-
-      <!--   <tr>
-
-         <td id="contentfont" style= "text-align:left;">
-
-            <div align="left"><img src="bilder/svi_mini.jpg"><strong> Umbau der Grillh&uuml;tte</strong><br>
-
-
-
-                <p>Der Grill-Container am Rasenplatz Ost wird derzeit renoviert. Im Zuge dieser Erneuerungen wird noch eine <strong>gut erhaltene Sp&uuml;le / Doppelbeckensp&uuml;le mit Unterschrank </strong> oder <strong>eine kleine K&uuml;chenzeile </strong>gesucht. Zudem wird auch noch ein <strong>Zwei-Platten-Kocher</strong> ben&ouml;tigt. Wenn Sie brauchbares Material zur Verf&uuml;gung stellen k&ouml;nnen und wollen, melden Sie sich bei Charly W&ouml;hr (0151-10503855) oder <a href="index.php?id=75"><em>Abteilungsleiter Christian Gruica</em></a>.
-
-       </p>
-
-             </div>        </td></tr>
-
-             <tr>
-
-                <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
-
-             </tr> -->
-
-      <!--
-
- <tr>
-
-         <td id="contentfont" style= "text-align:left;">
-
-            <div align="left"><img src="bilder/svi_mini.jpg"><strong> Wir gratulieren ...</strong><br>
-
-
-
-                <p>Wir gratulieren unserem Jugendtrainer und Aktiven Spieler Dominik Kn&ouml;dler zur bestandenen Trainer-Pr&uuml;fung. Dominik reiht sich damit in den Kreis der Illinger &Uuml;bungsleiter mit &quot;Trainer C Breitenfu&szlig;ball&quot;-Lizenz ein. Herzlichen Gl&uuml;ckwunsch!!!</p>
-
-                <br />
-
-                  </div>
-
-        </td>
-
-</tr>
-
--->
-
-<!--
-<tr>
-
-        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"><strong> R&uuml;ckblick Jugend</strong>
-          <br>
-        <br>
-            <p>Die Runde 2014/2015 ist beendet. Alle Jugendmannschaften des SVI haben die Spielrunde abgeschlossen. Besonderer H&ouml;hepunkt war der Aufstieg der B-Jugend in die Bezirksstaffel. Aber auch alle anderen Mannschaften haben ihr Ziele erreicht. Die Jugendleitung bedankt sich bei allen Spielern, Trainern und Betreuern sowie den Eltern f&uuml;r die tatkr&auml;ftige Unterst&uuml;tzung. Wir hoffen auch in der kommenden Runde auf eure Unterst&uuml;tzung damit wir den Jugendfussball beim SVI auch weiterhin erfolgreich gestalten k&ouml;nnen. F&uuml;r die neue Saison stehen s&auml;mtliche Trainer fest und werden auch demn&auml;chst auf der Homepage ver&ouml;ffentlicht.<br>
-              Allen Spielern, die zur neuen Saison nach Illingen wechseln ein herzliches Willkommen!!!!!!!!!! Wir freuen uns auf Euch.<br>
-              Denjenigen Spielern, welche den Verein verlassen ein herzliches Dankesch&ouml;n und viel Erfolg bei eurem neuen Verein. Ihr wisst ja, der Weg zur&uuml;ck zum SVI steht euch immer offen.</p>
-            <p>In diesem Sinne </p>
-            <p>Jugendleitung Fussball SVI<br>
-            </p>
-            <p>Edgar Mantai Alexander K&ouml;ppl Karl-Heinz W&ouml;hr</p>
-<p><br /> 
- 
-</p>
-        </div></td>
-
-        </tr> 
-<tr>
-
-        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"><strong>Abteilungsbeitrag</strong> <br>
-            <br>
-            <p>Liebe  Mitglieder der Abteilung Fu&szlig;ball,</p>
-            <p>bei der  letztj&auml;hrigen Abteilungsversammlung wurde beschlossen, dass ab dem Jahr 2015  ein Abteilungsbeitrag in H&ouml;he von &euro; 30,--/Jahr von jedem Mitglied eingezogen  wird.</p>
-            <p>Der  Abteilungsbeitrag wird j&auml;hrlich zum 30.07. oder dem darauf folgenden Werktag  von Ihrem Konto mittels SEPA-Lastschrift eingezogen. </p>
-            <p>Das  Lastschriftmandat wird durch die Mandatsreferenz (Mitgliedsnummer) und unsere  Gl&auml;ubiger-Identifikationsnummer (DE35ZZZ00000596665) gekennzeichnet, die von  uns bei allen Lastschriften angegeben werden.</p>
-            <p>Mitglieder, die  nicht am SEPA-Lastschriftverfahren teilnehmen, werden gebeten, den Betrag bis  zum 30.07. auf unten genanntes Konto zu &uuml;berweisen. </p>
-            <p>Mit  freundlichen Gr&uuml;&szlig;en</p>
-            <p>Die  Abteilungsleitung </p>
-            <p>Bankverbindung<br>
-              Sparkasse Pforzheim-Calw Konto  Nr. 2221748 BLZ 666 500 85<br>
-              IBAN: DE40 6665 0085 0002 22217 48&nbsp;&nbsp;&nbsp; BIC: PZHSDE66XXX</p>
-            <br />
-  <br />
-              
-            </p>
-        </div></td>
-
-        </tr> 
- -->
-
-<!--
- <tr>
-
-        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong> Zweite Mannschaft feiert
-		Meisterschaft und Aufstieg!</strong>
-
-               
-
-           
-
-            <p>Die zweite Mannschaft des SVI sicherte sich durch einen 1:7-Auswärtserfolg beim SC Hohenhaslach II am letzten Spieltag die 
-			Meisterschaft in der Kreisliga C5. Dank einer überragenden Rückrunde ohne eine einzige Niederlage setzte sich das Team von Trainer
-			Nic Corrado letztlich mit insgesamt 50 Punkten aus 20 Saisonspielen an die Spitze der Tabelle und steigt somit in die Kreisliga B auf.<br>
-			Herzlichen Glückwunsch an die gesamte Mannschaft und das Trainer- und Betreuerteam!
-			
-
-            </p> 
-	  <a href="bilder/meisterschaft_zweite_g.jpg"><img src="bilder/meisterschaft_zweite.jpg" width="500" height="333"
-
-            alt="Meisterschaft Zweite Mannschaft" align="top"></a> <br>
-			<font size="-2">Quelle: VKZ/Oliver Bürkle</font> <br>
-
-
-
-
-
-            <br /> <br />
-
-</div></td>
-
-        </tr> 
--->
-
-    
-<!--	<tr>
-
-        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong> Nachtrag: Protokoll der Jahreshauptversammlung der Abt. Fu&szlig;ball</strong><br>
-
-
-
-<p>TOP 1 Begr&uuml;&szlig;ung<br>
-  Der Abteilungsleiter begr&uuml;&szlig;t die zahlreich anwesenden Mitglieder der Abtei-lung Fu&szlig;ball sowie den Vertreter des Hauptvereins.</p>
-<p>TOP 2 Totenehrung<br>
-  Der Verein gedenkt der im vergangenen Jahr Verstorbenen.</p>
-<p>TOP 3 Berichte<br>
-  a) Abteilungsleitung (Hubert Scheuermann)<br>
-  Der Abteilungsleiter dankt allen Vereinsmitgliedern f&uuml;r ihr Engagement und weist auf die zahlreichen, sehr erfolgreichen Aktivit&auml;ten im zur&uuml;ckliegenden Jahr hin. Jugendcamp, Dorf- und Kelterfest, Weihnachtsmarkt und die Hallen-spieltage seien wichtige Einnahmequellen f&uuml;r den Verein und machten ihn unabh&auml;ngig von Sponsoren.<br>
-  Ferner stehe die Errichtung der neuen Flutlichtmasten auf dem Sportgel&auml;nde bevor, das Material liege bereits im Illinger Bauhof. Es seien inzwischen alle H&uuml;rden f&uuml;r den Bau genommen, der ca. 3 Wochen in Anspruch nehmen soll. Das neue Flutlicht soll dann mit Freundschaftsspielen eingeweiht werden, f&uuml;r die AH wurden die Stuttgarter Kickers als Gegner gewonnen. F&uuml;r die Aktiven stehe der Gegner noch nicht fest.<br>
-  In Bezug auf die Besetzung von Schl&uuml;sselpositionen im Jugendbereich, v.a. diejenigen der Jugendleiter, deute sich ebenfalls Entspannung an; es seien Mitglieder gefunden worden, die sich gerne engagieren wollen.</p>
-<p>b) Hauptverein (Edgar Mantai)<br>
-  Edgar Mantai stellt die Personalsituation und die aktuellen Entwicklungen im Hauptverein dar und appelliert an alle anwesenden Mitglieder, sich zu enga-gieren.</p>
-<p>c) Spielleitung (Hubert Scheuermann)<br>
-  Stellvertretend f&uuml;r die Spielleitung fasst der Abteilungsleiter die sportliche Ent-wicklung der aktiven Mannschaften im vergangenen Kalenderjahr zusammen. Die Zweite Mannschaft stieg erfolgreich in die B-Liga 5 (Enz/Murr) auf, Ziel der laufenden Runde sei der Klassenerhalt, der durch die j&uuml;ngst beschlossene Abschaffung der C-Ligen bereits geschafft ist, aber auch auf sportlichem Wege realisiert werden soll. Die Erste Mannschaft musste 2014 den Abstieg in die A-Liga 3 (Enz/Murr) verkraften, steht aber in der laufenden Saison mit zwei Punkten Vorsprung an der Tabellenspitze und peilt den sofortigen Wiederaufstieg in die Bezirksliga an.</p>
-<p>d) Jugendleitung (Alexander K&ouml;ppl/Hubert Scheuermann) <br>
-  Es wird zun&auml;chst die Wichtigkeit der Besetzung des Jugendleiterpostens her-vorgehoben. Von den Bambinis bis zur C-Jugend spielen aktuell knapp 110 Kinder beim SV Illingen Fu&szlig;ball, alle Jugendmannschaften sind (teils sogar doppelt) besetzt. So k&ouml;nnen in der n&auml;chsten Saison sogar zwei C11-Mannschaften gemeldet werden. Ferner wurden zwei Hallenturniere in Illingen organisiert und von einigen Jugendtrainern auch Trainingscamps erfolgreich durchgef&uuml;hrt.<br>
-  Die B-Jugend sei aktuell das Aush&auml;ngeschild der Jugend und stehe vor dem Aufstieg in die Bezirksstaffel. Gleichzeitig helfen jedes Wochenende viele Ta-lente bereits in der A-Jugend aus, um dort den Verbleib in der Leistungsstaffel zu sichern. Die A-Jugend wiederum verzeichne ihrerseits viele Abstellungen zu den Aktiven, wof&uuml;r sich der Abteilungsleiter herzlich bedankt und darauf hin-weist, dass diese beiden Jugenden den Talentpool f&uuml;r die Zukunft der Illinger Aktiven darstellen. </p>
-<p>e) Sparte AH (Michael Klein)<br>
-  Es wird berichtet, dass in der AH derzeit 22 Spieler aktiv seien und im letzten Jahr zwei Turniere bestritten wurden. Aktuell wird gemeinsam mit der AH aus G&uuml;ndelbach trainiert, das Training unter freiem Himmel beginne wieder in der kommenden Woche. Die AH unterst&uuml;tze weiterhin gerne die Aktivit&auml;ten des Vereins wie z.B. Kelterfest und Weihnachtsmarkt.</p>
-<p>f) Kassenbericht (Hubert Scheuermann)<br>
-  Der Abteilungsleiter stellt fest, dass der Posten des Kassiers zur Zeit nicht besetzt ist und erkl&auml;rt, wie die Aufgaben vereinsintern verteilt wurden. Er referiert die Einnahmen und Ausgaben der Abteilung &ndash; die vorangegangene Kassenpr&uuml;-fung empfiehlt die Entlastung, welcher auch einstimmig stattgegeben wird.</p>
-<p>TOP 4: Aussprache<br>
-  Es bestehen keine R&uuml;ckfragen bzw. Diskussionsbedarf.</p>
-<p>TOP 5: Entlastungen<br>
-  Die Abteilungsleitung wird von den anwesenden Mitgliedern einstimmig ent-lastet.</p>
-<p>TOP 6: Antr&auml;ge<br>
-  Es waren keine zus&auml;tzlichen Antr&auml;ge eingegangen.</p>
-<p>TOP 7: Neuwahlen<br>
-  1. Abteilungsleiter: Hubert Scheuermann (einstimmige Wahl)<br>
-  3. Abteilungsleiter: Bernd Fischer (einstimmige Wahl)<br>
-  Kassier: vertagt<br>
-  1. Spielleiter: vertagt<br>
-  1. Jugendleiter: Edgar Mantai (einstimmige Wahl)<br>
-  2. Jugendleiter: Alexander K&ouml;ppl (einstimmige Wahl)<br>
-  3. Jugendleiter: Karl-Heinz W&ouml;hr (einstimmige Wahl)</p>
-<p>Die neu Gew&auml;hlten nehmen allesamt die Wahl an. Die Abteilungsleitung sowie die Mitglieder bedanken sich f&uuml;r das Engagement und w&uuml;nschen f&uuml;r die anstehenden Aufgaben ein gutes H&auml;ndchen und viel Erfolg!</p>
-<p>TOP 8: Verschiedenes<br>
-  a) Die Abteilungsleitung bittet um Mithilfe bei der Organisation und Durchf&uuml;h-rung des diesj&auml;hrigen Jugendcamps (27.-29. Mai) und zeigt verschiedene Wege auf, wie sich die Mitglieder einbringen k&ouml;nnen.<br>
-</p>
-<p>Benjamin F&auml;rber</p>
-<br /><br>
-
-  </div></td>
-</tr> -->
-<!--
-<tr>
-
-        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong> Jugend-Camp 2015</strong>
-
-               
-
-            <p align="center"><a href="http://www.svi-fussball.de/index.php?id=19"><img src="bilder/jugendcamp_logo_k.jpg"
-
-            alt="Vorschau Jugendcamp 2015" align="top" border="0px"></a></p>
-
-            <p>Vom
-
-            27.05.2015 bis 29.05.2015 veranstaltet der F&ouml;rderverein SV Illingen-Fu&szlig;ball e.V. das Jugend-Camp 2015 auf dem 
-			Sportgel&auml;nde des SV Illingen. Teilnehmen k&ouml;nnen Jugendliche von 5 bis 15 Jahren.<br>
-            <strong>Anmeldungen sind ab sofort möglich!!!</strong><br><br>
- Bitte beachten: Nur noch &nbsp;<span class="Stil3 Stil2 Stil4"><strong><font size="+2">4</font></strong></span> &nbsp;freie Plätze!!! (Stand 10.05.15)<br><br>
-            Weitere Informationen finden Sie <a href="http://www.svi-fussball.de/index.php?id=19"><em>hier</em></a>.</p>
-
-            <br />
-
-</div></td>
-
-        </tr> 
-        -->
-      <!--  
-     <tr>
-
-        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"><strong> Informationen f&uuml;r alle Teilnehmer des Jugend-Camps 2015</strong><br>
-
-
-
-                <p align="left">
-                Ablauf:<br><br>
-                
-                Mi 27.05.<br>
-                
-                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9.00 - 9.30 Uhr Eintreffen der Teilnehmer und Gruppeneinteilung<br>
-                
-                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9.30 Uhr Trainingsbeginn (Ende 16.00 Uhr)<br><br>
-                
-                Do 28.05.<br>
-                
-                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9.30 - 16.00 Uhr Training<br>
-                
-                <br>
-                
-                Fr 29.05.<br>
-                
-                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9.30 Uhr Trainingsbeginn<br>
-                
-                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ab 15.00 Uhr Abschluss mit den Eltern<br><br>
-                
-                Am Donnerstag u. Freitag k&ouml;nnen die Kinder bereits ab 9.00 Uhr von uns betreut werden. Falls Ihr Kind schon vor 9.00 Uhr gebracht wird oder erst nach 16.00 Uhr abgeholt werden kann, bitten wir Sie um kurze Mitteilung bei der Anmeldung am Mittwoch.<br>
-                <strong>Wir bitten Sie den Sportplatz über die Wilhelmstraße anzufahren und  dort zu parken </strong>(<a href="http://www.svi-fussball.de/index.php?id=25"><em>hier geht's zur Anfahrt</em></a>)<strong>. Vielen Dank!</strong><br>
-                
-                </p>
-                
-                      <p align="center"><a href="http://www.svi-fussball.de/index.php?id=19"><img src="bilder/jugendcamp_logo_k.jpg"
-                
-                            alt="Vorschau Jugendcamp 2015" align="top" border="0px" ></a>            </p>
-                
-                <br />
-                
-                  </div></td>
-
-        </tr>
--->
-<!--
- <tr>
-
-        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong> Firma TMD Schützingen 
-		spendet Sporttaschen für E2-Jugend!</strong>
-
-		<p> <a href="bilder/e2_taschen_g.jpg"><img src="bilder/e2_taschen.jpg" width="550" height="367"
-
-            alt="Spende E2" align="top"></a> </p>
-		
-            <p>Für den Besitzer der <strong>Firma TMD</strong>, Tuncay Cakmak,  ist es Ehrensache, gemeinnützige Dinge zu  unterstützen. 
-So überreichte die Firma TMD an die E2-Jugendfußballer des SV Illingen  
-Sporttaschen mit dem Firmenlogo der Firma TMD sowie mit dem Vereinslogo des SVI und den Initialen der jeweiligen Spieler.<br>
-Herzlichsten Dank für diese großzügige Spende!<br><br>
-Mehr Infos zur Firma TMD finden Sie unter <em><a href="http://www.tmd-service.de">www.tmd-service.de</a> </em>
-
-		
-            </p> 
-
-            <br />
-
-</div></td>
-
-        </tr> 
--->
-
-     
-
-     
-      <!-- <tr>
-
-        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong> Wir suchen Trainer/innen und Betreuer/innen</strong><br>
-
-
-
-<p>Für die neue Saison suchen wir im Juniorenbereich engagierte <strong> Trainer/innen </strong> und <strong> Betreuer/innen</strong>, die uns helfen wollen, die erfolgreiche Illinger Jugendarbeit fortzuführen. Gesucht werden Trainer besonders f&uuml;r  die <strong> F2-Junioren</strong>. Eine Trainerlizenz ist dabei nicht zwingend n&ouml;tig, eine Aus- oder Weiterbildung wird  in der Regel von der Abteilung gef&ouml;rdert. <br>
-
-  Bei Interesse wenden Sie sich bitte an
-
-<a href="index.php?id=48"><em>Jugendleiter Nic Corrado</em></a>. </p>
-
-<br />
-
-  </div></td>
-
-        </tr> -->
-
-      <!--
-
-<tr>
-
-        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong> Wir suchen Jugendfu&szlig;baller </strong><br>
-
-
-
-<p>Die Fußball-Jugend des SVI ist auch für die neue Saison auf der <strong> Suche nach interessierten, motivierten und talentierten Jugendfußballern </strong> in allen Altersklassen. Besonders suchen wir für die neue Saison Verst&auml;rkung für unsere <strong> C-Jugend (Jahrgang 1997/1998) </strong> und für unsere <strong> A-Jugend (Jahrgang 1993/1994)</strong>.  Bei Interesse meldet Euch bitte bei
-
-<a href="index.php?id=48"><em>Jugendleiter Nic Corrado</em></a>. </p>
-
-<br />
-
-  </div></td>
-
-        </tr> -->
-
-      <!--  <tr>
-
-        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong> Spendenübergabe an das Olgahospital</strong>
-
-            <p> Im Leben eines Hobbyfußballers gibt es nicht nur die Abseitsregel, sondern auch ein Engagement im sozialen Bereich. So freute sich dieser Tage die Kinderkrebsstation im Stuttgarter Olgahospital über einen Scheck in Höhe von 500.-- Euro. Überreicht wurde dieser durch den Fußballabteilungsleiter des SV Illingen, Christian Gruica und seinen Jugendleiter Nic Corrado. Beim Empfang im Hospital zeigte Sozialpädagoge Werner Braungart den Illingern alle Räumlichkeiten und wies auf die Notwendigkeit von Spenden hin. <br>
-
-             Zustande kam diese Spendeaktion durch den langen Klinik-Aufenthalt eines Jugendspielers des SV Illingen. In seiner "Freizeit" begann der Jugendliche zu zeichnen und zu malen, die kleinen Kunstwerke wurden zu einem Jahreskalender zusammengefasst. Die Herstellungskosten übernahm die Fußballabteilung des SV Illingen und unter der Schirmherrschaft von Bürgermeister Harald Eiberger konnten die Kalender verkauft werden. Die aktiven Spieler rundeten den Betrag dann auf die besagten 500.-- Euro auf. <br>
-
-              Die Fußballabteilung bedankt sich auf diesem Wege nochmals bei allen Spendern und ihrem "Schultes", wünscht dem Illinger Jugendspieler wieder viel Spaß bei seinem Hobby und wird sich auch in Zukunft nicht nur mit Streukalk und Abseitsregel beschäftigen.</p>
-
-             <a href="bilder/spendenuebergabe_olgaele_g.jpg"><img src="bilder/spendenuebergabe_olgaele.jpg" width="500" height="375"
-
-            alt="Spedenuebergabe Olgaele" align="top"></a> <br>
-
-            von links: Jugendleiter Nic Corrado, Sozialpädagoge Werner Braungart, Abteilungsleiter <br>
-
-             Christian Gruica.
-
-
-
-            <br>
-
-
-
-
-
-            <br />
-
-</div></td>
-
-        </tr>
-
--->
-
-      <!--
-
-    <tr>
-
-        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong> Wir suchen Trainer/innen und Betreuer/innen!</strong>
-
-            <p> F&uuml;r die neue Saison 2011/2012 (gegebenenfalls auch schon fr&uuml;her) suchen wir f&uuml;r verschiedene Mannschaften im Juniorenbereich engagierte <strong>Trainer/innen</strong> und <strong>Betreuer/innen</strong>, die uns helfen wollen, den eingeschlagenen, erfolgreichen Weg weiter zu gehen. Eine Trainerlizenz ist dabei nicht zwingend n&ouml;tig, eine Aus- oder Weiterbildung wird  in der Regel von der Abteilung gef&ouml;rdert. <br>
-
-            Wenn Sie Interesse haben, würden wir uns freuen, wenn Sie sich an unseren <a href="index.php?id=48"><em>Jugendleiter Nic Corrado</em></a> wenden würden.</p>
-
-
-
-            <br />
-
-</div></td>
-
-        </tr>
-
--->
-
-    <!--  <tr>
-
-        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong> Rückblick Illinger Open</strong>
-
-            <p> Die Illinger C-Jugend nahm in diesem Jahr in Zusammenarbeit mit der Metzgerei Lamm am Illinger Open teil. Am Stand direkt vor der Metzgerei wurden die zahlreichen Gäste
-
-                        mit Getränken und einem breiten Fleischangebot frisch vom Grill versorgt. <br>
-
-                        Die C-Jugend bedankt sich recht herzlich bei den helfenden Eltern, bei der Metzgerei Lamm für die Unterstützung und besonders auch bei Tanja Corrado für ihren großen Einsatz !
-
-          </p>
-
-            <br />
-
-</div></td>
-
-        </tr> -->
-
-
-
-      <!--
-
-  <!--  <tr>
-
-        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong> Historie</strong>
-
-            <p> <a href="index.php?id=22"><img src="bilder/historie/Erste1979.jpg" alt=""/></a><br><br>
-
-              Unsere Rubrik &quot;Historie&quot; hat wieder Zuwachs bekommen. Dieter Heinz lie&szlig; uns dieses Schmuckst&uuml;ck aus dem Jahre 1979 zukommen. Viele weitere Bilder ehemaliger SVI-Mannschaften finden Sie <a href="index.php?id=22"><em>hier</em></a>.</p>
-
-
-
-            <br />
-
-</div></td>
-
-        </tr> -->
-
-      <!--
-
-     <tr>
-
-        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong> Veranstaltungen der Fu&szlig;ballabteilung im Jahr 2011 terminiert </strong>
-
-            <p><a href="index.php?id=50"><em>zur Jahres&uuml;bersicht</em></a></p>
-
-            <br />
-
-</div></td>
-
-        </tr>
-
-      -->
-
-      <!--
-
-    <tr>
-
-        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong> Hallen-Trainingszeiten der Jugenden</strong>
-
-       <p> Ab dem 08. November 2010 trainieren die beiden E-Jugenden, die beiden F-Jugenden sowie die Bambini in der Halle zu folgenden Zeiten:</p>
-
-       <p>   Bambini: &nbsp;Freitag 16.30 Uhr - 18.00 Uhr  in der alten Halle <br />
-
-   F2 - Jugend: &nbsp;Donnerstag 18.15 - 19.30 Uhr in der neuen Halle (3. Hallenteil) <br />
-
-   F1 - Jugend: &nbsp;Montag 17.30 - 19.30 Uhr in der neuen Halle (1. Hallenteil) <br />
-
-   E2 - Jugend: &nbsp;Freitag 16.00 - 17.00 Uhr in der neuen Halle (ganze Halle) <br />
-
-   E1 - Jugend: &nbsp;Freitag 17.00 - 18.00 Uhr in der neuen Halle (ganze Halle) </p>
-
-        <br />
-
-</div></td>
-
-        </tr> -->
-
-
-
-
-
 
 
       <tr>
@@ -1734,199 +797,26 @@ Mehr Infos zur Firma TMD finden Sie unter <em><a href="http://www.tmd-service.de
 
       </tr>
 
-      <!--
-
-        <tr>
-
-          <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
-
-        </tr>
-
-        <tr>
-
-          <td id="contentfont" style= "text-align:right;"><div align="center"><strong>&nbsp;WINTERPAUSE</strong></div></td>
-
-        </tr>
-
-                <tr>
-
-          <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
-
-        </tr>
-
--->
-
 <!--
    <tr>          <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>        </tr>
  <tr>
 
         <td id="ueber2"><div><strong>* Vorbereitung:</strong></font></div></td>
 
-      </tr>	--> <!-- <tr>                <td id="contentfont" style= "text-align:right;"><div align="left"> <a href="vorbereitungsplan_sommer_14.xls"><em>>>> zum Vorbereitungsplan <<<</em> </div></td>             </tr> -->
-
-
-
-<!--
-
-  <tr>
-
-          <td id="contentfont" style= "text-align:left; padding-left:50px;"><strong> **Vorschau:</strong></td>
-
-      </tr> 
-
-
-		 
-			 <tr>
-                <td>
-                                <table id="inner_table" width="550" class="profil" >
-
-                                        <tr>
-                                <td width="26" id="contentfont6" style= "text-align:right;"><div align="right"><strong>Di</strong></div></td>
-                                <td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>17.03.15</strong></div></td>
-                                <td width="69" id="contentfont6" style= "text-align:right;"><div align="left"><strong>19.00 Uhr</strong></div></td>
-                                <td width="339" id="contentfont6" style= "text-align:right;"><div align="left">SV Illingen II - TSV Nussorf II</div></td>
-                                        </tr>
-                                        </table>                </td>
-        </tr> 
-			 <tr>
-                <td>
-                                <table id="inner_table" width="550" class="profil" >
-
-                                        <tr>
-                                <td width="26" id="contentfont6" style= "text-align:right;"><div align="right"><strong>So</strong></div></td>
-                                <td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>22.03.15</strong></div></td>
-                                <td width="69" id="contentfont6" style= "text-align:right;"><div align="left"><strong>&nbsp;</strong></div></td>
-                                <td width="339" id="contentfont6" style= "text-align:right;"><div align="left">1. Meisterschaftsspiele</div></td>
-                                        </tr>
-                                        </table>                </td>
-        </tr> -->
-	<!--	   
-  <tr>
-
-          <td id="contentfont" style= "text-align:left; padding-left:50px;"><strong> **Ergebnisse:</strong></td>
-
-        </tr>
-		<tr>          <td id="contentfont" style= "text-align:left; padding-left:50px;">SC Abstatt I - SV Illingen I&nbsp;  2:2 (0:2)<br/>            
-		<span class="Stil20"><em>Torsch&uuml;tzen: 2x Arne Körner</em></span> </td>        </tr> 
-
-		<tr>
-
-                <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
-
-             </tr>
-
-                 <tr>
-
-        <td height="50px" colspan="7"><hr width="100%" size="1px" noshade style="color:#cccccc; background-color:#CCCCCC;"></td>
-
-      </tr> -->
-
-
-
-
-
-      <!--      <tr>
-
-                <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
-
-             </tr>
-
-        <tr>
-
-                <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
-
-             </tr>
-
-  <!--      <tr>
-
-          <td id="contentfont" style= "text-align:left; padding-left:50px;"><strong> **Vorschau:</strong></td>
-
-        </tr>
-
-
-
-        <tr>
-
-                <td>
-
-                                <table id="inner_table" width="550" class="profil" >
-
-                                        <tr>
-
-
-
-                                <td width="26" id="contentfont6" style= "text-align:right;"><div align="right"><strong>So</strong></div></td>
-
-                                <td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>21.08.11</strong></div></td>
-
-                                <td width="69" id="contentfont6" style= "text-align:right;"><div align="left"><strong>15.00 Uhr</strong></div></td>
-
-                                <td width="339" id="contentfont6" style= "text-align:right;"><div align="left">TSV Untergruppenbach - SV Illingen I </div></td>
-
-                                        </tr>
-
-                                        </table>                </td>
-
-        </tr>
-
-       -->
-
-
-
-     <!--  <tr>
-
-        <td id="contentfont" style= "text-align:left;"><div align="left"><br>
-
-                Die beiden aktiven Mannschaften bereiten sich im Moment auf die neue Saison 2013/2014 vor ! <br /> <br /><a href="vorbereitungsplan_sommer_2013_19.07..xls"><em>>> zum aktuellen Vorbereitungsplan <em>(Update: 22.07.13)</em> <<</em></a><br />
-
-        </div></td>
-
-      </tr> -->
-
-
-
- <!--     <tr>
-
-        <td id="ueber2"> * Vorschau: </td>
-
-      </tr>
-
-      <tr>
-
-        <td id="contentfont" style= "text-align:left;"><p><b>Sa 09.06</b><b>. 15.00 Uhr</b> &nbsp;<img src="bilder/MannschaftsLogos/svi_logo55px.jpg" alt=" " align="middle"> SV Illingen I&nbsp;vs.         TSF Ditzingen I
-
-      <img src="bilder/MannschaftsLogos/germania.jpg" alt=" " align="middle">
-
-        </p></td>
-
-      </tr>
-
+      </tr>	--> 
+      <!-- <tr>                <td id="contentfont" style= "text-align:right;"><div align="left"> <a href="vorbereitungsplan_sommer_14.xls"><em>>>> zum Vorbereitungsplan <<<</em> </div></td>             </tr> 
       -->
-
-        <!--  <tr>
-
-        <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
-
-      </tr>
-
-      <tr>
-
-        <td height="50px" colspan="7"><hr width="100%" size="1px" noshade style="color:#cccccc; background-color:#CCCCCC;"></td>
-
-      </tr> -->
+  
 	  <tr>
         <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
       </tr>
+      
+      
 <!--
  <tr>
         <td id="ueber2"><div><strong>* Meisterschaft:</strong></div></td>
       </tr>  -->
-	   	 <tr>                <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>             </tr> 
-	   <tr>                <td id="contentfont" style= "text-align:right;"><div align="left"><strong>Beide aktiven Mannschaften befinden sich derzeit in der Sommerpause !!!</strong></div></td>             </tr> 
 
-                <td id="contentfont" style= "text-align:right;"><div align="left"><strong>Am 11.07. starteten sie unter dem neuen Trainer Bernd Vollmer in die Vorbereitung zur neuen Saison.</strong></div></td>
-
-             </tr> 
 		<!-- 
  <tr>
  
@@ -1960,81 +850,76 @@ Mehr Infos zur Firma TMD finden Sie unter <em><a href="http://www.tmd-service.de
       <tr>
         <td height="50px" colspan="7"><hr width="100%" size="1px" noshade style="color:#cccccc; background-color:#CCCCCC;"></td>
       </tr>  -->
-
-  <!--  <tr>
-        <td id="ueber2"><div><strong>* Bezirkspokal (2. Runde):</strong></font></div></td>
-      </tr>
-      <tr>
-          <td id="contentfont" style= "text-align:left; padding-left:50px;">SV Illingen I - SV Freudental I&nbsp;  3:4 (1:3)<br/>
-            <span class="Stil20"><em>Torsch&uuml;tzen: 2x Tobias Häfner, Eros Schembri</em></span><br><br>
-        </td></tr>  
   
       <tr>
-                        <td height="50px" colspan="7"><hr width="100%" size="1px" noshade style="color:#cccccc; background-color:#CCCCCC;"></td>
-                </tr>     -->
-
-<!--
- <tr>
-
-        <td id="ueber2"><div><strong>*
-
-          Relegation Kreisliga A / Bezirksliga:</strong></font></div></td>
-
-      </tr>
-
-      <tr>
-
-          <td id="contentfont" style= "text-align:left; padding-left:50px;"><strong> **Ergebnis (1. Runde):</strong></td>
-
-        </tr>
-
-      <tr>
-
-        <td id="contentfont" style= "text-align:left; padding-left:50px;">SV Illingen  I&nbsp;vs. TSV Benningen I&nbsp; 2:3 (2:1)<br/>
-
-            <span class="Stil20"><em>Torsch&uuml;tzen: 1:1 Pasquale Arena, 2.1 Tim Scheuermann</em></span><br>
-
-            <br>
-
-                        <a href="http://www.fussball.de/spiel/entscheidungsspiele-1-runde-a1--a3-bezirk-enz-murr-bezirksliga-herren-saison1415-wuerttemberg/-/spiel/01OM8RMGUO000000VV0AG812VSLI4SLM#!/section/stage"><em>mehr Infos zum Spiel</em></a> </td>
-
-      </tr>
-
--->    
-
-
-
-
-<!-- 
- <tr>
 
         <td id="ueber2"> * Meisterschaftsvorschau: </td>
 
-      </tr> 
+      </tr> 	  
+<?php
 
+ //turn off notice and deprecated reporting
+ error_reporting(E_ALL ^ ( E_NOTICE | E_DEPRECATED ));
 
-	  <tr>                <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>             </tr> 
-		  	
-	  
+ // database connection
+ 	$db_link = mysqli_connect('w00be8df.kasserver.com','d01f06ec','qwe123','d01f06ec');
+
+	date_default_timezone_set("Europe/Berlin");
+	$timestamp = time();
+	$heute = date("Y-m-d",$timestamp);
+	$jetzt = date("H:i",$timestamp);
+	$datumPlusX = time() + (21 * 24 * 60 * 60);	// 21 Tage in Sekunden
+	$in3Wochen = date("Y-m-d",$datumPlusX);
+ 
+ 	$query = "SELECT * FROM `Aktive` WHERE `datum` BETWEEN '$heute' AND '$in3Wochen' 
+ 	AND `goalsHome` is NULL";
+
+$db_erg = mysqli_query( $db_link, $query );
+while ($zeile = mysqli_fetch_array( $db_erg, MYSQL_ASSOC))
+{
+	// Logoabfrage
+	$homeTeam = substr($zeile['home'],0,strlen($zeile['home'])-3);
+	$guestTeam = substr($zeile['guest'],0,strlen($zeile['guest'])-3);
+	$queryLogoHome = "SELECT * FROM `Logos` WHERE `team` LIKE  '%$homeTeam%'";
+	$db_logoHome = mysqli_query( $db_link, $queryLogoHome );
+	$logosHome = mysqli_fetch_array( $db_logoHome, MYSQL_ASSOC);
+	$queryLogoGuest = "SELECT * FROM `Logos` WHERE `team` LIKE  '%$guestTeam%'";
+	$db_logoGuest = mysqli_query( $db_link, $queryLogoGuest );
+	$logosGuest = mysqli_fetch_array( $db_logoGuest, MYSQL_ASSOC);
 	
-	  	   <tr>        <td id="contentfont" style= "text-align:left;"><p><b>So 07.06</b><b>. 15.00 Uhr</b>          
-	 &nbsp;<img src="bilder/MannschaftsLogos/ensingen.jpg"alt=" " align="middle"> TSV Ensingen I&nbsp;vs. SV Illingen II		
-	  <img src="bilder/MannschaftsLogos/svi_logo55px.jpg" alt=" " align="middle"> </p></td>      </tr>  
-	<tr>        <td id="contentfont" style= "text-align:left;"><p><b>So 07.06</b><b>. 15.00 Uhr</b>          
-	 &nbsp; <img src="bilder/MannschaftsLogos/bissingen.jpg"alt=" " align="middle"> Spvgg Bissingen I &nbsp;vs. SV Illingen I	
-	  <img src="bilder/MannschaftsLogos/svi_logo55px.jpg" alt=" " align="middle">  </p></td>      </tr> -->
-	  	  
-	   <!--    <tr>
-        <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
-      </tr>
+	// Datum
+	$wochentage = array("So", "Mo", "Di", "Mi", "Do", "Fr", "Sa");
+	$date = $zeile['datum'];
+	$phpDate = strtotime ($date);
+	$myDate = date("d.m.", $phpDate);
+	$day = $wochentage[date("w", $phpDate)];
+	$anpfiff = substr($zeile['anpfiff'],0,5); // Zeit ohne Sekunden
+	
+	// Code
+ 	echo "<tr>";
+  	echo "<td id='contentfont' style= 'text-align:left;'><p><b>". 
+  	$day . " " . $myDate . " " . $anpfiff . " Uhr </b> " . 
+  	"&nbsp;&nbsp;&nbsp;<img src='" . $logosHome['logo'] . "' align='middle'>&nbsp;&nbsp;&nbsp;" . 
+  	$zeile['home'] . " vs. " . $zeile['guest'] . 
+  	"&nbsp;&nbsp;&nbsp<img src='" . $logosGuest['logo'] . "' align='middle'> " .
+  	"</td>" ;
+  	echo "</tr>";
+
+}
+
+  mysqli_close($db_link);
+?>
+</td>
+
 <tr>
+	<td height="50px" colspan="7">
+		<hr width="100%" size="2px" noshade style="color:#0066cc; background-color:#CCCCCC;">
+	</td>
+</tr>		
 
-                        <td height="50px" colspan="7">
 
-                                <hr width="100%" size="1px" noshade style="color:#cccccc; background-color:#CCCCCC;">                        </td>
 
-                </tr> -->
-		<!--		 <tr>
+<!--		 <tr>
 
           <td id="ueber2">
 
@@ -2187,7 +1072,7 @@ Mehr Infos zur Firma TMD finden Sie unter <em><a href="http://www.tmd-service.de
              </tr>
 
  
-	   <tr>                <td id="contentfont" style= "text-align:right;"><div align="left"><strong>Und auch unsere Jugendmannschaften erholen sich gerade von der letzten Saison!!!</strong></div></td>             </tr> 
+	   <tr>                <td id="contentfont" style= "text-align:right;"><div align="left"><strong>Unsere Jugendmannschaften erholen sich gerade von der letzten Saison!!!</strong></div></td>             </tr> 
 
                 <td id="contentfont" style= "text-align:right;"><div align="left"></div></td>
 
@@ -3708,13 +2593,18 @@ Mehr Infos zur Firma TMD finden Sie unter <em><a href="http://www.tmd-service.de
                                         break;
 
 
-
-                                case 11:
+								case 11:include("under_construction.php");break;
+								case 13:include("under_construction.php");break;
+								case 14:include("under_construction.php");break;
+								case 27:include("under_construction.php");break;
+											
+                                /*case 11:
 
                                         include("kader1.php");
 
                                         break;
-
+								*/
+								
 
 
                                 case 12:
@@ -3724,7 +2614,7 @@ Mehr Infos zur Firma TMD finden Sie unter <em><a href="http://www.tmd-service.de
                                         break;
 
 
-
+								/*
                                 case 13:
 
                                         include("training.php");
@@ -3738,7 +2628,7 @@ Mehr Infos zur Firma TMD finden Sie unter <em><a href="http://www.tmd-service.de
                                         include("trainingszeiten.php");
 
                                         break;
-
+								*/
 
 
                                 case 15:
@@ -3815,9 +2705,6 @@ Mehr Infos zur Firma TMD finden Sie unter <em><a href="http://www.tmd-service.de
 
                                 case 24:
 
-                                        include("trainerinfos.php");
-
-                                        break;
 
 
 
@@ -3828,13 +2715,13 @@ Mehr Infos zur Firma TMD finden Sie unter <em><a href="http://www.tmd-service.de
                                         break;
 
 
-
+								/*
                                 case 27:
 
                                         include("neuzugaenge.php");
 
                                         break;
-
+								*/
 
 
                                 case 28:

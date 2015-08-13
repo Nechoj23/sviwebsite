@@ -31,7 +31,10 @@
 &nbsp;&nbsp;SV Illingen Hauptverein<br />
 &nbsp;&nbsp;&nbsp;--------------<br /> -->
 
-
+&nbsp;&nbsp;23.08.15<br />
+&nbsp;&nbsp;Saisonstart der<br />
+&nbsp;&nbsp;Aktiven<br />
+&nbsp;&nbsp;&nbsp;--------------<br />
 &nbsp;&nbsp;12.12.15 - 13.12.15<br />
 &nbsp;&nbsp;Weihnachtsmarkt in<br />
 &nbsp;&nbsp;Illingen<br />

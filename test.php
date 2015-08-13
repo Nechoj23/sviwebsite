@@ -9,6 +9,15 @@
           </td>
         </tr>
         <tr>
+                </tr>  
+<tr>
+
+        <td id="ueber2"> * Meisterschaftsvorschau: </td>
+
+      </tr> 
+
+
+	  <tr>                <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>             </tr> 
           <td>
        <?php
 
@@ -17,26 +26,58 @@
 
  // database connection
  
- $db_link = mysql_connect('w00be8df.kasserver.com','d01f06ec','qwe123');
- $db_select = mysql_select_db('d01f06ec');
-
+// $db_link = mysql_connect('w00be8df.kasserver.com','d01f06ec','qwe123');
+// $db_select = mysql_select_db('d01f06ec');
+ 	$db_link = mysqli_connect('w00be8df.kasserver.com','d01f06ec','qwe123','d01f06ec');
 
 	date_default_timezone_set("Europe/Berlin");
 	$timestamp = time();
 	$heute = date("Y-m-d",$timestamp);
 	$jetzt = date("H:i",$timestamp);
-	$datumPlus21 = time() + (21 * 24 * 60 * 60);	// 21Tage in Sekunden
-	$in3Wochen = date("Y-m-d",$datumPlus21);
-	//echo $datum," - ",$uhrzeit," Uhr";
-	//echo $in3Wochen;
+	$datumPlusX = time() + (21 * 24 * 60 * 60);	// 21 Tage in Sekunden
+	$in3Wochen = date("Y-m-d",$datumPlusX);
  
- $query = "SELECT * FROM `Aktive` WHERE `datum` BETWEEN '$heute' AND '$in3Wochen'";
+ 	$query = "SELECT * FROM `Aktive` WHERE `datum` BETWEEN '$heute' AND '$in3Wochen' 
+ 	AND `goalsHome` is NULL";
+ 
+ //$nextMatches = mysql_query($query);
+ //$numMatches = mysql_numrows($nextMatches);
 
- $nextMatches = mysql_query($query);
- $numMatches = mysql_numrows($nextMatches);
+$db_erg = mysqli_query( $db_link, $query );
+while ($zeile = mysqli_fetch_array( $db_erg, MYSQL_ASSOC))
+{
+	// Logoabfrage
+	$homeTeam = substr($zeile['home'],0,strlen($zeile['home'])-3);
+	$guestTeam = substr($zeile['guest'],0,strlen($zeile['guest'])-3);
+	$queryLogoHome = "SELECT * FROM `Logos` WHERE `team` LIKE  '%$homeTeam%'";
+	$db_logoHome = mysqli_query( $db_link, $queryLogoHome );
+	$logosHome = mysqli_fetch_array( $db_logoHome, MYSQL_ASSOC);
+	$queryLogoGuest = "SELECT * FROM `Logos` WHERE `team` LIKE  '%$guestTeam%'";
+	$db_logoGuest = mysqli_query( $db_link, $queryLogoGuest );
+	$logosGuest = mysqli_fetch_array( $db_logoGuest, MYSQL_ASSOC);
+	
+	// Datum
+	$wochentage = array("So", "Mo", "Di", "Mi", "Do", "Fr", "Sa");
+	$date = $zeile['datum'];
+	$phpDate = strtotime ($date);
+	$myDate = date("d.m.", $phpDate);
+	$day = $wochentage[date("w", $phpDate)];
+	$anpfiff = substr($zeile['anpfiff'],0,5); // Zeit ohne Sekunden
+	
+	// Code
+ 	echo "<tr>";
+  	echo "<td id='contentfont' style= 'text-align:left;'><p><b>". 
+  	$day . " " . $myDate . " " . $anpfiff . " Uhr </b> " . 
+  	"&nbsp;&nbsp;&nbsp;<img src='" . $logosHome['logo'] . "' align='middle'>&nbsp;&nbsp;&nbsp;" . 
+  	$zeile['home'] . " vs. " . $zeile['guest'] . 
+  	"&nbsp;&nbsp;&nbsp<img src='" . $logosGuest['logo'] . "' align='middle'> " .
+  	"</td>" ;
+  	echo "</tr>";
+
+}
 
 
- $q=0;
+ /*$q=0;
  while ($q < $numMatches) 
  {
  $home=mysql_result($nextMatches,$q,"home");
@@ -44,25 +85,24 @@
  $date=mysql_result($nextMatches,$q,"datum");
  $phpDate = strtotime ($date);
  $myDate = date("d.m.Y", $phpDate);
- echo "<b>$myDate"." $home"." vs ".$guest."<br>";
+ echo "<b>$myDate"." $home"." vs. ".$guest."<br>";
 
  $q ++;
  }
-  echo "<h1><b>test</b></h1>";
- /*
- while($row = mysqli_fetch_array($result)) 
- {
- echo $row["name"] . "<br>";
- } 
  */
-
-
+  //echo "<h1><b>test</b></h1>";
+  mysqli_close($db_link);
 ?>
-
-        
-     </td>
-        </tr>  
-        
+</td>
+<!--
+	
+	  	   <tr>        <td id="contentfont" style= "text-align:left;"><p><b>So 07.06</b><b>. 15.00 Uhr</b>          
+	 &nbsp;<img src="bilder/MannschaftsLogos/bissingen.jpg"alt=" " align="middle"> TSV Ensingen I&nbsp;vs. SV Illingen II		
+	  <img src="bilder/MannschaftsLogos/svi_logo55px.jpg" alt=" " align="middle"> </p></td>      </tr>  
+	<tr>        <td id="contentfont" style= "text-align:left;"><p><b>So 07.06</b><b>. 15.00 Uhr</b>          
+	 &nbsp; <img src="bilder/MannschaftsLogos/kleinglattbach.jpg"alt=" " align="middle"> Spvgg Bissingen I &nbsp;vs. SV Illingen I	
+	  <img src="bilder/MannschaftsLogos/svi_logo55px.jpg" alt=" " align="middle">  </p></td>      </tr>
+--> 
 
       </table>
       

@@ -37,7 +37,7 @@
 			  
 			  0172-7321751<br>
 			  
-			  <a href="mailto:h.scheuermann@hausfinanzkontor.de"><img src="MailSymbol2.jpg" width="15" height="10" border="0"></a>
+			  <a href="mailto:h.scheuermann@hausfinanzkontor.de"><img src="MailSymbol2.jpg"  border="0"></a>
 			  
 		  </td>
     </tr>
@@ -63,7 +63,7 @@
 		  <td id="contentFont" width="140" align="left" valign="top">
 				
 				0171-6828365 <br>
-				<a href="mailto:herbert.rau@sv-illingen.de"><img src="MailSymbol2.jpg" width="15" height="10" border="0"></a>
+				<a href="mailto:herbert.rau@sv-illingen.de"><img src="MailSymbol2.jpg"border="0"></a>
 		  </td>       
         </tr>
 		
@@ -87,7 +87,7 @@
 			  
 			  
 		  0171-7845313<br> 
-			  <a href="mailto:info.bernd.fischer@mecklenburgische.de"><img src="MailSymbol2.jpg" width="15" height="10" border="0"></a>
+			  <a href="mailto:info.bernd.fischer@mecklenburgische.de"><img src="MailSymbol2.jpg"border="0"></a>
 			  
 		  </td>
 	</tr>
@@ -165,7 +165,7 @@
 				  Matthias Spengler</td>
           <td id="contentFont" width="140" align="left" valign="top">
 				  	0160-5407640 <br>
-		  <a href="mailto:	matthiasspengler@hotmail.de"><img src="MailSymbol2.jpg" width="15" height="10" border="0"></a></td>
+		  <a href="mailto:	matthiasspengler@hotmail.de"><img src="MailSymbol2.jpg"border="0"></a></td>
         </tr>   
 <tr id="contentFont">
           
@@ -184,7 +184,7 @@
 				  Michael Spengler</td>
           <td id="contentFont" width="140" align="left" valign="top">
 				  	0176-96465976  <br>
-		  <a href="mailto:michaelspengler1981@yahoo.de"><img src="MailSymbol2.jpg" width="15" height="10" border="0"></a></td>
+		  <a href="mailto:michaelspengler1981@yahoo.de"><img src="MailSymbol2.jpg" border="0"></a></td>
         </tr>  		
 
         <tr align="center" valign="middle">
@@ -208,7 +208,7 @@
 				75428 Illingen
 		  </td>
 		  <td id="contentFont" width="140" align="left" valign="top">0157-50103531<br>
-				<a href="mailto:edgar.mantai@t-online.de"><img src="MailSymbol2.jpg" alt="" width="15" height="10" border="0" /></a><a href="mailto:herbert.rau@sv-illingen.de"></a>
+				<a href="mailto:edgar.mantai@t-online.de"><img src="MailSymbol2.jpg" alt=""border="0" /></a><a href="mailto:herbert.rau@sv-illingen.de"></a>
 		  </td>       
         </tr>
         
@@ -224,7 +224,7 @@
           <td id="contentFont" width="135" align="left" valign="top">
 				  Alexander K&ouml;ppl</td>
          <td id="contentFont" width="140" align="left" valign="top">0171-3672714<br>
-	  <a href="mailto:alex_steffi@arcor.de"><img src="MailSymbol2.jpg" width="15" height="10" border="0" alt=""></a>		  </td>
+	  <a href="mailto:alex_steffi@arcor.de"><img src="MailSymbol2.jpg"border="0" alt=""></a>		  </td>
         </tr> 
         <tr id="contentFont">
       <td id="contentFont" width="166" align="left" valign="top">
@@ -233,7 +233,7 @@
           <td id="contentFont" width="135" align="left" valign="top">
 		  Karl-Heinz W&ouml;hr</td>
          <td id="contentFont" width="140" align="left" valign="top">0151-10503855<br>
-		  <a href="mailto:khwoehr@web.de"><img src="MailSymbol2.jpg" width="15" height="10" border="0" alt=""></a>		  </td>
+		  <a href="mailto:khwoehr@web.de"><img src="MailSymbol2.jpg"border="0" alt=""></a>		  </td>
         </tr> 
      
         <tr>
@@ -308,7 +308,7 @@
 				  Thomas Bürkle <br>
           
       <td id="contentFont" align="left" valign="top">0157-78942449<br>
-				  <a href="mailto:pommi@online.de"><img src="MailSymbol2.jpg" width="15" height="10" border="0"></a>
+				  <a href="mailto:pommi@online.de"><img src="MailSymbol2.jpg"border="0"></a>
 		  </td> 
         </tr>
 		
@@ -331,7 +331,7 @@
 				  Marcel Schneider <br>
           
       <td id="contentFont" align="left" valign="top">0162-8982242<br>
-				  <a href="mailto:marcel.schneider@sv-illingen.de"><img src="MailSymbol2.jpg" width="15" height="10" border="0"></a>
+				  <a href="mailto:marcel.schneider@sv-illingen.de"><img src="MailSymbol2.jpg" border="0"></a>
 		  </td>
         </tr>
 		
@@ -351,14 +351,14 @@
           <td id="contentFont" align="left" valign="top"></td>  
      	 <td id="contentFont" align="left" valign="top"> Jochen Conradt </td>   
      	 <td id="contentFont" align="left" valign="top">0160-96210152<br>
-				  <a href="mailto:homepage@sv-illingen.de"><img src="MailSymbol2.jpg" width="15" height="10" border="0"></a></td>
+				  <a href="mailto:homepage@sv-illingen.de"><img src="MailSymbol2.jpg" border="0"></a></td>
         </tr>
 
      <!--   <tr id="contentFont">
           <td id="contentFont" align="left" valign="top"></td>  
      	 <td id="contentFont" align="left" valign="top">Michael K&ouml;ppl</td>   
      	 <td id="contentFont" align="left" valign="top">0160-99053179<br>
-				  <a href="mailto:homepage@sv-illingen.de"><img src="MailSymbol2.jpg" width="15" height="10" border="0"></a></td>
+				  <a href="mailto:homepage@sv-illingen.de"><img src="MailSymbol2.jpg" border="0"></a></td>
         </tr> -->
         
         <tr>
