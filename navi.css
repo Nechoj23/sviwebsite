@@ -4,7 +4,7 @@
 	width:120px; 
 	position:absolute;
 	vertical-align:top;
-	left:0px; 
+	left:5px; 
 	top:0px; 
 	z-index:1;
 	border-collapse:collapse;	
@@ -72,10 +72,10 @@
 	font-family:Verdana, Arial, Helvetica, sans-serif;
 	text-decoration:none;
 	width:100%;
-	font-size: 11px; 
+	font-size: 11px;
 	color:#FFFFFF;
 	display:block;
-	background-color:#0066cc;
+	background-color:#0066CC;
 //	border:1px solid #cccccc;	
 	padding:3px 5px 3px 5px;
 }
@@ -144,17 +144,17 @@
 
 #mannschaften { 
 	position:absolute; 
-	left: 112px; top:35px; 
+	left: 132px; top:35px; 
 	width:100px; height:70px; 
 	z-index:1; 
-	visibility: hidden; 
+	visibility: hidden;
 }
 
 
 
 #aktive1 { 
 	position:absolute; 
-	left: 210px; top:39px; 
+	left: 230px; top:39px; 
 	width:100px; height:70px; 
 	z-index:1; 
 	visibility: hidden; 
@@ -162,7 +162,7 @@
 
 #saison1 { 
 	position:absolute; 
-	left: 310px; top:101px; 
+	left: 330px; top:101px; 
 	width:100px; height:70px; 
 	z-index:1; 
 	visibility: hidden; 
@@ -171,7 +171,7 @@
 
 #jugend { 
 	position:absolute; 
-	left:210px; top:59px; 
+	left:230px; top:59px; 
 	width:100px; height:70px; 
 	z-index:1; 
 	visibility: hidden; 
@@ -181,7 +181,7 @@
 
 #verein{ 
 	position:absolute; 
-	left: 112px; top:60px; 
+	left: 132px; top:62px; 
 	width:100px; height:70px; 
 	z-index:1; 
 	visibility: hidden; 
@@ -205,7 +205,7 @@
 
 #sponsoring{
 	position:absolute; 
-	left: 112px; top:160px;
+	left: 132px; top:170px;
 	width: 100px; height: 70px;
 	z-index:1;
 	visibility: hidden;

@@ -5,16 +5,12 @@
       <table width="600" border="0" cellpadding="0" cellspacing="0">
         <tr> 
           <td width="475" colspan="3" id="contentTable"> 
-            <div align="left">N&auml;chste Spiele</div>
+            <div align="left">&nbsp;</div>
           </td>
         </tr>
         <tr>
                 </tr>  
-<tr>
 
-        <td id="ueber2"> * Meisterschaftsvorschau: </td>
-
-      </tr> 
 
 
 	  <tr>                <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>             </tr> 
@@ -26,10 +22,45 @@
 
  // database connection
  
-// $db_link = mysql_connect('w00be8df.kasserver.com','d01f06ec','qwe123');
-// $db_select = mysql_select_db('d01f06ec');
+//$db_link = mysql_connect('w00be8df.kasserver.com','d01f06ec','qwe123')  or die(mysql_error());
+//$db_select = mysql_select_db('d01f06ec') or die(mysql_error());
  	$db_link = mysqli_connect('w00be8df.kasserver.com','d01f06ec','qwe123','d01f06ec');
+	
+	$home = $_POST[home]; 
+	if(empty($home) || $home != int) $home = NULL;
+	$guest = $_POST[guest];
+	if(empty($guest)  || $guest != int) $guest = NULL;
+	$goalgetters = $_POST[goalgetters];
+	if(empty($goalgetters)) $goalgetters = "";
+	
+	date_default_timezone_set("Europe/Berlin");
+	$timestamp = time();
+	$heute = date("Y-m-d",$timestamp);
+	$jetzt = date("H:i",$timestamp);
+	$datumMinusX = time() + (7 * 24 * 60 * 60);	// 7 Tage in Sekunden
+	$vor1Woche = date("Y-m-d",$datumMinusX);
+	
+	$query  = "UPDATE `d01f06ec`.`Aktive` SET `goalsHome` = '$home',`goalsGuest` = '$guest',`goalgetters` = '$goalgetters' WHERE `datum` BETWEEN '$heute' AND '$vor1Woche'";
+	$query2 = "SELECT * FROM `Aktive` WHERE `datum` BETWEEN '$heute' AND '$vor1Woche'";
+	
+/*$db_erg = mysqli_query( $db_link, $query2 );
+while ($zeile = mysqli_fetch_array( $db_erg, MYSQL_ASSOC))
+{	
+	// Code
+  	echo $zeile['home'] . " vs. " . $zeile['guest'];
 
+}
+*/
+//$insert = mysqli_query($query);
+
+ 		$query  = "UPDATE `d01f06ec`.`Aktive` SET `goalsHome` = ?,`goalsGuest` = ?,`goalgetters` = ? WHERE `datum` BETWEEN '$heute' AND '$vor1Woche'";		
+        $eintrag = $db_link->prepare( $query );
+        $eintrag->bind_param( 'iis', $home, $guest, $goalgetters );
+        $eintrag->execute();
+		echo "Ergebnis erfolgreich eingetragen!";
+
+//INSERT INTO `d01f06ec`.`Aktive` (`index`, `datum`, `anpfiff`, `home`, `guest`, `goalsHome`, `goalsGuest`, `goalgetters`) VALUES ('111', '2015-08-02', '15:00:00', 'a', 'b', NULL, NULL, '');
+/*
 	date_default_timezone_set("Europe/Berlin");
 	$timestamp = time();
 	$heute = date("Y-m-d",$timestamp);
@@ -76,7 +107,7 @@ while ($zeile = mysqli_fetch_array( $db_erg, MYSQL_ASSOC))
 
 }
 
-
+*/
  /*$q=0;
  while ($q < $numMatches) 
  {
@@ -91,7 +122,7 @@ while ($zeile = mysqli_fetch_array( $db_erg, MYSQL_ASSOC))
  }
  */
   //echo "<h1><b>test</b></h1>";
-  mysqli_close($db_link);
+//  mysqli_close($db_link);
 ?>
 </td>
 <!--

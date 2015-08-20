@@ -520,29 +520,7 @@ function MM_showHideLayers() { //v3.0
 
         </tr>
 -->
-<!--<tr>        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong>Trainingsauftakt bei den Aktiven!</strong><br>
-  
-      <p> Die beiden aktiven Mannschaften des SVI starten am kommenden Sonntag (08. Februar) um 10.00 Uhr in die Vorbereitung auf die Rückrunde.
-Eine Übersicht der bisher geplanten Testspiele finden Sie 	<a href="#Testspiele"> <em>hier</em>. </a>  </p>
--->
 
-<!--
-<tr>        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong>E2 erreicht vierten Platz beim Turnier in Bietigheim</strong><br>
-  
-      <p> Die Illinger E2 konnte nach packenden Spielen beim sehr gut besetzten Hallenturnier des SV Germania Bietigheim
-bei insgesamt zwölf teilnehmenden Mannschaften den vierten Platz erreichen.	Herzlichen Glückwunsch!  </p>
-<p> <a href="bilder/e2_germania_g.jpg"><img src="bilder/e2_germania.jpg" width="550" alt="E2 in Bietigheim" align="top"></a>
-       </p>
-   <tr>
-                <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
-             </tr>
-		-->
-
-          <!-- <tr>        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong>Aktive gewinnen "Illingen-Turnier"
-
-          </strong><br>
-
-           <p><a href="bilder/turniersieg_illingen_saar_g.jpg"><img src="bilder/turniersieg_illingen_saar.JPG" width="600"                 alt="Turniersieg Illingen/Saar" align="top"></a><br>   </p>                            <p>Am letzten Samstag machte sich die Aktive Mannschaft mit einigen Fans als Verstärkung auf nach Illingen/Saar.           Die Busfahrt dauerte fast drei Stunden.           <br>Im ersten Spiel konnten wir die Illinger Mannschaft aus Baden mit 4:3 bezwingen. Die erste Halbzeit dominierten wir ganz klar und gingen mit einem 4:0 in die Halbzeit.           In der zweiten           Halbzeit lief es nicht mehr so gut für uns und wir konnten unsern Vorsprung nur knapp über die Zeit retten.          Die Tore für unseren SV schossen Daniel Brenner (2), Fabio Tricarico und unser Neuzugang Hakan Atalay.<br>Im zweiten Spiel gegen die Vertretung aus Illingen/Saar lief es über das gesamte Spile besser und wir konnten mit 4:1 gewinnen.           Unsere Torschützen in diesem Spiel waren Hakan Atalay, Fabio Tricarico, Tim Scheuermann und Matthias Hitzler.                  Damit wurden wir Turniersieger und ließen den Abend bei einem gemütlichen Beisammensein ausklingen.<br>      2015 wird das Illingen Turnier in          Illingen Baden ausgetragen und wir werden versuchen unseren Titel dort zu verteidigen. </p><br />        </div></td>        </tr>       -->           <tr>
 
 
 
@@ -587,197 +565,39 @@ bei insgesamt zwölf teilnehmenden Mannschaften den vierten Platz erreichen.	Herz
 
     </tr> -->
 
-
-
+	
+<tr>
+	<td id="contentfont" style= "text-align:left;"> 
+    	<div align="left"><img src="bilder/svi_mini.jpg"> <strong>Erstes Saisonspiel der 2. Mannschaft verlegt!</strong><br>
+            <p>
+    Das erste Spiel der 2. Mannschaft am kommenden Sonntag wurde vom Gastgeber SV Kaman 91 Bönnigheim aufgrund einer Platzsperrung auf einen späteren Zeitpunkt verlegt. Sobald der Termin feststeht, werden wir ihn hier rechtzeitig ankündigen.<br>
+Die 1. Mannschaft wird am Sonntag um 15.00Uhr  mit einem Derby beim VfR Sersheim in die neue Runde starten.<br>
+Unter dem Menüpunkt "Mannschaften" -> "Aktive" -> "Saison" können Sie den aktuellen Spieltag und die derzeitige Tabellensituation unserer beiden Herrenmannschaften auf einen Blick einsehen.
+            </p>
+        </div>
+	</td>
+</tr>
   
-
-     <tr>
-
-<td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong>+++ Saisonvorbereitung abgeschlossen: Es kann losgehen! +++</strong><br>
-
-<p>
-<div align="right">
-<a href="bilder/2015_ErsteMannschaft.jpg"><img src="bilder/2015_ErsteMannschaft_k.jpg" width="550"></a><br>
- Foto: Bernd Leitner</div></p>
-
-<p>
-Der SV Illingen hat unter seinem neuen Trainer Bernd Vollmer die Vorbereitung auf die neue Saison in der Kreisliga A3 Enz/Murr erfolgreich abgeschlossen und fiebert dem Rundenbeginn entgegen.
-
-Nach einer 2:3-Niederlage gegen des SV Gebersheim (Kreisliga A) zum Start der Vorbereitung, bezwangen die Blauen den TSV Heimerdingen II (Kreisliga A) mit 2:0. Auch gegen die Spvgg Hirschlanden-Schöckingen (Kreisliga B) behielt die Vollmer-Elf mit 3:2 die Oberhand; zum Abschluss erkämpfte sich der SVI noch ein achtbares 3:3 gegen den Bezirksliga-Aufsteiger aus Flacht.
-
-Jetzt gilt es, in den verbleibenden Trainingseinheiten am letzten Feinschliff zu arbeiten, um dann einen erfolgreichen Start in die neue Saison zu feiern. Los geht es am Sonntag, den 23. August um 15 Uhr mit dem Auswärtsspiel beim VfR Sersheim. Die Mannschaft freut sich wie immer auf zahlreiche Unterstützung!
-</p>
-
-
-        </div></td>
-
-        </tr>
-
- <!--
-    <tr>
-
-        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong>Dauerkartenverkauf Saison 2013/2014</strong><br>
-
-
-
-<p>Zur neuen Saison k&ouml;nnen ab sofort wieder Dauerkarten erworben werden. Die Karten sind bei Tonis Kiosk oder bei J&uuml;rgen Brummer erhältlich.<br><br>
-
-  Preise:<br>
-
-  <strong>Dauerkarte</strong> Erwachsene 50,00 Euro<br>
-
-  <strong>Dauerkarte</strong> Rentner 25,00 Euro<br>
-
-  <strong>VIP-Dauerkarte</strong> Erwachsene 120,00 Euro inkl. Wurst und Getr&auml;nk je Spiel<br>
-
-  <strong>VIP-Dauerkarte</strong> Rentner 90,00 Euro inkl. Wurst und Getr&auml;nk je Spiel</p>
-
-<br />
-
-        </div></td>
-
-        </tr>
+<!--
+<tr>
+	<td id="contentfont" style= "text-align:left;"> 
+    	<div align="left"><img src="bilder/svi_mini.jpg"> <strong>+++ Saisonvorbereitung abgeschlossen: Es kann losgehen! +++</strong><br>
+            <p>
+                <div align="right">
+                    <a href="bilder/2015_ErsteMannschaft.jpg"><img src="bilder/2015_ErsteMannschaft_k.jpg" width="550"></a><br>Foto: Bernd Leitner
+                </div>
+            </p>
+            <p>
+    Der SV Illingen hat unter seinem neuen Trainer Bernd Vollmer die Vorbereitung auf die neue Saison in der Kreisliga A3 Enz/Murr erfolgreich abgeschlossen und fiebert dem Rundenbeginn entgegen.
+    
+    Nach einer 2:3-Niederlage gegen des SV Gebersheim (Kreisliga A) zum Start der Vorbereitung, bezwangen die Blauen den TSV Heimerdingen II (Kreisliga A) mit 2:0. Auch gegen die Spvgg Hirschlanden-Schöckingen (Kreisliga B) behielt die Vollmer-Elf mit 3:2 die Oberhand; zum Abschluss erkämpfte sich der SVI noch ein achtbares 3:3 gegen den Bezirksliga-Aufsteiger aus Flacht.
+    
+    Jetzt gilt es, in den verbleibenden Trainingseinheiten am letzten Feinschliff zu arbeiten, um dann einen erfolgreichen Start in die neue Saison zu feiern. Los geht es am Sonntag, den 23. August um 15 Uhr mit dem Auswärtsspiel beim VfR Sersheim. Die Mannschaft freut sich wie immer auf zahlreiche Unterstützung!
+            </p>
+        </div>
+	</td>
+</tr>
 -->
-
-      <!--  <tr>
-
-        <td id="contentfont" style= "text-align:right;">
-
-          <div align="left">
-
-            * <strong>Jahreshauptversammlung der Abteilung Fussball 2010</strong><br>
-
-  &nbsp;&nbsp;Am Freitag, den 16.04.2010 findet ab 20.00Uhr die diesj&auml;hrige Jahreshauptversammlung der<br>
-
-  &nbsp;&nbsp;Abteilung Fussball  im Jugendraum (1.OG des SVI-Clubheims) statt.<br>
-
-  &nbsp;&nbsp;Wir laden ALLE Mitglieder hierzu recht herzlich ein.<br>
-
-  &nbsp;&nbsp;<a href="index.php?id=17"><em>mehr</em></a>            </div></td>
-
-        </tr> -->
-
-
-      <!--
-
-   <tr>
-
-       <td id="contentfont" style= "text-align:right;">
-
-       <div align="left">
-
-       * <strong>Aktive Mannschaften beenden ihre Saisons</strong><br>
-
-       &nbsp;&nbsp;Sowohl die erste wie auch die zweite Mannschaft konnte zum Abschluss der Saison 09/10 noch<br>
-
-       &nbsp;&nbsp;einmal Siege einfahren. Die erste Mannschaft sicherte sich durch einen 2:1-Erfolg in Gündelbach<br>
-
-       &nbsp;&nbsp;endgültig den Klassenerhalt und beendet die Saison mit 40 Punkten und 50:52-Toren auf dem<br>
-
-       &nbsp;&nbsp;achten Tabellenrang der Kreisliga A3.<br>
-
-       &nbsp;&nbsp;Die bereits seit einigen Wochen als Meister der Kreisliga C6 feststehende zweite Mannschaft<br>
-
-       &nbsp;&nbsp;feierte zum Abschluss einen torreichen 11:1-Erfolg gegen die zweite Mannschaft des FC<br>
-
-       &nbsp;&nbsp;Gündelbach und steigt somit mit 63 Punkten und 86:32-Toren souverän als Tabellenerster in die<br>
-
-       &nbsp;&nbsp;Kreisliga B auf.<br>
-
-       &nbsp;&nbsp;<a href="bilder/2010_zweite_wird_meister/index.html"><em>Bilder vom letzten Spieltag</em></a><br>
-
-       <br>
-
-       &nbsp;&nbsp;<a href="bilder/zweite_mit_wimpel_g.jpg"><img src="bilder/zweite_mit_wimpel.jpg" width="550" height="345"
-
-            alt="Zweite Mannschaft mit Meisterwimpel" align="top"></a><br>
-
-       &nbsp;&nbsp;Vor dem Spiel in Gündelbach wurde der Aufstiegsmannschaft vom Staffelleiter der passende<br>
-
-       &nbsp;&nbsp;Meisterwimpel überreicht. Nochmals Glückwunsch an das Team samt Trainer!<br>
-
-            <br></div></td>
-
-      </tr>
-
-     -->
-
-      <!--
-
-    <tr>
-
-        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong> Jahreshauptversammlung der Abteilung Fu&szlig;ball</strong><br>&nbsp;<br>
-
-            <img src="bilder/jhv2011.jpg"
-
-            alt="" align="top" border="0px">
-
-            <p>Am vergangenen Freitag, den 08.04.2011 fand die diesj&auml;hrige Jahreshauptversammlung der Abteilung Fu&szlig;ball statt. <br>
-
-              Die Vorstandschaft wurde dabei einstimmig entlastet, und auch die Neuwahlen der einzelnen &Auml;mter gestalteten sich eindeutig.<br>
-
-              Unter Wahlleiter Frank M&uuml;ller standen die folgenden &Auml;mter zur Wahl und wurden durch die folgenden Mitglieder neu besetzt:</p>
-
-
-
-            <p>1. Abteilungsleiter:    Christian Gruica<br>
-
-              3. Abteilungsleiter:    Hubert Scheuermann<br>
-
-              1. Kassier:    J&uuml;rgen Brummer<br>
-
-              1. Jugendleiter:    Nic Corrado<br>
-
-              2. Jugendleiter:    vor&uuml;bergehend umbesetzt<br>
-
-              1. Spielleiter:    Philipp Scheytt<br>
-
-              2. Spielleiter:    vor&uuml;bergehend unbesetzt<br>
-
-              1. AH Spartenleiter:    Stefan Lindner<br>
-
-              1. Kassenpr&uuml;fer:    Klaus H&ouml;ger<br>
-
-              2. Kassenpr&uuml;fer:    Robert Dienstbier</p>
-
-            <p>Weiter wurden von der Vorstandschaft Pl&auml;ne und Ziele f&uuml;r die Zukunft vorgestellt, welche sich haupts&auml;chlich in einer verst&auml;rkten F&ouml;rderung des Jugendbereichs und der Gr&uuml;ndung eines Festausschusses widerspiegeln.<br>
-
-              Auch die Differenzen mit Hauptverein/Vereinsheim wurden diskutiert, wobei die Abteilungsleitung deutlich ihren Willen bekr&auml;ftigt hat, diese Differenzen gemeinsam mit den Vertretern des Hauptvereins schnellstm&ouml;glich aus der Welt zu schaffen.<br>
-
-              Zum Abschluss der Versammlung wurden Giuseppe Moncada und Robert Dienstbier f&uuml;r ihre langj&auml;hrige und erfolgreiche T&auml;tigkeit als Spartenleiter der AH geehrt.</p>
-
-            <br />
-
-</div></td>
-
-        </tr>
-
-     -->
-
-      <!--        <tr>
-
-        <td id="contentfont" style= "text-align:left;"> <div align="left"><img src="bilder/svi_mini.jpg"> <strong> Facebook und Twitter</strong><br>
-
-            <p>Wie bereits angek&uuml;ndigt, finden Sie ab sofort zus&auml;tzliche Informationen rund um den Fu&szlig;ball beim SVI auf <a href="http://www.facebook.com/SVIllingen" target="_blank"><em>Facebook</em></a>. Au&szlig;erdem k&ouml;nnen Sie uns nach einer circa einj&auml;hrigen Testphase  auch auf <a href="http://twitter.com/#!/SVIllingen" target="_blank"><em>Twitter</em></a> folgen und damit immer auf dem neuesten Stand bleiben. Die Links zu den jeweiligen Diensten finden Sie als kleine Symbole (<a href="http://www.facebook.com/SVIllingen" target="_blank"><img src="bilder/facebook.gif"></a> und <a href="http://twitter.com/#!/SVIllingen" target="_blank"><img src="bilder/twitter.gif"></a>) rechts oben auf dieser Seite zwischen &quot;Kontakt&quot; und &quot;Impressum&quot;.</p>
-
-
-
-            <br />
-
-</div></td>
-
-        </tr> -->
-
-      <!--
-
-    <div align="center">
-
-            <h3>Countdown zum neuen Jahr 2005</h3>
-
-    </div>
-
-    -->
-
 
       <tr>
 
@@ -868,15 +688,16 @@ Jetzt gilt es, in den verbleibenden Trainingseinheiten am letzten Feinschliff zu
 	$timestamp = time();
 	$heute = date("Y-m-d",$timestamp);
 	$jetzt = date("H:i",$timestamp);
-	$datumPlusX = time() + (21 * 24 * 60 * 60);	// 21 Tage in Sekunden
-	$in3Wochen = date("Y-m-d",$datumPlusX);
+	$datumPlusX = time() + (14 * 24 * 60 * 60);	// 14 Tage in Sekunden
+	$in2Wochen = date("Y-m-d",$datumPlusX);
  
- 	$query = "SELECT * FROM `Aktive` WHERE `datum` BETWEEN '$heute' AND '$in3Wochen' 
+ 	$query = "SELECT * FROM `Aktive` WHERE `datum` BETWEEN '$heute' AND '$in2Wochen' 
  	AND `goalsHome` is NULL";
 
 $db_erg = mysqli_query( $db_link, $query );
 while ($zeile = mysqli_fetch_array( $db_erg, MYSQL_ASSOC))
 {
+	
 	// Logoabfrage
 	$homeTeam = substr($zeile['home'],0,strlen($zeile['home'])-3);
 	$guestTeam = substr($zeile['guest'],0,strlen($zeile['guest'])-3);
