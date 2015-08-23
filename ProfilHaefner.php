@@ -14,7 +14,7 @@
      
     
     <tr> 
-      <td width="272" class="big"><img src="bilder/AktiveSpieler/haefner.jpg" width="240" height="320"> 
+      <td width="272" class="big"><img src="bilder/AktiveSpieler/tobias_haefner.jpg" width="240" height="320"> 
       </td>
       <td width="278" valign="top"><table width="287" class="profil">
           <tr class="roww1 entries"> 
@@ -34,7 +34,7 @@
             <td><font color="#0066cc">Student</font></td>
           </tr>
           <tr class="roww1 entries"> 
-            <td bgcolor="#CCCCCC" class="col1"><font color="#0066cc">f</font><font color="#0066cc">rüherer 
+            <td bgcolor="#CCCCCC" class="col1"><font color="#0066cc">früherer 
               Klub:</font></td>
             <td bgcolor="#CCCCCC"><font color="#0066cc">1. CfR Pforzheim</font></td>
           </tr>
@@ -44,7 +44,7 @@
           </tr>
           <tr class="roww2 entries"> 
             <td bgcolor="#CCCCCC" class="col1"><font color="#0066cc">Spiele: </br><font size="-2">(Stand 
-              </font><font color="#0066cc"><font size="-2">27.07.13</font></font><font size="-2">)</font></font></td>
+              </font></font><font color="#0066cc"><font size="-2">27.07.13</font></font><font size="-2">)</font></td>
             <td bgcolor="#CCCCCC"><font color="#0066cc">30</font></td>
           </tr>
         </table></td>
@@ -54,5 +54,6 @@
       </td>
     </tr>
   </table>
+  </div>
       <p>&nbsp;</p>
     </td>

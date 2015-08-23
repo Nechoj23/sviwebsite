@@ -14,7 +14,7 @@
      
     
     <tr> 
-      <td width="272" class="big"><img src="bilder/AktiveSpieler/michali.jpg" width="240" height="320"> 
+      <td width="272" class="big"><img src="bilder/AktiveSpieler/michali_gatsas.jpg" width="240" height="320"> 
       </td>
       <td width="278" valign="top"><table width="287" class="profil">
           <tr class="roww1 entries"> 

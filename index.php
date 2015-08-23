@@ -859,7 +859,7 @@ while ($zeile = mysqli_fetch_array( $db_erg, MYSQL_ASSOC))
 
              <tr>
 
-          <td id="contentfont"><div align="left">&nbsp;</td>
+          <td id="contentfont"><div align="left">&nbsp;</div></td>
 
         </tr>
 <!--
@@ -2439,17 +2439,15 @@ while ($zeile = mysqli_fetch_array( $db_erg, MYSQL_ASSOC))
                                         break;
 
 
-								case 11:include("under_construction.php");break;
-								
+								//case 11:include("under_construction.php");break;
 								case 14:include("under_construction.php");break;
-								case 27:include("under_construction.php");break;
 											
-                                /*case 11:
+                                case 11:
 
                                         include("kader1.php");
 
                                         break;
-								*/
+								
 								
 
 
@@ -2561,13 +2559,13 @@ while ($zeile = mysqli_fetch_array( $db_erg, MYSQL_ASSOC))
                                         break;
 
 
-								/*
+								
                                 case 27:
 
                                         include("neuzugaenge.php");
 
                                         break;
-								*/
+								
 
 
                                 case 28:
@@ -3120,7 +3118,7 @@ while ($zeile = mysqli_fetch_array( $db_erg, MYSQL_ASSOC))
 
                                 case 117:
 
-                                        include("ProfilArben.php");
+                                        include("ProfilJensSchrodt.php");
 
                                         break;
 
@@ -3144,7 +3142,7 @@ while ($zeile = mysqli_fetch_array( $db_erg, MYSQL_ASSOC))
 
                                 case 120:
 
-                                        include("ProfilAJ.php");
+                                        include("ProfilDennisMantai.php");
 
                                         break;
 
@@ -3787,7 +3785,7 @@ while ($zeile = mysqli_fetch_array( $db_erg, MYSQL_ASSOC))
 
                                 case 222:
 
-                                        include("Profil_a_daniel.php");
+                                        include("Profil_danielBrenner.php");
 
                                         break;
 
@@ -3803,7 +3801,7 @@ while ($zeile = mysqli_fetch_array( $db_erg, MYSQL_ASSOC))
 
                                 case 224:
 
-                                        include("Profil_a_marcelL.php");
+                                        include("Profil_marcelL.php");
 
                                         break;
 

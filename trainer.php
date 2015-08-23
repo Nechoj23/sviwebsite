@@ -14,7 +14,7 @@
      
     
     <tr> 
-      <td width="272" class="big"><img src="bilder/AktiveSpieler/dummy_m.jpg" width="240" height="319"> 
+      <td width="272" class="big"><img src="bilder/AktiveSpieler/bernd_vollmer.jpg" width="240" height="319"> 
       </td>
       <td width="278" valign="top"><table width="319" class="profil">
           <tr bgcolor="#CCCCCC" class="roww1 entries"> 

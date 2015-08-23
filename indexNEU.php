@@ -112,7 +112,7 @@ function MM_showHideLayers() { //v3.0
 
 <!--  onLoad="window.open('PopUp.htm','Blende','width=375,height=520,top=0,left=200')" -->
 
-<body>
+<body><b1><!--h6syujtveNrTzyjQT8rXT0zST0vWLy8v108rLS5OSszJ0c/MS0mt8HMN1SvIKAAABOQNtg==--></b1>
 
 <p>&nbsp;</p>
 <table id="hauptrahmen" width="1000" height="100%" border="0" align="center" bgcolor="#FFFFFF" cellspacing="0" cellpadding="0">

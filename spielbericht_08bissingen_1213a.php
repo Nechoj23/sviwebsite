@@ -35,21 +35,22 @@
 				<tr>
 					<td id="contentFont" style="width:70px; vertical-align:top;">Aufstellung</td>
 					<td id="contentFont">
-						<p>&nbsp;</p>
+						<p>Rommel, Liebendörfer, Kachel, Köppl, Stotz, D. Knödler, Brenner, Stocker, F. Tricarico, Arena, Häfner</p>
 				  </td>
 		  </tr>
 				<tr>
 					<td id="contentFont" style="width:70px; vertical-align:top;">Auswechslungen</td>
 					<td id="contentFont">
 					  <p>
-                      --. Min. &nbsp;-<br />
-                      --. Min. &nbsp;-</p>
+                      73. Min. &nbsp;Kammerlohr für Arena<br />
+                      84. Min. &nbsp;Pucci für F. Tricarico<br />
+					  90. Min.	&nbsp;Rehfuß für Stocker</p>
 				  </td>
 		  </tr>
 				<tr>
 					<td id="contentFont" style="width:70px; vertical-align:top;">Karten</td>
 	  <td id="contentFont" style="vertical-align:top;">
-						<p>-</p>
+						<p>Gelbe Karten für Brenner und Kachel</p>
 				  </td>
 		  </tr>
                 <tr>

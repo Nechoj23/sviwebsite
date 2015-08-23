@@ -14,7 +14,7 @@
      
     
     <tr> 
-      <td width="272" class="big"><a href="bilder/AktiveSpieler/oli_g.jpg" target="_blank"><img src="bilder/AktiveSpieler/oli.jpg" width="240" height="320" /></td>
+      <td width="272" class="big"><img src="bilder/AktiveSpieler/oliver_rapp.jpg" width="240" height="320" /></td>
       <td width="278" valign="top"><table width="261" class="profil">
           <tr class="roww1 entries"> 
             <td width="113" bgcolor="#CCCCCC" class="col1"><font color="#0066cc">Position:</font></td>
