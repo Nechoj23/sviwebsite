@@ -568,15 +568,15 @@ function MM_showHideLayers() { //v3.0
 	
 <tr>
 	<td id="contentfont" style= "text-align:left;"> 
-    	<div align="left"><img src="bilder/svi_mini.jpg"> <strong>Erstes Saisonspiel der 2. Mannschaft verlegt!</strong><br>
+    	<div align="left"><img src="bilder/svi_mini.jpg"> <strong>Saisonstart der 1. Mannschaft gegl&uuml;ckt!</strong><br>
             <p>
-    Das erste Spiel der 2. Mannschaft am kommenden Sonntag wurde vom Gastgeber SV Kaman 91 Bönnigheim aufgrund einer Platzsperrung auf einen späteren Zeitpunkt verlegt. Sobald der Termin feststeht, werden wir ihn hier rechtzeitig ankündigen.<br>
-Die 1. Mannschaft wird am Sonntag um 15.00Uhr  mit einem Derby beim VfR Sersheim in die neue Runde starten.<br>
+    
 Unter dem Menüpunkt "Mannschaften" -> "Aktive" -> "Saison" können Sie den aktuellen Spieltag und die derzeitige Tabellensituation unserer beiden Herrenmannschaften auf einen Blick einsehen.
             </p>
         </div>
 	</td>
 </tr>
+
   
 <!--
 <tr>
@@ -632,44 +632,69 @@ Unter dem Menüpunkt "Mannschaften" -> "Aktive" -> "Saison" können Sie den aktuel
       </tr>
       
       
-<!--
+
  <tr>
         <td id="ueber2"><div><strong>* Meisterschaft:</strong></div></td>
-      </tr>  -->
+      </tr>
+      
+<?php       
+//turn off notice and deprecated reporting
+ error_reporting(E_ALL ^ ( E_NOTICE | E_DEPRECATED ));
 
-		<!-- 
- <tr>
- 
-	<td id="contentfont" style= "text-align:left; padding-left:50px;">
-    	Spvgg Bissingen I vs. SV Illingen I&nbsp; 1:2 (0:1)<br/>
-		<span class="Stil20"><em>Torsch&uuml;tzen: 0:1 Tobias Häfner, 1:2 Oliver Rapp</em></span><br>
-		<br>
-		<a href="http://www.fussball.de/spiel/kreisliga-a-3-bezirk-enz-murr-kl-kreisliga-a-herren-saison1415-wuerttemberg/-/spiel/01L9BRRHUO000000VV0AG812VVHQG9J2#!/section/stage" target="_blank"><em>mehr Infos zum Spiel</em>
-    	</a> 
-	</td>
-</tr>
- <tr>
+// database connection
+	
+	$db_link = mysqli_connect('w00be8df.kasserver.com','d01f06ec','qwe123','d01f06ec');
 
-        <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
+if (mysqli_connect_errno() == 0)
+{
+	date_default_timezone_set("Europe/Berlin");
+	$timestamp = time();
+	$heute = date("Y-m-d",$timestamp);
+	$jetzt = date("H:i",$timestamp);
+	$datumMinusX = time() - (7 * 24 * 60 * 60);	// 7 Tage in Sekunden
+	$vor1Woche = date("Y-m-d",$datumMinusX);
+	
+	$query = "SELECT `home`, `guest`, `goalsHome`, `goalsGuest`, `goalgetters`  FROM `Aktive` WHERE `datum` BETWEEN '$vor1Woche' AND  '$heute' AND `goalsHome` is NOT NULL AND `goalsGuest` is NOT NULL";
+	
+	 $db_erg = $db_link->prepare( $query );
+	 $db_erg->execute();
+	 $db_erg->bind_result( $home, $guest, $goalsHome, $goalsGuest, $goalgetters );
+	 
+	while ($db_erg->fetch())
+	{
+		echo "<tr>";
+		echo "<td id='contentfont' style= 'text-align:left; padding-left:50px;'> " .
+		$home . " vs. " . $guest . "  " . $goalsHome . ":" . 		
+		$goalsGuest . "<br/><span class='Stil20'><em>Torsch&uuml;tzen: " . 
+		$goalgetters . "</em></span></td></tr>";
+	}
+}
+else
+{
+    // Es konnte keine Datenbankverbindung aufgebaut werden
+    echo 'Die Datenbank konnte nicht erreicht werden. Folgender Fehler trat auf: <strong>' .mysqli_connect_errno(). ' : ' .mysqli_connect_error(). '</strong>';
+}
+// Datenbankverbindung schliessen
+$db_link->close();
 
-      </tr>  	
+	
+?>    
+<!--    
 <tr>
 	<td id="contentfont" style= "text-align:left; padding-left:50px;">
     	TSV Ensingen I vs. SV Illingen II&nbsp; 1:1 (0:1)<br/>
-		<span class="Stil20"><em>Torsch&uuml;tzen: Michali Gatsas</em></span><br>
-		<br>
-	<a href="http://www.fussball.de/spiel/kreisliga-b-5-bezirk-enz-murr-kl-kreisliga-b-herren-saison1415-wuerttemberg/-/spiel/01L9BHUVN8000000VV0AG812VVHQG9J2#!/section/stage" target="_blank"><em>mehr Infos zum Spiel</em>
-    	</a>   
+		<span class="Stil20"><em>Torsch&uuml;tzen: Michali Gatsas</em></span>
 	</td>
 </tr> 
 <tr>
         <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
       </tr>
+-->
 
 	  	
       <tr>
         <td height="50px" colspan="7"><hr width="100%" size="1px" noshade style="color:#cccccc; background-color:#CCCCCC;"></td>
-      </tr>  -->
+      </tr>  
   
       <tr>
 
@@ -730,7 +755,7 @@ while ($zeile = mysqli_fetch_array( $db_erg, MYSQL_ASSOC))
 
   mysqli_close($db_link);
 ?>
-</td>
+
 
 <tr>
 	<td height="50px" colspan="7">
@@ -2415,7 +2440,7 @@ while ($zeile = mysqli_fetch_array( $db_erg, MYSQL_ASSOC))
 
 
 								case 11:include("under_construction.php");break;
-								case 13:include("under_construction.php");break;
+								
 								case 14:include("under_construction.php");break;
 								case 27:include("under_construction.php");break;
 											
@@ -2435,7 +2460,7 @@ while ($zeile = mysqli_fetch_array( $db_erg, MYSQL_ASSOC))
                                         break;
 
 
-								/*
+								
                                 case 13:
 
                                         include("training.php");
@@ -2443,7 +2468,7 @@ while ($zeile = mysqli_fetch_array( $db_erg, MYSQL_ASSOC))
                                         break;
 
 
-
+								/*
                                 case 14:
 
                                         include("trainingszeiten.php");

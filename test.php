@@ -1,6 +1,6 @@
 <td width="600" align="left" valign="top" bgcolor="#FFFFFF" id="nurlinks">
       
-	<div style="position:relative; top:-20px; left:0px;  z-index:3 ;width:150px">  
+	<div style="position:relative; top:-20px; left:0px;  z-index:3 ;width:150px"> 
 		     
       <table width="600" border="0" cellpadding="0" cellspacing="0">
         <tr> 
@@ -21,9 +21,7 @@
  error_reporting(E_ALL ^ ( E_NOTICE | E_DEPRECATED ));
 
  // database connection
- 
-//$db_link = mysql_connect('w00be8df.kasserver.com','d01f06ec','qwe123')  or die(mysql_error());
-//$db_select = mysql_select_db('d01f06ec') or die(mysql_error());
+/* 
  	$db_link = mysqli_connect('w00be8df.kasserver.com','d01f06ec','qwe123','d01f06ec');
 	
 	$home = $_POST[home]; 
@@ -37,28 +35,20 @@
 	$timestamp = time();
 	$heute = date("Y-m-d",$timestamp);
 	$jetzt = date("H:i",$timestamp);
-	$datumMinusX = time() + (7 * 24 * 60 * 60);	// 7 Tage in Sekunden
+	$datumMinusX = time() - (7 * 24 * 60 * 60);	// 7 Tage in Sekunden
 	$vor1Woche = date("Y-m-d",$datumMinusX);
 	
 	$query  = "UPDATE `d01f06ec`.`Aktive` SET `goalsHome` = '$home',`goalsGuest` = '$guest',`goalgetters` = '$goalgetters' WHERE `datum` BETWEEN '$heute' AND '$vor1Woche'";
 	$query2 = "SELECT * FROM `Aktive` WHERE `datum` BETWEEN '$heute' AND '$vor1Woche'";
 	
-/*$db_erg = mysqli_query( $db_link, $query2 );
-while ($zeile = mysqli_fetch_array( $db_erg, MYSQL_ASSOC))
-{	
-	// Code
-  	echo $zeile['home'] . " vs. " . $zeile['guest'];
 
-}
-*/
-//$insert = mysqli_query($query);
 
  		$query  = "UPDATE `d01f06ec`.`Aktive` SET `goalsHome` = ?,`goalsGuest` = ?,`goalgetters` = ? WHERE `datum` BETWEEN '$heute' AND '$vor1Woche'";		
         $eintrag = $db_link->prepare( $query );
         $eintrag->bind_param( 'iis', $home, $guest, $goalgetters );
         $eintrag->execute();
 		echo "Ergebnis erfolgreich eingetragen!";
-
+*/
 //INSERT INTO `d01f06ec`.`Aktive` (`index`, `datum`, `anpfiff`, `home`, `guest`, `goalsHome`, `goalsGuest`, `goalgetters`) VALUES ('111', '2015-08-02', '15:00:00', 'a', 'b', NULL, NULL, '');
 /*
 	date_default_timezone_set("Europe/Berlin");
@@ -104,26 +94,58 @@ while ($zeile = mysqli_fetch_array( $db_erg, MYSQL_ASSOC))
   	"&nbsp;&nbsp;&nbsp<img src='" . $logosGuest['logo'] . "' align='middle'> " .
   	"</td>" ;
   	echo "</tr>";
+	
+	echo "<tr>";
+	echo "<td id='contentfont' style= 'text-align:left; padding-left:50px;'>.
+	$zeile['home'] . " vs. " . $zeile['guest'] . "  " . $zeile['goalsHome'] . ":" . 		
+	$zeile['goalsGuest'] . "<br/><span class="Stil20"><em>Torsch&uuml;tzen: " . 
+	$zeile['goalgetters'] . "</em></span></td></tr>" . 
+	"<tr><td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td></tr>"
+    	
+
 
 }
-
 */
- /*$q=0;
- while ($q < $numMatches) 
- {
- $home=mysql_result($nextMatches,$q,"home");
- $guest=mysql_result($nextMatches,$q,"guest");
- $date=mysql_result($nextMatches,$q,"datum");
- $phpDate = strtotime ($date);
- $myDate = date("d.m.Y", $phpDate);
- echo "<b>$myDate"." $home"." vs. ".$guest."<br>";
+	$db_link = mysqli_connect('w00be8df.kasserver.com','d01f06ec','qwe123','d01f06ec');
 
- $q ++;
- }
- */
-  //echo "<h1><b>test</b></h1>";
-//  mysqli_close($db_link);
-?>
+if (mysqli_connect_errno() == 0)
+{
+	date_default_timezone_set("Europe/Berlin");
+	$timestamp = time();
+	$heute = date("Y-m-d",$timestamp);
+	$jetzt = date("H:i",$timestamp);
+	$datumMinusX = time() - (7 * 24 * 60 * 60);	// 7 Tage in Sekunden
+	$vor1Woche = date("Y-m-d",$datumMinusX);
+	
+	$query = "SELECT `home`, `guest`, `goalsHome`, `goalsGuest`, `goalgetters`  FROM `Aktive` WHERE `datum` BETWEEN '$vor1Woche' AND  '$heute' AND `goalsHome` is NOT NULL AND `goalsGuest` is NOT NULL";
+	
+	 $db_erg = $db_link->prepare( $query );
+	 $db_erg->execute();
+	 $db_erg->bind_result( $home, $guest, $goalsHome, $goalsGuest, $goalgetters );
+	 
+	while ($db_erg->fetch())
+	{
+		echo "<tr>";
+		echo "<td id='contentfont' style= 'text-align:left; padding-left:50px;'> " .
+		$home . " vs. " . $guest . "  " . $goalsHome . ":" . 		
+		$goalsGuest . "<br/><span class='Stil20'><em>Torsch&uuml;tzen: " . 
+		$goalgetters . "</em></span></td></tr>" . 
+		"<tr><td id='contentfont' style= 'text-align:right;'><div align='left'>&nbsp;</div></td></tr>";
+		
+	}
+}
+else
+{
+    // Es konnte keine Datenbankverbindung aufgebaut werden
+    echo 'Die Datenbank konnte nicht erreicht werden. Folgender Fehler trat auf: <strong>' .mysqli_connect_errno(). ' : ' .mysqli_connect_error(). '</strong>';
+}
+// Datenbankverbindung schliessen
+$db_link->close();
+
+	
+	?>
+		 
+
 </td>
 <!--
 	

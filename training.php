@@ -6,7 +6,7 @@
       <table width="600" border="0" cellpadding="0" cellspacing="0">
         <tr> 
           <td colspan="3" id="contentTable"> 
-            <div align="left">Trainingszeiten der aktiven Mannschaften Saison 2013/2014</div>
+            <div align="left">Trainingszeiten der aktiven Mannschaften Saison 2015/2016</div>
           </td>
         </tr>
 	
@@ -19,9 +19,9 @@
           
       <td width="509" id="contentFont"> W&auml;hrend der laufenden Runde:<br>
         <br>
-        1. Mannschaft: Mi + Fr 19.00Uhr<br>
+        1. Mannschaft: Di + Do 19.00Uhr<br>
         <br>
-        2. Mannschaft: Mi + Fr 19.00Uhr<br>
+        2. Mannschaft: Di + Do 19.00Uhr<br>
         <br>
         Im Illinger Eichwaldpark ! </td>
           <td width="45">&nbsp;</td>
@@ -32,11 +32,13 @@
           <td width="45">&nbsp;</td>
         </tr>
        
+       <!--
 		<tr valign="top"> 
           <td width="46">&nbsp;</td>
       <td width="509" id="contentFont"><a href="vorbereitungsplan_winter_1314.xlsx"><em>Der neue Vorbereitungsplan für die Rückrunde der Saison 2013/2014</em></a> (Stand: 30.01.14)</td>
       <td width="45">&nbsp;</td>
         </tr>
+        -->
         
       
        
