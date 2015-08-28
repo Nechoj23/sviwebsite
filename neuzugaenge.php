@@ -90,6 +90,57 @@
           </tr>
         </table></td>
         </tr>
+        
+         <tr> 
+      <td colspan="7">&nbsp;</td>
+    </tr>
+        <tr>
+        	<td id="contentfont" style= "text-align:right;"><div align="left"><strong>&nbsp;</strong></div></td>
+     	</tr> 
+		 <tr> 
+      <td width="120" class="big"><div align="center"><img src="bilder/AktiveSpieler/Dummy_klein.jpg" width="90" height="120" border="0">  
+        </div></td>
+      <td width="310" valign="top"><table width="261" class="profil">
+          <tr class="roww1 entries"> 
+            <td width="113" bgcolor="#FFFFFF" class="col1"><font color="#0066cc" size="+1">Luis Hahnenkratt</font></td>
+          </tr>
+          <tr class="roww2 entries"> 
+            <td class="col1"><font color="#0066cc">Abwehr</font></td>
+          </tr>
+          <tr class="roww1 entries"> 
+            <td bgcolor="#FFFFFF" class="col1"><font color="#0066cc">SV Riet</font></td>
+          </tr>
+          <tr class="roww2 entries"> 
+            <td bgcolor="#FFFFFF" class="col1"><font color="#0066cc">19 Jahre</font></td>
+          </tr>
+        </table></td>
+        </tr>
+        
+         <tr> 
+      <td colspan="7">&nbsp;</td>
+    </tr>
+        <tr>
+        	<td id="contentfont" style= "text-align:right;"><div align="left"><strong>&nbsp;</strong></div></td>
+     	</tr> 
+		 <tr> 
+      <td width="120" class="big"><div align="center"><img src="bilder/AktiveSpieler/Dummy_klein.jpg" width="90" height="120" border="0">  
+        </div></td>
+      <td width="310" valign="top"><table width="261" class="profil">
+          <tr class="roww1 entries"> 
+            <td width="113" bgcolor="#FFFFFF" class="col1"><font color="#0066cc" size="+1">Tobias Benz</font></td>
+          </tr>
+          <tr class="roww2 entries"> 
+            <td class="col1"><font color="#0066cc">Sturm</font></td>
+          </tr>
+          <tr class="roww1 entries"> 
+            <td bgcolor="#FFFFFF" class="col1"><font color="#0066cc">1. FC Ispringen</font></td>
+          </tr>
+          <tr class="roww2 entries"> 
+            <td bgcolor="#FFFFFF" class="col1"><font color="#0066cc">23 Jahre</font></td>
+          </tr>
+        </table></td>
+        </tr>
+        
 
         
     <tr>

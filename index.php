@@ -568,11 +568,8 @@ function MM_showHideLayers() { //v3.0
 	
 <tr>
 	<td id="contentfont" style= "text-align:left;"> 
-    	<div align="left"><img src="bilder/svi_mini.jpg"> <strong>Saisonstart der 1. Mannschaft gegl&uuml;ckt!</strong><br>
-            <p>
-    
-Unter dem Menüpunkt "Mannschaften" -> "Aktive" -> "Saison" können Sie den aktuellen Spieltag und die derzeitige Tabellensituation unserer beiden Herrenmannschaften auf einen Blick einsehen.
-            </p>
+    	<div align="left"><img src="bilder/svi_mini.jpg"> <strong>Heimrecht ge&auml;ndert!</strong><br>
+            <p>Unsere 1. Mannschaft trifft  in der ersten Runde des Bezirkspokals auf den TSV Ottmarsheim I. Das Spiel findet am kommenden Mittwoch (02.09.) um 19.30Uhr <strong>nicht wie urspr&uuml;nglich angek&uuml;ndigt in Ottmarsheim, sondern im heimischen Eichwaldpark statt</strong>.</p>
         </div>
 	</td>
 </tr>
@@ -698,7 +695,7 @@ $db_link->close();
   
       <tr>
 
-        <td id="ueber2"> * Meisterschaftsvorschau: </td>
+        <td id="ueber2"> * Vorschau: </td>
 
       </tr> 	  
 <?php
@@ -717,7 +714,7 @@ $db_link->close();
 	$in2Wochen = date("Y-m-d",$datumPlusX);
  
  	$query = "SELECT * FROM `Aktive` WHERE `datum` BETWEEN '$heute' AND '$in2Wochen' 
- 	AND `goalsHome` is NULL";
+ 	AND `goalsHome` is NULL ORDER BY `datum` ASC";
 
 $db_erg = mysqli_query( $db_link, $query );
 while ($zeile = mysqli_fetch_array( $db_erg, MYSQL_ASSOC))
@@ -741,13 +738,15 @@ while ($zeile = mysqli_fetch_array( $db_erg, MYSQL_ASSOC))
 	$day = $wochentage[date("w", $phpDate)];
 	$anpfiff = substr($zeile['anpfiff'],0,5); // Zeit ohne Sekunden
 	
+	$extra = $zeile['extra'];
+	
 	// Code
  	echo "<tr>";
   	echo "<td id='contentfont' style= 'text-align:left;'><p><b>". 
   	$day . " " . $myDate . " " . $anpfiff . " Uhr </b> " . 
   	"&nbsp;&nbsp;&nbsp;<img src='" . $logosHome['logo'] . "' align='middle'>&nbsp;&nbsp;&nbsp;" . 
   	$zeile['home'] . " vs. " . $zeile['guest'] . 
-  	"&nbsp;&nbsp;&nbsp<img src='" . $logosGuest['logo'] . "' align='middle'> " .
+  	"&nbsp;&nbsp;&nbsp<img src='" . $logosGuest['logo'] . "' align='middle'>" . " " . $extra .
   	"</td>" ;
   	echo "</tr>";
 
@@ -3006,7 +3005,7 @@ while ($zeile = mysqli_fetch_array( $db_erg, MYSQL_ASSOC))
 
                                 case 103:
 
-                                        include("ProfilScheytt.php");
+                                        include("ProfilLuisHahnenkratt.php");
 
                                         break;
 
@@ -3014,7 +3013,7 @@ while ($zeile = mysqli_fetch_array( $db_erg, MYSQL_ASSOC))
 
                                 case 104:
 
-                                        include("ProfilAngeloVe.php");
+                                        include("ProfilTobiasBenz.php");
 
                                         break;
 

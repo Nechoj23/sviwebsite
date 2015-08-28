@@ -64,57 +64,48 @@
 		  <td height="20" bgcolor="#FFFFFF"><div align="left"><a href="index.php?id=157"><img src="bilder/AktiveSpieler/birol2_k.jpg" width="90" height="120" /></a> <br />
                 <strong>Birol Aladag</strong><br />
           Geb.: 18.11.1992</div></td>
+          
         <td height="20" bgcolor="#FFFFFF"><div align="left"><a href="index.php?id=204"><img src="bilder/AktiveSpieler/niko2_k.jpg" width="90" height="120" /></a> <br />
                 <strong>Nikolaos Gatsas</strong><br />
           Geb.: 26.06.1991</div></td>
+          
+          <td height="20" bgcolor="#FFFFFF"><div align="left"><a href="index.php?id=103"><img src="bilder/AktiveSpieler/dummy_klein.jpg" width="90" height="120" /></a> <br />
+                <strong>Luis Hahnenkratt</strong><br />
+          Geb.: 28.09.1995</div></td>
+          
 		   <td height="20" bgcolor="#FFFFFF"><div align="left"><a href="index.php?id=163"><img src="bilder/AktiveSpieler/hitzler_k.jpg" width="90" height="120" /></a> <br />
                 <strong>Matthias Hitzler</strong><br />
           Geb.: 25.01.1993</div></td>
           
-          <td height="20" bgcolor="#FFFFFF"><div align="left"><!--<a href="index.php?id=202">--><img src="bilder/AktiveSpieler/andikoeppl_k.jpg" width="90" height="120" /><!--</a>--> <br /><strong>Andreas K&ouml;ppl</strong><br />
-          Geb.: 14.11.1995</div></td>
+
        
       </tr>
       <tr>
         <td colspan="7"><div align="center">&nbsp;</div></td>
       </tr>
-      <!--   <td height="20" bgcolor="#FFFFFF"><div align="left"><a href="index.php?id=135"><img src="bilder/AktiveSpieler/marcoK_k.jpg" width="90" height="120" /></a> <br />
-                <strong>Marco Krauter</strong><br />
-          Geb.: 23.02.1989</div></td> -->
-      <!--   <td height="20" bgcolor="#FFFFFF"><div align="left"><a href="index.php?id=109"><img src="bilder/AktiveSpieler/sascha_k.jpg" width="90" height="120" /></a><br />
-                <strong>Sascha Pautz</strong><br />
-          Geb.: 11.07.1988</div></td> -->
-      <tr bgcolor="#FFFFFF">
 
-       
+      <tr bgcolor="#FFFFFF">
+                <td height="20" bgcolor="#FFFFFF"><div align="left"><!--<a href="index.php?id=202">--><img src="bilder/AktiveSpieler/andikoeppl_k.jpg" width="90" height="120" /><!--</a>--> <br /><strong>Andreas K&ouml;ppl</strong><br />
+          Geb.: 14.11.1995</div></td>
+      
         <td height="20" bgcolor="#FFFFFF"><div align="left"><a href="index.php?id=202"><img src="bilder/AktiveSpieler/michaKoeppl_k.jpg" width="90" height="120" /></a> <br />
                 <strong>Michael K&ouml;ppl</strong><br />
           Geb.: 10.01.1991</div></td>
-    <!--    <td height="20" bgcolor="#FFFFFF"><div align="left"><a href="index.php?id=107"><img src="bilder/AktiveSpieler/lennox_k.jpg" width="90" height="120" /></a> <br />
-                <strong>Stephan Lehner</strong><br />
-          Geb.: 11.01.1988</div></td> -->
        <td height="20" bgcolor="#FFFFFF"><div align="left"><a href="index.php?id=110"><img src="bilder/AktiveSpieler/richy2_k.jpg" width="90" height="120" /></a> <br />
                 <strong>Christian Reichert</strong><br />
           Geb.: 05.06.1987</div></td>
           
           <td height="20" bgcolor="#FFFFFF"><div align="left"><a href="index.php?id=112"><img src="bilder/AktiveSpieler/dominik3_k.jpg" width="90" height="120" /></a> <br />
                 <strong>Dominik Schmolck</strong><br />
-          Geb.: 27.10.1987 </div></td>
-		 
-		   <td height="20" bgcolor="#FFFFFF"><div align="left"><!--<a href="index.php?id=170">--><img src="bilder/AktiveSpieler/patrick_schuele_k.jpg" width="90" height="120" /><!--</a> --><br />
-                <strong>Patrick Schüle</strong><br />
-          Geb.: 02.07.1990</div></td>
- 
-       
-        
+          Geb.: 27.10.1987 </div></td>        
       </tr>
       <tr>
         <td colspan="7"><div align="center">&nbsp;</div></td>
       </tr>
     <tr bgcolor="#FFFFFF">
-	    <!--    <td height="20" bgcolor="#FFFFFF"><div align="left"><a href="index.php?id=208"><img src="bilder/AktiveSpieler/tobseRehfuss_k.jpg" width="90" height="120" /></a> <br />
-                <strong>Tobias Rehfu&szlig;</strong><br />
-          Geb.: 17.03.1991</div></td> -->
+		   <td height="20" bgcolor="#FFFFFF"><div align="left"><!--<a href="index.php?id=170">--><img src="bilder/AktiveSpieler/patrick_schuele_k.jpg" width="90" height="120" /><!--</a> --><br />
+                <strong>Patrick Schüle</strong><br />
+          Geb.: 02.07.1990</div></td>
     
 		   <td height="20" bgcolor="#FFFFFF"><div align="left"><!--<a href="index.php?id=170">--><img src="bilder/AktiveSpieler/sebastian_schuele_k.jpg" width="90" height="120" /><!--</a> --><br />
                 <strong>Sebastian Schüle</strong><br />
@@ -280,10 +271,11 @@
         </font></strong></div></td>
       </tr>
       <tr bgcolor="#FFFFFF">
-	  <!-- <td height="20" bgcolor="#FFFFFF"><div align="left"><a href="index.php?id=178"> <img src="bilder/AktiveSpieler/dummy_klein.jpg" width="90" height="120" /></a> <br />
-                <strong>Hakan Atalay</strong><br />
-				&nbsp;<br />
-          Geb.: 29.10.1990</div></td> -->
+	
+          <td height="20" bgcolor="#FFFFFF"><div align="left"><a href="index.php?id=104"><img src="bilder/AktiveSpieler/dummy_klein.jpg" width="90" height="120" /></a> <br />
+                <strong>Tobias Benz</strong><br />
+          Geb.: 27.11.1991</div></td> 
+          
         <td height="20" bgcolor="#FFFFFF"><div align="left"><a href="index.php?id=149"><img src="bilder/AktiveSpieler/davor_k.jpg" width="90" height="120" /></a> <br />
                 <strong>Davor Brekalo</strong><br />
 
@@ -295,22 +287,13 @@
 		   <td height="20" bgcolor="#FFFFFF"><div align="left"><a href="index.php?id=161"><img src="bilder/AktiveSpieler/tobias_haefner_k.jpg" width="90" height="120" /></a> <br />
                 <strong>Tobias Häfner</strong><br />
           Geb.: 04.09.1987</div></td> 
-		   <td height="20" bgcolor="#FFFFFF"><div align="left"><a href="index.php?id=181"><img src="bilder/AktiveSpieler/dummy_klein.jpg" width="90" height="120" /></a><br />
-                <strong>Arne Körner</strong><br />
-
-          Geb.: 24.04.1990</div></td> 
-   <!--  <td height="20" bgcolor="#FFFFFF"><div align="left"><a href="index.php?id=218"><img src="bilder/a_jugend/alex_k.jpg" width="90" height="120" /></a> <br />
-                <strong>Alexander<br />
-                  Gutjahr</strong><br />
-          Geb.: 26.11.1991</div></td> -->
-      
-	  
-	  
-          
+		   
       </tr>
+      
       <tr>
         <td colspan="7"><div align="center">&nbsp;</div></td>
       </tr>
+      
       <tr bgcolor="#FFFFFF">
 	    <td height="20" bgcolor="#FFFFFF"><div align="left"><!--<a href="index.php?id=161">--><img src="bilder/AktiveSpieler/frieder_k.jpg" width="90" height="120" /><!--</a>--> <br />
                 <strong>Frieder Lachenmayer</strong><br />

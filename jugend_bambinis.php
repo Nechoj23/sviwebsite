@@ -6,7 +6,7 @@
       <table width="600" border="0" cellpadding="0" cellspacing="0">
         <tr> 
           <td colspan="2" id="contentTable"> 
-            <div align="left">Bambinis - Jahrg&auml;nge 2008 und jünger</div>
+            <div align="left">Bambini - Jahrg&auml;nge 2009 und jünger</div>
           </td>
         </tr>
         
@@ -60,7 +60,13 @@
                <p>Dienstag 17.00 - 18.30 Uhr</p>
                 
         <p>Donnerstag 17.00 - 18.30 Uhr</p>
+        <p>&nbsp;</p>
 		    </td>
 		</tr>
+        <tr>
+          <td id="contentFont" align="left"><a href="index.php?id=36"><img src="bilder/pfeil_links.png" width="20" height="20" alt="arrow"/> F-Jugend</a></td>
+          <td id="contentFont" align="right">&nbsp;</td>
+        </tr>	
+        
       </table>
-      <p>&nbsp;</p></td>
+      

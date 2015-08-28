@@ -3,10 +3,10 @@
       
 	<div style="position:relative; top:-20px; left:0px;  z-index:3 ;width:150px">  
 		     
-      <table width="600" border="0" cellpadding="0" cellspacing="0">
+      <table width="600" border="0" cellpadding="0" cellspacing="0"> 
         <tr> 
           <td colspan="2" id="contentTable"> 
-            <div align="left">C-Jugend - Jahrg&auml;nge 2000 und 2001</div>
+            <div align="left">C-Jugend - Jahrg&auml;nge 2001 und 2002</div>
           </td>
         </tr>
 		<tr>
@@ -252,17 +252,15 @@
     <table width="600" border="0" cellpadding="0" cellspacing="0">
         <tr> 
           <td width="200" id="contentFont" align="right" valign="top">	        
-		      <p>Spielklasse: <br /><br /></p>
-	 <p>Ergebnisdienst: <br /><br /></p>
+		      <p>Spielklasse: <br />
+		      </p>
+	
 			  <p>Trainer/Betreuer:</p>
 		  </td>
 		  <td width="300" id="contentFont" align="left" valign="top">	  	    
-		      <p>Leistungsstaffel 3 (C1) <br />
-			  C7 - Kreistaffel 1 (C2)</p>
-			  <p><a href="http://www.fussball.de/spieltag/leistungsstaffel-3-bezirk-enz-murr-kl-c-junioren-leistungsstaffel-c-junioren-saison1415-wuerttemberg/-/staffel/01LI73ET3C000001VV0AG813VVGBTDNI-G" target="_blank">
-			  <em>www.fussball.de</em></a> (C1)<br />
-			  <a href="http://www.fussball.de/spieltag/c7-kreisstaffel-1-rueckrunde-bezirk-enz-murr-kl-c-junioren-kreisstaffel-c-junioren-saison1415-wuerttemberg/-/staffel/01NBN0CTUC000001VV0AG812VSJ67FE0-G#!/section/matches" target="_blank">
-			  <em>www.fussball.de</em></a> (C2)</p>
+		      <p>Quali-Leistungsstaffel 3 (C1) <br />
+			  Quali-Kreistaffel 3 (C2)</p>
+			  
             
              <p> Frank Lindauer<br>
           Tel.: 07042-23536<br>
@@ -294,14 +292,58 @@
 		<p>Montag 17.30 Uhr - 19.00 Uhr</p>	
         <p>Mittwoch 17.30 Uhr - 19.00 Uhr</p>
 		   <p>Freitag 17.30 Uhr - 19.00 Uhr</p>
-		   <p> &nbsp;</p>
+		   <p>&nbsp; </p>
 		   <p> <em>Halle:</em></p>
 		   <p> Freitag 16.00 Uhr - 17.00 Uhr
  
        <p>&nbsp;</p>
 <!-- <p>     Torspieler-Training: Mittwoch 18.00 - 19.00 Uhr</p> -->
 			</td>
-		</tr> 
+            </tr> 
+            <tr>
+          <td id="contentFont" align="left"><a href="index.php?id=32"><img src="bilder/pfeil_links.png" width="20" height="20" alt="arrow"/> B-Jugend</a></td>
+          <td id="contentFont" align="right"><a href="index.php?id=34">D-Jugend <img src="bilder/pfeil_rechts.png" width="20" height="20" alt="arrow"/></a></td>
+        </tr>	
+         
+		
       </table>
-      <p>&nbsp;</p></td>
-	  
+      
+      <table width="600" border="0" cellpadding="0" cellspacing="0">
+        
+        <tr>
+			<td height="50px" colspan="7"><hr width="100%" size="2px" noshade style="color:#0066cc; background-color:#CCCCCC;"></td>
+      	</tr> 
+       	<tr>
+          <td>&nbsp;</td>
+        </tr>		
+        <tr> 
+          <td  align="center">	
+       <div id="widget1"></div>
+	<script type="text/javascript">
+		new fussballdeWidgetAPI().showWidget('widget1', '01PG2K8RRC000000VS541L4RVT5O17GT');
+	</script></td>
+        </tr>
+       <tr>
+	</table>
+    
+    <table width="600" border="0" cellpadding="0" cellspacing="0">
+        <tr>
+          <td>&nbsp;</td>
+        </tr>	
+        <tr>
+			<td height="50px" colspan="7"><hr width="100%" size="2px" noshade style="color:#0066cc; background-color:#CCCCCC;"></td>
+      	</tr> 
+       	<tr>
+          <td>&nbsp;</td>
+        </tr>		
+        <tr> 
+          <td  align="center">	
+       <div id="widget2"></div>
+	<script type="text/javascript">
+		new fussballdeWidgetAPI().showWidget('widget2', '01PG2P3SPG000000VS541L4FVU7JAAI0');
+	</script></td>
+        </tr>
+       <tr>
+	</table>
+      
+      <p>&nbsp;</p>

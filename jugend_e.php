@@ -6,7 +6,7 @@
       <table width="600" border="0" cellpadding="0" cellspacing="0">
         <tr> 
           <td colspan="2" id="contentTable"> 
-            <div align="left">E-Jugend - Jahrg&auml;nge 2004 und 2005</div>
+            <div align="left">E-Jugend - Jahrg&auml;nge 2005 und 2006</div>
           </td>
         </tr>
    
@@ -17,45 +17,26 @@
 		  </td>
         </tr>
 		
-		<!-- <tr> 
-      		<td colspan="2" id="contentFont"> <p align="center"><a href="Mannschaftsfotos/1213_e1_2_g.jpg" target="_blank"> <img src="Mannschaftsfotos/1213_e1_2.jpg" width="450" height="327"></a><br>
-          E1-Jugend </p>
-		  	</td>
-        </tr> -->
-       <!-- <tr> 
-      		<td colspan="2" id="contentFont"> <p align="center"><a href="Mannschaftsfotos/0910_e2_g.jpg" target="_blank"> <img src="Mannschaftsfotos/0910_e2.jpg" width="450" height="338"></a><br>
-          E2-Jugend </p>
-		  	</td>
-        </tr> -->
-	<!--	<tr> 
-      		<td colspan="2" id="contentFont"> <p align="center"><a href="Mannschaftsfotos/1112_e2_g.jpg" target="_blank"> <img src="Mannschaftsfotos/1112_e2.jpg" width="450" height="338"></a><br>
-          E2-Jugend </p>
-		  	</td>
-        </tr> -->
-         <tr> 
-          <td id="contentfont"><div align="left">&nbsp;</td>
-        </tr>
+		
+
 		<tr> 
           <td width="200" id="contentFont" align="right" valign="top">	        
 	 <p>Spielklasse: <br /> <br /> </p> 
-       <p>Ergebnisdienste:<br /><br /></p> 
-            <p>Trainer/Betreuer:</p>
+      
+            <p><br />Trainer/Betreuer:</p>
 		  </td>
 		  <td width="300" id="contentFont" align="left" valign="top">			  	  
-		    <p>E1: Kreisstaffel 13<br />
-               E2: Kreisstaffel 17</p> 
+		    <p>E1: Qualistaffel 22<br />
+               E2: Qualistaffel 23</p> 
 		     
-           <p> <a href="http://www.fussball.de/spieltag/e-junioren-kreisstaffel-13-bezirk-enz-murr-kl-e-junioren-kreisstaffel-e-junioren-saison1415-wuerttemberg/-/staffel/01NAFL7QI0000000VV0AG813VT0Q6IQ5-G#!/" target="_blank"> 
-          <em>www.fussball.de</em></a> (E1)<br />
-            <a href="http://www.fussball.de/spieltag/e-junioren-kreisstaffel-17-bezirk-enz-murr-kl-e-junioren-kreisstaffel-e-junioren-saison1415-wuerttemberg/-/staffel/01NAFLGOL8000001VV0AG813VT0Q6IQ5-G#!/section/stage" target="_blank"> 
-          <em>www.fussball.de</em></a> (E2) </p>
+           
        <!-- <p>
         <a href="http://ergebnisdienst.fussball.de/begegnungen/qualistaffel-19/bezirk-enz-murr-kl-/e-junioren-kreisstaffeln/e-junioren/spieljahr1213/wuerttemberg/M35S1213W354983" target="_blank">
         <em>www.fussball.de</em></a> (Qualirunde E2)<br />
        <a href="http://ergebnisdienst.fussball.de/begegnungen/e-junioren-kreisstaffel-25/bezirk-enz-murr-kl-/e-junioren-kreisstaffeln/e-junioren/spieljahr1213/wuerttemberg/M35S1213W350263" target="_blank">
         <em>www.fussball.de</em></a> (Hauptrunde E2)  </p> -->
 
-      <p><strong>E1-Jugend</strong></p>
+      <p><strong><br />E1-Jugend</strong></p>
         
 	 <p>
         Wolfgang Lenz<br>
@@ -121,5 +102,48 @@
 <!-- <p>     Torspieler-Training: Mittwoch 17.00 - 18.00 Uhr</p> -->
         </td>
 		</tr>
+         <tr>
+          <td id="contentFont" align="left"><a href="index.php?id=34"><img src="bilder/pfeil_links.png" width="20" height="20" alt="arrow"/> D-Jugend</a></td>
+          <td id="contentFont" align="right"><a href="index.php?id=36">F-Jugend <img src="bilder/pfeil_rechts.png" width="20" height="20" alt="arrow"/></a></td>
+        </tr>	
       </table>
+      
+      <table width="600" border="0" cellpadding="0" cellspacing="0">
+        
+        <tr>
+			<td height="50px" colspan="7"><hr width="100%" size="2px" noshade style="color:#0066cc; background-color:#CCCCCC;"></td>
+      	</tr> 
+       	<tr>
+          <td>&nbsp;</td>
+        </tr>		
+        <tr> 
+          <td  align="center">	
+       <div id="widget1"></div>
+	<script type="text/javascript">
+		new fussballdeWidgetAPI().showWidget('widget1', '01PG2Q0DR4000000VS541L4GVTBS1S87');
+	</script></td>
+        </tr>
+       <tr>
+	</table>
+    
+    <table width="600" border="0" cellpadding="0" cellspacing="0">
+        <tr>
+          <td>&nbsp;</td>
+        </tr>	
+        <tr>
+			<td height="50px" colspan="7"><hr width="100%" size="2px" noshade style="color:#0066cc; background-color:#CCCCCC;"></td>
+      	</tr> 
+       	<tr>
+          <td>&nbsp;</td>
+        </tr>		
+        <tr> 
+          <td  align="center">	
+       <div id="widget2"></div>
+	<script type="text/javascript">
+		new fussballdeWidgetAPI().showWidget('widget2', '01PG2Q3SVK000000VS541L4JVSOP95CU');
+	</script></td>
+        </tr>
+       <tr>
+	</table>
+      
       <p>&nbsp;</p></td>

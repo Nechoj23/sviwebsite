@@ -13,7 +13,7 @@
           <td>&nbsp;</td>
         </tr>
         <tr>
-          <td align="center"><div id="widget1"</div>
+          <td align="center"><div id="widget1"></div>
 	<script type="text/javascript">
 		new fussballdeWidgetAPI().showWidget('widget1', '01PAPU9JKC000000VS541L4JVVUFPJNO');
 	</script></td>
@@ -30,8 +30,7 @@
           <td>&nbsp;</td>
         </tr> 
 <tr>
-   <td align="center"><div id="widget2"</div>
-	<div id="widget2"></div>
+   <td align="center"><div id="widget2"></div>
 	<script type="text/javascript">
 		new fussballdeWidgetAPI().showWidget('widget2', '01PB86257O000000VS541L4SVSVARFUA');
 	</script>
