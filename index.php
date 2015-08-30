@@ -651,7 +651,7 @@ if (mysqli_connect_errno() == 0)
 	$datumMinusX = time() - (7 * 24 * 60 * 60);	// 7 Tage in Sekunden
 	$vor1Woche = date("Y-m-d",$datumMinusX);
 	
-	$query = "SELECT `home`, `guest`, `goalsHome`, `goalsGuest`, `goalgetters`  FROM `Aktive` WHERE `datum` BETWEEN '$vor1Woche' AND  '$heute' AND `goalsHome` is NOT NULL AND `goalsGuest` is NOT NULL";
+	$query = "SELECT `home`, `guest`, `goalsHome`, `goalsGuest`, `goalgetters`  FROM `Aktive` WHERE `datum` BETWEEN '$vor1Woche' AND  '$heute' AND `goalsHome` is NOT NULL AND `goalsGuest` is NOT NULL ORDER BY `datum` DESC";
 	
 	 $db_erg = $db_link->prepare( $query );
 	 $db_erg->execute();
@@ -689,13 +689,15 @@ $db_link->close();
 -->
 
 	  	
-      <tr>
-        <td height="50px" colspan="7"><hr width="100%" size="1px" noshade style="color:#cccccc; background-color:#CCCCCC;"></td>
-      </tr>  
+<tr>
+	<td height="50px" colspan="7">
+		<hr width="100%" size="2px" noshade style="color:#0066cc; background-color:#CCCCCC;">
+	</td>
+</tr>	
   
       <tr>
 
-        <td id="ueber2"> * Vorschau: </td>
+        <td id="ueber2"> <strong>* Vorschau: </strong></td>
 
       </tr> 	  
 <?php
@@ -887,7 +889,8 @@ while ($zeile = mysqli_fetch_array( $db_erg, MYSQL_ASSOC))
         <td id="contentfont"><div align="left">&nbsp;</div></td>
       </tr> 
  -->
-<!-- <tr>
+ <!--
+ <tr>
         <td id="ueber3"><div>&nbsp;&nbsp;&nbsp;&nbsp;<strong>** B-Jugend:</strong></div></td>
       </tr>
         
@@ -900,488 +903,107 @@ while ($zeile = mysqli_fetch_array( $db_erg, MYSQL_ASSOC))
 
         <td id="contentfont"><div align="left">&nbsp;</div></td>
 
-      </tr> -->
-
-
-
-
-
-
-
-
+      </tr> 
 
 <tr>
 
                 <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
 
              </tr>
-
+-->
  
-	   <tr>                <td id="contentfont" style= "text-align:right;"><div align="left"><strong>Unsere Jugendmannschaften erholen sich gerade von der letzten Saison!!!</strong></div></td>             </tr> 
+	   <tr>                <td id="contentfont" style= "text-align:right;"><div align="left"><strong>Die Jugendmannschaften bereiten sich derzeit auf die anstehenden Aufgaben der kommenden Saison vor!</strong></div></td>             </tr> 
 
                 <td id="contentfont" style= "text-align:right;"><div align="left"></div></td>
 
              </tr> 
-      <tr>
-
-                        <td height="50px" colspan="7"><hr width="100%" size="1px" noshade style="color:#cccccc; background-color:#CCCCCC;"></td>
-
-      </tr> 
-	  <!--
 <tr>
-
-          <td id="ueber2">
-
-            * Freundschaftsspiele :          </td>
-
-        </tr> 
-<tr>                <td>                                 <table id="inner_table" width="550" class="profil" >           
-				 <tr>   <td width="83" id="contentfont6" style= "text-align:right;">										
-				 <div align="left"><strong>E-Jugend</strong></div></td>                     										
-				 <td width="26" id="contentfont6" style= "text-align:right;">										
-				 <div align="right"><strong>Do</strong></div></td>                        										
-				 <td width="59" id="contentfont6" style= "text-align:right;">										
-				 <div align="left"><strong>26.02.15</strong></div></td>                  										
-				 <td width="69" id="contentfont6" style= "text-align:right;">										
-				 <div align="left"><strong>18.00Uhr</strong></div></td>                  										
-				 <td width="339" id="contentfont6" style= "text-align:right;">		
-				 <div align="left">SV Illingen I - SV Horrheim</div> </td>                </tr> </table>	-->
-
-
+	<td height="50px" colspan="7">
+		<hr width="100%" size="2px" noshade style="color:#0066cc; background-color:#CCCCCC;">
+	</td>
+</tr>	
 
       <!--<tr>
 
       <td id="ueber2"><div><strong>*
-
             Trainingsstarts:</strong>
-
-
-
           </div></td>
 
         </tr>
 
-         <tr>
-
-                <td>
-
-                                    <table id="inner_table" width="550" class="profil" >
-
-                                          <tr>
-
-                        <td width="120" id="contentfont6" style= "text-align:right;"><div align="left"><strong>A-Jugend</strong></div></td>
-
-                                    <td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>Dienstag</strong></div></td>
-
-                                    <td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>30.08.11</strong></div></td>
-
-                                    <td width="338" id="contentfont6" style= "text-align:right;"><div align="left"><strong>19.00Uhr</strong></div></td>
-
-                                          </tr>
-
-                                        </table>                        </td>
-
-              </tr>
-
-          <tr>
-
-                <td>
-
-                                    <table id="inner_table" width="550" class="profil" >
-
-                                          <tr>
-
-                        <td width="120" id="contentfont6" style= "text-align:right;"><div align="left"><strong>B-Jugend</strong></div></td>
-
-                                    <td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>Mittwoch</strong></div></td>
-
-                                    <td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>17.08.11</strong></div></td>
-
-                                    <td width="338" id="contentfont6" style= "text-align:right;"><div align="left"><strong>18.30Uhr</strong></div></td>
-
-                                          </tr>
-
-                                        </table>                        </td>
-
-              </tr>
-
-          <tr>
-
-                <td>
-
-                                    <table id="inner_table" width="550" class="profil" >
-
-                                          <tr>
-
-                        <td width="120" id="contentfont6" style= "text-align:right;"><div align="left"><strong>C-Jugend</strong></div></td>
-
-                                    <td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>Montag</strong></div></td>
-
-                                    <td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>15.08.11</strong></div></td>
-
-                                    <td width="338" id="contentfont6" style= "text-align:right;"><div align="left"><strong>17.30Uhr</strong></div></td>
-
-                                          </tr>
-
-                                        </table>                        </td>
-
-              </tr>
-
-          <tr>
-
-                <td>
-
-                                    <table id="inner_table" width="550" class="profil" >
-
-                                          <tr>
-
-                        <td width="120" id="contentfont6" style= "text-align:right;"><div align="left"><strong>D-Jugend</strong></div></td>
-
-                                    <td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>Montag</strong></div></td>
-
-                                    <td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>29.08.11</strong></div></td>
-
-                                    <td width="338" id="contentfont6" style= "text-align:right;"><div align="left"><strong>17.30Uhr</strong></div></td>
-
-                                          </tr>
-
-                                        </table>                        </td>
-
-              </tr>  <tr>
-
-                <td>
-
-                                    <table id="inner_table" width="550" class="profil" >
-
-                                          <tr>
-
-                        <td width="120" id="contentfont6" style= "text-align:right;"><div align="left"><strong>E1-Jugend</strong></div></td>
-
-                                    <td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>Montag</strong></div></td>
-
-                                    <td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>05.09.11</strong></div></td>
-
-                                    <td width="338" id="contentfont6" style= "text-align:right;"><div align="left"><strong>17.00Uhr</strong></div></td>
-
-                                          </tr>
-
-                                        </table>                        </td>
-
-              </tr>  <tr>
-
-                <td>
-
-                                    <table id="inner_table" width="550" class="profil" >
-
-                                          <tr>
-
-                        <td width="120" id="contentfont6" style= "text-align:right;"><div align="left"><strong>E2-Jugend</strong></div></td>
-
-                                    <td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>Montag</strong></div></td>
-
-                                    <td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>29.08.11</strong></div></td>
-
-                                    <td width="338" id="contentfont6" style= "text-align:right;"><div align="left"><strong>17.30Uhr</strong></div></td>
-
-                                          </tr>
-
-                                        </table>                        </td>
-
-              </tr>
-
-          <tr>
-
-                <td>
-
-                                    <table id="inner_table" width="550" class="profil" >
-
-                                          <tr>
-
-                        <td width="120" id="contentfont6" style= "text-align:right;"><div align="left"><strong>F1-Jugend</strong></div></td>
-
-                                    <td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>Dienstag</strong></div></td>
-
-                                    <td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>06.09.11</strong></div></td>
-
-                                    <td width="338" id="contentfont6" style= "text-align:right;"><div align="left"><strong>17.30Uhr</strong></div></td>
-
-                                          </tr>
-
-                                        </table>                        </td>
-
-              </tr>   <tr>
-
-                <td>
-
-                                    <table id="inner_table" width="550" class="profil" >
-
-                                          <tr>
-
-                        <td width="120" id="contentfont6" style= "text-align:right;"><div align="left"><strong>F2-Jugend</strong></div></td>
-
-                                    <td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>Dienstag</strong></div></td>
-
-                                    <td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>06.09.11</strong></div></td>
-
-                                    <td width="338" id="contentfont6" style= "text-align:right;"><div align="left"><strong>17.30Uhr</strong></div></td>
-
-                                          </tr>
-
-                                        </table>                        </td>
-
-              </tr>   <tr>
-
-                <td>
-
-                                    <table id="inner_table" width="550" class="profil" >
-
-                                          <tr>
-
-                        <td width="120" id="contentfont6" style= "text-align:right;"><div align="left"><strong>Bambini</strong></div></td>
-
-                                    <td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>Dienstag</strong></div></td>
-
-                                    <td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>06.09.11</strong></div></td>
-
-                                    <td width="338" id="contentfont6" style= "text-align:right;"><div align="left"><strong>17.30Uhr</strong></div></td>
-
-                                          </tr>
-
-                                        </table>                        </td>
-
-              </tr>
- -->
-  <!--  <tr>
-
-          <td id="contentfont" style= "text-align:right;"><div align="left">
-		  Die aktuellen Ansprechpartner und Trainingszeiten der verschiedenen Jugenden finden Sie auf der jeweiligen Jugend-Seite (zu finden unter "Mannschaften" >>> "Jugend")</div></td>
-		  
-
-        </tr> -->
-		<!--
- <tr>
-
-          <td id="contentfont"><div align="left">&nbsp;</td>
-
-        </tr>
-     <tr>
-        <td height="50px" colspan="7"><hr width="100%" size="1px" noshade style="color:#cccccc; background-color:#CCCCCC;"></td>
-      </tr>  -->
-<!--	  
- <tr>
-
-        <td id="ueber2"><div><strong>*
-
-          Meisterschaftsvorschau:</strong> </div>
-          </td>
-
-      </tr>
-
-	
-				 
-				 	  <tr>                <td>        <table id="inner_table" width="550" class="profil" >           
-				 <tr>   <td width="83" id="contentfont6" style= "text-align:right;">										
-				 <div align="left"><strong>C-Jugend</strong></div></td>                     										
-				 <td width="26" id="contentfont6" style= "text-align:right;">										
-				 <div align="right"><strong>Sa</strong></div></td>                        										
-				 <td width="59" id="contentfont6" style= "text-align:right;">										
-				 <div align="left"><strong>20.06.15</strong></div></td>                  										
-				 <td width="69" id="contentfont6" style= "text-align:right;">										
-				 <div align="left"><strong>15.00Uhr</strong></div></td>                  										
-				 <td width="339" id="contentfont6" style= "text-align:right;">		
-				 <div align="left"> SV Illingen I - TSV Oberriexingen </div> </td>                </tr> </table>	 
-				 
-				  		  <tr>                <td>                                 <table id="inner_table" width="550" class="profil" >           
-				 <tr>   <td width="83" id="contentfont6" style= "text-align:right;">										
-				 <div align="left"><strong>A-Jugend</strong></div></td>                     										
-				 <td width="26" id="contentfont6" style= "text-align:right;">										
-				 <div align="right"><strong>Sa</strong></div></td>                        										
-				 <td width="59" id="contentfont6" style= "text-align:right;">										
-				 <div align="left"><strong>20.06.15</strong></div></td>                  										
-				 <td width="69" id="contentfont6" style= "text-align:right;">										
-				 <div align="left"><strong>16.30Uhr</strong></div></td>                  										
-				 <td width="339" id="contentfont6" style= "text-align:right;">		
-				 <div align="left"> Spvgg Warmbronn - SV Illingen</div> </td>                </tr> </table>	
-				 
-				   <tr>                <td>                                 <table id="inner_table" width="550" class="profil" >           
-				 <tr>   <td width="83" id="contentfont6" style= "text-align:right;">										
-				 <div align="left"><strong>B-Jugend</strong></div></td>                     										
-				 <td width="26" id="contentfont6" style= "text-align:right;">										
-				 <div align="right"><strong>So</strong></div></td>                        										
-				 <td width="59" id="contentfont6" style= "text-align:right;">										
-				 <div align="left"><strong>21.06.15</strong></div></td>                  										
-				 <td width="69" id="contentfont6" style= "text-align:right;">										
-				 <div align="left"><strong>10.30Uhr</strong></div></td>                  										
-				 <td width="339" id="contentfont6" style= "text-align:right;">		
-				 <div align="left"> SV Illingen - SV Friolzheim</div> </td>                </tr> </table>	
--->				 
-
-      <!--      <tr>
-
-          <td id="ueber2">
-
-            * Bezirkspokal (1. Runde) :          </td>
-
-        </tr> 
-
-  <tr>
-
-        <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;&nbsp;&nbsp;&nbsp;**<strong>B-Jugend</strong>:</div></td>
-
-      </tr>
-
-    <tr>
-
-         <td id="contentfont" style= "text-align:left; padding-left:50px;">TSV Heimsheim - SV Illingen&nbsp; 5:2 <br/>
- <span class="Stil20"><em>Torsch&uuml;tzen:</em></span></td>
-
-      </tr>
-         <tr>
-
-          <td id="contentfont"><div align="left">&nbsp;</td> 
- 
-        </tr> <tr>        <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;&nbsp;&nbsp;&nbsp;**<strong>C-Jugend</strong>:</div></td>      </tr>
- <tr>           <td id="contentfont" style= "text-align:left; padding-left:50px;">SV Illingen - FSV 08 Bissingen I&nbsp; 0:1 <br/>
- <span class="Stil20"><em>Torsch&uuml;tzen: ---</em></span></td>      </tr>
-           <tr>           <td id="contentfont"><div align="left">&nbsp;</td>        </tr> -->
-
-  <!--<tr>
-
-        <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;&nbsp;&nbsp;&nbsp;**<strong>C-Jugend</strong>:</div></td>
-
-      </tr>
-
-       <tr>
-
-          <td id="contentfont" style= "text-align:left; padding-left:50px;">TV Pflugfelden - SV Illingen&nbsp; 5:0 <br/>
-
-            <span class="Stil20"><em>Torsch&uuml;tzen: ---</em></span></td>
-
-      </tr>           -->
-
-<!--  
 <tr>
-
-          <td id="contentfont"><div align="left">&nbsp;</td>
-
-        </tr>
-
-                <tr>
-
-                        <td height="50px" colspan="7"><hr width="100%" size="1px" noshade style="color:#cccccc; background-color:#CCCCCC;"></td>
-
-                </tr>
-
-         <tr>
-
-          <td id="ueber2">
-
-            * Bezirkspokal-Vorschau (2. Runde) :          </td>
-
-        </tr>
-
- <tr>
-
-        <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;&nbsp;&nbsp;&nbsp;**<strong>A-Jugend</strong>:</div></td>
-
-      </tr>
-
-         <tr>
-
-                <td>
-
-                                    <table id="inner_table" width="550" class="profil" >
-
-                                          <tr>
-
-
-
-                                    <td width="26" id="contentfont6" style= "text-align:right;"><div align="right"><strong>Di</strong></div></td>
-
-                                    <td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>30.09.14</strong></div></td>
-
-                                    <td width="69" id="contentfont6" style= "text-align:right;"><div align="left"><strong>18.30 Uhr</strong></div></td>
-
-                                    <td width="339" id="contentfont6" style= "text-align:right;"><div align="left">Spvgg Besigheim - SV Illingen</div></td>
-
-                                          </tr>
-
-                                        </table>                </td>
-
-              </tr>
-
-                <tr>
-
-          <td id="contentfont"><div align="left">&nbsp;</td>
-
-        </tr> -->
-
-   <!--      <tr>
-
-        <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;&nbsp;&nbsp;&nbsp;**<strong>B-Jugend</strong>:</div></td>
-
-      </tr>
-
-                  <tr>
-
-                <td>
-
-                                    <table id="inner_table" width="550" class="profil" >
-
-                                          <tr>
-
-
-
-                                    <td width="26" id="contentfont6" style= "text-align:right;"><div align="right"><strong>Do</strong></div></td>
-
-                                    <td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>10.10.13</strong></div></td>
-
-                                    <td width="69" id="contentfont6" style= "text-align:right;"><div align="left"><strong>18.30 Uhr</strong></div></td>
-
-                                    <td width="339" id="contentfont6" style= "text-align:right;"><div align="left">        TSV Unterriexingen - SV Illingen</div></td>
-
-                                          </tr>
-
-                                        </table>                </td>
-
-              </tr>
-
-                <tr>
-
-          <td id="contentfont"><div align="left">&nbsp;</td>
-
-        </tr> -->
-<!--
-        <tr>
-
-        <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;&nbsp;&nbsp;&nbsp;**<strong>C-Jugend</strong>:</div></td>
-
-      </tr>
-
-        <tr>
-
-                <td>
-
-                                    <table id="inner_table" width="550" class="profil" >
-
-                                          <tr>
-
-
-
-                                    <td width="26" id="contentfont6" style= "text-align:right;"><div align="right"><strong>Sa</strong></div></td>
-
-                                    <td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>01.03.14</strong></div></td>
-
-                                    <td width="69" id="contentfont6" style= "text-align:right;"><div align="left"><strong>13.00 Uhr</strong></div></td>
-
-                                    <td width="339" id="contentfont6" style= "text-align:right;"><div align="left">TV Pflugfelden - SV Illingen</div></td>
-
-                                          </tr>
-
-                                        </table>                </td>
-
-              </tr>
+	<td>
+		<table id="inner_table" width="550" class="profil" >
+			<tr>
+				<td width="120" id="contentfont6" style= "text-align:right;"><div align="left"><strong>A-Jugend</strong></div></td>
+				<td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>Dienstag</strong></div></td>
+				<td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>30.08.11</strong></div></td>
+				<td width="338" id="contentfont6" style= "text-align:right;"><div align="left"><strong>19.00Uhr</strong></div></td>
+			</tr>
+		</table>
+	</td>
+</tr>
 -->
+	  
+<tr>
+	<td id="ueber2"><div><strong>*
+		Vorschau:</strong> </div>
+	</td>
+</tr>
+
+<?php
+
+ //turn off notice and deprecated reporting
+ error_reporting(E_ALL ^ ( E_NOTICE | E_DEPRECATED ));
+
+ // database connection
+ 	$db_link = mysqli_connect('w00be8df.kasserver.com','d01f06ec','qwe123','d01f06ec');
+
+	date_default_timezone_set("Europe/Berlin");
+	$timestamp = time();
+	$heute = date("Y-m-d",$timestamp);
+	$jetzt = date("H:i",$timestamp);
+	$datumPlusX = time() + (32 * 24 * 60 * 60);	// 32 Tage in Sekunden
+	$in2Wochen = date("Y-m-d",$datumPlusX);
+ 
+ 	$query = "SELECT * FROM `Jugend` WHERE `datum` BETWEEN '$heute' AND '$in2Wochen' 
+ 	AND `goalsHome` is NULL ORDER BY `datum` ASC" ;
+
+$db_erg = mysqli_query( $db_link, $query );
+while ($zeile = mysqli_fetch_array( $db_erg, MYSQL_ASSOC))
+{
+	
+	// Logoabfrage
+	$homeTeam = substr($zeile['home'],0,strlen($zeile['home'])-3);
+	$guestTeam = substr($zeile['guest'],0,strlen($zeile['guest'])-3);
+		
+	// Datum
+	$wochentage = array("So", "Mo", "Di", "Mi", "Do", "Fr", "Sa");
+	$date = $zeile['datum'];
+	$phpDate = strtotime ($date);
+	$myDate = date("d.m.y", $phpDate);
+	$day = $wochentage[date("w", $phpDate)];
+	$anpfiff = substr($zeile['anpfiff'],0,5); // Zeit ohne Sekunden
+	
+	$jugend = $zeile['jugend'];
+	$extra = $zeile['extra'];
+	
+	// Code
+	echo " <tr><td><table id='inner_table' width='550' class='profil' >";
+ 	echo "<tr>";
+  	echo "<td width='83' id='contentfont6' style='text-align:right;'><div align='left'><b>" . $jugend . "-Jugend</b></div></td>" ;
+	echo "<td width='26' id='contentfont6' style='text-align:right;'><div align='left'><b>" . $day . "</b></div></td>";
+	echo "<td width='59' id='contentfont6' style='text-align:right;'><div align='left'><b>" . $myDate . "</b></div></td>"; 
+	echo "<td width='69' id='contentfont6' style='text-align:right;'><div align='left'><b>" .$anpfiff . " Uhr </b></div></td> "; 
+  	echo "<td width='339' id='contentfont6' style='text-align:right;'><div align='left'>" . $zeile['home'] . " vs. " . $zeile['guest'] . 
+  	"&nbsp;&nbsp;&nbsp" . $extra . "</div></td>" ;
+  	echo "</tr>";
+	echo "</table></td></tr>";
+
+}
+
+  mysqli_close($db_link);
+?>
       <!--      <tr>
 
                 <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>

@@ -21,30 +21,39 @@
     -->
   
 	<tr id="contentFont">       
+		<td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">3     
+	  Tore</font></p></td>     
+		<td width="424" id="contentFont"><font size="+1">Tobias H&auml;fner</font></td>    
+    </tr> 
+    <tr id="contentFont">       
 		<td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">2     
 		Tore</font></p></td>     
 		<td width="424" id="contentFont"><font size="+1">Tim Scheuermann</font></td>    
     </tr> 
     <tr id="contentFont">       
 		<td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">2     
-		Tore</font></p></td>     
-		<td width="424" id="contentFont"><font size="+1">Tobias H&auml;fner</font></td>    
-    </tr> 
-    <tr id="contentFont">       
-		<td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">1     
-	  Tor</font></p></td>     
+	  Tore</font></p></td>     
 		<td width="424" id="contentFont"><font size="+1">Marcel Liebend&ouml;rfer</font></td>    
     </tr> 
-    
+    <tr id="contentFont">       
+		<td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">2     
+	  Tore</font></p></td>     
+		<td width="424" id="contentFont"><font size="+1">Marco Klein</font></td>    
+    </tr> 
+        <tr> 
+      <td colspan="2">&nbsp;</td>
+    </tr>
 
-	
-	
-	
-    
+
     <tr> 
-      <td height="50px" colspan="2"> <hr width="100%" size="1px" noshade style="color:#cccccc; background-color:#CCCCCC;"> 
+      <td height="50px" colspan="2"> <hr width="85%" size="2px" noshade style="color:#0066cc; background-color:#CCCCCC;"> 
       </td>
     </tr>
+    
+        <tr> 
+      <td colspan="2">&nbsp;</td>
+    </tr>
+
     
        <tr> 
           <td colspan="3" id="contentTable"> 
@@ -72,7 +81,7 @@
     </tr>
 
    	<tr> 
-      <td height="50px" colspan="2"> <hr width="100%" size="1px" noshade style="color:#cccccc; background-color:#CCCCCC;"> 
+      <td height="50px" colspan="2"> <hr width="85%" size="2px" noshade style="color:#0066cc; background-color:#CCCCCC;"> 
       </td>
     </tr>
   </table>
