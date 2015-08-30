@@ -259,7 +259,7 @@
                   Edgar Schrodt<br>
                   07043/920907<br />
                   0172/7163010<br />
-                  <a href="mailto: edgar@schroth-informatik.de"> edgar@schroth-informatik.de</a><br />
+                  <a href="mailto: edgar@schrodt-informatik.de"> edgar@schrodt-informatik.de</a><br />
             </p>       <p>
 				  Angelo Rocca<br>
 				</p>
