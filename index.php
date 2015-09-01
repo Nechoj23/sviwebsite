@@ -568,8 +568,8 @@ function MM_showHideLayers() { //v3.0
 	
 <tr>
 	<td id="contentfont" style= "text-align:left;"> 
-    	<div align="left"><img src="bilder/svi_mini.jpg"> <strong>Heimrecht ge&auml;ndert!</strong><br>
-            <p>Unsere 1. Mannschaft trifft  in der ersten Runde des Bezirkspokals auf den TSV Ottmarsheim I. Das Spiel findet am kommenden Mittwoch (02.09.) um 19.30Uhr <strong>nicht wie urspr&uuml;nglich angek&uuml;ndigt in Ottmarsheim, sondern im heimischen Eichwaldpark statt</strong>.</p>
+    	<div align="left"><img src="bilder/svi_mini.jpg"> <strong>Kampflos in die 2. Runde!</strong><br>
+            <p>Das f&uuml;r Mittwoch, den 02.09.15 angesetzte Pokalspiel gegen Ottmarsheim wurde von Seiten der G&auml;ste abgesagt, wodurch unsere Mannschaft kampflos in die 2. Runde einzieht.</p>
         </div>
 	</td>
 </tr>
@@ -651,18 +651,18 @@ if (mysqli_connect_errno() == 0)
 	$datumMinusX = time() - (7 * 24 * 60 * 60);	// 7 Tage in Sekunden
 	$vor1Woche = date("Y-m-d",$datumMinusX);
 	
-	$query = "SELECT `home`, `guest`, `goalsHome`, `goalsGuest`, `goalgetters`  FROM `Aktive` WHERE `datum` BETWEEN '$vor1Woche' AND  '$heute' AND `goalsHome` is NOT NULL AND `goalsGuest` is NOT NULL ORDER BY `datum` DESC";
+	$query = "SELECT `home`, `guest`, `goalsHome`, `goalsGuest`, `goalgetters` , `extra`  FROM `Aktive` WHERE `datum` BETWEEN '$vor1Woche' AND  '$heute' AND `goalsHome` is NOT NULL AND `goalsGuest` is NOT NULL ORDER BY `datum` DESC";
 	
 	 $db_erg = $db_link->prepare( $query );
 	 $db_erg->execute();
-	 $db_erg->bind_result( $home, $guest, $goalsHome, $goalsGuest, $goalgetters );
+	 $db_erg->bind_result( $home, $guest, $goalsHome, $goalsGuest, $goalgetters, $extra );
 	 
 	while ($db_erg->fetch())
 	{
 		echo "<tr>";
 		echo "<td id='contentfont' style= 'text-align:left; padding-left:50px;'> " .
 		$home . " vs. " . $guest . "  " . $goalsHome . ":" . 		
-		$goalsGuest . "<br/><span class='Stil20'><em>Torsch&uuml;tzen: " . 
+		$goalsGuest . " &nbsp;" . $extra . "<br/><span class='Stil20'><em>Torsch&uuml;tzen: " . 
 		$goalgetters . "</em></span></td></tr>";
 	}
 }
