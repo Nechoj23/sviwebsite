@@ -245,7 +245,7 @@
           
 	  <td height="20" bgcolor="#FFFFFF"><div align="left"><a href="index.php?id=117"><img src="bilder/AktiveSpieler/jens_schrodt_k.jpg" width="90" height="120" /></a><br />
                 <strong>Jens Schrodt</strong><br />
-          Geb.: </div></td>
+          Geb.: 21.02.1992</div></td>
  
      <td height="20" bgcolor="#FFFFFF"><div align="left"><a href="index.php?id=212"><img src="bilder/AktiveSpieler/matzeStocker_k.jpg" width="90" height="120" /></a> <br />
                 <strong>Matthias Stocker</strong><br />

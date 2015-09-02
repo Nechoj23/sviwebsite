@@ -45,7 +45,7 @@
     <br />  
 
     
-	 <hr width="120px" size="1px" align="center" noshade style="color:#cccccc; background-color:#CCCCCC;"> 
+	 <hr width="120px" size="1px" align="center" noshade style="color:#FFFFFF; background-color:#FFFFFF;"> 
   
   <br />  
 <!--   

@@ -23,7 +23,7 @@
           </tr>
           <tr class="roww2 entries"> 
             <td class="col1"><font color="#0066cc">Geburtsdatum:</font></td>
-            <td>&nbsp;</td>
+            <td><font color="#0066cc">21.02.1992</font></td>
           </tr>
           <tr class="roww1 entries"> 
             <td bgcolor="#CCCCCC" class="col1"><font color="#0066cc">Spitzname:</font></td>

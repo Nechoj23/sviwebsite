@@ -417,9 +417,7 @@ function MM_showHideLayers() { //v3.0
 <tr>
 
   <?php
-
-                include("head.php");
-
+   include("head.php");
           ?>
 
 </tr>
@@ -463,11 +461,40 @@ function MM_showHideLayers() { //v3.0
       </tr>
 
       <tr>
-
         <td height="20">&nbsp;</td>
-
       </tr>
-<!--
+
+
+<!-- MATCHDAY -->
+<?php
+ //turn off notice and deprecated reporting
+ error_reporting(E_ALL ^ ( E_NOTICE | E_DEPRECATED ));
+
+ // database connection
+ 	$db_link = mysqli_connect('w00be8df.kasserver.com','d01f06ec','qwe123','d01f06ec');
+
+	date_default_timezone_set("Europe/Berlin");
+	$timestamp = time();
+	$heute = date("Y-m-d",$timestamp);
+ 
+ 	$query = "SELECT `home` FROM `Aktive` WHERE `datum` = '$heute'
+ 	AND `goalsHome` is NULL ORDER BY `datum` ASC";
+
+$db_erg = mysqli_query( $db_link, $query );
+$zeile = mysqli_fetch_array( $db_erg, MYSQL_ASSOC);
+if ($zeile['home'] != "")
+{
+	// Code
+ 	echo "<tr>";
+  	echo "<td height='20' align= 'center'><img src='bilder/matchday.jpg' width='550' alt='matchday'></td>";
+	echo "</tr>";
+	echo "<tr><td height='20'>&nbsp;</td></tr>";
+}
+  mysqli_close($db_link);
+?>
+    
+      
+  <!--
         <tr>
 
        <td id="contentfont" style= "text-align:right;"><br>&nbsp;
@@ -480,26 +507,26 @@ function MM_showHideLayers() { //v3.0
 
       </tr> 
 -->
-<!--<tr>
+  <!--<tr>
 
                 <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
 
              </tr> -->
-
- <tr>
-
-        <td bgcolor="#0066cc" id="contentTable2"><div class="ueber1"> NEUIGKEITEN </div></td>
-
-      </tr>
-
-      <tr>
-
-        <td height="20">&nbsp;</td>
-
-      </tr> 
-
       
-<!--
+      <tr>
+        
+        <td bgcolor="#0066cc" id="contentTable2"><div class="ueber1"> NEUIGKEITEN </div></td>
+        
+      </tr>
+      
+      <tr>
+        
+        <td height="20">&nbsp;</td>
+        
+      </tr> 
+      
+      
+  <!--
         <tr>
 
           <td id="contentfont" style= "text-align:right;"><div align="left" z-index:1>
@@ -520,15 +547,15 @@ function MM_showHideLayers() { //v3.0
 
         </tr>
 -->
-
-
-
-
-
-<!-- COUNTDOWN -->
-
-
-<!--
+      
+      
+      
+      
+      
+  <!-- COUNTDOWN -->
+      
+      
+  <!--
     <tr><td background="bilder/countdownBG.jpg" height=150><center>
 
     <br><br>
@@ -564,18 +591,18 @@ function MM_showHideLayers() { //v3.0
     </center>
 
     </tr> -->
-
-	
-<tr>
-	<td id="contentfont" style= "text-align:left;"> 
-    	<div align="left"><img src="bilder/svi_mini.jpg"> <strong>Kampflos in die 2. Runde!</strong><br>
-            <p>Das f&uuml;r Mittwoch, den 02.09.15 angesetzte Pokalspiel gegen Ottmarsheim wurde von Seiten der G&auml;ste abgesagt, wodurch unsere Mannschaft kampflos in die 2. Runde einzieht.</p>
+      
+      
+  <tr>
+    <td id="contentfont" style= "text-align:left;"> 
+      <div align="left"><img src="bilder/svi_mini.jpg"> <strong>Kampflos in die 2. Runde!</strong><br>
+        <p>Das f&uuml;r Mittwoch, den 02.09.15 angesetzte Pokalspiel gegen Ottmarsheim wurde von Seiten der G&auml;ste abgesagt, wodurch unsere Mannschaft kampflos in die 2. Runde einzieht.</p>
         </div>
-	</td>
-</tr>
-
-  
-<!--
+      </td>
+  </tr>
+      
+      
+  <!--
 <tr>
 	<td id="contentfont" style= "text-align:left;"> 
     	<div align="left"><img src="bilder/svi_mini.jpg"> <strong>+++ Saisonvorbereitung abgeschlossen: Es kann losgehen! +++</strong><br>
@@ -595,26 +622,26 @@ function MM_showHideLayers() { //v3.0
 	</td>
 </tr>
 -->
-
+      
       <tr>
-
+        
         <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
-
+        
       </tr>
-
+      
       <tr>
-
+        
         <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="bilder/LogoAnimation_256Farben.gif" alt="SVI Logo anim" width="160" height="120" align="middle"></td>
-
+        
       </tr>
-
+      
       <tr>
-
+        
         <td bgcolor="#0066cc" id="contentTable2"><div class="ueber1"> AKTIVE</div></td>
-
+        
       </tr>
-
-<!--
+      
+  <!--
    <tr>          <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>        </tr>
  <tr>
 
@@ -623,18 +650,18 @@ function MM_showHideLayers() { //v3.0
       </tr>	--> 
       <!-- <tr>                <td id="contentfont" style= "text-align:right;"><div align="left"> <a href="vorbereitungsplan_sommer_14.xls"><em>>>> zum Vorbereitungsplan <<<</em> </div></td>             </tr> 
       -->
-  
-	  <tr>
+      
+      <tr>
         <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
       </tr>
       
       
-
- <tr>
+      
+      <tr>
         <td id="ueber2"><div><strong>* Meisterschaft:</strong></div></td>
       </tr>
       
-<?php       
+  <?php       
 //turn off notice and deprecated reporting
  error_reporting(E_ALL ^ ( E_NOTICE | E_DEPRECATED ));
 
@@ -676,7 +703,7 @@ $db_link->close();
 
 	
 ?>    
-<!--    
+  <!--    
 <tr>
 	<td id="contentfont" style= "text-align:left; padding-left:50px;">
     	TSV Ensingen I vs. SV Illingen II&nbsp; 1:1 (0:1)<br/>
@@ -687,20 +714,20 @@ $db_link->close();
         <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
       </tr>
 -->
-
-	  	
-<tr>
-	<td height="50px" colspan="7">
-		<hr width="100%" size="2px" noshade style="color:#0066cc; background-color:#CCCCCC;">
-	</td>
-</tr>	
-  
+      
+      
+  <tr>
+    <td height="50px" colspan="7">
+      <hr width="100%" size="2px" noshade style="color:#0066cc; background-color:#CCCCCC;">
+      </td>
+  </tr>	
+      
       <tr>
-
+        
         <td id="ueber2"> <strong>* Vorschau: </strong></td>
-
+        
       </tr> 	  
-<?php
+  <?php
 
  //turn off notice and deprecated reporting
  error_reporting(E_ALL ^ ( E_NOTICE | E_DEPRECATED ));
@@ -756,17 +783,17 @@ while ($zeile = mysqli_fetch_array( $db_erg, MYSQL_ASSOC))
 
   mysqli_close($db_link);
 ?>
-
-
-<tr>
-	<td height="50px" colspan="7">
-		<hr width="100%" size="2px" noshade style="color:#0066cc; background-color:#CCCCCC;">
-	</td>
-</tr>		
-
-
-
-<!--		 <tr>
+      
+      
+  <tr>
+    <td height="50px" colspan="7">
+      <hr width="100%" size="2px" noshade style="color:#0066cc; background-color:#CCCCCC;">
+      </td>
+  </tr>		
+      
+      
+      
+  <!--		 <tr>
 
           <td id="ueber2">
 
@@ -788,7 +815,7 @@ while ($zeile = mysqli_fetch_array( $db_erg, MYSQL_ASSOC))
                                         </table>                </td>
 										
         </tr>  -->
- <!-- <tr>
+      <!-- <tr>
 
           <td id="ueber2">
 
@@ -811,9 +838,9 @@ while ($zeile = mysqli_fetch_array( $db_erg, MYSQL_ASSOC))
 										
         </tr> 
 		-->
-
-  
-<!--
+      
+      
+  <!--
      <tr>
 
                 <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
@@ -832,48 +859,48 @@ while ($zeile = mysqli_fetch_array( $db_erg, MYSQL_ASSOC))
 
                 </tr>
 -->
-            
-	
-        <tr>
-
-                <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
-
-             </tr>
-
+      
+      
       <tr>
-
+        
         <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
-
+        
       </tr>
-
-          <tr>
-
-        <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
-
-      </tr>
-
+      
       <tr>
-
+        
+        <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
+        
+      </tr>
+      
+      <tr>
+        
+        <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
+        
+      </tr>
+      
+      <tr>
+        
         <td bgcolor="#0066cc" id="contentTable2"><div class="ueber1"> JUGEND </div></td>
-
+        
       </tr>
-
-             <tr>
-
-          <td id="contentfont"><div align="left">&nbsp;</div></td>
-
-        </tr>
-<!--
+      
+      <tr>
+        
+        <td id="contentfont"><div align="left">&nbsp;</div></td>
+        
+      </tr>
+  <!--
  <tr>
 
         <td id="ueber2"> * Meisterschaft: </td>
 
       </tr> 
 -->
-		  	 
-	<!-- <tr>                <td id="contentfont" style= "text-align:right;"><div align="left">Die Meisterschaftsrunden der Jugenden beginnen wieder im März 2015!</div></td>             </tr>
+      
+      <!-- <tr>                <td id="contentfont" style= "text-align:right;"><div align="left">Die Meisterschaftsrunden der Jugenden beginnen wieder im März 2015!</div></td>             </tr>
 -->
-<!--	 <tr>
+  <!--	 <tr>
 
         <td id="ueber3"><div>&nbsp;&nbsp;&nbsp;&nbsp;<strong>** A-Jugend:</strong></div></td>
 
@@ -889,7 +916,7 @@ while ($zeile = mysqli_fetch_array( $db_erg, MYSQL_ASSOC))
         <td id="contentfont"><div align="left">&nbsp;</div></td>
       </tr> 
  -->
- <!--
+      <!--
  <tr>
         <td id="ueber3"><div>&nbsp;&nbsp;&nbsp;&nbsp;<strong>** B-Jugend:</strong></div></td>
       </tr>
@@ -911,18 +938,18 @@ while ($zeile = mysqli_fetch_array( $db_erg, MYSQL_ASSOC))
 
              </tr>
 -->
- 
-	   <tr>                <td id="contentfont" style= "text-align:right;"><div align="left"><strong>Die Jugendmannschaften bereiten sich derzeit auf die anstehenden Aufgaben der kommenden Saison vor!</strong></div></td>             </tr> 
-
-                <td id="contentfont" style= "text-align:right;"><div align="left"></div></td>
-
-             </tr> 
-<tr>
-	<td height="50px" colspan="7">
-		<hr width="100%" size="2px" noshade style="color:#0066cc; background-color:#CCCCCC;">
-	</td>
-</tr>	
-
+      
+      <tr>                <td id="contentfont" style= "text-align:right;"><div align="left"><strong>Die Jugendmannschaften bereiten sich derzeit auf die anstehenden Aufgaben der kommenden Saison vor!</strong></div></td>             </tr> 
+      
+      <td id="contentfont" style= "text-align:right;"><div align="left"></div></td>
+        
+      </tr> 
+  <tr>
+    <td height="50px" colspan="7">
+      <hr width="100%" size="2px" noshade style="color:#0066cc; background-color:#CCCCCC;">
+      </td>
+  </tr>	
+      
       <!--<tr>
 
       <td id="ueber2"><div><strong>*
@@ -944,14 +971,14 @@ while ($zeile = mysqli_fetch_array( $db_erg, MYSQL_ASSOC))
 	</td>
 </tr>
 -->
-	  
-<tr>
-	<td id="ueber2"><div><strong>*
-		Vorschau:</strong> </div>
-	</td>
-</tr>
-
-<?php
+      
+  <tr>
+    <td id="ueber2"><div><strong>*
+      Vorschau:</strong> </div>
+      </td>
+  </tr>
+      
+  <?php
 
  //turn off notice and deprecated reporting
  error_reporting(E_ALL ^ ( E_NOTICE | E_DEPRECATED ));
@@ -1093,7 +1120,7 @@ while ($zeile = mysqli_fetch_array( $db_erg, MYSQL_ASSOC))
               <br></td>
 
         </tr> -->
-
+      
       <!--
 
         <tr>
@@ -1177,7 +1204,7 @@ while ($zeile = mysqli_fetch_array( $db_erg, MYSQL_ASSOC))
           <td id="contentfont" style= "text-align:right;"><div align="left">Es spielten: Tom Lindauer (TW), Daniel D&auml;schner (13), Robin Dittrich (6), Manuel Knittel, Necati Dagasan (4), Samy Lehmann (1), Tobias D&auml;schner (11)</div>
 
           </tr>  -->
-
+      
       <!--
 
 
@@ -1189,7 +1216,7 @@ while ($zeile = mysqli_fetch_array( $db_erg, MYSQL_ASSOC))
                                 <hr width="100%" size="1px" noshade style="color:#cccccc; background-color:#CCCCCC;">                        </td>
 
                 </tr> -->
-
+      
       <!--
 
 <tr>
@@ -1277,7 +1304,7 @@ while ($zeile = mysqli_fetch_array( $db_erg, MYSQL_ASSOC))
         </tr>
 
 -->
-
+      
       <!--
 
         <tr>
@@ -1325,7 +1352,7 @@ while ($zeile = mysqli_fetch_array( $db_erg, MYSQL_ASSOC))
         </tr>
 
 -->
-
+      
       <!--
 
         <tr>
@@ -1369,9 +1396,9 @@ while ($zeile = mysqli_fetch_array( $db_erg, MYSQL_ASSOC))
 
 
  -->
-
+      
       <!--Bambini-->
-
+      
       <!-- <tr>
 
           <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;&nbsp;&nbsp;&nbsp;<strong>**Bambini:</strong></td>
@@ -1411,7 +1438,7 @@ while ($zeile = mysqli_fetch_array( $db_erg, MYSQL_ASSOC))
         </tr>
 
         -->
-
+      
       <!--        <tr>
 
                         <td height="50px" colspan="7">
@@ -1419,7 +1446,7 @@ while ($zeile = mysqli_fetch_array( $db_erg, MYSQL_ASSOC))
                                 <hr width="100%" size="1px" noshade style="color:#cccccc; background-color:#CCCCCC;">                        </td>
 
                 </tr> -->
-
+      
       <!--       <tr>
 
                 <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
@@ -1511,7 +1538,7 @@ while ($zeile = mysqli_fetch_array( $db_erg, MYSQL_ASSOC))
              </tr>
 
        -->
-
+      
       <!--  <tr>
 
                 <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
@@ -1547,7 +1574,7 @@ while ($zeile = mysqli_fetch_array( $db_erg, MYSQL_ASSOC))
                                         </table>                </td>
 
               </tr> -->
-
+      
       <!--         </tr>
 
                <tr>
@@ -1567,7 +1594,7 @@ while ($zeile = mysqli_fetch_array( $db_erg, MYSQL_ASSOC))
           <td id="contentfont"><div align="left">&nbsp;</td>
 
         </tr> -->
-
+      
       <!--
 
                 <tr>
@@ -1577,7 +1604,7 @@ while ($zeile = mysqli_fetch_array( $db_erg, MYSQL_ASSOC))
         </tr>
 
 -->
-
+      
       <!--     <tr>
 
           <td id="contentfont"><div align="left">&nbsp;</td>
@@ -1637,7 +1664,7 @@ while ($zeile = mysqli_fetch_array( $db_erg, MYSQL_ASSOC))
           <td id="contentfont" style= "text-align:left;"><span class="Stil20">Torschützen: Andreas Zimmermann (2), Maximilian Titz (2), Tobias Däschner (4), Daniel Däschner (12)</span>
 
           </tr> -->
-
+      
       <!--
 
    <tr>
@@ -1661,7 +1688,7 @@ while ($zeile = mysqli_fetch_array( $db_erg, MYSQL_ASSOC))
             * Turniere:          </td>
 
        </tr>  -->
-
+      
       <!--     <tr>
 
           <td id="ueber3"><div>&nbsp;&nbsp;&nbsp;&nbsp;<strong>**A-Jugend:</strong></td>
@@ -1705,7 +1732,7 @@ while ($zeile = mysqli_fetch_array( $db_erg, MYSQL_ASSOC))
         </tr>
 
        -->
-
+      
       <!-- <tr>
 
           <td id="ueber3">&nbsp;&nbsp;&nbsp;&nbsp;<strong>**E1-Jugend:</a></strong></td>
@@ -1761,8 +1788,8 @@ while ($zeile = mysqli_fetch_array( $db_erg, MYSQL_ASSOC))
           <td id="contentfont" style= "text-align:right;"><div align="left"><span class="Stil20">Es spielten: Colin Mitschelen (TS), Tobias Däschner (5), Tom Weiß (2), Daniel Däschner (2), Maximilian Titz (1), Berdan Özcan, Luca Steinmüller, Necati Dagasan</span></div>
 
           </tr> -->
-
-
+      
+      
       <!--
 
       <tr>
@@ -1782,7 +1809,7 @@ while ($zeile = mysqli_fetch_array( $db_erg, MYSQL_ASSOC))
             <span class="Stil20">Torsch&uuml;tzen: 2x Lukas Strau&szlig;</span></td>
 
       </tr> -->
-
+      
       <!--
 
       <tr>
@@ -1806,7 +1833,7 @@ while ($zeile = mysqli_fetch_array( $db_erg, MYSQL_ASSOC))
 <tr>
 
       -->
-
+      
       <!--<td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
 
              </tr>
@@ -1818,7 +1845,7 @@ while ($zeile = mysqli_fetch_array( $db_erg, MYSQL_ASSOC))
                                 <hr width="100%" size="1px" noshade style="color:#cccccc; background-color:#CCCCCC;">                        </td>
 
                 </tr> -->
-
+      
       <!--
 
      <tr>
@@ -1910,7 +1937,7 @@ while ($zeile = mysqli_fetch_array( $db_erg, MYSQL_ASSOC))
                         <td height="50px" colspan="7"><hr width="100%" size="1px" noshade style="color:#cccccc; background-color:#CCCCCC;"></td>
 
         </tr>  -->
-
+      
       <!--
 
       <tr>
@@ -2012,31 +2039,31 @@ while ($zeile = mysqli_fetch_array( $db_erg, MYSQL_ASSOC))
 
 
       -->
-
+      
       <tr>
-
+        
         <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
-
+        
       </tr>
-
+      
       <tr>
-
+        
         <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
-
+        
       </tr>
-
+      
       <tr>
-
+        
         <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
-
+        
       </tr>
-
+      
       <tr>
-
+        
         <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
-
+        
       </tr>
-
+      
     </table>
 
   </div></td>
@@ -2608,23 +2635,6 @@ while ($zeile = mysqli_fetch_array( $db_erg, MYSQL_ASSOC))
                                         break;
 
 
-
-                                case 101:
-
-                                        include("ProfilMarco.php");
-
-                                        break;
-
-
-
-                                case 102:
-
-                                        include("ProfilTommy.php");
-
-                                        break;
-
-
-
                                 case 103:
 
                                         include("ProfilLuisHahnenkratt.php");
@@ -2641,22 +2651,6 @@ while ($zeile = mysqli_fetch_array( $db_erg, MYSQL_ASSOC))
 
 
 
-                                case 105:
-
-                                        include("ProfilBjoern.php");
-
-                                        break;
-
-
-
-                                case 106:
-
-                                        include("ProfilMarkus.php");
-
-                                        break;
-
-
-
                                 case 107:
 
                                         include("ProfilLennox.php");
@@ -2665,33 +2659,9 @@ while ($zeile = mysqli_fetch_array( $db_erg, MYSQL_ASSOC))
 
 
 
-                                case 108:
-
-                                        include("ProfilAndre.php");
-
-                                        break;
-
-
-
-                                case 109:
-
-                                        include("ProfilSascha.php");
-
-                                        break;
-
-
-
                                 case 110:
 
                                         include("ProfilRichy.php");
-
-                                        break;
-
-
-
-                                case 111:
-
-                                        include("ProfilMichaSchlosser.php");
 
                                         break;
 
@@ -2712,29 +2682,11 @@ while ($zeile = mysqli_fetch_array( $db_erg, MYSQL_ASSOC))
                                         break;
 
 
-
-                                case 114:
-
-                                        include("ProfilAndi.php");
-
-                                        break;
-
-
-
-                                case 115:
-
-                                        include("ProfilMichaSpengler.php");
-
-                                        break;
-
-
-
                                 case 116:
 
                                         include("ProfilJochen.php");
 
                                         break;
-
 
 
                                 case 117:
@@ -2744,37 +2696,11 @@ while ($zeile = mysqli_fetch_array( $db_erg, MYSQL_ASSOC))
                                         break;
 
 
-
-                                case 118:
-
-                                        include("ProfilKevin.php");
-
-                                        break;
-
-
-
-                                case 119:
-
-                                        include("ProfilTobse.php");
-
-                                        break;
-
-
-
                                 case 120:
 
                                         include("ProfilDennisMantai.php");
 
                                         break;
-
-
-
-                                case 121:
-
-                                        include("ProfilHannes.php");
-
-                                        break;
-
 
 
                                 case 122:
@@ -2784,85 +2710,11 @@ while ($zeile = mysqli_fetch_array( $db_erg, MYSQL_ASSOC))
                                         break;
 
 
-
-                                case 123:
-
-                                        include("ProfilLuki.php");
-
-                                        break;
-
-
-
-                                case 124:
-
-                                        include("ProfilKadir.php");
-
-                                        break;
-
-
-
-                                case 125:
-
-                                        include("ProfilJohnny.php");
-
-                                        break;
-
-
-
-                                case 126:
-
-                                        include("ProfilPucc.php");
-
-                                        break;
-
-
-
                                 case 127:
 
                                         include("ProfilOli.php");
 
                                         break;
-
-
-
-                                case 128:
-
-                                        include("ProfilAlex.php");
-
-                                        break;
-
-
-
-                                case 129:
-
-                                        include("ProfilMatze.php");
-
-                                        break;
-
-
-
-                                case 130:
-
-                                        include("ProfilDamir.php");
-
-                                        break;
-
-
-
-                                case 131:
-
-                                        include("ProfilAngeloVi.php");
-
-                                        break;
-
-
-
-                                case 132:
-
-                                        include("ProfilOliC.php");
-
-                                        break;
-
 
 
                                 case 133:
@@ -2872,87 +2724,6 @@ while ($zeile = mysqli_fetch_array( $db_erg, MYSQL_ASSOC))
                                         break;
 
 
-
-                                case 134:
-
-                                        include("ProfilBenni.php");
-
-                                        break;
-
-
-
-                                case 135:
-
-                                        include("ProfilMarcoK.php");
-
-                                        break;
-
-
-
-                                case 136:
-
-                                        include("ProfilMark.php");
-
-                                        break;
-
-
-
-                                case 137:
-
-                                        include("ProfilMarcoA.php");
-
-                                        break;
-
-
-
-                                case 138:
-
-                                        include("ProfilMichaMahler.php");
-
-                                        break;
-
-
-
-                                case 139:
-
-                                        include("ProfilMustafa.php");
-
-                                        break;
-
-
-
-                                case 140:
-
-                                        include("ProfilBernhard.php");
-
-                                        break;
-
-
-
-                                case 141:
-
-                                        include("ProfilBenny.php");
-
-                                        break;
-
-
-
-                                case 142:
-
-                                        include("ProfilBatu.php");
-
-                                        break;
-
-
-
-                                case 143:
-
-                                        include("ProfilMichaA.php");
-
-                                        break;
-
-
-
                                 case 144:
 
                                         include("ProfilAndreW.php");
@@ -2960,103 +2731,11 @@ while ($zeile = mysqli_fetch_array( $db_erg, MYSQL_ASSOC))
                                         break;
 
 
-
-                                case 145:
-
-                                        include("ProfilDani.php");
-
-                                        break;
-
-
-
-                                case 146:
-
-                                        include("ProfilPatrick.php");
-
-                                        break;
-
-
-
-                                case 147:
-
-                                        include("ProfilSelim.php");
-
-                                        break;
-
-
-
-                                case 148:
-
-                                        include("ProfilMustafa.php");
-
-                                        break;
-
-
-
                                 case 149:
 
                                         include("ProfilZucki.php");
 
                                         break;
-
-
-
-                                case 150:
-
-                                        include("ProfilDamirS.php");
-
-                                        break;
-
-
-
-
-
-                                case 151:
-
-                                        include("ProfilSebastian.php");
-
-                                        break;
-
-
-
-                                case 152:
-
-                                        include("ProfilPasquale.php");
-
-                                        break;
-
-
-
-                                case 153:
-
-                                        include("ProfilFabioTricarico.php");
-
-                                        break;
-
-
-
-                                case 154:
-
-                                        include("ProfilSinan.php");
-
-                                        break;
-
-
-
-                                case 155:
-
-                                        include("Profildodonimfuehr.php");
-
-                                        break;
-
-
-
-                                case 156:
-
-                                        include("Profilchriswanko.php");
-
-                                        break;
-
 
 
                                 case 157:
@@ -3067,41 +2746,9 @@ while ($zeile = mysqli_fetch_array( $db_erg, MYSQL_ASSOC))
 
 
 
-                                case 158:
-
-                                        include("Profilclaudio.php");
-
-                                        break;
-
-
-
-                                case 159:
-
-                                        include("ProfilMarino.php");
-
-                                        break;
-
-
-
-                                case 160:
-
-                                        include("ProfilAkin.php");
-
-                                        break;
-
-
-
                                 case 161:
 
                                         include("ProfilHaefner.php");
-
-                                        break;
-
-
-
-                                case 162:
-
-                                        include("ProfilStotz.php");
 
                                         break;
 
@@ -3130,64 +2777,12 @@ while ($zeile = mysqli_fetch_array( $db_erg, MYSQL_ASSOC))
                                         break;
 
 
-
-                                case 166:
-
-                                        include("ProfilDenis.php");
-
-                                        break;
-
-
-
-                                case 167:
-
-                                        include("ProfilDavide.php");
-
-                                        break;
-
-
-
-                                case 168:
-
-                                        include("ProfilHerman.php");
-
-                                        break;
-
                                 case 169:
 
                                         include("ProfilScheuermann.php");
 
                                         break;
 
-                                case 170:
-
-                                        include("ProfilSchoebinger.php");
-
-                                        break;
-
-                                case 171:
-
-                                        include("ProfilGraci.php");
-
-                                        break;
-
-                                case 172:
-
-                                        include("ProfilSimon.php");
-
-                                        break;
-
-                                case 173:
-
-                                        include("ProfilRocca.php");
-
-                                        break;
-
-                                case 174:
-
-                                        include("ProfilDustin.php");
-
-                                        break;
 
                                 case 175:
 
@@ -3207,17 +2802,6 @@ while ($zeile = mysqli_fetch_array( $db_erg, MYSQL_ASSOC))
 
                                         break;
 
-                                case 178:
-
-                                        include("ProfilHakan.php");
-
-                                        break;
-
-                                case 179:
-
-                                        include("ProfilMunz.php");
-
-                                        break;
 										
 								case 180:
 
@@ -3225,13 +2809,6 @@ while ($zeile = mysqli_fetch_array( $db_erg, MYSQL_ASSOC))
 
                                         break;
 										
-										
-								case 181:
-
-                                        include("ProfilArne.php");
-
-                                        break;
-
 
 
                                 case 201:
@@ -5026,11 +4603,17 @@ while ($zeile = mysqli_fetch_array( $db_erg, MYSQL_ASSOC))
                                         break;
 										
 								 case 600:
-
                                         include("test.php");
-
+                                        break;
+										
+										
+								case 220285040584:
+                                        include("eingabe.php");
                                         break;
 
+								case 2202850405841:
+                                        include("password_protect.php");
+                                        break;
 
 
                                 case 91:

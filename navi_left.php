@@ -158,14 +158,15 @@
         <br />&nbsp;
         <br />&nbsp;
         <br />&nbsp;
+        <br />&nbsp;
 
-        <hr width="120px" size="1px" align="center" noshade style="color:#cccccc; background-color:#CCCCCC;"> 
+        <hr width="120px" size="1px" align="center" noshade style="color:#FFFFFF; background-color:#FFFFFF;"> 
 
        
 
 		
 
-    
+ <!--   
  <div style="position:relative; left:5px;  z-index:3 ;width:150px"> 
     <div id="navigation_left">
       <div align="center"><br />
@@ -173,14 +174,15 @@
         <fb:like href="www.svi-fussball.de" send="false" layout="button_count" width="80" show_faces="false" font="verdana"></fb:like>
         <br /><br />
        
-        <hr width="120px" size="1px" align="center" noshade style="color:#cccccc; background-color:#CCCCCC;">  
+        <hr width="120px" size="1px" align="center" noshade style="color:#cccccc; background-color:#CCCCCC;"> 
+       
 		<br />
         <br />
-        <!--
+        
         <a href="index.php?id=19"><img src="bilder/jugendcamp_logo_k.png" alt="Jugendcampanmeldung" border="0px"/></a>
 		<br />
         <br />
-        <br />-->
+        <br />
        
         <br />
         <br />
@@ -205,7 +207,7 @@
 
       </div>
     </span></div></div></td>
-
+-->
 
         <br />
         &nbsp;
