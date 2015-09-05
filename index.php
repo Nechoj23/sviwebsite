@@ -595,9 +595,9 @@ if ($zeile['home'] != "")
       
   <tr>
     <td id="contentfont" style= "text-align:left;"> 
-      <div align="left"><img src="bilder/svi_mini.jpg"> <strong>Kampflos in die 2. Runde!</strong><br>
-        <p>Das f&uuml;r Mittwoch, den 02.09.15 angesetzte Pokalspiel gegen Ottmarsheim wurde von Seiten der G&auml;ste abgesagt, wodurch unsere Mannschaft kampflos in die 2. Runde einzieht.</p>
-        </div>
+      <div align="left"><img src="bilder/svi_mini.jpg"> <strong>Bezirkspokal Enz/Murr, 2. Runde: SVI in Gemmrigheim</strong><br>
+        <p> Die Auslosung der zweiten Pokalrunde bescherte den Blauen ein   Ausw&auml;rtsspiel beim Ligarivalen VfL Gemmrigheim. Ansto&szlig; ist am Mittwoch,   den 16.09. um 19.30 Uhr.</p>
+      </div>
       </td>
   </tr>
       
@@ -990,7 +990,7 @@ while ($zeile = mysqli_fetch_array( $db_erg, MYSQL_ASSOC))
 	$timestamp = time();
 	$heute = date("Y-m-d",$timestamp);
 	$jetzt = date("H:i",$timestamp);
-	$datumPlusX = time() + (32 * 24 * 60 * 60);	// 32 Tage in Sekunden
+	$datumPlusX = time() + (14 * 24 * 60 * 60);	// 14 Tage in Sekunden
 	$in2Wochen = date("Y-m-d",$datumPlusX);
  
  	$query = "SELECT * FROM `Jugend` WHERE `datum` BETWEEN '$heute' AND '$in2Wochen' 
