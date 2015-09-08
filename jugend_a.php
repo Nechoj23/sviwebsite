@@ -273,8 +273,8 @@
 			</td>
 			<td id="contentFont" align="left" valign="top">
 		<!--<p>Trainingsstart: <b>Dienstag 30.08.11 19.00 Uhr</b></p> -->
-		<p>Mittwoch 17.30 - 19.00 Uhr</p>	
-        <p>Freitag 17.30 - 19.00 Uhr</p>		
+		<p>Montag 19.00 - 21.00 Uhr</p>	
+        <p>Mittwoch 19.00 - 21.00 Uhr</p>		
         <p>&nbsp;</p>
 		  </td>
 		</tr>

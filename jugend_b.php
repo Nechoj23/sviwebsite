@@ -42,14 +42,16 @@
   	       <p>
         Tobias Häfner<br />
         0157-89270551<br />
-       </p>
+        <a href="mailto:tobi-haefner@web.de">tobi-haefner@web.de</a><br />
+           </p>
         
-        <p> Marcel Liebendörfer<br>
-          0170-3122719<br>
+        <p> Francisco Jimenez<br>
+          0173-9622026<br>
+          <a href="mailto:francijimenezmejias@gmx.de">francijimenezmejias@gmx.de</a><br />
+        </p>
+		  <p> Andre Wagner
 		 </p>
-		  <p> Denis Rommel<br>
-         0157-88877136<br>
-		 </p>
+         <p>&nbsp;</p>
           </td>
         </tr>
 		<tr>
@@ -58,8 +60,8 @@
 			</td>
 			<td id="contentFont" align="left" valign="top">
            <!-- <p>Trainingsstart: <b>Mittwoch 17.08.11 18.00 Uhr</b></p> -->
-		<p>Mittwoch 17.30 Uhr - 19.00 Uhr</p>	
-        <p>Freitag 17.30 Uhr - 19.00 Uhr</p>
+		<p>Mittwoch 19.00 Uhr - 21.00 Uhr</p>	
+        <p>Freitag 19.00 Uhr - 21.00 Uhr</p>
         <p>&nbsp;</p>
 <!--<p>     Torspieler-Training: Mittwoch 18.00 - 19.00 Uhr</p> -->
 		  </td>

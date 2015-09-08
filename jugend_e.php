@@ -38,20 +38,7 @@
 
       <p><strong><br />E1-Jugend</strong></p>
         
-	 <p>
-        Wolfgang Lenz<br>
-	<!--	Mendelstr. 10<br>
-				  75428 Illingen<br> -->
-				  Tel.: 07042-820561<br>
-				  Handy:  01573-9699166 <br>
-				E-Mail:  <a href="mailto:wolfganglenz@arcor.de">wolfganglenz@arcor.de</a>			  </p>	
-                
-               <p>&nbsp;  </p>
-
-		    <p><b>E2-Jugend</b></p> 
-
-            
-     <p>Giuseppe Moncada<br>
+	 <p>Giuseppe Moncada<br>
          <!-- Eibenweg 12<br>
                 75417 M&uuml;hlacker<br>-->
           Handy: 0173-3475132<br>
@@ -63,23 +50,32 @@
       
           Handy: 0151-10503855<br>
            E-Mail: <a href="mailto:khwoehr@web.de">khwoehr@web.de</a> </p>
-        </p>				
+        			
         <p> Adolf Sattler<br>
        
           Handy: 0170-2875444<br>
       E-Mail: <a href="mailto:adolfsattler@web.de">adolfsattler@web.de   </a> </p>
-	   <p> Nando Corrado<br>
-       
-        <!--  Handy: 0170-2875444<br> -->
-      E-Mail: <a href="mailto:nc.svi@web.de">nc.svi@web.de   </a> </p>
-	  <p> Kai Boppenmeier<br>
-       
-        <!--  Handy: 0170-2875444<br> -->
-      E-Mail: <a href="mailto:c.boppenmaier@web.de">c.boppenmaier@web.de   </a> </p>
-               
-			  
-       
-		    <p>&nbsp;</p>
+                
+            <p>&nbsp;  </p>
+
+		    <p><b>E2-Jugend</b></p> 
+
+            
+     <p>Davide Coledan<br>
+         <!-- Eibenweg 12<br>
+                75417 M&uuml;hlacker<br>-->
+          Handy: 0174-1989398<br>
+           E-Mail: <a href="mailto:d.coledan@gmx.de">d.coledan@gmx.de</a></p>
+ 
+         
+      <p> Matthias Otto<br>
+         
+      
+          Handy: 0175-7123487<br>
+           E-Mail: <a href="mailto:m.otto63@web.de">m.otto63@web.de</a></p>
+      <p> </p>
+
+<p>&nbsp;</p>
 			
 	      </td>
         </tr>
@@ -90,13 +86,14 @@
 			<td id="contentFont" align="left" valign="top">
 			<p><strong>E1-Jugend</strong></p> 
 				<!--<p>Trainingsstart: <b>Montag 05.09.11 17.00 Uhr</b></p> -->
-        <p>Dienstag 17.30 Uhr - 19.15 Uhr</p>
-        <p>Donnerstag 17.30 Uhr - 19.15 Uhr</p>
+        <p>Dienstag 17.00 Uhr - 19.00 Uhr</p>
+        <p>Donnerstag 17.00 Uhr - 19.00 Uhr</p>
+        <p>&nbsp; </p>
         <!--<p><strong>Halle: </strong>Montag 17.30 Uhr - 19.30 Uhr</p>-->
 			 <p><strong>E2-Jugend</strong></p> 
 		<!--<p>Trainingsstart: <b>Montag 29.08.11 17.30 Uhr</b></p>	-->	
-<p>Dienstag 17.00 Uhr - 19.00 Uhr</p>			
-        <p>Donnerstag 17.00 Uhr - 19.00 Uhr </p>
+<p>Dienstag 17.00 Uhr - 18.30 Uhr</p>			
+        <p>Donnerstag 17.00 Uhr - 18.30 Uhr </p>
        <!-- <p><strong>Halle: </strong>Mittwoch 15.30 Uhr - 17.30 Uhr</p> -->
         <p>&nbsp;</p>
 <!-- <p>     Torspieler-Training: Mittwoch 17.00 - 18.00 Uhr</p> -->

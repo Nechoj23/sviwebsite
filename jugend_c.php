@@ -252,7 +252,7 @@
     <table width="600" border="0" cellpadding="0" cellspacing="0">
         <tr> 
           <td width="200" id="contentFont" align="right" valign="top">	        
-		      <p>Spielklasse: <br />
+		      <p>Spielklasse: <br /><br />
 		      </p>
 	
 			  <p>Trainer/Betreuer:</p>
@@ -262,22 +262,32 @@
 			  Quali-Kreistaffel 3 (C2)</p>
 			  
             
-             <p> Frank Lindauer<br>
+            <p><strong>C1-Jugend</strong></p>
+            <p> Frank Lindauer<br>
           Tel.: 07042-23536<br>
           Handy: 0162-1077837<br>
-          E-Mail: <a href="mailto:frank.lindauer@mahle.com">frank.lindauer@mahle.com</a>			</p>
-			
-            
+          E-Mail: <a href="mailto:frank.lindauer@mahle.com">frank.lindauer@mahle.com</a>							
+          </p>
 			<p>
                 Jochen Mitschelen<br>
                 Handy: 0170-9943536<br>
-            E-Mail: <a href="mailto:jo.mitschelen@gmx.de">jo.mitschelen@gmx.de</a> </p>
-			<p>
-                Mehmet Mat<br>
-     </p>
+            E-Mail: <a href="mailto:jo.mitschelen@gmx.de">jo.mitschelen@gmx.de</a> 
+            </p>
+            
+             <p><strong>C2-Jugend</strong></p>
+             <p>        Alexander Köppl<br>				
+			Tel.:  07042-22923<br>		Handy: 0171-3672714<br />       
+			<a href="mailto:alex_steffi@arcor.de">alex_steffi@arcor.de</a>         
+            </p>			 
+            <p>                
+            Uwe Landsperger <br>           
+			Tel.:  07042-820416<br>		Handy: 0173-5444623<br />      
+			<a href="mailto:eu@freenet.de">eu@freenet.de</a> </p>
+			  
+			
 
        
-     
+  <p>&nbsp;</p>   
         
 
 		  </td>
@@ -288,14 +298,14 @@
 			</td>
 			<td id="contentFont" align="left" valign="top">
       <!--  <p>Trainingsstart: <b>Montag 26.08.13 17.30 Uhr</b></p> -->
-		<p> <em>Feld:</em> </p>
+		<p><strong>C1-Jugend</strong></p>
 		<p>Montag 17.30 Uhr - 19.00 Uhr</p>	
         <p>Mittwoch 17.30 Uhr - 19.00 Uhr</p>
 		   <p>Freitag 17.30 Uhr - 19.00 Uhr</p>
 		   <p>&nbsp; </p>
-		   <p> <em>Halle:</em></p>
-		   <p> Freitag 16.00 Uhr - 17.00 Uhr
- 
+		   <p><strong>C2-Jugend</strong></p>
+		   <p> Montag 18.00 Uhr - 19.30 Uhr</p>
+ 			<p>Mittwoch 18.00 Uhr - 19.30 Uhr</p>
        <p>&nbsp;</p>
 <!-- <p>     Torspieler-Training: Mittwoch 18.00 - 19.00 Uhr</p> -->
 			</td>

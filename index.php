@@ -595,8 +595,13 @@ if ($zeile['home'] != "")
       
   <tr>
     <td id="contentfont" style= "text-align:left;"> 
-      <div align="left"><img src="bilder/svi_mini.jpg"> <strong>Bezirkspokal Enz/Murr, 2. Runde: SVI in Gemmrigheim</strong><br>
-        <p> Die Auslosung der zweiten Pokalrunde bescherte den Blauen ein   Ausw&auml;rtsspiel beim Ligarivalen VfL Gemmrigheim. Ansto&szlig; ist am Mittwoch,   den 16.09. um 19.30 Uhr.</p>
+      <div align="left"><img src="bilder/svi_mini.jpg"> <strong>Die Jugend startet in die Saison 2015/16</strong><br>
+        <p> Am kommenden Samstag beginnt  f&uuml;r unsere Jugend  die neue Saison. Den Auftakt macht die C-Jugend zuhause mit der 1. Pokalrunde gegen die SGM Merklingen I, bevor am Dienstag, den 15.09. die B-Jugend ebenfalls im Pokal den GSV Pleidelsheim I empf&auml;ngt. Am n&auml;chsten Wochenende (19./20.09.) folgen alle Jugenden mit dem Ligastart in die Saison 2015/16.<br><br>
+        Ergebnisse und die Vorschau auf  kommende Spiele werden weiter unten auf dieser Seite aufgef&uuml;hrt.<br>
+        <br>
+        Alle Infos zu den einzelnen Jugenden finden Sie <a href="index.php?id=31"><em>hier</em></a>.<br>
+        <br>
+        Den Trainingsplan aller Blauen können Sie <a href="index.php?id=14"><em>hier</em></a> einsehen.</p>
       </div>
       </td>
   </tr>
@@ -678,7 +683,7 @@ if (mysqli_connect_errno() == 0)
 	$datumMinusX = time() - (7 * 24 * 60 * 60);	// 7 Tage in Sekunden
 	$vor1Woche = date("Y-m-d",$datumMinusX);
 	
-	$query = "SELECT `home`, `guest`, `goalsHome`, `goalsGuest`, `goalgetters` , `extra`  FROM `Aktive` WHERE `datum` BETWEEN '$vor1Woche' AND  '$heute' AND `goalsHome` is NOT NULL AND `goalsGuest` is NOT NULL ORDER BY `datum` DESC";
+	$query = "SELECT `home`, `guest`, `goalsHome`, `goalsGuest`, `goalgetters` , `extra`  FROM `Aktive` WHERE `datum` BETWEEN '$vor1Woche' AND  '$heute' AND `goalsHome` is NOT NULL AND `goalsGuest` is NOT NULL ORDER BY `datum` DESC, `anpfiff` DESC";
 	
 	 $db_erg = $db_link->prepare( $query );
 	 $db_erg->execute();
@@ -688,9 +693,10 @@ if (mysqli_connect_errno() == 0)
 	{
 		echo "<tr>";
 		echo "<td id='contentfont' style= 'text-align:left; padding-left:50px;'> " .
-		$home . " vs. " . $guest . "  " . $goalsHome . ":" . 		
+		$home . " vs. " . $guest . "&nbsp;&nbsp;&nbsp;" . $goalsHome . ":" . 		
 		$goalsGuest . " &nbsp;" . $extra . "<br/><span class='Stil20'><em>Torsch&uuml;tzen: " . 
 		$goalgetters . "</em></span></td></tr>";
+		echo "<tr><td id='contentfont' style='text-align:right;'><div align='left'>&nbsp;</div></td> </tr>";
 	}
 }
 else
@@ -2088,7 +2094,7 @@ while ($zeile = mysqli_fetch_array( $db_erg, MYSQL_ASSOC))
 
 
 								//case 11:include("under_construction.php");break;
-								case 14:include("under_construction.php");break;
+								//case 14:include("under_construction.php");break;
 											
                                 case 11:
 
@@ -2114,13 +2120,13 @@ while ($zeile = mysqli_fetch_array( $db_erg, MYSQL_ASSOC))
                                         break;
 
 
-								/*
+								
                                 case 14:
 
                                         include("trainingszeiten.php");
 
                                         break;
-								*/
+								
 
 
                                 case 15:

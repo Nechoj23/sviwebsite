@@ -6,7 +6,7 @@
         <tr> 
           <td colspan="6" id="contentTable"> 
             <div align="left">Trainingszeiten der Illinger Mannschaften Saison 
-          2014/2015</div>          </td>
+          2015/2016</div>          </td>
         </tr>
 	
         <tr>
@@ -24,10 +24,10 @@
         <tr valign="top">
           <td width="187" align="center" valign="middle" bgcolor="#0066CC"  id="contentfont4" coldpan="6"><strong>Herren</strong></td>
           <td id="contentfont5" coldpan="6" width="86">&nbsp;</td>
-          <td id="contentfont5" coldpan="6" width="117">&nbsp;</td>
-          <td id="contentfont5" coldpan="6" width="70">19:00-21:00</td>
+          <td id="contentfont5" coldpan="6" width="117">19:00-21:00</td>
           <td id="contentfont5" coldpan="6" width="70">&nbsp;</td>
           <td id="contentfont5" coldpan="6" width="70">19:00-21:00</td>
+          <td id="contentfont5" coldpan="6" width="70">&nbsp;</td>
         </tr>
         <tr valign="top">
           <td width="187" align="center" valign="middle" bgcolor="#0066CC" id="contentfont4" coldpan="6"><strong>Senioren</strong></td>
@@ -39,22 +39,22 @@
         </tr>
         <tr valign="top">
           <td width="187" align="center" valign="middle" bgcolor="#0066CC" id="contentfont4" coldpan="6"><strong>A-Junioren</strong></td>
-          <td id="contentfont5" coldpan="6" width="86">&nbsp;</td>
+          <td id="contentfont5" coldpan="6" width="86">19:00-21:00</td>
           <td id="contentfont5" coldpan="6" width="117">&nbsp;</td>
-          <td id="contentfont5" coldpan="6" width="70">17.30-19.00</td>
+          <td id="contentfont5" coldpan="6" width="70">19:00-21:00</td>
           <td id="contentfont5" coldpan="6" width="70">&nbsp;</td>
-          <td id="contentfont5" coldpan="6" width="70">17.30-19.00</td>
+          <td id="contentfont5" coldpan="6" width="70">&nbsp;</td>
         </tr>
         <tr valign="top">
           <td width="187" align="center" valign="middle" bgcolor="#0066CC" id="contentfont4" coldpan="6"><strong>B-Junioren</strong></td>
           <td id="contentfont5" coldpan="6" width="86">&nbsp;</td>
           <td id="contentfont5" coldpan="6" width="117">&nbsp;</td>
-        <td id="contentfont5" coldpan="6" width="70">17.30-19.00</td>
+        <td id="contentfont5" coldpan="6" width="70">19:00-21:00</td>
           <td id="contentfont5" coldpan="6" width="70">&nbsp;</td>
-          <td id="contentfont5" coldpan="6" width="70">17.30-19.00</td>
+          <td id="contentfont5" coldpan="6" width="70">19:00-21:00</td>
         </tr>
         <tr valign="top">
-          <td width="187" align="center" valign="middle" bgcolor="#0066CC" id="contentfont4" coldpan="6"><strong>C-Junioren</strong></td>
+          <td width="187" align="center" valign="middle" bgcolor="#0066CC" id="contentfont4" coldpan="6"><strong>C1-Junioren</strong></td>
           <td id="contentfont5" coldpan="6" width="86">17:30-19:00</td>
           <td id="contentfont5" coldpan="6" width="117">&nbsp;</td>
           <td id="contentfont5" coldpan="6" width="70">17:30-19:00</td>
@@ -62,7 +62,7 @@
           <td id="contentfont5" coldpan="6" width="70">17:30-19:00</td>
         </tr>
         <tr valign="top">
-          <td width="187" align="center" valign="middle" bgcolor="#0066CC" id="contentfont4" coldpan="6"><strong>D1-Junioren</strong></td>
+          <td width="187" align="center" valign="middle" bgcolor="#0066CC" id="contentfont4" coldpan="6"><strong>C2-Junioren</strong></td>
           <td id="contentfont5" coldpan="6" width="86">18:00-19:30</td>
           <td id="contentfont5" coldpan="6" width="117">&nbsp;</td>
           <td id="contentfont5" coldpan="6" width="70">18:00-19:30</td>
@@ -70,15 +70,7 @@
           <td id="contentfont5" coldpan="6" width="70">&nbsp;</td>
         </tr>
 		  <tr valign="top">
-          <td width="187" align="center" valign="middle" bgcolor="#0066CC" id="contentfont4" coldpan="6"><strong>D2-Junioren</strong></td>
-          <td id="contentfont5" coldpan="6" width="86">18:00-19:30</td>
-          <td id="contentfont5" coldpan="6" width="117">&nbsp;</td>
-          <td id="contentfont5" coldpan="6" width="70">18:00-19:30</td>
-          <td id="contentfont5" coldpan="6" width="70">&nbsp;</td>
-          <td id="contentfont5" coldpan="6" width="70">&nbsp;</td>
-        </tr>
-        <tr valign="top">
-          <td width="187" align="center" valign="middle" bgcolor="#0066CC" id="contentfont4" coldpan="6"><strong>E1-Junioren</strong></td>
+          <td width="187" align="center" valign="middle" bgcolor="#0066CC" id="contentfont4" coldpan="6"><strong>D-Junioren</strong></td>
           <td id="contentfont5" coldpan="6" width="86">&nbsp;</td>
           <td id="contentfont5" coldpan="6" width="117">17:30-19:15</td>
           <td id="contentfont5" coldpan="6" width="70">&nbsp;</td>
@@ -86,11 +78,19 @@
           <td id="contentfont5" coldpan="6" width="70">&nbsp;</td>
         </tr>
         <tr valign="top">
-          <td width="187" align="center" valign="middle" bgcolor="#0066CC" id="contentfont4" coldpan="6"><strong>E2-Junioren</strong></td>
+          <td width="187" align="center" valign="middle" bgcolor="#0066CC" id="contentfont4" coldpan="6"><strong>E1-Junioren</strong></td>
           <td id="contentfont5" coldpan="6" width="86">&nbsp;</td>
           <td id="contentfont5" coldpan="6" width="117">17:00-19:00</td>
           <td id="contentfont5" coldpan="6" width="70">&nbsp;</td>
           <td id="contentfont5" coldpan="6" width="70">17:00-19:00</td>
+          <td id="contentfont5" coldpan="6" width="70">&nbsp;</td>
+        </tr>
+        <tr valign="top">
+          <td width="187" align="center" valign="middle" bgcolor="#0066CC" id="contentfont4" coldpan="6"><strong>E2-Junioren</strong></td>
+          <td id="contentfont5" coldpan="6" width="86">&nbsp;</td>
+          <td id="contentfont5" coldpan="6" width="117">17:00-18:30</td>
+          <td id="contentfont5" coldpan="6" width="70">&nbsp;</td>
+          <td id="contentfont5" coldpan="6" width="70">17:00-18:30</td>
           <td id="contentfont5" coldpan="6" width="70">&nbsp;</td>
         </tr>
         <tr valign="top">

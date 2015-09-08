@@ -26,19 +26,17 @@
 	           
             
               <!-- <p><strong>D1-Jugend</strong></p>-->
-            <p>        Alexander Köppl<br>				
-			Tel.:  07042-22923<br>		Handy: 0171-3672714<br />       
-			<a href="mailto:alex_steffi@arcor.de">alex_steffi@arcor.de</a>         </p>			 
-            <p>                Uwe Landsperger <br>           
-			Tel.:  07042-820416<br>		Handy: 0173-5444623<br />      
-			<a href="mailto:eu@freenet.de">eu@freenet.de</a> </p>
-			  <p>
-        Alexander Knapp<br>
-				  Handy: 0179/2327193<br>
-				  <a href="mailto:alexanderknapp@gmx.net">alexanderknapp@gmx.net</a>			  </p>	
-			
-		
-			  <p>&nbsp;</p>
+            <p> Wolfgang Lenz      <br>		
+              Handy: 01573-9699166	<br />
+              E-Mail:  <a href="mailto:wolfganglenz@arcor.de">wolfganglenz@arcor.de</a>
+            </p>			 
+            <p> Patrick Thal</p>
+			<p> Nando Corrado<br />
+            E-Mail:  <a href="mailto:nc.svi@web.de">nc.svi@web.de</a>
+            <a href="mailto:wolfganglenz@arcor.de"></a></p>
+			<p>Kai Boppenmaier<br />
+            E-Mail:  <a href="mailto:c.boppenmaier@web.de">c.boppenmaier@web.de</a></p>
+<p>&nbsp;</p>
 		  </td>
         </tr>
 		<tr>
@@ -49,8 +47,8 @@
 			<td id="contentFont" align="left" valign="top">
 			
 
-        <p>Montag 18.00 Uhr - 19.30 Uhr</p>
-        <p>Mittwoch 18.00 Uhr - 19.30 Uhr</p>
+        <p>Dienstag 17.30 Uhr - 19.15 Uhr</p>
+        <p>Donnerstag 17.30 Uhr - 19.15 Uhr</p>
 
         
        

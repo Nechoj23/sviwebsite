@@ -36,23 +36,31 @@
 		
         <tr> 
           <td width="200" id="contentFont" align="right" valign="top">
-		  	<p>Spielklasse:</p>
+		  	<p>Spielklasse:<br />&nbsp;</p>
             <p>Trainer/Betreuer:</p>
           </td>
 		  <td width="300" id="contentFont" align="left" valign="top">
 		  	<p>Spieltage und Turniere</p>
 			
-      <p>Davide Coledan<br>
-          Handy: 0174-1989398<br>
-				E-Mail:  <a href="mailto:d.coledan@gmx.de">d.coledan@gmx.de</a>			  
-        </p> 
+      		
+            <p><strong><br />F1-Jugend</strong></p>
 		  <p>Uli Kicherer<br>
           Handy: 0176-32655944<br>
-		  E-Mail:  <a href="mailto:daki5@online.de">daki5@online.de</a>	
+		  E-Mail:  <a href="mailto:Ulikicherer@online.de">Ulikicherer@online.de</a></p>
+          
+		  
+          <p><strong><br />
+          F2-Jugend</strong></p>
+		 <p>R&uuml;diger Deckenbach<br>
+		Tel.: 07042-819400 <br>
+          Handy: 0173-3103091 <br>
+		  E-Mail: <a href="mailto:ruediger.deckenbach@gmx.de">ruediger.deckenbach@gmx.de</a>
         </p> 
-		  <p>Simon Fink<br>
-		  E-Mail:  <a href="mailto:linafink@web.de">linafink@web.de</a>	
+		<p>Selim Demirdag<br>
+    Handy: 0157-75449780  <br>
+	 E-Mail: <a href="mailto:steffiessig@gmx.de">steffiessig@gmx.de</a>
         </p> 
+        
           
 			<p>&nbsp;</p>
 		  </td>

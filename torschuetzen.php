@@ -26,8 +26,8 @@
 		<td width="424" id="contentFont"><font size="+1">Tobias H&auml;fner</font></td>    
     </tr> 
     <tr id="contentFont">       
-		<td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">2     
-		Tore</font></p></td>     
+		<td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">3     
+	  Tore</font></p></td>     
 		<td width="424" id="contentFont"><font size="+1">Tim Scheuermann</font></td>    
     </tr> 
     <tr id="contentFont">       
@@ -64,17 +64,29 @@
 		 <tr> 
       <td colspan="2">&nbsp;</td>
     </tr>
+    <!--
 	 <tr id="contentFont"> 
       <td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">&nbsp;</font></p></td>
       <td width="424" id="contentFont"><font size="+1">Bisher keine Torschützen</font></td>
     </tr>
-    <!--
-	<tr id="contentFont"> 
-      <td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">5 
-      Tore</font></p></td>
-      <td width="424" id="contentFont"><font size="+1">Lukas Strauß</font></td>
-    </tr> 
     -->
+   
+	<tr id="contentFont"> 
+      <td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">2 
+      Tore</font></p></td>
+      <td width="424" id="contentFont"><font size="+1">Dennis Mantai</font></td>
+    </tr>
+    <tr id="contentFont"> 
+      <td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">1 
+      Tor</font></p></td>
+      <td width="424" id="contentFont"><font size="+1">Michali Gatsas</font></td>
+    </tr> 
+    <tr id="contentFont"> 
+      <td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">1 
+      Tor</font></p></td>
+      <td width="424" id="contentFont"><font size="+1">Amir Ben Kahla</font></td>
+    </tr>  
+ 
 
     <tr> 
       <td colspan="2">&nbsp;</td>
