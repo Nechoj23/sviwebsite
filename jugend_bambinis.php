@@ -36,6 +36,11 @@
         <p>Egzon Dubovci<br>
           Handy: 0163-7643304<br>
 		  E-Mail: <a href="mailto:egzon.dubovci@hotmail.de">egzon.dubovci@hotmail.de</a></p>
+          
+         <p>Naim Imeri<br>
+          Handy: 0173-9394937<br>
+		  E-Mail: <a href="mailto:naimwfi@gmail.de">naimwfi@gmail.de</a></p>
+  
          	
    
         <p>&nbsp;</p> 

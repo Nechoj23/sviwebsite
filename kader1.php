@@ -33,10 +33,10 @@
         </font></strong></div></td>
       </tr>
       <tr bgcolor="#FFFFFF">
-		   <td height="20" bgcolor="#FFFFFF"><div align="left"><!--<a href="index.php?id=177"> --><img src="bilder/AktiveSpieler/kim_berberich_k.jpg" width="90" height="120" /><!--</a>--> <br />
+		   <td height="20" bgcolor="#FFFFFF"><div align="left"><a href="index.php?id=167"><img src="bilder/AktiveSpieler/kim_berberich_k.jpg" width="90" height="120" /></a> <br />
                 <strong>Kim Berberich</strong><br />
           Geb.: 16.06.1996</div></td>
-		  <td height="20" bgcolor="#FFFFFF"><div align="left"><a href="index.php?id=177"><img src="bilder/AktiveSpieler/dummy_klein.jpg" width="90" height="120" /></a> <br />
+		  <td height="20" bgcolor="#FFFFFF"><div align="left"><a href="index.php?id=177"><img src="bilder/AktiveSpieler/benjamin_faerber_k.jpg" width="90" height="120" /></a> <br />
                 <strong>Benjamin Färber</strong><br />
           Geb.: 22.02.1985 </div></td>
        <!-- <td width="146" height="20" bgcolor="#FFFFFF"><div align="left"><a href="index.php?id=140"><img src="bilder/AktiveSpieler/bernhard_k.jpg" width="90" height="120" /></a><br />
@@ -85,7 +85,7 @@
       </tr>
 
       <tr bgcolor="#FFFFFF">
-                <td height="20" bgcolor="#FFFFFF"><div align="left"><!--<a href="index.php?id=202">--><img src="bilder/AktiveSpieler/andikoeppl_k.jpg" width="90" height="120" /><!--</a>--> <br /><strong>Andreas K&ouml;ppl</strong><br />
+                <td height="20" bgcolor="#FFFFFF"><div align="left"><a href="index.php?id=166"><img src="bilder/AktiveSpieler/andikoeppl_k.jpg" width="90" height="120" /></a><br /><strong>Andreas K&ouml;ppl</strong><br />
           Geb.: 14.11.1995</div></td>
       
         <td height="20" bgcolor="#FFFFFF"><div align="left"><a href="index.php?id=202"><img src="bilder/AktiveSpieler/michaKoeppl_k.jpg" width="90" height="120" /></a> <br />
@@ -103,11 +103,11 @@
         <td colspan="7"><div align="center">&nbsp;</div></td>
       </tr>
     <tr bgcolor="#FFFFFF">
-		   <td height="20" bgcolor="#FFFFFF"><div align="left"><!--<a href="index.php?id=170">--><img src="bilder/AktiveSpieler/patrick_schuele_k.jpg" width="90" height="120" /><!--</a> --><br />
+		   <td height="20" bgcolor="#FFFFFF"><div align="left"><a href="index.php?id=160"><img src="bilder/AktiveSpieler/patrick_schuele_k.jpg" width="90" height="120" /></a><br />
                 <strong>Patrick Schüle</strong><br />
           Geb.: 02.07.1990</div></td>
     
-		   <td height="20" bgcolor="#FFFFFF"><div align="left"><!--<a href="index.php?id=170">--><img src="bilder/AktiveSpieler/sebastian_schuele_k.jpg" width="90" height="120" /><!--</a> --><br />
+		   <td height="20" bgcolor="#FFFFFF"><div align="left"><a href="index.php?id=162"><img src="bilder/AktiveSpieler/sebastian_schuele_k.jpg" width="90" height="120" /></a><br />
                 <strong>Sebastian Schüle</strong><br />
           Geb.: 21.06.1987</div></td>
        
@@ -182,7 +182,7 @@
                   Kammerlohr</strong><br />
           Geb.: 01.02.1988</div></td> 
  
-		      <td height="20" bgcolor="#FFFFFF"><div align="left"><!--<a href="index.php?id=210">--><img src="bilder/AktiveSpieler/dummy_klein.jpg" width="90" height="120" /><!--</a> --><br />
+		      <td height="20" bgcolor="#FFFFFF"><div align="left"><a href="index.php?id=168"><img src="bilder/AktiveSpieler/dummy_klein.jpg" width="90" height="120" /></a><br />
                 <strong>Marco Klein</strong><br />
           Geb.: 06.05.1995</div></td>	   
 		  
@@ -207,7 +207,7 @@
                 <strong>Dominik Kn&ouml;dler</strong><br />
           Geb.: 01.01.1991</div></td>
 		
- <td height="20" bgcolor="#FFFFFF"><div align="left"><!--<a href="index.php?id=210">--><img src="bilder/AktiveSpieler/fabian_lehmann_k.jpg" width="90" height="120" /><!--</a>--> <br />
+ <td height="20" bgcolor="#FFFFFF"><div align="left"><a href="index.php?id=170"><img src="bilder/AktiveSpieler/fabian_lehmann_k.jpg" width="90" height="120" /></a> <br />
                 <strong>Fabian Lehmann</strong><br />
           Geb.: 11.03.1992</div></td>
 		  	

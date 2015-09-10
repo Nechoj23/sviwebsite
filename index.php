@@ -596,7 +596,7 @@ if ($zeile['home'] != "")
   <tr>
     <td id="contentfont" style= "text-align:left;"> 
       <div align="left"><img src="bilder/svi_mini.jpg"> <strong>Die Jugend startet in die Saison 2015/16</strong><br>
-        <p> Am kommenden Samstag beginnt  f&uuml;r unsere Jugend  die neue Saison. Den Auftakt macht die C-Jugend zuhause mit der 1. Pokalrunde gegen die SGM Merklingen I, bevor am Dienstag, den 15.09. die B-Jugend ebenfalls im Pokal den GSV Pleidelsheim I empf&auml;ngt. Am n&auml;chsten Wochenende (19./20.09.) folgen alle Jugenden mit dem Ligastart in die Saison 2015/16.<br><br>
+        <p> Am kommenden Samstag beginnt  f&uuml;r unsere Jugend  die neue Saison. Den Auftakt macht die C-Jugend zuhause mit der 1. Pokalrunde gegen die SGM Merklingen I, bevor am Sonntag, den 13.09. die B-Jugend ebenfalls im Pokal den GSV Pleidelsheim I empf&auml;ngt. Am n&auml;chsten Wochenende (19./20.09.) folgen alle Jugenden mit dem Ligastart in die Saison 2015/16.<br><br>
         Ergebnisse und die Vorschau auf  kommende Spiele werden weiter unten auf dieser Seite aufgef&uuml;hrt.<br>
         <br>
         Alle Infos zu den einzelnen Jugenden finden Sie <a href="index.php?id=31"><em>hier</em></a>.<br>
@@ -683,18 +683,18 @@ if (mysqli_connect_errno() == 0)
 	$datumMinusX = time() - (7 * 24 * 60 * 60);	// 7 Tage in Sekunden
 	$vor1Woche = date("Y-m-d",$datumMinusX);
 	
-	$query = "SELECT `home`, `guest`, `goalsHome`, `goalsGuest`, `goalgetters` , `extra`  FROM `Aktive` WHERE `datum` BETWEEN '$vor1Woche' AND  '$heute' AND `goalsHome` is NOT NULL AND `goalsGuest` is NOT NULL ORDER BY `datum` DESC, `anpfiff` DESC";
+	$query = "SELECT `home`, `guest`, `goalsHome`, `goalsGuest`, `goalsHomeHT`, `goalsGuestHT`, `goalgetters` , `extra`  FROM `Aktive` WHERE `datum` BETWEEN '$vor1Woche' AND  '$heute' AND `goalsHome` is NOT NULL AND `goalsGuest` is NOT NULL ORDER BY `datum` DESC, `anpfiff` DESC";
 	
 	 $db_erg = $db_link->prepare( $query );
 	 $db_erg->execute();
-	 $db_erg->bind_result( $home, $guest, $goalsHome, $goalsGuest, $goalgetters, $extra );
+	 $db_erg->bind_result( $home, $guest, $goalsHome, $goalsGuest, $goalsHomeHT, $goalsGuestHT, $goalgetters, $extra );
 	 
 	while ($db_erg->fetch())
 	{
 		echo "<tr>";
 		echo "<td id='contentfont' style= 'text-align:left; padding-left:50px;'> " .
 		$home . " vs. " . $guest . "&nbsp;&nbsp;&nbsp;" . $goalsHome . ":" . 		
-		$goalsGuest . " &nbsp;" . $extra . "<br/><span class='Stil20'><em>Torsch&uuml;tzen: " . 
+		$goalsGuest . "&nbsp;&nbsp;(" . $goalsHomeHT . ":" . $goalsGuestHT . ") &nbsp;" . $extra . "<br/><span class='Stil20'><em>Torsch&uuml;tzen: " . 
 		$goalgetters . "</em></span></td></tr>";
 		echo "<tr><td id='contentfont' style='text-align:right;'><div align='left'>&nbsp;</div></td> </tr>";
 	}
@@ -896,56 +896,139 @@ while ($zeile = mysqli_fetch_array( $db_erg, MYSQL_ASSOC))
         <td id="contentfont"><div align="left">&nbsp;</div></td>
         
       </tr>
-  <!--
- <tr>
+<tr>
+        <td id="ueber2"><div><strong>* Meisterschaft:</strong></div></td>
+      </tr>
+      
+  <?php       
+//turn off notice and deprecated reporting
+ error_reporting(E_ALL ^ ( E_NOTICE | E_DEPRECATED ));
 
-        <td id="ueber2"> * Meisterschaft: </td>
+// database connection
+	
+	$db_link = mysqli_connect('w00be8df.kasserver.com','d01f06ec','qwe123','d01f06ec');
 
-      </tr> 
--->
+if (mysqli_connect_errno() == 0)
+{
+	date_default_timezone_set("Europe/Berlin");
+	$timestamp = time();
+	$heute = date("Y-m-d",$timestamp);
+	$jetzt = date("H:i",$timestamp);
+	$datumMinusX = time() - (7 * 24 * 60 * 60);	// 7 Tage in Sekunden
+	$vor1Woche = date("Y-m-d",$datumMinusX);
+	
+
+	$query = "SELECT `jugend`, `home`, `guest`, `goalsHome`, `goalsGuest`, `goalsHomeHT`, `goalsGuestHT`, `goalgetters` , `extra`  FROM `Jugend` WHERE `datum` BETWEEN '$vor1Woche' AND  '$heute' AND `goalsHome` is NOT NULL AND `goalsGuest` is NOT NULL ORDER BY `jugend` ASC, `datum` DESC, `anpfiff` DESC";
+	
+	 $a = $b = $c = $e = $f = 0;
+	 $db_erg = $db_link->prepare( $query );
+	 $db_erg->execute();
+	 $db_erg->bind_result( $jugend, $home, $guest, $goalsHome, $goalsGuest, $goalsHomeHT, $goalsGuestHT, $goalgetters, $extra );
+	 
+	while ($db_erg->fetch())
+	{
+		// A-Jugend
+		if ($jugend == "A"){
+			if ($a == 0){
+				echo "<tr><td id='ueber3'><div>&nbsp;&nbsp;&nbsp;&nbsp;<strong>** " . $jugend . "-Jugend:</strong></div></td></tr>";
+				$a = 1;	
+			}
+			echo "<tr>";
+			echo "<td id='contentfont' style= 'text-align:left; padding-left:50px;'> " .
+			$home . " vs. " . $guest . "&nbsp;&nbsp;&nbsp;" . $goalsHome . ":" . 		
+			$goalsGuest . "&nbsp;&nbsp;(" . $goalsHomeHT . ":" . $goalsGuestHT . ") &nbsp;" . $extra . "<br/><span class='Stil20'><em>Torsch&uuml;tzen: " . 
+			$goalgetters . "</em></span></td></tr>";
+		}
+		
+		// B-Jugend
+		if ($jugend == "B"){
+			if ($b == 0){
+				echo "<tr><td id='contentfont' style='text-align:right;'><div align='left'>&nbsp;</div></td> </tr>";
+				echo "<tr><td id='ueber3'><div>&nbsp;&nbsp;&nbsp;&nbsp;<strong>** " . $jugend . "-Jugend:</strong></div></td></tr>";
+				$b = 1;	
+			}
+			echo "<tr>";
+			echo "<td id='contentfont' style= 'text-align:left; padding-left:50px;'> " .
+			$home . " vs. " . $guest . "&nbsp;&nbsp;&nbsp;" . $goalsHome . ":" . 		
+			$goalsGuest . "&nbsp;&nbsp;(" . $goalsHomeHT . ":" . $goalsGuestHT . ") &nbsp;" . $extra . "<br/><span class='Stil20'><em>Torsch&uuml;tzen: " . 
+			$goalgetters . "</em></span></td></tr>";
+		}	
+		
+		// C-Jugend
+		if ($jugend == "C"){
+			if ($c == 0){
+				echo "<tr><td id='contentfont' style='text-align:right;'><div align='left'>&nbsp;</div></td> </tr>";
+				echo "<tr><td id='ueber3'><div>&nbsp;&nbsp;&nbsp;&nbsp;<strong>** " . $jugend . "-Jugend:</strong></div></td></tr>";
+				$c = 1;	
+			}
+			echo "<tr>";
+			echo "<td id='contentfont' style= 'text-align:left; padding-left:50px;'> " .
+			$home . " vs. " . $guest . "&nbsp;&nbsp;&nbsp;" . $goalsHome . ":" . 		
+			$goalsGuest . "&nbsp;&nbsp;(" . $goalsHomeHT . ":" . $goalsGuestHT . ") &nbsp;" . $extra . "<br/><span class='Stil20'><em>Torsch&uuml;tzen: " . 
+			$goalgetters . "</em></span></td></tr>";
+		}	
+		
+		// D-Jugend
+		if ($jugend == "D"){
+			if ($d == 0){
+				echo "<tr><td id='contentfont' style='text-align:right;'><div align='left'>&nbsp;</div></td> </tr>";
+				echo "<tr><td id='ueber3'><div>&nbsp;&nbsp;&nbsp;&nbsp;<strong>** " . $jugend . "-Jugend:</strong></div></td></tr>";
+				$d = 1;	
+			}
+			echo "<tr>";
+			echo "<td id='contentfont' style= 'text-align:left; padding-left:50px;'> " .
+			$home . " vs. " . $guest . "&nbsp;&nbsp;&nbsp;" . $goalsHome . ":" . 		
+			$goalsGuest . "&nbsp;&nbsp;(" . $goalsHomeHT . ":" . $goalsGuestHT . ") &nbsp;" . $extra . "<br/><span class='Stil20'><em>Torsch&uuml;tzen: " . 
+			$goalgetters . "</em></span></td></tr>";
+		}	
+		
+		// E-Jugend
+		if ($jugend == "E"){
+			if ($e == 0){
+				echo "<tr><td id='contentfont' style='text-align:right;'><div align='left'>&nbsp;</div></td> </tr>";
+				echo "<tr><td id='ueber3'><div>&nbsp;&nbsp;&nbsp;&nbsp;<strong>** " . $jugend . "-Jugend:</strong></div></td></tr>";
+				$e = 1;	
+			}
+			echo "<tr>";
+			echo "<td id='contentfont' style= 'text-align:left; padding-left:50px;'> " .
+			$home . " vs. " . $guest . "&nbsp;&nbsp;&nbsp;" . $goalsHome . ":" . 		
+			$goalsGuest . "&nbsp;&nbsp;(" . $goalsHomeHT . ":" . $goalsGuestHT . ") &nbsp;" . $extra . "<br/><span class='Stil20'><em>Torsch&uuml;tzen: " . 
+			$goalgetters . "</em></span></td></tr>";
+		}	
+		
+		// F-Jugend
+		if ($jugend == "F"){
+			if ($f == 0){
+				echo "<tr><td id='contentfont' style='text-align:right;'><div align='left'>&nbsp;</div></td> </tr>";
+				echo "<tr><td id='ueber3'><div>&nbsp;&nbsp;&nbsp;&nbsp;<strong>** " . $jugend . "-Jugend:</strong></div></td></tr>";
+				$f = 1;	
+			}
+			echo "<tr>";
+			echo "<td id='contentfont' style= 'text-align:left; padding-left:50px;'> " .
+			$home . " vs. " . $guest . "&nbsp;&nbsp;&nbsp;" . $goalsHome . ":" . 		
+			$goalsGuest . "&nbsp;&nbsp;(" . $goalsHomeHT . ":" . $goalsGuestHT . ") &nbsp;" . $extra . "<br/><span class='Stil20'><em>Torsch&uuml;tzen: " . 
+			$goalgetters . "</em></span></td></tr>";
+		}	
+		
+	}	
+}
+else
+{
+    // Es konnte keine Datenbankverbindung aufgebaut werden
+    echo 'Die Datenbank konnte nicht erreicht werden. Folgender Fehler trat auf: <strong>' .mysqli_connect_errno(). ' : ' .mysqli_connect_error(). '</strong>';
+}
+// Datenbankverbindung schliessen
+$db_link->close();
+
+	
+?>    
       
       <!-- <tr>                <td id="contentfont" style= "text-align:right;"><div align="left">Die Meisterschaftsrunden der Jugenden beginnen wieder im März 2015!</div></td>             </tr>
 -->
-  <!--	 <tr>
 
-        <td id="ueber3"><div>&nbsp;&nbsp;&nbsp;&nbsp;<strong>** A-Jugend:</strong></div></td>
 
-      </tr>
-	       <tr>
-
-        <td id="contentfont" style= "text-align:left; padding-left:50px;">SV Illingen - Spvgg Weil der Stadt&nbsp; 1:10 (0:5)<br/>
-   <span class="Stil20"><em>Torsch&uuml;tzen: Daniel Leicht</em></span></td>
-   </tr> 
-
- 
-   <tr>
-        <td id="contentfont"><div align="left">&nbsp;</div></td>
-      </tr> 
- -->
-      <!--
- <tr>
-        <td id="ueber3"><div>&nbsp;&nbsp;&nbsp;&nbsp;<strong>** B-Jugend:</strong></div></td>
-      </tr>
-        
-	        <tr>
-        <td id="contentfont" style= "text-align:left; padding-left:50px;">SV Illingen - Spvgg Renningen&nbsp;  3:0 (1:0)<br/>
-            <span class="Stil20"><em>Torsch&uuml;tzen: Nick Heckele, Nicolas Pyrtek, Marco Barbera</em></span></td>
-      </tr> 
-
- <tr>
-
-        <td id="contentfont"><div align="left">&nbsp;</div></td>
-
-      </tr> 
-
-<tr>
-
-                <td id="contentfont" style= "text-align:right;"><div align="left">&nbsp;</div></td>
-
-             </tr>
--->
       
-      <tr>                <td id="contentfont" style= "text-align:right;"><div align="left"><strong>Die Jugendmannschaften bereiten sich derzeit auf die anstehenden Aufgaben der kommenden Saison vor!</strong></div></td>             </tr> 
+      <tr>                <td id="contentfont" style= "text-align:center;"><div align="center"><strong>Die Jugendmannschaften starten am 19.09. in die Runde!</strong></div></td>             </tr> 
       
       <td id="contentfont" style= "text-align:right;"><div align="left"></div></td>
         
@@ -956,27 +1039,7 @@ while ($zeile = mysqli_fetch_array( $db_erg, MYSQL_ASSOC))
       </td>
   </tr>	
       
-      <!--<tr>
 
-      <td id="ueber2"><div><strong>*
-            Trainingsstarts:</strong>
-          </div></td>
-
-        </tr>
-
-<tr>
-	<td>
-		<table id="inner_table" width="550" class="profil" >
-			<tr>
-				<td width="120" id="contentfont6" style= "text-align:right;"><div align="left"><strong>A-Jugend</strong></div></td>
-				<td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>Dienstag</strong></div></td>
-				<td width="59" id="contentfont6" style= "text-align:right;"><div align="left"><strong>30.08.11</strong></div></td>
-				<td width="338" id="contentfont6" style= "text-align:right;"><div align="left"><strong>19.00Uhr</strong></div></td>
-			</tr>
-		</table>
-	</td>
-</tr>
--->
       
   <tr>
     <td id="ueber2"><div><strong>*
@@ -2749,6 +2812,12 @@ while ($zeile = mysqli_fetch_array( $db_erg, MYSQL_ASSOC))
                                         include("Profilbirol.php");
 
                                         break;
+										
+								case 160:
+
+                                        include("ProfilPatrickSchuele.php");
+
+                                        break;
 
 
 
@@ -2757,7 +2826,12 @@ while ($zeile = mysqli_fetch_array( $db_erg, MYSQL_ASSOC))
                                         include("ProfilHaefner.php");
 
                                         break;
+										
+								case 162:
 
+                                        include("ProfilSebastianSchuele.php");
+
+                                        break;
 
 
                                 case 163:
@@ -2783,9 +2857,33 @@ while ($zeile = mysqli_fetch_array( $db_erg, MYSQL_ASSOC))
                                         break;
 
 
-                                case 169:
+                                case 166:
+
+                                        include("ProfilAndreasKoeppl.php");
+
+                                        break;
+										
+								case 167:
+
+                                        include("ProfilKimBerberich.php");
+
+                                        break;
+										
+								case 168:
+
+                                        include("ProfilMarcoKlein.php");
+
+                                        break;
+										
+								case 169:
 
                                         include("ProfilScheuermann.php");
+
+                                        break;
+										
+								case 170:
+
+                                        include("ProfilFabianLehmann.php");
 
                                         break;
 
@@ -4616,9 +4714,13 @@ while ($zeile = mysqli_fetch_array( $db_erg, MYSQL_ASSOC))
 								case 220285040584:
                                         include("eingabe.php");
                                         break;
-
+										
 								case 2202850405841:
-                                        include("password_protect.php");
+                                        include("eingabeJugend.php");
+                                        break;
+										
+								case 2202850405842:
+                                        include("eingabeTorschuetzen.php");
                                         break;
 
 

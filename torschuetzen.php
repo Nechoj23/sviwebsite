@@ -20,27 +20,41 @@
     </tr>
     -->
   
-	<tr id="contentFont">       
-		<td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">3     
-	  Tore</font></p></td>     
-		<td width="424" id="contentFont"><font size="+1">Tobias H&auml;fner</font></td>    
-    </tr> 
-    <tr id="contentFont">       
-		<td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">3     
-	  Tore</font></p></td>     
-		<td width="424" id="contentFont"><font size="+1">Tim Scheuermann</font></td>    
-    </tr> 
-    <tr id="contentFont">       
-		<td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">2     
-	  Tore</font></p></td>     
-		<td width="424" id="contentFont"><font size="+1">Marcel Liebend&ouml;rfer</font></td>    
-    </tr> 
-    <tr id="contentFont">       
-		<td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">2     
-	  Tore</font></p></td>     
-		<td width="424" id="contentFont"><font size="+1">Marco Klein</font></td>    
-    </tr> 
-        <tr> 
+<?php
+    //turn off notice and deprecated reporting
+    error_reporting(E_ALL ^ ( E_NOTICE | E_DEPRECATED ));
+    $db_link = mysqli_connect('w00be8df.kasserver.com','d01f06ec','qwe123','d01f06ec');
+    
+    if (mysqli_connect_errno() == 0)
+    { 
+		 $query = "SELECT `index`, `name`, `tore` FROM `Torschuetzen1` ORDER BY `tore` DESC ";
+		
+		 $db_erg = $db_link->prepare( $query );
+		 $db_erg->execute();
+		 $db_erg->bind_result( $index, $name, $tore ); 
+	
+		while ($db_erg->fetch())
+		{ 
+			if ($tore > 1) $num = "Tore"; 
+			else $num = "Tor";
+			echo "<tr id='contentFont'><td width='120' align='right' id='contentFont'> <p align='right'><font size='+1'>".       $tore . " " . $num . "</font></p></td>" .      
+		"<td width='424' id='contentFont'><font size='+1'>" . $name . "</font></td></tr>" ;
+		}
+	}
+	else
+	{
+		// Es konnte keine Datenbankverbindung aufgebaut werden
+		echo 'Die Datenbank konnte nicht erreicht werden. Folgender Fehler trat auf: <strong>' .mysqli_connect_errno(). ' : ' .mysqli_connect_error(). '</strong>';
+	}
+	
+	// Datenbankverbindung schliessen
+	$db_link->close();
+?>
+
+    <tr> 
+      <td colspan="2">&nbsp;</td>
+    </tr>
+    <tr> 
       <td colspan="2">&nbsp;</td>
     </tr>
 
@@ -71,21 +85,36 @@
     </tr>
     -->
    
-	<tr id="contentFont"> 
-      <td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">2 
-      Tore</font></p></td>
-      <td width="424" id="contentFont"><font size="+1">Dennis Mantai</font></td>
-    </tr>
-    <tr id="contentFont"> 
-      <td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">1 
-      Tor</font></p></td>
-      <td width="424" id="contentFont"><font size="+1">Michali Gatsas</font></td>
-    </tr> 
-    <tr id="contentFont"> 
-      <td width="120" align="right" id="contentFont"> <p align="right"><font size="+1">1 
-      Tor</font></p></td>
-      <td width="424" id="contentFont"><font size="+1">Amir Ben Kahla</font></td>
-    </tr>  
+<?php
+    //turn off notice and deprecated reporting
+    error_reporting(E_ALL ^ ( E_NOTICE | E_DEPRECATED ));
+    $db_link = mysqli_connect('w00be8df.kasserver.com','d01f06ec','qwe123','d01f06ec');
+    
+    if (mysqli_connect_errno() == 0)
+    { 
+		 $query = "SELECT `index`, `name`, `tore` FROM `Torschuetzen2` ORDER BY `tore` DESC ";
+		
+		 $db_erg = $db_link->prepare( $query );
+		 $db_erg->execute();
+		 $db_erg->bind_result( $index, $name, $tore ); 
+	
+		while ($db_erg->fetch())
+		{ 
+			if ($tore > 1) $num = "Tore"; 
+			else $num = "Tor";
+			echo "<tr id='contentFont'><td width='120' align='right' id='contentFont'> <p align='right'><font size='+1'>".       $tore . " " . $num . "</font></p></td>" .      
+		"<td width='424' id='contentFont'><font size='+1'>" . $name . "</font></td></tr>" ;
+		}
+	}
+	else
+	{
+		// Es konnte keine Datenbankverbindung aufgebaut werden
+		echo 'Die Datenbank konnte nicht erreicht werden. Folgender Fehler trat auf: <strong>' .mysqli_connect_errno(). ' : ' .mysqli_connect_error(). '</strong>';
+	}
+	
+	// Datenbankverbindung schliessen
+	$db_link->close();
+?>
  
 
     <tr> 

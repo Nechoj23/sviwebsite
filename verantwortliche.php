@@ -218,8 +218,15 @@
         </tr>
 
 	<tr id="contentFont">
-      <td id="contentFont" width="166" align="left" valign="top">
-  		  <u>2. Jugendleiter:</u><br />
+          <td id="contentFont" width="166" align="left" valign="top"><u>2. Jugendleiter:</u></td>
+		  
+      <td id="contentFont" width="135" align="left" valign="top">&nbsp; </td>
+		  
+      <td id="contentFont" width="140" align="left" valign="top">&nbsp; </td>       
+        </tr>
+	<tr id="contentFont">
+      <td id="contentFont" width="166" align="right" valign="top">
+  		  <img src="bilder/abteilung/alex_k.jpg" width="75" height="100">
     </td>
           <td id="contentFont" width="135" align="left" valign="top">
 				  Alexander K&ouml;ppl</td>
@@ -227,8 +234,15 @@
 	  <a href="mailto:alex_steffi@arcor.de"><img src="MailSymbol2.jpg"border="0" alt=""></a>		  </td>
         </tr> 
         <tr id="contentFont">
-      <td id="contentFont" width="166" align="left" valign="top">
-  		  <u>3. Jugendleiter:</u><br />
+          <td id="contentFont" width="166" align="left" valign="top"><u>3. Jugendleiter:</u></td>
+		  
+      <td id="contentFont" width="135" align="left" valign="top">&nbsp; </td>
+		  
+      <td id="contentFont" width="140" align="left" valign="top">&nbsp; </td>       
+        </tr>
+        <tr id="contentFont">
+      <td id="contentFont" width="166" align="right" valign="top">
+  		  <img src="bilder/abteilung/charly_k.jpg" width="75" height="100">
     </td>
           <td id="contentFont" width="135" align="left" valign="top">
 		  Karl-Heinz W&ouml;hr</td>
@@ -317,7 +331,7 @@
         </tr>
         
         <tr id="contentFont">
-          <td id="contentFont" align="left" valign="top"><u>Schriftf&uuml;hrer &amp; Pressewart:</u></td>
+          <td id="contentFont" align="left" valign="top"><u>Schriftf&uuml;hrer  &amp; Mediendirektor:</u></td>
           
       <td id="contentFont" align="left" valign="top">&nbsp; </td>
           <td id="contentFont" align="left" valign="top">
@@ -325,13 +339,13 @@
         </tr>        
         <tr id="contentFont">
           
-<td id="contentFont" width="166" align="right" valign="top"><img src="bilder/abteilung/zico_k.jpg" width="75" height="100"> 
+<td id="contentFont" width="166" align="right" valign="top"><img src="bilder/abteilung/benny_k.jpg" width="75" height="100"> 
       </td>
     <td id="contentFont" align="left" valign="top">
-				  Marcel Schneider <br>
+				  Benjamin F&auml;rber<br>
           
-      <td id="contentFont" align="left" valign="top">0162-8982242<br>
-				  <a href="mailto:marcel.schneider@sv-illingen.de"><img src="MailSymbol2.jpg" border="0"></a>
+      <td id="contentFont" align="left" valign="top">0176-20533659<br>
+				  <a href="mailto:benjamin.faerber@googlemail.com"><img src="MailSymbol2.jpg" border="0"></a>
 		  </td>
         </tr>
 		
@@ -348,7 +362,8 @@
         </tr>        
         
 		<tr id="contentFont">
-          <td id="contentFont" align="left" valign="top"></td>  
+         <td id="contentFont" width="166" align="right" valign="top"><img src="bilder/abteilung/dummy_k.jpg" width="75" height="100"> 
+      </td>
      	 <td id="contentFont" align="left" valign="top"> Jochen Conradt </td>   
      	 <td id="contentFont" align="left" valign="top">0160-96210152<br>
 				  <a href="mailto:homepage@sv-illingen.de"><img src="MailSymbol2.jpg" border="0"></a></td>
