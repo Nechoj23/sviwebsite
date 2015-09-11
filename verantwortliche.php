@@ -94,7 +94,7 @@
 
         <tr align="center" valign="middle">
           <td height="50" colspan="3">
-  		  <hr width="100%" size="1px" noshade style="color:#cccccc; background-color:#CCCCCC;">		  </td>
+  		  <hr width="100%" size="1px" noshade style="color:#0066cc; background-color:#0066cc;">		  </td>
         </tr>
 
 <!--    
@@ -126,7 +126,7 @@
 
         <tr id="contentFont">
           
-      <td id="contentFont" width="166" align="left" valign="top"> <u>1. Spielleiter:</u> </td>
+      <td id="contentFont" width="166" align="left" valign="top"> <u>Spielleiter:</u> </td>
            <td id="contentFont" width="135" align="left" valign="top">
 				  unbesetzt</td>
       <td id="contentFont" width="135" align="left" valign="top">&nbsp; </td>
@@ -148,48 +148,11 @@
 		  <a href="mailto:ps.svi@web.de"><img src="MailSymbol2.jpg" width="15" height="10" border="0"></a></td> -->
         </tr>    
 
- <tr id="contentFont">
-          
-      <td id="contentFont" width="166" align="left" valign="top"> <u>2. Spielleiter:</u> </td>
-          
-      <td id="contentFont" width="135" align="left" valign="top">&nbsp; </td>
-          
-      <td id="contentFont" width="140" align="left" valign="top">&nbsp; </td>
-        </tr>
-		<tr id="contentFont">
-          
-      <td id="contentFont" width="166" align="right" valign="top"><img src="bilder/AktiveSpieler/matze_k.jpg" width="75" height="100"> 
-      </td>
-	  
-<td id="contentFont" width="135" align="left" valign="top">
-				  Matthias Spengler</td>
-          <td id="contentFont" width="140" align="left" valign="top">
-				  	0160-5407640 <br>
-		  <a href="mailto:	matthiasspengler@hotmail.de"><img src="MailSymbol2.jpg"border="0"></a></td>
-        </tr>   
-<tr id="contentFont">
-          
-      <td id="contentFont" width="166" align="left" valign="top"> <u>2. Spielleiter:</u> </td>
-          
-      <td id="contentFont" width="135" align="left" valign="top">&nbsp; </td>
-          
-      <td id="contentFont" width="140" align="left" valign="top">&nbsp; </td>
-        </tr>
-		<tr id="contentFont">
-          
-      <td id="contentFont" width="166" align="right" valign="top"><img src="bilder/AktiveSpieler/michaSp_k.jpg" width="75" height="100"> 
-      </td>
-	  
-<td id="contentFont" width="135" align="left" valign="top">
-				  Michael Spengler</td>
-          <td id="contentFont" width="140" align="left" valign="top">
-				  	0176-96465976  <br>
-		  <a href="mailto:michaelspengler1981@yahoo.de"><img src="MailSymbol2.jpg" border="0"></a></td>
-        </tr>  		
+ 
 
         <tr align="center" valign="middle">
           <td height="50" colspan="3">
-  		  <hr width="100%" size="1px" noshade style="color:#cccccc; background-color:#CCCCCC;">		  </td>
+  		  <hr width="100%" size="1px" noshade style="color:#0066cc; background-color:#0066cc;">		  </td>
         </tr>
 		<tr id="contentFont">
           <td id="contentFont" width="166" align="left" valign="top"><u>1. Jugendleiter:</u></td>
@@ -246,12 +209,12 @@
     </td>
           <td id="contentFont" width="135" align="left" valign="top">
 		  Karl-Heinz W&ouml;hr</td>
-         <td id="contentFont" width="140" align="left" valign="top">0151-10503855<br>
+         <td id="contentFont" width="140" align="left" valign="top">0151-59409215<br>
 		  <a href="mailto:khwoehr@web.de"><img src="MailSymbol2.jpg"border="0" alt=""></a>		  </td>
         </tr> 
      
         <tr>
-          <td height="50" colspan="3" align="center" valign="middle"><hr width="100%" size="1px" noshade style="color:#cccccc; background-color:#CCCCCC;"></td>
+          <td height="50" colspan="3" align="center" valign="middle"><hr width="100%" size="1px" noshade style="color:#0066cc; background-color:#0066cc;"></td>
         </tr>
 		
         <tr id="contentFont">
@@ -267,7 +230,7 @@
         </tr> -->
      
         <tr>
-          <td height="50" colspan="3" align="center" valign="middle"><hr width="100%" size="1px" noshade style="color:#cccccc; background-color:#CCCCCC;"></td>
+          <td height="50" colspan="3" align="center" valign="middle"><hr width="100%" size="1px" noshade style="color:#0066cc; background-color:#CCCCCC;"></td>
         </tr>
 		
 		
@@ -327,7 +290,7 @@
         </tr>
 		
         <tr align="center" valign="middle">
-          <td height="50" colspan="3"><hr width="100%" size="1px" noshade style="color:#cccccc; background-color:#CCCCCC;"></td>
+          <td height="50" colspan="3"><hr width="100%" size="1px" noshade style="color:#0066cc; background-color:#CCCCCC;"></td>
         </tr>
         
         <tr id="contentFont">
@@ -350,7 +313,7 @@
         </tr>
 		
         <tr>
-          <td height="50" colspan="3" align="center" valign="middle"><hr width="100%" size="1px" noshade style="color:#cccccc; background-color:#CCCCCC;"></td>
+          <td height="50" colspan="3" align="center" valign="middle"><hr width="100%" size="1px" noshade style="color:#0066cc; background-color:#CCCCCC;"></td>
         </tr>
         
          <tr id="contentFont">

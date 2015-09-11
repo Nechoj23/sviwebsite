@@ -48,7 +48,7 @@
       <p> Charly Wöhr<br>
          
       
-          Handy: 0151-10503855<br>
+          Handy: 0151-59409215<br>
            E-Mail: <a href="mailto:khwoehr@web.de">khwoehr@web.de</a> </p>
         			
         <p> Adolf Sattler<br>
