@@ -592,11 +592,25 @@ if ($zeile['home'] != "")
 
     </tr> -->
       
-      
+   <tr>
+	<td id="contentfont" style= "text-align:left;"> 
+    	<div align="left"><img src="bilder/svi_mini.jpg"> <strong>Wir gratulieren F&auml;rbers herzlichst zur Hochzeit !!!</strong><br>
+            <p>
+                <div align="right">
+                  <a href="bilder/hochzeit_faerbers_g.jpg"><img src="bilder/hochzeit_faerbers.jpg" width="550"></a>
+                </div>
+            </p>
+            <p>
+    Wir m&ouml;chten unserem Torwart, Kapit&auml;n der 2. Mannschaft und Mediendirektor Benjamin F&auml;rber nachtr&auml;glich noch zu der Verm&auml;hlung mit seiner Lena gratulieren. Wir w&uuml;nschen beiden eine lange, sch&ouml;ne, harmonische und aufregende gemeinsame Zeit.<br>
+    Und freuen uns immer auch die Spielerfrau im Eichwaldpark begr&uuml;&szlig;en zu d&uuml;rfen.</p>
+        </div>
+	</td>
+</tr>   
   <tr>
     <td id="contentfont" style= "text-align:left;"> 
       <div align="left"><img src="bilder/svi_mini.jpg"> <strong>Die Jugend startet in die Saison 2015/16</strong><br>
-        <p> Am kommenden Samstag beginnt  f&uuml;r unsere Jugend  die neue Saison. Den Auftakt macht die C-Jugend zuhause mit der 1. Pokalrunde gegen die SGM Merklingen I, bevor am Sonntag, den 13.09. die B-Jugend ebenfalls im Pokal den GSV Pleidelsheim I empf&auml;ngt. Am n&auml;chsten Wochenende (19./20.09.) folgen alle Jugenden mit dem Ligastart in die Saison 2015/16.<br><br>
+        <p> Am kommenden Wochenende (19./20.09.) beginnt f&uuml;r alle Jugenden der Ligabetrieb der neuen Saison 2015/16.<br>
+        Den Auftakt machten bereits die C- und B-Junioren mit ihren Pokalspielen, wobei die B-Jugend die n&auml;chste Runde mit einem  1:0-Erfolg &uuml;ber den GSV Pleidelsheim 1 erreichen konnte, w&auml;hrend die C-Jugend mit einem knappen 3:4 an der SGM Merklingen 1 scheiterte.<br><br>
         Ergebnisse und die Vorschau auf  kommende Spiele werden weiter unten auf dieser Seite aufgef&uuml;hrt.<br>
         <br>
         Alle Infos zu den einzelnen Jugenden finden Sie <a href="index.php?id=31"><em>hier</em></a>.<br>
@@ -607,26 +621,9 @@ if ($zeile['home'] != "")
   </tr>
       
       
-  <!--
-<tr>
-	<td id="contentfont" style= "text-align:left;"> 
-    	<div align="left"><img src="bilder/svi_mini.jpg"> <strong>+++ Saisonvorbereitung abgeschlossen: Es kann losgehen! +++</strong><br>
-            <p>
-                <div align="right">
-                    <a href="bilder/2015_ErsteMannschaft.jpg"><img src="bilder/2015_ErsteMannschaft_k.jpg" width="550"></a><br>Foto: Bernd Leitner
-                </div>
-            </p>
-            <p>
-    Der SV Illingen hat unter seinem neuen Trainer Bernd Vollmer die Vorbereitung auf die neue Saison in der Kreisliga A3 Enz/Murr erfolgreich abgeschlossen und fiebert dem Rundenbeginn entgegen.
-    
-    Nach einer 2:3-Niederlage gegen des SV Gebersheim (Kreisliga A) zum Start der Vorbereitung, bezwangen die Blauen den TSV Heimerdingen II (Kreisliga A) mit 2:0. Auch gegen die Spvgg Hirschlanden-Schöckingen (Kreisliga B) behielt die Vollmer-Elf mit 3:2 die Oberhand; zum Abschluss erkämpfte sich der SVI noch ein achtbares 3:3 gegen den Bezirksliga-Aufsteiger aus Flacht.
-    
-    Jetzt gilt es, in den verbleibenden Trainingseinheiten am letzten Feinschliff zu arbeiten, um dann einen erfolgreichen Start in die neue Saison zu feiern. Los geht es am Sonntag, den 23. August um 15 Uhr mit dem Auswärtsspiel beim VfR Sersheim. Die Mannschaft freut sich wie immer auf zahlreiche Unterstützung!
-            </p>
-        </div>
-	</td>
-</tr>
--->
+  
+
+
       
       <tr>
         
@@ -1027,8 +1024,9 @@ $db_link->close();
 -->
 
 
-      
+   <!--
       <tr>                <td id="contentfont" style= "text-align:center;"><div align="center"><strong>Die Jugendmannschaften starten am 19.09. in die Runde!</strong></div></td>             </tr> 
+      -->
       
       <td id="contentfont" style= "text-align:right;"><div align="left"></div></td>
         
