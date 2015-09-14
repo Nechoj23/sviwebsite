@@ -31,11 +31,7 @@
               E-Mail:  <a href="mailto:wolfganglenz@arcor.de">wolfganglenz@arcor.de</a>
             </p>			 
             <p> Patrick Thal</p>
-			<p> Nando Corrado<br />
-            E-Mail:  <a href="mailto:nc.svi@web.de">nc.svi@web.de</a>
-            <a href="mailto:wolfganglenz@arcor.de"></a></p>
-			<p>Kai Boppenmaier<br />
-            E-Mail:  <a href="mailto:c.boppenmaier@web.de">c.boppenmaier@web.de</a></p>
+			
 <p>&nbsp;</p>
 		  </td>
         </tr>

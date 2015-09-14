@@ -605,7 +605,18 @@ if ($zeile['home'] != "")
     Und freuen uns immer auch die Spielerfrau im Eichwaldpark begr&uuml;&szlig;en zu d&uuml;rfen.</p>
         </div>
 	</td>
-</tr>   
+</tr>  
+<tr>
+    <td id="contentfont" style= "text-align:left;"> 
+      <div align="left"><img src="bilder/svi_mini.jpg"> <strong>D-Jugendtrainer gesucht!</strong><br>
+        <p>Wir suchen f&uuml;r das Trainerteam unserer <strong>D-Jugend</strong> noch <strong>Unterst&uuml;tzung</strong>!<br>Bitte nehmen Sie bei Interesse Kontakt mit unseren Jugendleitern auf:<br>
+          <br>
+        Edgar Mantai (0157-50103531) <a href="mailto:edgar.mantai@t-online.de">edgar.mantai@t-online.de</a><br>
+        Alexander K&ouml;ppl (0171-3672714) <a href="mailto:alex_steffi@arcor.de">alex_steffi@arcor.de</a><br>
+        Karl-Heinz W&ouml;hr (0151-59409215) <a href="mailto:khwoehr@web.de">khwoehr@web.de</a>       </p>
+      </div>
+      </td>
+  </tr> 
   <tr>
     <td id="contentfont" style= "text-align:left;"> 
       <div align="left"><img src="bilder/svi_mini.jpg"> <strong>Die Jugend startet in die Saison 2015/16</strong><br>
@@ -619,10 +630,6 @@ if ($zeile['home'] != "")
       </div>
       </td>
   </tr>
-      
-      
-  
-
 
       
       <tr>
