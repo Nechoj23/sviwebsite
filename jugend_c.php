@@ -312,6 +312,7 @@
             </tr> 
             <tr>
           <td id="contentFont" align="left"><a href="index.php?id=32"><img src="bilder/pfeil_links.png" width="20" height="20" alt="arrow"/> B-Jugend</a></td>
+          
           <td id="contentFont" align="right"><a href="index.php?id=34">D-Jugend <img src="bilder/pfeil_rechts.png" width="20" height="20" alt="arrow"/></a></td>
         </tr>	
          

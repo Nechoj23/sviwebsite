@@ -1,7 +1,3 @@
-<!-- <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
-
-"http://www.w3.org/TR/html4/loose.dtd"> -->
-
 <?php
         $id=$_GET['id'];
 ?>
@@ -416,9 +412,9 @@ function MM_showHideLayers() { //v3.0
 
 <tr>
 
-  <?php
-   include("head.php");
-          ?>
+<?php
+   	include("head.php");
+?>
 
 </tr>
 
@@ -435,10 +431,8 @@ function MM_showHideLayers() { //v3.0
 <tr>
 
   <?php
-
-                include("navi_left.php");
-
-          ?>
+  	include("navi_left.php");
+  ?>
 
   <!-- NAVIGATION ENDE -->
 
@@ -4715,9 +4709,10 @@ while ($zeile = mysqli_fetch_array( $db_erg, MYSQL_ASSOC))
                                         include("test.php");
                                         break;
 										
-										
+								/*		
 								case 220285040584:
                                         include("eingabe.php");
+										//include("login.html");
                                         break;
 										
 								case 2202850405841:
@@ -4727,8 +4722,8 @@ while ($zeile = mysqli_fetch_array( $db_erg, MYSQL_ASSOC))
 								case 2202850405842:
                                         include("eingabeTorschuetzen.php");
                                         break;
-
-
+								*/
+	
                                 case 91:
 
                                         include("clubheim.php");
